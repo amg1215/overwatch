@@ -1482,12 +1482,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5115&limit=100",
       "stock": "n/a"
     },
-    "9425": {
-      "name": "Kose Precious Garden",
-      "price": "$4.79",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9425&limit=100",
-      "stock": "n/a"
-    },
     "9426": {
       "name": "Kose Precious Garden",
       "price": "$4.79",
@@ -1522,12 +1516,6 @@
       "name": "Sunstar Ora2 Mouth S",
       "price": "$2.23",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10106&limit=100",
-      "stock": "n/a"
-    },
-    "9895": {
-      "name": "Sunstar Ora2 Mouth S",
-      "price": "$2.23",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9895&limit=100",
       "stock": "n/a"
     },
     "10109": {
@@ -2040,12 +2028,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29580&limit=100",
       "stock": "n/a"
     },
-    "12980": {
-      "name": "Bandai Mobile Phone",
-      "price": "$13.17",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12980&limit=100",
-      "stock": "n/a"
-    },
     "16116": {
       "name": "Nakajima SLO Plush T",
       "price": "$14.99",
@@ -2226,12 +2208,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50396&limit=100",
       "stock": "n/a"
     },
-    "50858": {
-      "name": "Taito Toradora Deskt",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50858&limit=100",
-      "stock": "n/a"
-    },
     "29847": {
       "name": "Megahouse One Piece",
       "price": "$31.79",
@@ -2268,12 +2244,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29862&limit=100",
       "stock": "n/a"
     },
-    "50232": {
-      "name": "BANDAI SPIRITS To LO",
-      "price": "$23.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50232&limit=100",
-      "stock": "n/a"
-    },
     "50401": {
       "name": "BANDAI SPIRITS ONEpc",
       "price": "$27.59",
@@ -2302,12 +2272,6 @@
       "name": "Nonzero Studio 1/100",
       "price": "$40.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20632&limit=100",
-      "stock": "n/a"
-    },
-    "50246": {
-      "name": "KONAMI Arcade Games",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50246&limit=100",
       "stock": "n/a"
     },
     "1703": {
@@ -3150,12 +3114,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29731&limit=100",
       "stock": "n/a"
     },
-    "19971": {
-      "name": "Meiji Yan Yan Strawb",
-      "price": "$1.16",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19971&limit=100",
-      "stock": "n/a"
-    },
     "17775": {
       "name": "Mondelez Oreo Sandwi",
       "price": "$1.93",
@@ -3614,6 +3572,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-08-30T19:22:28",
-  "last_count": 602
+  "last_run": "2026-08-30T21:55:57",
+  "last_count": 595
 }
