@@ -1,8 +1,10 @@
 """Ebisu Store new-arrivals monitor.
 
 Logs into the OpenCart storefront, scrapes the New Arrivals category
-(path=148), compares against previously-seen products in state.json,
+(path=148), compares against LAST RUN's snapshot (not a permanent history),
 and alerts via email (Gmail SMTP) + ntfy.sh push when new products appear.
+Because comparison is against last run only, restocked items that
+disappeared and came back will alert again.
 
 First run saves a baseline without alerting. Login/parse failures alert
 once (not every run) via an error flag persisted in state.json.
@@ -46,7 +48,6 @@ logging.basicConfig(
     format="%(asctime)s %(levelname)s %(message)s",
 )
 log = logging.getLogger("monitor")
-# Also echo to console when run by hand.
 if sys.stdout and sys.stdout.isatty():
     log.addHandler(logging.StreamHandler(sys.stdout))
 
@@ -114,7 +115,6 @@ def alert(subject, body):
 
 
 def alert_error_once(state, message):
-    """Alert about an operational error only once per distinct error."""
     log.error(message)
     if state.get("error_alerted") != message:
         alert("Ebisu monitor problem", message + "\n\nYou will not be re-alerted until the monitor recovers.")
@@ -131,21 +131,29 @@ class LoginError(Exception):
 
 
 def login(session):
-    resp = session.post(
-        LOGIN_URL,
-        data={"email": SUPPLIER_EMAIL, "password": SUPPLIER_PASSWORD},
-        timeout=60,
-    )
+    # IMPORTANT: GET the login page first so the session picks up its
+    # cookie (and any hidden CSRF token OpenCart may render into the form)
+    # before we POST credentials. Posting cold, without this GET, can
+    # produce a session the server treats as unauthenticated even though
+    # the POST itself returns 200 - the previous version of this script
+    # skipped this step, which is a likely cause of missed/inaccurate runs.
+    get_resp = session.get(LOGIN_URL, timeout=60)
+    get_resp.raise_for_status()
+
+    form_data = {"email": SUPPLIER_EMAIL, "password": SUPPLIER_PASSWORD}
+    soup = BeautifulSoup(get_resp.text, "html.parser")
+    token_field = soup.select_one('input[name="user_token"], input[name="csrf_token"]')
+    if token_field and token_field.get("value"):
+        form_data[token_field["name"]] = token_field["value"]
+
+    resp = session.post(LOGIN_URL, data=form_data, timeout=60)
     resp.raise_for_status()
-    # Successful OpenCart login redirects to the account page and the
-    # session gains a logout link; a failed login re-renders the form.
     if "route=account/login" in resp.url and 'name="password"' in resp.text:
         raise LoginError("Login rejected (still on login form). Check SUPPLIER_EMAIL / SUPPLIER_PASSWORD in .env.")
     return resp
 
 
 def clean_price(text):
-    # e.g. "$12.50" / "$12.50 Ex Tax: $11.00" -> first price token
     m = re.search(r"[\$€£¥]?\s?\d[\d,]*\.?\d*", text)
     return m.group(0).strip() if m else text.strip()
 
@@ -154,10 +162,6 @@ def parse_products(html, page_url):
     soup = BeautifulSoup(html, "html.parser")
     products = []
 
-    # This supplier's OpenCart theme wraps each card in
-    # .product-layout > .product-thumb, with a .caption block holding the
-    # name link and price; there's an outer <a> around the thumbnail image
-    # too, so we must anchor on .caption specifically to get the named link.
     cards = soup.select(".product-layout")
     seen_links = set()
     for card in cards:
@@ -176,10 +180,6 @@ def parse_products(html, page_url):
         price_el = (caption.select_one("p.price") if caption else None) or card.select_one(".price-new, .price")
         price = clean_price(price_el.get_text(" ", strip=True)) if price_el else "n/a"
 
-        # This theme's category listing has no stock/availability markup at
-        # all (verified against the live page); every card just shows a
-        # quantity selector and add-to-cart button. Report "n/a" rather than
-        # fabricate a status - stock changes just won't be tracked here.
         stock_el = card.select_one(".stock, .out-of-stock, .stock-status, .availability")
         if stock_el:
             stock = stock_el.get_text(strip=True)
@@ -191,7 +191,6 @@ def parse_products(html, page_url):
         products.append({"name": name, "price": price, "link": link, "stock": stock})
 
     if not products:
-        # Distinguish "empty category" from "layout changed / not logged in".
         page_text = soup.get_text(" ", strip=True).lower()
         if "there are no products" in page_text or "no products to list" in page_text:
             return []
@@ -224,7 +223,6 @@ def fetch_all_products(session):
             raise LoginError("Category page redirected to login; session not authenticated.")
         products.extend(parse_products(resp.text, url))
         url = next_page_url(resp.text, url)
-    # De-duplicate across pages by link.
     unique = {}
     for p in products:
         unique[p["link"]] = p
@@ -232,8 +230,6 @@ def fetch_all_products(session):
 
 
 def product_key(p):
-    # Use the product_id from the URL when present so tracking survives
-    # URL cosmetic changes; fall back to the full link.
     m = re.search(r"product_id=(\d+)", p["link"])
     return m.group(1) if m else p["link"]
 
@@ -280,15 +276,17 @@ def main():
         alert_error_once(state, str(e))
         return 1
     except requests.RequestException as e:
-        # Transient network problems: log but never alert.
         log.warning("Network error, will retry next run: %s", e)
         return 1
 
-    # Recovered from a previously-alerted error state.
     if state.get("error_alerted"):
         log.info("Monitor recovered; clearing error flag")
         state["error_alerted"] = False
 
+    # --- restock-aware diff: compare against LAST RUN's snapshot only ---
+    # (not an ever-growing "seen it once" set). If a product disappears
+    # and later comes back - a restock - it is absent from `known` at
+    # that point and will alert again, same as a brand-new product.
     known = state["products"]
     current = {product_key(p): p for p in products}
     new_keys = [k for k in current if k not in known]
@@ -298,22 +296,20 @@ def main():
         log.info("First run: baseline saved with %d products (no alert)", len(current))
     elif new_keys:
         new_products = [current[k] for k in new_keys]
-        log.info("NEW products detected: %d", len(new_products))
+        log.info("NEW/RESTOCKED products detected: %d", len(new_products))
         for p in new_products:
             log.info("  NEW: %s | %s | %s | %s", p["name"], p["price"], p["stock"], p["link"])
-        subject = f"Ebisu: {len(new_products)} new arrival{'s' if len(new_products) > 1 else ''}!"
+        subject = f"Ebisu: {len(new_products)} new/restocked item{'s' if len(new_products) > 1 else ''}!"
         alert(subject, format_new_products(new_products) + f"\n\nCategory: {CATEGORY_URL}")
     else:
         log.info("No new products (%d tracked)", len(current))
 
-    # Keep previously-seen products in state even if they leave the page,
-    # so items cycling off page one don't re-alert later.
-    known.update(current)
+    # Replace (not merge) - this is what makes restock detection possible.
+    state["products"] = current
     state["last_run"] = datetime.now().isoformat(timespec="seconds")
     state["last_count"] = len(current)
     save_state(state)
 
-    # Print the current list when run interactively.
     if sys.stdout and sys.stdout.isatty():
         print(f"\n{len(current)} products on the New Arrivals page:")
         for p in current.values():
