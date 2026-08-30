@@ -1,3 +1,6 @@
 2026-08-30 16:32:04,810 INFO === Run started ===
 2026-08-30 16:32:15,046 INFO First run: baseline saved with 603 products (no alert)
 2026-08-30 16:32:15,050 INFO === Run finished ===
+2026-08-30 19:22:15,726 INFO === Run started ===
+2026-08-30 19:22:28,845 INFO No new products (602 tracked)
+2026-08-30 19:22:28,848 INFO === Run finished ===

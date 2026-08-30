@@ -3264,12 +3264,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13786&limit=100",
       "stock": "n/a"
     },
-    "14566": {
-      "name": "Glico Pocky Biscuit",
-      "price": "$1.65",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14566&limit=100",
-      "stock": "n/a"
-    },
     "24902": {
       "name": "LOTTE Pepero Chocola",
       "price": "$1.35",
@@ -3620,6 +3614,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-08-30T16:32:15",
-  "last_count": 603
+  "last_run": "2026-08-30T19:22:28",
+  "last_count": 602
 }
