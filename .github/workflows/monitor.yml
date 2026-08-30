@@ -1,39 +1,43 @@
-name: Ebisu new-arrivals monitor
+name: Ebisu New Arrivals Monitor
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
-  workflow_dispatch: {}
+    # ---- FAST WINDOW: every minute, 9am-9pm EDT (UTC-4) = 13:00-00:59 UTC ----
+    # NOTE: cron here is in UTC and does NOT auto-adjust for US Daylight
+    # Saving Time. EDT (summer, UTC-4) is what's in effect right now.
+    # In winter EST (UTC-5) is in effect - shift every hour below back by
+    # 1 hour (e.g. 13:00 UTC becomes 14:00 UTC) around early Nov / mid Mar,
+    # or ask to have this regenerated for the other half of the year.
+    - cron: '* 13-23 * * *'
+    - cron: '* 0 * * *'
+    # ---- SLOW WINDOW: every 10 minutes, the remaining hours (9pm-9am EDT) ----
+    - cron: '*/10 1-12 * * *'
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
 
+# Only one run at a time; if a run is still going when the next tick fires,
+# skip the new one instead of piling up overlapping scrapes.
 concurrency:
   group: ebisu-monitor
   cancel-in-progress: false
 
+permissions:
+  contents: write   # needed to commit the updated state.json back to the repo
+
 jobs:
-  check:
+  monitor:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
+      - name: Check out repo
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: '3.12'
 
-      - run: pip install -r requirements.txt
-
-      # state.json/monitor.log hold data scraped from a login-gated
-      # supplier account, so they are kept out of git entirely (see
-      # .gitignore) and persisted only in GitHub's private Actions cache,
-      # scoped to this repo.
-      - name: Restore previous state
-        uses: actions/cache/restore@v4
-        with:
-          path: |
-            state.json
-            monitor.log
-          key: ebisu-monitor-state-${{ github.run_id }}
-          restore-keys: |
-            ebisu-monitor-state-
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
       - name: Run monitor
         env:
@@ -45,17 +49,10 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python monitor.py
 
-      - name: Trim log
-        if: always()
+      - name: Commit updated state.json
         run: |
-          [ -f monitor.log ] && tail -n 2000 monitor.log > monitor.log.tmp && mv monitor.log.tmp monitor.log || true
-
-      - name: Save state for next run
-        if: always()
-        uses: actions/cache/save@v4
-        with:
-          path: |
-            state.json
-            monitor.log
-          key: ebisu-monitor-state-${{ github.run_id }}
-
+          git config user.name "ebisu-monitor-bot"
+          git config user.email "actions@github.com"
+          git add state.json monitor.log
+          git diff --staged --quiet || git commit -m "Update monitor state [skip ci]"
+          git push
