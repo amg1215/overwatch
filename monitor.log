@@ -22,3 +22,14 @@
 2026-08-31 19:19:46,294 INFO === Run started ===
 2026-08-31 19:19:52,790 INFO No new products (308 tracked)
 2026-08-31 19:19:52,792 INFO === Run finished ===
+2026-08-31 23:14:51,083 INFO === Run started ===
+2026-08-31 23:14:56,801 INFO NEW/RESTOCKED products detected: 6
+2026-08-31 23:14:56,801 INFO   NEW: Coca-Cola Qoo Jelly | $2.18 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=287&limit=100
+2026-08-31 23:14:56,801 INFO   NEW: Asahi Rich Black Cof | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10918&limit=100
+2026-08-31 23:14:56,801 INFO   NEW: Suntory Big Zero Pep | $1.56 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25073&limit=100
+2026-08-31 23:14:56,801 INFO   NEW: Sangaria Natural Wat | $1.10 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3152&limit=100
+2026-08-31 23:14:56,801 INFO   NEW: Hata Soda Grapefruit | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25720&limit=100
+2026-08-31 23:14:56,801 INFO   NEW: Kirin Afternoon Stra | $1.57 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18797&limit=100
+2026-08-31 23:14:59,048 INFO Email sent: Ebisu: 6 new/restocked items!
+2026-08-31 23:14:59,246 INFO ntfy push sent: Ebisu: 6 new/restocked items!
+2026-08-31 23:14:59,248 INFO === Run finished ===

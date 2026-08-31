@@ -1140,12 +1140,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29582&limit=100",
       "stock": "n/a"
     },
-    "50396": {
-      "name": "Taito To LOVE-Ru Dar",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50396&limit=100",
-      "stock": "n/a"
-    },
     "50401": {
       "name": "BANDAI SPIRITS ONEpc",
       "price": "$27.59",
@@ -1530,6 +1524,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27021&limit=100",
       "stock": "n/a"
     },
+    "287": {
+      "name": "Coca-Cola Qoo Jelly",
+      "price": "$2.18",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=287&limit=100",
+      "stock": "n/a"
+    },
     "26091": {
       "name": "Orion Choco Pie Stra",
       "price": "$4.39",
@@ -1642,6 +1642,36 @@
       "name": "LOTTE Pepero Crunchy",
       "price": "$1.35",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24901&limit=100",
+      "stock": "n/a"
+    },
+    "10918": {
+      "name": "Asahi Rich Black Cof",
+      "price": "$1.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10918&limit=100",
+      "stock": "n/a"
+    },
+    "25073": {
+      "name": "Suntory Big Zero Pep",
+      "price": "$1.56",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25073&limit=100",
+      "stock": "n/a"
+    },
+    "3152": {
+      "name": "Sangaria Natural Wat",
+      "price": "$1.10",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3152&limit=100",
+      "stock": "n/a"
+    },
+    "25720": {
+      "name": "Hata Soda Grapefruit",
+      "price": "$1.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25720&limit=100",
+      "stock": "n/a"
+    },
+    "18797": {
+      "name": "Kirin Afternoon Stra",
+      "price": "$1.57",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18797&limit=100",
       "stock": "n/a"
     },
     "29725": {
@@ -1850,6 +1880,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-08-31T19:19:52",
-  "last_count": 308
+  "last_run": "2026-08-31T23:14:59",
+  "last_count": 313
 }
