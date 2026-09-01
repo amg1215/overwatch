@@ -360,12 +360,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21372&limit=100",
       "stock": "n/a"
     },
-    "21373": {
-      "name": "MilleFée Dewy Fit Gl",
-      "price": "$11.03",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21373&limit=100",
-      "stock": "n/a"
-    },
     "21374": {
       "name": "MilleFée Dewy Fit Gl",
       "price": "$11.03",
@@ -528,12 +522,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21365&limit=100",
       "stock": "n/a"
     },
-    "17346": {
-      "name": "MilleFée My Kitty Ey",
-      "price": "$11.69",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17346&limit=100",
-      "stock": "n/a"
-    },
     "21361": {
       "name": "MilleFée Under Eye G",
       "price": "$10.39",
@@ -594,12 +582,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17356&limit=100",
       "stock": "n/a"
     },
-    "21353": {
-      "name": "MilleFée Shape Magic",
-      "price": "$9.09",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21353&limit=100",
-      "stock": "n/a"
-    },
     "21354": {
       "name": "MilleFée Shape Magic",
       "price": "$9.09",
@@ -640,12 +622,6 @@
       "name": "MilleFée Perfect Con",
       "price": "$13.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21352&limit=100",
-      "stock": "n/a"
-    },
-    "21366": {
-      "name": "MilleFée Shake Drop",
-      "price": "$11.03",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21366&limit=100",
       "stock": "n/a"
     },
     "21367": {
@@ -724,18 +700,6 @@
       "name": "Maison de MilleFée P",
       "price": "$8.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51091&limit=100",
-      "stock": "n/a"
-    },
-    "51092": {
-      "name": "Maison de MilleFée P",
-      "price": "$8.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51092&limit=100",
-      "stock": "n/a"
-    },
-    "51093": {
-      "name": "Maison de MilleFée P",
-      "price": "$8.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51093&limit=100",
       "stock": "n/a"
     },
     "22346": {
@@ -1440,6 +1404,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19932&limit=100",
       "stock": "n/a"
     },
+    "15762": {
+      "name": "Ezaki Glico Strawber",
+      "price": "$1.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15762&limit=100",
+      "stock": "n/a"
+    },
     "19987": {
       "name": "UHA Long Sakeru Stri",
       "price": "$0.89",
@@ -1476,6 +1446,36 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25749&limit=100",
       "stock": "n/a"
     },
+    "31104": {
+      "name": "WantWant Seriously!",
+      "price": "$1.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31104&limit=100",
+      "stock": "n/a"
+    },
+    "31103": {
+      "name": "WantWant Seriously!",
+      "price": "$1.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31103&limit=100",
+      "stock": "n/a"
+    },
+    "31102": {
+      "name": "WantWant Seriously!",
+      "price": "$1.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31102&limit=100",
+      "stock": "n/a"
+    },
+    "31105": {
+      "name": "WantWant Seriously!",
+      "price": "$2.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31105&limit=100",
+      "stock": "n/a"
+    },
+    "31099": {
+      "name": "WantWant Sour Operat",
+      "price": "$1.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31099&limit=100",
+      "stock": "n/a"
+    },
     "19961": {
       "name": "Kasugai Grape Gummy",
       "price": "$1.83",
@@ -1498,6 +1498,30 @@
       "name": "Kasugai Assorted fru",
       "price": "$1.83",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24374&limit=100",
+      "stock": "n/a"
+    },
+    "28927": {
+      "name": "Kabaya Shaved Ice Gu",
+      "price": "$1.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28927&limit=100",
+      "stock": "n/a"
+    },
+    "28928": {
+      "name": "Kabaya Watermelon Gu",
+      "price": "$1.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28928&limit=100",
+      "stock": "n/a"
+    },
+    "29022": {
+      "name": "Morinaga Gummy Candy",
+      "price": "$1.47",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29022&limit=100",
+      "stock": "n/a"
+    },
+    "9728": {
+      "name": "Asahi Mintia Cold Sm",
+      "price": "$1.21",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9728&limit=100",
       "stock": "n/a"
     },
     "27011": {
@@ -1524,22 +1548,100 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27021&limit=100",
       "stock": "n/a"
     },
+    "29523": {
+      "name": "Orihiro Agar Jelly I",
+      "price": "$2.68",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29523&limit=100",
+      "stock": "n/a"
+    },
+    "5337": {
+      "name": "Coca-Cola Qoo Jelly",
+      "price": "$2.18",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5337&limit=100",
+      "stock": "n/a"
+    },
+    "5335": {
+      "name": "Coca-Cola Qoo Jelly",
+      "price": "$2.18",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5335&limit=100",
+      "stock": "n/a"
+    },
     "287": {
       "name": "Coca-Cola Qoo Jelly",
       "price": "$2.18",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=287&limit=100",
       "stock": "n/a"
     },
-    "26091": {
-      "name": "Orion Choco Pie Stra",
-      "price": "$4.39",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26091&limit=100",
+    "23766": {
+      "name": "Lotte Black Chocolat",
+      "price": "$1.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23766&limit=100",
       "stock": "n/a"
     },
-    "24227": {
-      "name": "Orion Egg Yolk Pie B",
-      "price": "$4.49",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24227&limit=100",
+    "19588": {
+      "name": "Seiki Mikan Mochi 13",
+      "price": "$2.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19588&limit=100",
+      "stock": "n/a"
+    },
+    "19590": {
+      "name": "Seiki Kibidango Moch",
+      "price": "$2.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19590&limit=100",
+      "stock": "n/a"
+    },
+    "19591": {
+      "name": "Seiki Strawberry Moc",
+      "price": "$9.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19591&limit=100",
+      "stock": "n/a"
+    },
+    "19593": {
+      "name": "Seiki Matcha Mochi 2",
+      "price": "$9.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19593&limit=100",
+      "stock": "n/a"
+    },
+    "19594": {
+      "name": "Seiki Shine Muscat D",
+      "price": "$9.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19594&limit=100",
+      "stock": "n/a"
+    },
+    "19596": {
+      "name": "Seiki Kibi-dango Dra",
+      "price": "$2.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19596&limit=100",
+      "stock": "n/a"
+    },
+    "19599": {
+      "name": "Seiki Chilled Melon",
+      "price": "$2.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19599&limit=100",
+      "stock": "n/a"
+    },
+    "599": {
+      "name": "Seiki Glutinous Rice",
+      "price": "$2.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=599&limit=100",
+      "stock": "n/a"
+    },
+    "31100": {
+      "name": "Seiki Pineapple Moch",
+      "price": "$2.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31100&limit=100",
+      "stock": "n/a"
+    },
+    "31101": {
+      "name": "Seiki Dried Sweet Po",
+      "price": "$2.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31101&limit=100",
+      "stock": "n/a"
+    },
+    "14522": {
+      "name": "Seiki Glutinous Rice",
+      "price": "$2.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14522&limit=100",
       "stock": "n/a"
     },
     "24225": {
@@ -1554,12 +1656,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24228&limit=100",
       "stock": "n/a"
     },
-    "51127": {
-      "name": "Orion Choco Pie Wate",
-      "price": "$4.39",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51127&limit=100",
-      "stock": "n/a"
-    },
     "31145": {
       "name": "Orion Choco Pie Rich",
       "price": "$4.49",
@@ -1570,6 +1666,24 @@
       "name": "Orion Choco Pie Clas",
       "price": "$4.49",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29731&limit=100",
+      "stock": "n/a"
+    },
+    "23107": {
+      "name": "Ezaki Glico Pocky Ex",
+      "price": "$1.97",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23107&limit=100",
+      "stock": "n/a"
+    },
+    "30054": {
+      "name": "Nestle KitKat Chocol",
+      "price": "$3.65",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30054&limit=100",
+      "stock": "n/a"
+    },
+    "31094": {
+      "name": "Fujiya Chocolate Waf",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31094&limit=100",
       "stock": "n/a"
     },
     "13767": {
@@ -1608,12 +1722,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13776&limit=100",
       "stock": "n/a"
     },
-    "13784": {
-      "name": "Glico Pocky Biscuit",
-      "price": "$1.65",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13784&limit=100",
-      "stock": "n/a"
-    },
     "13305": {
       "name": "Glico Pejoy Biscuit",
       "price": "$1.68",
@@ -1632,16 +1740,28 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24902&limit=100",
       "stock": "n/a"
     },
-    "24900": {
-      "name": "LOTTE Pepero White C",
-      "price": "$1.35",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24900&limit=100",
-      "stock": "n/a"
-    },
     "24901": {
       "name": "LOTTE Pepero Crunchy",
       "price": "$1.35",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24901&limit=100",
+      "stock": "n/a"
+    },
+    "15537": {
+      "name": "Frito-Lay Corn Stick",
+      "price": "$1.44",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15537&limit=100",
+      "stock": "n/a"
+    },
+    "30490": {
+      "name": "YBC Airreal Corn Puf",
+      "price": "$1.45",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30490&limit=100",
+      "stock": "n/a"
+    },
+    "18733": {
+      "name": "YBC Aerial Corn Snac",
+      "price": "$1.45",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18733&limit=100",
       "stock": "n/a"
     },
     "10918": {
@@ -1656,6 +1776,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25073&limit=100",
       "stock": "n/a"
     },
+    "31095": {
+      "name": "Suntory Craft Boss S",
+      "price": "$1.75",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31095&limit=100",
+      "stock": "n/a"
+    },
+    "31096": {
+      "name": "Suntory Starbucks Co",
+      "price": "$2.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31096&limit=100",
+      "stock": "n/a"
+    },
     "3152": {
       "name": "Sangaria Natural Wat",
       "price": "$1.10",
@@ -1668,6 +1800,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25720&limit=100",
       "stock": "n/a"
     },
+    "31098": {
+      "name": "Fujiya Nectar Sparkl",
+      "price": "$1.67",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31098&limit=100",
+      "stock": "n/a"
+    },
     "18797": {
       "name": "Kirin Afternoon Stra",
       "price": "$1.57",
@@ -1678,12 +1816,6 @@
       "name": "SANGARIA Royal Milk",
       "price": "$1.49",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29725&limit=100",
-      "stock": "n/a"
-    },
-    "29724": {
-      "name": "SANGARIA Strawberry",
-      "price": "$1.49",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29724&limit=100",
       "stock": "n/a"
     },
     "27024": {
@@ -1836,6 +1968,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50968&limit=100",
       "stock": "n/a"
     },
+    "7033": {
+      "name": "Kewpie Mayonnaise 45",
+      "price": "$4.96",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7033&limit=100",
+      "stock": "n/a"
+    },
     "27027": {
       "name": "New Touch Miso Ramen",
       "price": "$2.39",
@@ -1846,6 +1984,12 @@
       "name": "New Touch Tonkotsu R",
       "price": "$2.39",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27028&limit=100",
+      "stock": "n/a"
+    },
+    "18785": {
+      "name": "Nissin Spicy Ramen 1",
+      "price": "$3.42",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18785&limit=100",
       "stock": "n/a"
     },
     "4067": {
@@ -1874,6 +2018,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-01T11:17:28",
-  "last_count": 312
+  "last_run": "2026-09-01T15:28:54",
+  "last_count": 336
 }
