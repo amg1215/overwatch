@@ -959,3 +959,9 @@
 2026-09-01 21:48:13,875 INFO === Run started ===
 2026-09-01 21:48:21,859 INFO No new products (342 tracked)
 2026-09-01 21:48:21,861 INFO === Run finished ===
+2026-09-01 21:49:11,663 INFO === Run started ===
+2026-09-01 21:49:19,921 INFO NEW/RESTOCKED products detected: 1
+2026-09-01 21:49:19,921 INFO   NEW: Taito Toradora Deskt | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50858&limit=100
+2026-09-01 21:49:21,348 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-01 21:49:21,610 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-01 21:49:21,613 INFO === Run finished ===
