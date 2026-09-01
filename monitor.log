@@ -636,3 +636,9 @@
 2026-09-01 20:07:13,474 INFO === Run started ===
 2026-09-01 20:07:21,644 INFO No new products (335 tracked)
 2026-09-01 20:07:21,646 INFO === Run finished ===
+2026-09-01 20:08:14,488 INFO === Run started ===
+2026-09-01 20:08:23,119 INFO NEW/RESTOCKED products detected: 1
+2026-09-01 20:08:23,119 INFO   NEW: Orion Choco Pie Stra | $4.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26091&limit=100
+2026-09-01 20:08:24,456 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-01 20:08:24,672 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-01 20:08:24,675 INFO === Run finished ===
