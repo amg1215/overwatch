@@ -624,6 +624,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21352&limit=100",
       "stock": "n/a"
     },
+    "21366": {
+      "name": "MilleFée Shake Drop",
+      "price": "$11.03",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21366&limit=100",
+      "stock": "n/a"
+    },
     "21367": {
       "name": "MilleFée Shake Drop",
       "price": "$11.03",
@@ -1090,6 +1096,12 @@
       "name": "Guangbo Plush Doll H",
       "price": "$14.29",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29580&limit=100",
+      "stock": "n/a"
+    },
+    "31277": {
+      "name": "Moetch Cinnamoroll S",
+      "price": "$8.65",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31277&limit=100",
       "stock": "n/a"
     },
     "29581": {
@@ -1746,12 +1758,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24901&limit=100",
       "stock": "n/a"
     },
-    "15537": {
-      "name": "Frito-Lay Corn Stick",
-      "price": "$1.44",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15537&limit=100",
-      "stock": "n/a"
-    },
     "30490": {
       "name": "YBC Airreal Corn Puf",
       "price": "$1.45",
@@ -2018,6 +2024,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-01T15:28:54",
-  "last_count": 336
+  "last_run": "2026-09-01T17:06:01",
+  "last_count": 337
 }

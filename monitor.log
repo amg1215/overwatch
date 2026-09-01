@@ -86,3 +86,10 @@
 2026-09-01 15:28:54,353 INFO Email sent: Ebisu: 36 new/restocked items!
 2026-09-01 15:28:54,590 INFO ntfy push sent: Ebisu: 36 new/restocked items!
 2026-09-01 15:28:54,593 INFO === Run finished ===
+2026-09-01 17:05:48,879 INFO === Run started ===
+2026-09-01 17:05:59,246 INFO NEW/RESTOCKED products detected: 2
+2026-09-01 17:05:59,246 INFO   NEW: MilleFée Shake Drop | $11.03 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21366&limit=100
+2026-09-01 17:05:59,246 INFO   NEW: Moetch Cinnamoroll S | $8.65 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31277&limit=100
+2026-09-01 17:06:00,880 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-01 17:06:01,066 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-01 17:06:01,068 INFO === Run finished ===
