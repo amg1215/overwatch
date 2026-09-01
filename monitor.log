@@ -831,3 +831,9 @@
 2026-09-01 21:09:13,667 INFO === Run started ===
 2026-09-01 21:09:22,000 INFO No new products (337 tracked)
 2026-09-01 21:09:22,003 INFO === Run finished ===
+2026-09-01 21:10:15,430 INFO === Run started ===
+2026-09-01 21:10:28,061 INFO NEW/RESTOCKED products detected: 1
+2026-09-01 21:10:28,062 INFO   NEW: Glico Pocky Biscuit | $1.65 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14562&limit=100
+2026-09-01 21:10:29,515 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-01 21:10:29,796 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-01 21:10:29,799 INFO === Run finished ===
