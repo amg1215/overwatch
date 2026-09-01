@@ -939,3 +939,9 @@
 2026-09-01 21:44:12,898 INFO === Run started ===
 2026-09-01 21:44:21,608 INFO No new products (338 tracked)
 2026-09-01 21:44:21,610 INFO === Run finished ===
+2026-09-01 21:45:13,588 INFO === Run started ===
+2026-09-01 21:45:21,408 INFO NEW/RESTOCKED products detected: 1
+2026-09-01 21:45:21,408 INFO   NEW: Banpresto ONE PIECE | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50446&limit=100
+2026-09-01 21:45:22,565 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-01 21:45:23,043 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-01 21:45:23,047 INFO === Run finished ===
