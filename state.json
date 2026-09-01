@@ -1644,6 +1644,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26091&limit=100",
       "stock": "n/a"
     },
+    "24227": {
+      "name": "Orion Egg Yolk Pie B",
+      "price": "$4.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24227&limit=100",
+      "stock": "n/a"
+    },
     "24225": {
       "name": "Orion Cutie Pie Moch",
       "price": "$4.49",
@@ -2018,6 +2024,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-01T21:00:30",
-  "last_count": 336
+  "last_run": "2026-09-01T21:01:21",
+  "last_count": 337
 }

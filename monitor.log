@@ -801,3 +801,9 @@
 2026-09-01 21:00:22,155 INFO === Run started ===
 2026-09-01 21:00:30,954 INFO No new products (336 tracked)
 2026-09-01 21:00:30,957 INFO === Run finished ===
+2026-09-01 21:01:10,941 INFO === Run started ===
+2026-09-01 21:01:19,526 INFO NEW/RESTOCKED products detected: 1
+2026-09-01 21:01:19,526 INFO   NEW: Orion Egg Yolk Pie B | $4.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24227&limit=100
+2026-09-01 21:01:20,953 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-01 21:01:21,222 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-01 21:01:21,226 INFO === Run finished ===
