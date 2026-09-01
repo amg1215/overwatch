@@ -948,3 +948,11 @@
 2026-09-01 21:46:17,672 INFO === Run started ===
 2026-09-01 21:46:25,620 INFO No new products (339 tracked)
 2026-09-01 21:46:25,622 INFO === Run finished ===
+2026-09-01 21:47:16,150 INFO === Run started ===
+2026-09-01 21:47:24,841 INFO NEW/RESTOCKED products detected: 3
+2026-09-01 21:47:24,841 INFO   NEW: Taito Strawberry 100 | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50444&limit=100
+2026-09-01 21:47:24,841 INFO   NEW: FuRyu GODDESS OF VIC | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50859&limit=100
+2026-09-01 21:47:24,842 INFO   NEW: FuRyu Frieren Beyond | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50800&limit=100
+2026-09-01 21:47:26,430 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-01 21:47:26,692 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-01 21:47:26,695 INFO === Run finished ===

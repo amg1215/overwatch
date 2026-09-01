@@ -1098,6 +1098,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29582&limit=100",
       "stock": "n/a"
     },
+    "50444": {
+      "name": "Taito Strawberry 100",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50444&limit=100",
+      "stock": "n/a"
+    },
     "50446": {
       "name": "Banpresto ONE PIECE",
       "price": "$21.59",
@@ -1114,6 +1120,18 @@
       "name": "BANDAI SPIRITS ONEpc",
       "price": "$27.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50402&limit=100",
+      "stock": "n/a"
+    },
+    "50859": {
+      "name": "FuRyu GODDESS OF VIC",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50859&limit=100",
+      "stock": "n/a"
+    },
+    "50800": {
+      "name": "FuRyu Frieren Beyond",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50800&limit=100",
       "stock": "n/a"
     },
     "20632": {
@@ -2036,6 +2054,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-01T21:46:25",
-  "last_count": 339
+  "last_run": "2026-09-01T21:47:26",
+  "last_count": 342
 }
