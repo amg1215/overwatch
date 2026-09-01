@@ -1,27 +1,20 @@
 name: Ebisu New Arrivals Monitor
 
 on:
-  schedule:
-    # ---- FAST WINDOW: every minute, 9am-9pm EDT (UTC-4) = 13:00-00:59 UTC ----
-    # NOTE: cron here is in UTC and does NOT auto-adjust for US Daylight
-    # Saving Time. EDT (summer, UTC-4) is what's in effect right now.
-    # In winter EST (UTC-5) is in effect - shift every hour below back by
-    # 1 hour (e.g. 13:00 UTC becomes 14:00 UTC) around early Nov / mid Mar,
-    # or ask to have this regenerated for the other half of the year.
-    - cron: '* 13-23 * * *'
-    - cron: '* 0 * * *'
-    # ---- SLOW WINDOW: every 10 minutes, the remaining hours (9pm-9am EDT) ----
-    - cron: '*/10 1-12 * * *'
-  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+  # No 'schedule:' trigger anymore - GitHub's own scheduler was silently
+  # delaying/dropping runs by hours regardless of cron interval (tested at
+  # both 1-min and 5-min). An external cron service (cron-job.org) now
+  # calls the API below to fire this on time instead.
+  workflow_dispatch: {}
+  repository_dispatch:
+    types: [run-monitor]
 
-# Only one run at a time; if a run is still going when the next tick fires,
-# skip the new one instead of piling up overlapping scrapes.
 concurrency:
   group: ebisu-monitor
   cancel-in-progress: false
 
 permissions:
-  contents: write   # needed to commit the updated state.json back to the repo
+  contents: write
 
 jobs:
   monitor:
