@@ -642,12 +642,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21368&limit=100",
       "stock": "n/a"
     },
-    "21369": {
-      "name": "MilleFée Shake Drop",
-      "price": "$11.03",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21369&limit=100",
-      "stock": "n/a"
-    },
     "25573": {
       "name": "MilleFée Tone-Up Con",
       "price": "$10.39",
@@ -2024,6 +2018,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-01T20:38:25",
-  "last_count": 337
+  "last_run": "2026-09-01T20:39:23",
+  "last_count": 336
 }
