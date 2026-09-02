@@ -2683,3 +2683,11 @@
 2026-09-02 19:02:12,986 INFO === Run started ===
 2026-09-02 19:02:21,126 INFO No new products (345 tracked)
 2026-09-02 19:02:21,128 INFO === Run finished ===
+2026-09-02 19:03:11,473 INFO === Run started ===
+2026-09-02 19:03:19,600 INFO NEW/RESTOCKED products detected: 3
+2026-09-02 19:03:19,600 INFO   NEW: UCC Coffee 16P Red | $6.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23740&limit=100
+2026-09-02 19:03:19,600 INFO   NEW: UCC Coffee 16P Blue | $6.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23741&limit=100
+2026-09-02 19:03:19,600 INFO   NEW: UCC Coffee 16P Golde | $6.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23742&limit=100
+2026-09-02 19:03:21,963 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-02 19:03:22,206 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-02 19:03:22,209 INFO === Run finished ===

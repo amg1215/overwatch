@@ -1980,6 +1980,24 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30701&limit=100",
       "stock": "n/a"
     },
+    "23740": {
+      "name": "UCC Coffee 16P Red",
+      "price": "$6.20",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23740&limit=100",
+      "stock": "n/a"
+    },
+    "23741": {
+      "name": "UCC Coffee 16P Blue",
+      "price": "$6.20",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23741&limit=100",
+      "stock": "n/a"
+    },
+    "23742": {
+      "name": "UCC Coffee 16P Golde",
+      "price": "$6.20",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23742&limit=100",
+      "stock": "n/a"
+    },
     "28930": {
       "name": "Meito Milk Cocoa Pow",
       "price": "$3.79",
@@ -2072,6 +2090,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-02T19:02:21",
-  "last_count": 345
+  "last_run": "2026-09-02T19:03:22",
+  "last_count": 348
 }
