@@ -1902,10 +1902,28 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23205&limit=100",
       "stock": "n/a"
     },
+    "18798": {
+      "name": "Kikkoman Soybean Dri",
+      "price": "$1.16",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18798&limit=100",
+      "stock": "n/a"
+    },
+    "18799": {
+      "name": "Kikkoman Soybean Dri",
+      "price": "$1.16",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18799&limit=100",
+      "stock": "n/a"
+    },
     "18801": {
       "name": "Kikkoman Soybean Dri",
       "price": "$1.16",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18801&limit=100",
+      "stock": "n/a"
+    },
+    "18802": {
+      "name": "Kikkoman Soybean Dri",
+      "price": "$1.16",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18802&limit=100",
       "stock": "n/a"
     },
     "9388": {
@@ -2108,6 +2126,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-02T19:09:21",
-  "last_count": 351
+  "last_run": "2026-09-02T19:10:26",
+  "last_count": 354
 }
