@@ -504,12 +504,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17333&limit=100",
       "stock": "n/a"
     },
-    "21362": {
-      "name": "MilleFée Painting Li",
-      "price": "$9.70",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21362&limit=100",
-      "stock": "n/a"
-    },
     "21363": {
       "name": "MilleFée Painting Li",
       "price": "$9.70",
@@ -598,6 +592,12 @@
       "name": "MilleFée Nuance Glow",
       "price": "$11.03",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21356&limit=100",
+      "stock": "n/a"
+    },
+    "21357": {
+      "name": "MilleFée Nuance Glow",
+      "price": "$11.03",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21357&limit=100",
       "stock": "n/a"
     },
     "21358": {
@@ -2078,6 +2078,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-02T18:09:20",
+  "last_run": "2026-09-02T18:10:23",
   "last_count": 346
 }

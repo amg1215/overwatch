@@ -2521,3 +2521,9 @@
 2026-09-02 18:09:12,469 INFO === Run started ===
 2026-09-02 18:09:20,960 INFO No new products (346 tracked)
 2026-09-02 18:09:20,962 INFO === Run finished ===
+2026-09-02 18:10:13,917 INFO === Run started ===
+2026-09-02 18:10:22,210 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 18:10:22,210 INFO   NEW: MilleFée Nuance Glow | $11.03 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21357&limit=100
+2026-09-02 18:10:23,351 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 18:10:23,464 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 18:10:23,467 INFO === Run finished ===
