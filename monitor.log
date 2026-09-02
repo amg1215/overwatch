@@ -1706,3 +1706,9 @@
 2026-09-02 13:52:33,974 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-02 13:52:34,232 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-02 13:52:34,235 INFO === Run finished ===
+2026-09-02 13:53:15,405 INFO === Run started ===
+2026-09-02 13:53:26,568 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 13:53:26,568 INFO   NEW: Kirin Orange & Grape | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23205&limit=100
+2026-09-02 13:53:28,470 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 13:53:29,045 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 13:53:29,048 INFO === Run finished ===

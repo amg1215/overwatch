@@ -1800,12 +1800,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18733&limit=100",
       "stock": "n/a"
     },
-    "10918": {
-      "name": "Asahi Rich Black Cof",
-      "price": "$1.49",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10918&limit=100",
-      "stock": "n/a"
-    },
     "25073": {
       "name": "Suntory Big Zero Pep",
       "price": "$1.56",
@@ -1864,6 +1858,12 @@
       "name": "Kirin Afternoon Stra",
       "price": "$1.57",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18797&limit=100",
+      "stock": "n/a"
+    },
+    "23205": {
+      "name": "Kirin Orange & Grape",
+      "price": "$1.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23205&limit=100",
       "stock": "n/a"
     },
     "9388": {
@@ -2078,6 +2078,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-02T13:52:34",
+  "last_run": "2026-09-02T13:53:29",
   "last_count": 346
 }
