@@ -2355,3 +2355,9 @@
 2026-09-02 17:23:09,803 INFO === Run started ===
 2026-09-02 17:23:15,970 INFO No new products (344 tracked)
 2026-09-02 17:23:15,972 INFO === Run finished ===
+2026-09-02 17:24:14,160 INFO === Run started ===
+2026-09-02 17:24:20,782 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 17:24:20,782 INFO   NEW: Meito Milk Cocoa Pow | $3.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28930&limit=100
+2026-09-02 17:24:22,276 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 17:24:22,541 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 17:24:22,544 INFO === Run finished ===
