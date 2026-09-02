@@ -1700,3 +1700,9 @@
 2026-09-02 13:51:21,217 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-02 13:51:21,312 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-02 13:51:21,315 INFO === Run finished ===
+2026-09-02 13:52:23,172 INFO === Run started ===
+2026-09-02 13:52:31,789 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 13:52:31,789 INFO   NEW: Pokka Sapporo Blue H | $1.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28931&limit=100
+2026-09-02 13:52:33,974 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 13:52:34,232 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 13:52:34,235 INFO === Run finished ===
