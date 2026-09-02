@@ -2126,7 +2126,7 @@
     },
     "50966": {
       "name": "Urashima Nori Ebi Fu",
-      "price": "$2.66",
+      "price": "$3.25",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50966&limit=100",
       "stock": "n/a"
     },
@@ -2216,6 +2216,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-02T20:21:20",
+  "last_run": "2026-09-02T20:22:30",
   "last_count": 369
 }
