@@ -2709,3 +2709,9 @@
 2026-09-02 19:07:13,069 INFO === Run started ===
 2026-09-02 19:07:21,526 INFO No new products (350 tracked)
 2026-09-02 19:07:21,529 INFO === Run finished ===
+2026-09-02 19:08:13,811 INFO === Run started ===
+2026-09-02 19:08:21,874 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 19:08:21,874 INFO   NEW: Fujiya GATSUN! Gummy | $1.72 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30734&limit=100
+2026-09-02 19:08:23,548 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 19:08:23,812 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 19:08:23,816 INFO === Run finished ===
