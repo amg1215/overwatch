@@ -2838,3 +2838,10 @@
 2026-09-02 19:41:16,725 INFO === Run started ===
 2026-09-02 19:41:24,319 INFO No new products (358 tracked)
 2026-09-02 19:41:24,321 INFO === Run finished ===
+2026-09-02 19:42:16,237 INFO === Run started ===
+2026-09-02 19:42:24,165 INFO NEW/RESTOCKED products detected: 2
+2026-09-02 19:42:24,165 INFO   NEW: Meiji Macadamia Nut | $2.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30485&limit=100
+2026-09-02 19:42:24,165 INFO   NEW: Lotte Almond Chocola | $2.72 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4988&limit=100
+2026-09-02 19:42:25,565 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-02 19:42:25,981 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-02 19:42:25,984 INFO === Run finished ===
