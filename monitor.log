@@ -1754,3 +1754,9 @@
 2026-09-02 14:05:12,978 INFO === Run started ===
 2026-09-02 14:05:22,597 INFO No new products (344 tracked)
 2026-09-02 14:05:22,599 INFO === Run finished ===
+2026-09-02 14:06:13,608 INFO === Run started ===
+2026-09-02 14:06:22,995 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 14:06:22,995 INFO   NEW: Nestle KitKat Carame | $3.65 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28911&limit=100
+2026-09-02 14:06:25,049 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 14:06:25,372 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 14:06:25,376 INFO === Run finished ===
