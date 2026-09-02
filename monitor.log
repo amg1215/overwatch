@@ -2885,3 +2885,9 @@
 2026-09-02 19:52:13,519 INFO === Run started ===
 2026-09-02 19:52:21,681 INFO No new products (364 tracked)
 2026-09-02 19:52:21,683 INFO === Run finished ===
+2026-09-02 19:53:14,338 INFO === Run started ===
+2026-09-02 19:53:21,526 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 19:53:21,526 INFO   NEW: Ash Cake Lemon Flavo | $3.32 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12358&limit=100
+2026-09-02 19:53:22,586 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 19:53:22,727 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 19:53:22,730 INFO === Run finished ===
