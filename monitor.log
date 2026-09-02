@@ -2450,3 +2450,9 @@
 2026-09-02 17:48:25,039 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-02 17:48:25,152 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-02 17:48:25,156 INFO === Run finished ===
+2026-09-02 17:49:11,690 INFO === Run started ===
+2026-09-02 17:49:19,048 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 17:49:19,049 INFO   NEW: House C1000 Vitamin | $1.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=306&limit=100
+2026-09-02 17:49:20,263 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 17:49:20,555 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 17:49:20,557 INFO === Run finished ===
