@@ -2022,6 +2022,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26462&limit=100",
       "stock": "n/a"
     },
+    "3614": {
+      "name": "Moshi Yuzu Sparkling",
+      "price": "$1.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3614&limit=100",
+      "stock": "n/a"
+    },
     "3881": {
       "name": "Moshi Yuzu White Pea",
       "price": "$1.79",
@@ -2234,6 +2240,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-02T20:52:24",
-  "last_count": 372
+  "last_run": "2026-09-02T20:53:57",
+  "last_count": 373
 }
