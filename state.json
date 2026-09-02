@@ -1416,6 +1416,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15762&limit=100",
       "stock": "n/a"
     },
+    "24215": {
+      "name": "Furuta Strawberry Sa",
+      "price": "$3.28",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24215&limit=100",
+      "stock": "n/a"
+    },
+    "24216": {
+      "name": "Furuta Chocolate 114",
+      "price": "$3.28",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24216&limit=100",
+      "stock": "n/a"
+    },
     "19987": {
       "name": "UHA Long Sakeru Stri",
       "price": "$0.89",
@@ -2072,6 +2084,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-02T17:25:24",
-  "last_count": 345
+  "last_run": "2026-09-02T17:26:20",
+  "last_count": 347
 }
