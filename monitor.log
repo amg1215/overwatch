@@ -2845,3 +2845,9 @@
 2026-09-02 19:42:25,565 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-02 19:42:25,981 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-02 19:42:25,984 INFO === Run finished ===
+2026-09-02 19:43:10,005 INFO === Run started ===
+2026-09-02 19:43:18,581 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 19:43:18,582 INFO   NEW: Fujiya Hello Kitty & | $1.37 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30058&limit=100
+2026-09-02 19:43:19,869 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 19:43:20,082 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 19:43:20,085 INFO === Run finished ===
