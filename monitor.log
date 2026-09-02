@@ -2851,3 +2851,10 @@
 2026-09-02 19:43:19,869 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-02 19:43:20,082 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-02 19:43:20,085 INFO === Run finished ===
+2026-09-02 19:44:11,916 INFO === Run started ===
+2026-09-02 19:44:20,359 INFO NEW/RESTOCKED products detected: 2
+2026-09-02 19:44:20,359 INFO   NEW: Fujiya Sanrio Chocol | $1.02 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2316&limit=100
+2026-09-02 19:44:20,359 INFO   NEW: Meiji Fruit Gummy Da | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30963&limit=100
+2026-09-02 19:44:21,670 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-02 19:44:21,863 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-02 19:44:21,866 INFO === Run finished ===

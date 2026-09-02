@@ -1410,6 +1410,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24216&limit=100",
       "stock": "n/a"
     },
+    "2316": {
+      "name": "Fujiya Sanrio Chocol",
+      "price": "$1.02",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2316&limit=100",
+      "stock": "n/a"
+    },
     "30058": {
       "name": "Fujiya Hello Kitty &",
       "price": "$1.37",
@@ -1552,6 +1558,12 @@
       "name": "Fujiya GATSUN! Gummy",
       "price": "$1.72",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30734&limit=100",
+      "stock": "n/a"
+    },
+    "30963": {
+      "name": "Meiji Fruit Gummy Da",
+      "price": "$1.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30963&limit=100",
       "stock": "n/a"
     },
     "29022": {
@@ -2168,6 +2180,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-02T19:43:20",
-  "last_count": 361
+  "last_run": "2026-09-02T19:44:21",
+  "last_count": 363
 }
