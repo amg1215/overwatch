@@ -2750,3 +2750,9 @@
 2026-09-02 19:17:11,792 INFO === Run started ===
 2026-09-02 19:17:19,769 INFO No new products (355 tracked)
 2026-09-02 19:17:19,771 INFO === Run finished ===
+2026-09-02 19:18:49,408 INFO === Run started ===
+2026-09-02 19:18:57,216 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 19:18:57,216 INFO   NEW: Fujiya Peko Sauce's | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31593&limit=100
+2026-09-02 19:18:58,602 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 19:18:58,826 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 19:18:58,830 INFO === Run finished ===
