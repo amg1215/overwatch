@@ -2138,19 +2138,19 @@
     },
     "50964": {
       "name": "Takaokaya Doraemon G",
-      "price": "$2.66",
+      "price": "$3.25",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50964&limit=100",
       "stock": "n/a"
     },
     "50962": {
       "name": "Takaokaya Doraemon F",
-      "price": "$2.66",
+      "price": "$3.25",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50962&limit=100",
       "stock": "n/a"
     },
     "50963": {
       "name": "Takaokaya Doraemon F",
-      "price": "$2.66",
+      "price": "$3.25",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50963&limit=100",
       "stock": "n/a"
     },
@@ -2216,6 +2216,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-02T20:23:22",
+  "last_run": "2026-09-02T20:24:20",
   "last_count": 369
 }
