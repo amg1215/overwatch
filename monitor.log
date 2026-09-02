@@ -2371,3 +2371,9 @@
 2026-09-02 17:26:19,794 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-02 17:26:20,194 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-02 17:26:20,197 INFO === Run finished ===
+2026-09-02 17:27:10,458 INFO === Run started ===
+2026-09-02 17:27:17,432 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 17:27:17,432 INFO   NEW: ORIHIRO Konjac Jelly | $1.43 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29526&limit=100
+2026-09-02 17:27:18,731 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 17:27:18,792 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 17:27:18,795 INFO === Run finished ===
