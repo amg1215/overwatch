@@ -2924,3 +2924,9 @@
 2026-09-02 20:03:14,196 INFO === Run started ===
 2026-09-02 20:03:21,744 INFO No new products (366 tracked)
 2026-09-02 20:03:21,746 INFO === Run finished ===
+2026-09-02 20:04:11,562 INFO === Run started ===
+2026-09-02 20:04:18,924 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 20:04:18,924 INFO   NEW: Yamamotoyama Green T | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30703&limit=100
+2026-09-02 20:04:20,510 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 20:04:20,715 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 20:04:20,718 INFO === Run finished ===
