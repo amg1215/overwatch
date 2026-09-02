@@ -2732,3 +2732,9 @@
 2026-09-02 19:12:13,088 INFO === Run started ===
 2026-09-02 19:12:20,678 INFO No new products (354 tracked)
 2026-09-02 19:12:20,680 INFO === Run finished ===
+2026-09-02 19:13:16,577 INFO === Run started ===
+2026-09-02 19:13:24,029 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 19:13:24,030 INFO   NEW: Bourbon Spicy Flavor | $2.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31587&limit=100
+2026-09-02 19:13:25,353 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 19:13:25,660 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 19:13:25,663 INFO === Run finished ===
