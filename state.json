@@ -1968,12 +1968,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22497&limit=100",
       "stock": "n/a"
     },
-    "30703": {
-      "name": "Yamamotoyama Green T",
-      "price": "$2.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30703&limit=100",
-      "stock": "n/a"
-    },
     "30702": {
       "name": "Yamamotoyama Green T",
       "price": "$2.99",
@@ -2078,6 +2072,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-02T15:33:32",
-  "last_count": 346
+  "last_run": "2026-09-02T15:34:29",
+  "last_count": 345
 }
