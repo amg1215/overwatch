@@ -2808,3 +2808,9 @@
 2026-09-02 19:32:14,888 INFO === Run started ===
 2026-09-02 19:32:22,408 INFO No new products (357 tracked)
 2026-09-02 19:32:22,411 INFO === Run finished ===
+2026-09-02 19:33:11,574 INFO === Run started ===
+2026-09-02 19:33:19,025 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 19:33:19,026 INFO   NEW: Kracie Mentos Cola F | $1.21 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30479&limit=100
+2026-09-02 19:33:20,563 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 19:33:20,779 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 19:33:20,782 INFO === Run finished ===
