@@ -1884,6 +1884,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31588&limit=100",
       "stock": "n/a"
     },
+    "30877": {
+      "name": "Itoen Nippon Ale Miy",
+      "price": "$1.45",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30877&limit=100",
+      "stock": "n/a"
+    },
     "25073": {
       "name": "Suntory Big Zero Pep",
       "price": "$1.56",
@@ -2210,6 +2216,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-02T20:11:21",
-  "last_count": 368
+  "last_run": "2026-09-02T20:12:24",
+  "last_count": 369
 }
