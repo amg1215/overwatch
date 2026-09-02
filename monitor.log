@@ -1847,3 +1847,10 @@
 2026-09-02 14:35:18,567 INFO === Run started ===
 2026-09-02 14:35:32,055 INFO No new products (345 tracked)
 2026-09-02 14:35:32,057 INFO === Run finished ===
+2026-09-02 14:36:14,527 INFO === Run started ===
+2026-09-02 14:36:25,466 INFO NEW/RESTOCKED products detected: 2
+2026-09-02 14:36:25,466 INFO   NEW: Moetch Hello Kitty K | $8.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25668&limit=100
+2026-09-02 14:36:25,466 INFO   NEW: Moetch Sanrio Charac | $5.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25666&limit=100
+2026-09-02 14:36:27,099 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-02 14:36:27,370 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-02 14:36:27,373 INFO === Run finished ===
