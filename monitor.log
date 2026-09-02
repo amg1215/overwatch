@@ -3083,3 +3083,9 @@
 2026-09-02 20:51:15,491 INFO === Run started ===
 2026-09-02 20:51:22,927 INFO No new products (371 tracked)
 2026-09-02 20:51:22,929 INFO === Run finished ===
+2026-09-02 20:52:13,884 INFO === Run started ===
+2026-09-02 20:52:21,465 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 20:52:21,466 INFO   NEW: LOTTE Pepero Chocola | $1.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24902&limit=100
+2026-09-02 20:52:24,464 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 20:52:24,590 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 20:52:24,594 INFO === Run finished ===

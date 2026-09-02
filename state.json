@@ -1824,6 +1824,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13786&limit=100",
       "stock": "n/a"
     },
+    "24902": {
+      "name": "LOTTE Pepero Chocola",
+      "price": "$1.35",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24902&limit=100",
+      "stock": "n/a"
+    },
     "24900": {
       "name": "LOTTE Pepero White C",
       "price": "$1.35",
@@ -2228,6 +2234,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-02T20:51:22",
-  "last_count": 371
+  "last_run": "2026-09-02T20:52:24",
+  "last_count": 372
 }
