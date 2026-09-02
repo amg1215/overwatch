@@ -636,12 +636,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21368&limit=100",
       "stock": "n/a"
     },
-    "25573": {
-      "name": "MilleFée Tone-Up Con",
-      "price": "$10.39",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25573&limit=100",
-      "stock": "n/a"
-    },
     "25574": {
       "name": "MilleFée Tone-Up Con",
       "price": "$10.39",
@@ -2102,6 +2096,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-02T18:03:27",
-  "last_count": 350
+  "last_run": "2026-09-02T18:04:25",
+  "last_count": 349
 }
