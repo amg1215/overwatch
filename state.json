@@ -1746,24 +1746,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14563&limit=100",
       "stock": "n/a"
     },
-    "14560": {
-      "name": "Glico Pocky Biscuit",
-      "price": "$1.65",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14560&limit=100",
-      "stock": "n/a"
-    },
-    "14561": {
-      "name": "Glico Pocky Biscuit",
-      "price": "$1.65",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14561&limit=100",
-      "stock": "n/a"
-    },
-    "14562": {
-      "name": "Glico Pocky Biscuit",
-      "price": "$1.65",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14562&limit=100",
-      "stock": "n/a"
-    },
     "13305": {
       "name": "Glico Pejoy Biscuit",
       "price": "$1.68",
@@ -2138,6 +2120,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-02T19:18:58",
-  "last_count": 356
+  "last_run": "2026-09-02T19:19:19",
+  "last_count": 353
 }
