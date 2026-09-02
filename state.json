@@ -600,12 +600,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21356&limit=100",
       "stock": "n/a"
     },
-    "21357": {
-      "name": "MilleFée Nuance Glow",
-      "price": "$11.03",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21357&limit=100",
-      "stock": "n/a"
-    },
     "21358": {
       "name": "MilleFée Nuance Glow",
       "price": "$11.03",
@@ -1944,12 +1938,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4023&limit=100",
       "stock": "n/a"
     },
-    "15435": {
-      "name": "UCC Coffee Latte 260",
-      "price": "$1.64",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15435&limit=100",
-      "stock": "n/a"
-    },
     "4109": {
       "name": "Asahi Calpico Strawb",
       "price": "$1.79",
@@ -1996,12 +1984,6 @@
       "name": "Yamamotoyama Green T",
       "price": "$2.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30701&limit=100",
-      "stock": "n/a"
-    },
-    "30700": {
-      "name": "Yamamotoyama Green T",
-      "price": "$2.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30700&limit=100",
       "stock": "n/a"
     },
     "28930": {
@@ -2096,6 +2078,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-02T18:08:22",
-  "last_count": 349
+  "last_run": "2026-09-02T18:09:20",
+  "last_count": 346
 }
