@@ -2470,3 +2470,9 @@
 2026-09-02 17:53:16,326 INFO === Run started ===
 2026-09-02 17:53:25,500 INFO No new products (349 tracked)
 2026-09-02 17:53:25,502 INFO === Run finished ===
+2026-09-02 17:54:15,199 INFO === Run started ===
+2026-09-02 17:54:23,535 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 17:54:23,535 INFO   NEW: Tarami Fruit Jelly W | $1.61 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31592&limit=100
+2026-09-02 17:54:24,425 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 17:54:24,500 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 17:54:24,503 INFO === Run finished ===

@@ -1596,6 +1596,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=287&limit=100",
       "stock": "n/a"
     },
+    "31592": {
+      "name": "Tarami Fruit Jelly W",
+      "price": "$1.61",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31592&limit=100",
+      "stock": "n/a"
+    },
     "23766": {
       "name": "Lotte Black Chocolat",
       "price": "$1.39",
@@ -2096,6 +2102,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-02T17:53:25",
-  "last_count": 349
+  "last_run": "2026-09-02T17:54:24",
+  "last_count": 350
 }
