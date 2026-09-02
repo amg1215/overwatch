@@ -2456,3 +2456,11 @@
 2026-09-02 17:49:20,263 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-02 17:49:20,555 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-02 17:49:20,557 INFO === Run finished ===
+2026-09-02 17:51:01,491 INFO === Run started ===
+2026-09-02 17:51:09,224 INFO NEW/RESTOCKED products detected: 3
+2026-09-02 17:51:09,224 INFO   NEW: House Vitamin C1000 | $1.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31589&limit=100
+2026-09-02 17:51:09,224 INFO   NEW: Sangaria White Grape | $1.71 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31590&limit=100
+2026-09-02 17:51:09,224 INFO   NEW: Kikkoman Soybean Dri | $1.16 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18801&limit=100
+2026-09-02 17:51:10,867 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-02 17:51:11,257 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-02 17:51:11,260 INFO === Run finished ===
