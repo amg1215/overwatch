@@ -3101,3 +3101,11 @@
 2026-09-02 20:55:13,921 INFO === Run started ===
 2026-09-02 20:55:21,466 INFO No new products (373 tracked)
 2026-09-02 20:55:21,468 INFO === Run finished ===
+2026-09-02 20:56:16,198 INFO === Run started ===
+2026-09-02 20:56:25,278 INFO NEW/RESTOCKED products detected: 3
+2026-09-02 20:56:25,278 INFO   NEW: Moshi Yuzu Red Shiso | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1389&limit=100
+2026-09-02 20:56:25,279 INFO   NEW: Moshi Uji Matcha Spa | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3620&limit=100
+2026-09-02 20:56:25,279 INFO   NEW: Moshi Oolong Tea Lyc | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1387&limit=100
+2026-09-02 20:56:26,139 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-02 20:56:26,379 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-02 20:56:26,382 INFO === Run finished ===
