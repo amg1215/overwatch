@@ -1728,6 +1728,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30054&limit=100",
       "stock": "n/a"
     },
+    "22187": {
+      "name": "Furuta SLO Biscuit C",
+      "price": "$3.17",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22187&limit=100",
+      "stock": "n/a"
+    },
     "31094": {
       "name": "Fujiya Chocolate Waf",
       "price": "$2.99",
@@ -2090,6 +2096,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-02T17:31:18",
-  "last_count": 348
+  "last_run": "2026-09-02T17:32:28",
+  "last_count": 349
 }
