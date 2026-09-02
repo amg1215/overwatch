@@ -2765,3 +2765,10 @@
 2026-09-02 19:20:29,761 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-02 19:20:29,920 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-02 19:20:29,923 INFO === Run finished ===
+2026-09-02 19:21:15,126 INFO === Run started ===
+2026-09-02 19:21:24,414 INFO NEW/RESTOCKED products detected: 2
+2026-09-02 19:21:24,414 INFO   NEW: Fujiya Chiikawa Char | $1.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30056&limit=100
+2026-09-02 19:21:24,414 INFO   NEW: Lotte Chocolate Pie | $4.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30874&limit=100
+2026-09-02 19:21:27,216 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-02 19:21:27,827 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-02 19:21:27,831 INFO === Run finished ===

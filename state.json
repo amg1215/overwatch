@@ -1518,6 +1518,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28928&limit=100",
       "stock": "n/a"
     },
+    "30056": {
+      "name": "Fujiya Chiikawa Char",
+      "price": "$1.25",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30056&limit=100",
+      "stock": "n/a"
+    },
     "30734": {
       "name": "Fujiya GATSUN! Gummy",
       "price": "$1.72",
@@ -1618,6 +1624,12 @@
       "name": "Lotte Black Chocolat",
       "price": "$1.39",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23766&limit=100",
+      "stock": "n/a"
+    },
+    "30874": {
+      "name": "Lotte Chocolate Pie",
+      "price": "$4.09",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30874&limit=100",
       "stock": "n/a"
     },
     "19588": {
@@ -2126,6 +2138,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-02T19:20:29",
-  "last_count": 354
+  "last_run": "2026-09-02T19:21:27",
+  "last_count": 356
 }
