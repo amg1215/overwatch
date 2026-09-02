@@ -2873,3 +2873,9 @@
 2026-09-02 19:49:20,310 INFO === Run started ===
 2026-09-02 19:49:28,563 INFO No new products (363 tracked)
 2026-09-02 19:49:28,565 INFO === Run finished ===
+2026-09-02 19:50:15,465 INFO === Run started ===
+2026-09-02 19:50:23,376 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 19:50:23,376 INFO   NEW: Morinaga Mixed Fruit | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27081&limit=100
+2026-09-02 19:50:24,950 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 19:50:25,201 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 19:50:25,205 INFO === Run finished ===
