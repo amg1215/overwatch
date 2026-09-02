@@ -2759,3 +2759,9 @@
 2026-09-02 19:19:11,067 INFO === Run started ===
 2026-09-02 19:19:19,287 INFO No new products (353 tracked)
 2026-09-02 19:19:19,290 INFO === Run finished ===
+2026-09-02 19:20:20,258 INFO === Run started ===
+2026-09-02 19:20:27,652 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 19:20:27,652 INFO   NEW: WantWant Sour Operat | $1.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30890&limit=100
+2026-09-02 19:20:29,761 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 19:20:29,920 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 19:20:29,923 INFO === Run finished ===
