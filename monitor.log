@@ -2700,3 +2700,9 @@
 2026-09-02 19:05:15,327 INFO === Run started ===
 2026-09-02 19:05:22,605 INFO No new products (349 tracked)
 2026-09-02 19:05:22,606 INFO === Run finished ===
+2026-09-02 19:06:12,965 INFO === Run started ===
+2026-09-02 19:06:21,901 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 19:06:21,901 INFO   NEW: Pokka Sapporo Jelly | $2.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28932&limit=100
+2026-09-02 19:06:22,961 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 19:06:23,221 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 19:06:23,225 INFO === Run finished ===
