@@ -2398,3 +2398,9 @@
 2026-09-02 17:33:12,335 INFO === Run started ===
 2026-09-02 17:33:19,315 INFO No new products (342 tracked)
 2026-09-02 17:33:19,317 INFO === Run finished ===
+2026-09-02 17:34:12,732 INFO === Run started ===
+2026-09-02 17:34:19,598 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 17:34:19,598 INFO   NEW: Orihiro Agar Jelly I | $2.68 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29524&limit=100
+2026-09-02 17:34:20,834 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 17:34:21,241 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 17:34:21,244 INFO === Run finished ===
