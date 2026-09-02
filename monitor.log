@@ -1694,3 +1694,9 @@
 2026-09-02 13:50:16,877 INFO === Run started ===
 2026-09-02 13:50:26,003 INFO No new products (344 tracked)
 2026-09-02 13:50:26,005 INFO === Run finished ===
+2026-09-02 13:51:10,503 INFO === Run started ===
+2026-09-02 13:51:19,507 INFO NEW/RESTOCKED products detected: 1
+2026-09-02 13:51:19,507 INFO   NEW: Sangaria Drink Caram | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18792&limit=100
+2026-09-02 13:51:21,217 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-02 13:51:21,312 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-02 13:51:21,315 INFO === Run finished ===
