@@ -4739,3 +4739,189 @@
 2026-09-03 17:42:21,989 INFO === Run started ===
 2026-09-03 17:42:27,564 INFO No new products (200 tracked)
 2026-09-03 17:42:27,566 INFO === Run finished ===
+2026-09-03 17:43:13,458 INFO === Run started ===
+2026-09-03 17:43:20,391 INFO NEW/RESTOCKED products detected: 181
+2026-09-03 17:43:20,391 INFO   NEW: KUKI Pen kk-3122 | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24806&limit=100
+2026-09-03 17:43:20,391 INFO   NEW: KUKI Forest Friends | $1.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26985&limit=100
+2026-09-03 17:43:20,391 INFO   NEW: KUKI Bear Bakery Ser | $1.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26993&limit=100
+2026-09-03 17:43:20,391 INFO   NEW: KUKI Forest Friends | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26986&limit=100
+2026-09-03 17:43:20,391 INFO   NEW: KUKI Forest Pals Ser | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26988&limit=100
+2026-09-03 17:43:20,391 INFO   NEW: KUKI Forest Pals Ser | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26987&limit=100
+2026-09-03 17:43:20,391 INFO   NEW: KUKI Panda Series Ge | $1.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26995&limit=100
+2026-09-03 17:43:20,391 INFO   NEW: KUKI Forest Friends | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26984&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Bear Jelly Seri | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26994&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Gel Pen KK-3148 | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26990&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Forest Friends | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26983&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Bear Bakery Ser | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26992&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Gulu Noodles Se | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26991&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Forest Friends | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26982&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Forest Friends | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26981&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Dolphin Series | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26998&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Vitality Meow S | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26996&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Vitality Meow S | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26997&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Kuki Capybara 10 Col | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19929&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Kuki Capybara Rotata | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19935&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Kuki Capybara Magnet | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19937&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Cute Unicorn En | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2454&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Pen kk-7193 | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4352&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Kuki Dolphin Fun Gel | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2457&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Pen kk-7246 | $1.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2443&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Pen kk-7248 | $1.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2444&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Pen kk-7412 | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2447&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Pen kk-7416 | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2446&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Pen kk-7448 | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2656&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Pen kk-7760 | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4358&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Pen kk-7761 | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4359&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Kuki Foodie Gel Pen | $0.71 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4880&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Pen kk-7962 | $1.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4881&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Pen kk-7965 | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4883&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Kuki Cocoa Dessert P | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19941&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Kuki Capybara Pencil | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19931&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Kuki Hotdog Lipstick | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19948&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Kuki Cute Axoloti Li | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19945&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: KUKI Forest Pals Ser | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26989&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Kuki Capybara Lipsti | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19932&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Ezaki Glico Strawber | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15762&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Furuta Strawberry Sa | $3.28 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24215&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Furuta Chocolate 114 | $3.28 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24216&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Fujiya Sanrio Chocol | $1.02 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2316&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Fujiya Hello Kitty & | $1.37 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30058&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Meiji Macadamia Nut | $2.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30485&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Lotte Almond Chocola | $2.72 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4988&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: UHA Long Sakeru Stri | $0.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19987&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: UHA Long Sakeru Stri | $0.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19988&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: UHA Mikakuto Cororo | $1.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25750&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: UHA MIKAKUTO Cororo | $1.12 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24372&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: UHA Mikakuto Cororo | $1.12 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24373&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: UHA Mikakuto Cororo | $1.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25749&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: WantWant Seriously! | $1.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31104&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: WantWant Seriously! | $1.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31103&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: WantWant Seriously! | $1.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31102&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: WantWant Seriously! | $2.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31105&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: WantWant Sour Operat | $1.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31099&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: WantWant Sour Operat | $1.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30890&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Kasugai Grape Gummy | $1.83 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19961&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Kasugai KiwiFruit Gu | $1.83 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19959&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Kasugai Gummy Candy | $1.83 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11471&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Kasugai Assorted fru | $1.83 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24374&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Kabaya Shaved Ice Gu | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28927&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Kabaya Watermelon Gu | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28928&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Kracie Mentos Cola F | $1.21 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30479&limit=100
+2026-09-03 17:43:20,392 INFO   NEW: Fujiya Chiikawa Char | $1.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30056&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Fujiya GATSUN! Gummy | $1.72 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30734&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Meiji Fruit Gummy Da | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30963&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Morinaga Mixed Fruit | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27081&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Morinaga Gummy Candy | $1.47 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29022&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Lion Peach-Famous Re | $1.73 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28929&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Asahi Mintia Cold Sm | $1.21 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9728&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: SKITTLES Extra Soury | $1.07 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27011&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: SKITTLES Original Fr | $1.07 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27010&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: MORINAGA Hi-Chew Bag | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27022&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: ORIHIRO Konjac Jelly | $1.43 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29526&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Orihiro Agar Jelly I | $2.68 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29525&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Orihiro Agar Jelly I | $2.68 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29523&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Orihiro Agar Jelly I | $2.68 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29524&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Coca-Cola Qoo Jelly | $2.18 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5337&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Coca-Cola Qoo Jelly | $2.18 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5335&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Coca-Cola Qoo Jelly | $2.18 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=287&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Pokka Sapporo Jelly | $2.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28932&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Tarami Fruit Jelly W | $1.61 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31592&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Ash Cake Lemon Flavo | $3.32 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12358&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Lotte Black Chocolat | $1.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23766&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Lotte Chocolate Pie | $4.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30874&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Seiki Mikan Mochi 13 | $2.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19588&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Seiki Kibidango Moch | $2.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19590&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Seiki Strawberry Moc | $9.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19591&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Seiki Matcha Mochi 2 | $9.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19593&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Seiki Shine Muscat D | $9.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19594&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Seiki Kibi-dango Dra | $2.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19596&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Seiki Chilled Melon | $2.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19599&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Seiki Glutinous Rice | $2.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=599&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Seiki Pineapple Moch | $2.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31100&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Seiki Dried Sweet Po | $2.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31101&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Seiki Glutinous Rice | $2.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14522&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Orion Cutie Pie Moch | $4.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24225&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Orion Cutie Pie Stra | $4.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24228&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Orion Choco Pie Rich | $4.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31145&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Orion Choco Pie Clas | $4.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29731&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Ezaki Glico Pocky Ex | $1.97 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23107&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Nestle KitKat Carame | $3.65 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28911&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Nestle KitKat Chocol | $3.65 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30054&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Furuta SLO Biscuit C | $3.17 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22187&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Fujiya Chocolate Waf | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31094&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: LOTTE Pepero Chocola | $1.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24902&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: LOTTE Pepero White C | $1.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24900&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: LOTTE Pepero Crunchy | $1.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24901&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Bourbon Spicy Flavor | $2.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31587&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Frito-Lay Corn Stick | $1.44 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15537&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: YBC Airreal Corn Puf | $1.45 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30490&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: YBC Aerial Corn Snac | $1.45 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18733&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Asahi Rich Black Cof | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10918&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: House C1000 Vitamin | $1.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8771&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: House C1000 Vitamin | $1.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=306&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: House Vitamin C1000 | $1.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31589&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: House Vitamin C1000 | $1.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31588&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Itoen Nippon Ale Miy | $1.45 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30877&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Suntory Big Zero Pep | $1.56 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25073&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Suntory Craft Boss S | $1.75 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31095&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Suntory Starbucks Co | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31096&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Coca-Cola Water Whit | $1.56 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10374&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Nippon Sangaria Beve | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13568&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Sangaria Natural Wat | $1.10 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3152&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Sangaria Drink Caram | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18792&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Sangaria White Grape | $1.71 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31590&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Pokka Sapporo Blue H | $1.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28931&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Hata Soda Grapefruit | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25720&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Fujiya Nectar Sparkl | $1.67 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31098&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Fujiya Peko Sauce's | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31593&limit=100
+2026-09-03 17:43:20,393 INFO   NEW: Kirin FIRE Black Cof | $1.33 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10035&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Kirin Afternoon Stra | $1.57 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18797&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Kirin Orange & Grape | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23205&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Kikkoman Soybean Dri | $1.16 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18798&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Kikkoman Soybean Dri | $1.16 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18799&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Kikkoman Soybean Dri | $1.16 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18801&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Kikkoman Soybean Dri | $1.16 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18802&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Pokka Sapporo Lemona | $1.28 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9388&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: UCC Hawaii Kona Blen | $1.80 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26462&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Moshi Yuzu Sparkling | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3614&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Moshi Yuzu White Pea | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3881&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Moshi Yuzu Red Shiso | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1389&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Moshi Uji Matcha Spa | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3621&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Moshi Uji Matcha Spa | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3620&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Moshi Oolong Tea Lyc | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1387&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Moshi Oolong Tea Pas | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1388&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Moshi Sparkling Wate | $1.74 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11256&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: UCC Matcha Latte 260 | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4023&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Asahi Calpico Strawb | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4109&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Asahi Calpico Mango | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4108&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Asahi Calpico Melon | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2336&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Asahi Calpico Lychee | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3992&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Asahi Calpico Peach | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4110&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Asahi Calpico Mandar | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22497&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Yamamotoyama Green T | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30703&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Yamamotoyama Green T | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30702&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Yamamotoyama Green T | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30701&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Yamamotoyama Green T | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30700&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: UCC Coffee 16P Green | $6.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23739&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: UCC Coffee 16P Red | $6.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23740&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: UCC Coffee 16P Blue | $6.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23741&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: UCC Coffee 16P Golde | $6.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23742&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Meito Milk Cocoa Pow | $3.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28930&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Urashima Nori Ebi Fu | $3.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50966&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Takaokaya Doraemon F | $3.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50965&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Takaokaya Doraemon G | $3.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50964&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Takaokaya Doraemon F | $3.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50962&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Takaokaya Doraemon F | $3.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50963&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: S&B Umami Topping Cr | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50967&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: S&B Umami Topping Cr | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50968&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Kewpie Mayonnaise 45 | $4.96 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7033&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: New Touch Miso Ramen | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27027&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: New Touch Tonkotsu R | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27028&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Nissin Spicy Ramen 1 | $3.42 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18785&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Menraku Japanese Soy | $1.96 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4067&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Menraku Japanese Ram | $1.96 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2395&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: Menraku Japanese Ton | $1.96 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4066&limit=100
+2026-09-03 17:43:20,394 INFO   NEW: HIKARI MENRAKU Ramen | $1.96 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27025&limit=100
+2026-09-03 17:43:21,760 INFO Email sent: Ebisu: 181 new/restocked items!
+2026-09-03 17:43:22,137 INFO ntfy push sent: Ebisu: 181 new/restocked items!
+2026-09-03 17:43:22,141 INFO === Run finished ===
