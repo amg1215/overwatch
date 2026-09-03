@@ -4934,3 +4934,9 @@
 2026-09-03 17:46:15,831 INFO === Run started ===
 2026-09-03 17:46:23,215 INFO No new products (381 tracked)
 2026-09-03 17:46:23,217 INFO === Run finished ===
+2026-09-03 17:47:13,697 INFO === Run started ===
+2026-09-03 17:47:23,907 INFO NEW/RESTOCKED products detected: 1
+2026-09-03 17:47:23,907 INFO   NEW: Kimura White Grape S | $2.52 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3805&limit=100
+2026-09-03 17:47:25,705 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-03 17:47:25,914 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-03 17:47:25,917 INFO === Run finished ===
