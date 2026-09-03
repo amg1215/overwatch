@@ -4669,3 +4669,61 @@
 2026-09-03 17:37:13,789 INFO === Run started ===
 2026-09-03 17:37:23,264 INFO No new products (368 tracked)
 2026-09-03 17:37:23,266 INFO === Run finished ===
+2026-09-03 17:38:13,650 INFO === Run started ===
+2026-09-03 17:38:23,747 INFO NEW/RESTOCKED products detected: 53
+2026-09-03 17:38:23,747 INFO   NEW: Kao Biore UV Aqua Ri | $7.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4208&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: RE-MENT Pokemon Deco | $11.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28758&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: Megahouse Toys MEGA | $14.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29012&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: Here Dream Island ZI | $11.80 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21710&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: Here Dream Island Al | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21711&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: Here Dream Island ZI | $11.80 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21712&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: Here SIINONO Want To | $14.38 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26780&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: Here Vivistar Sdaily | $12.72 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26782&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: Here WAKUKU Wowaku's | $15.30 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50315&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: Here FUNII Child Of | $12.75 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26778&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: Here ZIYULI Ghostly | $11.75 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26785&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: Here ZIYULI Cloud La | $11.80 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26787&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: Here WAKUKU On A Rol | $11.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28624&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: Here ZIYULI Ghostly | $12.40 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50319&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: Here XINYE City Elf | $12.75 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26786&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: Here PIDOL Dream Mak | $15.30 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50322&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: Here SiiNONO TA Is W | $15.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50320&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: Here FIILA Global St | $11.75 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26779&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: Here AWHY Costume Pa | $8.40 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50314&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: Here AWHY A Small Th | $4.52 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50317&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: Here SIINONO Hang A | $11.74 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50321&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: EAKI SPY×FAMILY Mini | $3.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31369&limit=100
+2026-09-03 17:38:23,747 INFO   NEW: EAKI SPY×FAMILY Keyc | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31370&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI SPY×FAMILY Cat | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31371&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Frieren: Beyond | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31376&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI SPY×FAMILY Anim | $9.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31372&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Frieren: Beyond | $9.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31377&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI New Prince Of T | $9.08 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31396&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI The Prince of T | $2.34 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31394&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI The Prince of T | $2.34 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31395&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Naruto Badge Vo | $2.34 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31379&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Shinobi Assembl | $3.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31382&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI SPY×FAMILY Sitt | $6.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31373&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Frieren: Beyond | $6.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31378&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Bocchi The Rock | $8.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26518&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Jujutsu Kaisen | $3.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31381&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Naruto“Moe Dudu | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26515&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Bocchi the Rock | $2.34 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31391&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Naruto Beast Pa | $14.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31387&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Sakamoto Daily | $12.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31389&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Demon Slayer Sh | $3.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31393&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Naruto Shippude | $2.34 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31386&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Naruto Shippude | $2.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31383&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Demon Slayer: K | $2.34 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31392&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Naruto Shippude | $2.34 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31384&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Naruto Cute Bea | $14.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26514&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Jojos Bizarre A | $2.34 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31398&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Frieren: Beyond | $2.34 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31374&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Naruto Shippude | $2.34 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31380&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Jujutsu Kaisen | $9.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31390&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Frieren: Beyond | $2.34 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31375&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: EAKI Jujutsu Kaisen | $2.34 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31388&limit=100
+2026-09-03 17:38:23,748 INFO   NEW: Kirin FIRE Black Cof | $1.33 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10035&limit=100
+2026-09-03 17:38:24,899 INFO Email sent: Ebisu: 53 new/restocked items!
+2026-09-03 17:38:25,210 INFO ntfy push sent: Ebisu: 53 new/restocked items!
+2026-09-03 17:38:25,213 INFO === Run finished ===
