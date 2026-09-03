@@ -870,6 +870,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31398&limit=100",
       "stock": "n/a"
     },
+    "31374": {
+      "name": "EAKI Frieren: Beyond",
+      "price": "$2.34",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31374&limit=100",
+      "stock": "n/a"
+    },
     "31380": {
       "name": "EAKI Naruto Shippude",
       "price": "$2.34",
@@ -2282,6 +2288,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-03T18:57:20",
-  "last_count": 380
+  "last_run": "2026-09-03T18:58:25",
+  "last_count": 381
 }
