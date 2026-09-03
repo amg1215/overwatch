@@ -210,12 +210,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17348&limit=100",
       "stock": "n/a"
     },
-    "17349": {
-      "name": "MilleFée Glamorous L",
-      "price": "$11.03",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17349&limit=100",
-      "stock": "n/a"
-    },
     "17361": {
       "name": "MilleFée Antoinette",
       "price": "$12.99",
@@ -226,12 +220,6 @@
       "name": "MilleFée Antoinette",
       "price": "$12.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17365&limit=100",
-      "stock": "n/a"
-    },
-    "21350": {
-      "name": "MilleFée Glamorous L",
-      "price": "$11.03",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21350&limit=100",
       "stock": "n/a"
     },
     "21371": {
@@ -310,12 +298,6 @@
       "name": "MilleFée Shape Magic",
       "price": "$9.09",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21354&limit=100",
-      "stock": "n/a"
-    },
-    "21355": {
-      "name": "MilleFée Nuance Glow",
-      "price": "$11.03",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21355&limit=100",
       "stock": "n/a"
     },
     "21351": {
@@ -2198,6 +2180,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-03T20:45:23",
-  "last_count": 366
+  "last_run": "2026-09-03T20:46:25",
+  "last_count": 363
 }
