@@ -1062,12 +1062,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30677&limit=100",
       "stock": "n/a"
     },
-    "29583": {
-      "name": "Guangbo Animal Costu",
-      "price": "$15.39",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29583&limit=100",
-      "stock": "n/a"
-    },
     "29580": {
       "name": "Guangbo Plush Doll H",
       "price": "$14.29",
@@ -1090,12 +1084,6 @@
       "name": "Taito Toradora Deskt",
       "price": "$21.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50858&limit=100",
-      "stock": "n/a"
-    },
-    "50401": {
-      "name": "BANDAI SPIRITS ONEpc",
-      "price": "$27.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50401&limit=100",
       "stock": "n/a"
     },
     "50402": {
@@ -2240,6 +2228,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-03T13:48:20",
-  "last_count": 373
+  "last_run": "2026-09-03T13:49:17",
+  "last_count": 371
 }
