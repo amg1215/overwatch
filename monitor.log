@@ -7620,3 +7620,9 @@
 2026-09-04 19:28:13,723 INFO === Run started ===
 2026-09-04 19:28:22,194 INFO No new products (440 tracked)
 2026-09-04 19:28:22,197 INFO === Run finished ===
+2026-09-04 19:29:11,166 INFO === Run started ===
+2026-09-04 19:29:19,741 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 19:29:19,741 INFO   NEW: Kao Curel Body Wash | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5002&limit=100
+2026-09-04 19:29:21,811 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:29:22,078 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:29:22,082 INFO === Run finished ===
