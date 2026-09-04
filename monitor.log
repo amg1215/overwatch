@@ -7786,3 +7786,10 @@
 2026-09-04 19:56:22,769 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-04 19:56:22,995 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-04 19:56:22,998 INFO === Run finished ===
+2026-09-04 19:57:23,672 INFO === Run started ===
+2026-09-04 19:57:31,723 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 19:57:31,723 INFO   NEW: Tsubaki Moisture Rep | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13216&limit=100
+2026-09-04 19:57:31,723 INFO   NEW: Kojima Spicy Grilled | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24868&limit=100
+2026-09-04 19:57:33,637 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 19:57:33,876 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 19:57:33,880 INFO === Run finished ===
