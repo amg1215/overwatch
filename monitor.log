@@ -7088,3 +7088,10 @@
 2026-09-04 17:11:20,716 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 17:11:20,923 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 17:11:20,927 INFO === Run finished ===
+2026-09-04 17:12:11,741 INFO === Run started ===
+2026-09-04 17:12:18,023 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 17:12:18,023 INFO   NEW: Lion Children's Toot | $1.13 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9664&limit=100
+2026-09-04 17:12:18,023 INFO   NEW: Zebra Fluorescent Pe | $4.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6097&limit=100
+2026-09-04 17:12:19,158 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 17:12:19,299 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 17:12:19,303 INFO === Run finished ===
