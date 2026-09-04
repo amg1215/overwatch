@@ -7502,3 +7502,9 @@
 2026-09-04 19:05:24,610 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:05:24,825 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:05:24,829 INFO === Run finished ===
+2026-09-04 19:06:17,986 INFO === Run started ===
+2026-09-04 19:06:25,039 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 19:06:25,039 INFO   NEW: John's Blend Solid O | $6.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3643&limit=100
+2026-09-04 19:06:26,465 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:06:26,630 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:06:26,633 INFO === Run finished ===
