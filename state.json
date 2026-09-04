@@ -2880,6 +2880,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24037&limit=100",
       "stock": "n/a"
     },
+    "24038": {
+      "name": "KOIKEYA Karamujyu Ch",
+      "price": "$1.52",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24038&limit=100",
+      "stock": "n/a"
+    },
     "31587": {
       "name": "Bourbon Spicy Flavor",
       "price": "$2.19",
@@ -3476,6 +3482,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T23:23:19",
-  "last_count": 579
+  "last_run": "2026-09-04T23:24:27",
+  "last_count": 580
 }

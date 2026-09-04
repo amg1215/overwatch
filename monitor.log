@@ -8740,3 +8740,9 @@
 2026-09-04 23:23:10,323 INFO === Run started ===
 2026-09-04 23:23:19,908 INFO No new products (579 tracked)
 2026-09-04 23:23:19,912 INFO === Run finished ===
+2026-09-04 23:24:13,053 INFO === Run started ===
+2026-09-04 23:24:23,556 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 23:24:23,556 INFO   NEW: KOIKEYA Karamujyu Ch | $1.52 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24038&limit=100
+2026-09-04 23:24:26,849 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 23:24:27,096 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 23:24:27,100 INFO === Run finished ===
