@@ -8134,3 +8134,9 @@
 2026-09-04 21:03:12,989 INFO === Run started ===
 2026-09-04 21:03:21,874 INFO No new products (522 tracked)
 2026-09-04 21:03:21,876 INFO === Run finished ===
+2026-09-04 21:04:20,982 INFO === Run started ===
+2026-09-04 21:04:34,245 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 21:04:34,245 INFO   NEW: Shiseido Collagen Fa | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10137&limit=100
+2026-09-04 21:04:35,786 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 21:04:35,985 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 21:04:36,006 INFO === Run finished ===

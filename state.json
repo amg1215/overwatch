@@ -504,6 +504,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11488&limit=100",
       "stock": "n/a"
     },
+    "10137": {
+      "name": "Shiseido Collagen Fa",
+      "price": "$5.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10137&limit=100",
+      "stock": "n/a"
+    },
     "10138": {
       "name": "Shiseido Acne Removi",
       "price": "$5.39",
@@ -3134,6 +3140,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T21:03:21",
-  "last_count": 522
+  "last_run": "2026-09-04T21:04:35",
+  "last_count": 523
 }
