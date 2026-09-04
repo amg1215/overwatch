@@ -2520,6 +2520,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10799&limit=100",
       "stock": "n/a"
     },
+    "10708": {
+      "name": "Tarami Mixed Fruit J",
+      "price": "$1.68",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10708&limit=100",
+      "stock": "n/a"
+    },
     "31592": {
       "name": "Tarami Fruit Jelly W",
       "price": "$1.61",
@@ -3176,6 +3182,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T21:34:23",
-  "last_count": 529
+  "last_run": "2026-09-04T21:35:23",
+  "last_count": 530
 }
