@@ -8307,3 +8307,9 @@
 2026-09-04 21:43:17,399 INFO === Run started ===
 2026-09-04 21:43:26,771 INFO No new products (530 tracked)
 2026-09-04 21:43:26,849 INFO === Run finished ===
+2026-09-04 21:44:11,135 INFO === Run started ===
+2026-09-04 21:44:19,263 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 21:44:19,263 INFO   NEW: Nittoh VC & Lemon Br | $3.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=325&limit=100
+2026-09-04 21:44:20,657 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 21:44:20,731 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 21:44:20,734 INFO === Run finished ===
