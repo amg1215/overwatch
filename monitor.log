@@ -7551,3 +7551,9 @@
 2026-09-04 19:14:11,946 INFO === Run started ===
 2026-09-04 19:14:19,648 INFO No new products (429 tracked)
 2026-09-04 19:14:19,651 INFO === Run finished ===
+2026-09-04 19:15:19,513 INFO === Run started ===
+2026-09-04 19:15:26,927 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 19:15:26,928 INFO   NEW: ECHO  Skimmer 8.5cm | $1.21 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6762&limit=100
+2026-09-04 19:15:29,144 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:15:29,509 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:15:29,512 INFO === Run finished ===
