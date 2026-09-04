@@ -132,6 +132,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10054&limit=100",
       "stock": "n/a"
     },
+    "7130": {
+      "name": "Sanada Fit in pack 1",
+      "price": "$1.20",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7130&limit=100",
+      "stock": "n/a"
+    },
     "6762": {
       "name": "ECHO  Skimmer 8.5cm",
       "price": "$1.21",
@@ -2876,6 +2882,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T19:57:33",
-  "last_count": 479
+  "last_run": "2026-09-04T19:58:26",
+  "last_count": 480
 }

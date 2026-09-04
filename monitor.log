@@ -7793,3 +7793,9 @@
 2026-09-04 19:57:33,637 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-04 19:57:33,876 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-04 19:57:33,880 INFO === Run finished ===
+2026-09-04 19:58:15,334 INFO === Run started ===
+2026-09-04 19:58:23,532 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 19:58:23,532 INFO   NEW: Sanada Fit in pack 1 | $1.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7130&limit=100
+2026-09-04 19:58:26,172 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:58:26,352 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:58:26,356 INFO === Run finished ===
