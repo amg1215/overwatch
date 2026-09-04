@@ -8080,3 +8080,9 @@
 2026-09-04 20:52:12,478 INFO === Run started ===
 2026-09-04 20:52:22,508 INFO No new products (517 tracked)
 2026-09-04 20:52:22,511 INFO === Run finished ===
+2026-09-04 20:53:13,550 INFO === Run started ===
+2026-09-04 20:53:24,724 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 20:53:24,724 INFO   NEW: Asunarosha SLO Hello | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22826&limit=100
+2026-09-04 20:53:26,805 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 20:53:27,063 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 20:53:27,067 INFO === Run finished ===
