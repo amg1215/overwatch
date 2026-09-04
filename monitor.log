@@ -8761,3 +8761,9 @@
 2026-09-04 23:28:12,029 INFO === Run started ===
 2026-09-04 23:28:21,362 INFO No new products (581 tracked)
 2026-09-04 23:28:21,366 INFO === Run finished ===
+2026-09-04 23:29:11,237 INFO === Run started ===
+2026-09-04 23:29:21,292 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 23:29:21,292 INFO   NEW: Tamsui Fisherman Cor | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30788&limit=100
+2026-09-04 23:29:23,210 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 23:29:23,471 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 23:29:23,475 INFO === Run finished ===
