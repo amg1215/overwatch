@@ -2778,6 +2778,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24050&limit=100",
       "stock": "n/a"
     },
+    "26647": {
+      "name": "Hwa Yuan Potato Chip",
+      "price": "$1.53",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26647&limit=100",
+      "stock": "n/a"
+    },
     "26646": {
       "name": "Hwa Yuan Potato Chip",
       "price": "$1.53",
@@ -3464,6 +3470,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T23:18:26",
-  "last_count": 577
+  "last_run": "2026-09-04T23:19:23",
+  "last_count": 578
 }
