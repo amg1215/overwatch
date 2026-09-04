@@ -7527,3 +7527,9 @@
 2026-09-04 19:09:18,850 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-04 19:09:18,929 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-04 19:09:18,932 INFO === Run finished ===
+2026-09-04 19:10:17,343 INFO === Run started ===
+2026-09-04 19:10:25,173 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 19:10:25,174 INFO   NEW: Ost GLOOMY Violent B | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23071&limit=100
+2026-09-04 19:10:26,627 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:10:26,918 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:10:26,922 INFO === Run finished ===
