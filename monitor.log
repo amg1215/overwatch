@@ -8203,3 +8203,9 @@
 2026-09-04 21:16:21,804 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-04 21:16:22,037 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-04 21:16:22,041 INFO === Run finished ===
+2026-09-04 21:17:15,505 INFO === Run started ===
+2026-09-04 21:17:24,581 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 21:17:24,581 INFO   NEW: Kimura Fujiyama Soda | $2.54 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4009&limit=100
+2026-09-04 21:17:28,647 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 21:17:28,931 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 21:17:28,935 INFO === Run finished ===
