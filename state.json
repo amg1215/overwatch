@@ -2604,6 +2604,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24866&limit=100",
       "stock": "n/a"
     },
+    "24867": {
+      "name": "Kojima Grilled Ray F",
+      "price": "$1.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24867&limit=100",
+      "stock": "n/a"
+    },
     "24868": {
       "name": "Kojima Spicy Grilled",
       "price": "$1.79",
@@ -2620,6 +2626,12 @@
       "name": "Kojima Black Pepper",
       "price": "$1.79",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24871&limit=100",
+      "stock": "n/a"
+    },
+    "24874": {
+      "name": "Kojima Grilled Sea B",
+      "price": "$2.09",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24874&limit=100",
       "stock": "n/a"
     },
     "10918": {
@@ -2972,6 +2984,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T20:09:19",
-  "last_count": 495
+  "last_run": "2026-09-04T20:10:24",
+  "last_count": 497
 }
