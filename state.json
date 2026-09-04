@@ -768,6 +768,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13107&limit=100",
       "stock": "n/a"
     },
+    "13110": {
+      "name": "Masse Molly Perfume",
+      "price": "$4.48",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13110&limit=100",
+      "stock": "n/a"
+    },
     "10504": {
       "name": "Sanrio Compact Comb",
       "price": "$4.19",
@@ -2844,6 +2850,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18802&limit=100",
       "stock": "n/a"
     },
+    "4342": {
+      "name": "Kimura Strawberry So",
+      "price": "$2.52",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4342&limit=100",
+      "stock": "n/a"
+    },
     "4345": {
       "name": "Kimura Peach Soda 24",
       "price": "$2.52",
@@ -3122,6 +3134,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T21:15:30",
-  "last_count": 520
+  "last_run": "2026-09-04T21:16:22",
+  "last_count": 522
 }

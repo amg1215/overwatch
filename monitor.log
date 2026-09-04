@@ -8196,3 +8196,10 @@
 2026-09-04 21:15:30,555 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 21:15:30,710 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 21:15:30,713 INFO === Run finished ===
+2026-09-04 21:16:11,056 INFO === Run started ===
+2026-09-04 21:16:19,841 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 21:16:19,841 INFO   NEW: Masse Molly Perfume | $4.48 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13110&limit=100
+2026-09-04 21:16:19,841 INFO   NEW: Kimura Strawberry So | $2.52 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4342&limit=100
+2026-09-04 21:16:21,804 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 21:16:22,037 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 21:16:22,041 INFO === Run finished ===
