@@ -6575,3 +6575,25 @@
 2026-09-04 14:54:14,353 INFO === Run started ===
 2026-09-04 14:54:20,536 INFO No new products (333 tracked)
 2026-09-04 14:54:20,538 INFO === Run finished ===
+2026-09-04 14:55:14,130 INFO === Run started ===
+2026-09-04 14:55:20,665 INFO NEW/RESTOCKED products detected: 17
+2026-09-04 14:55:20,665 INFO   NEW: Moetch HELLO KITTY A | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30043&limit=100
+2026-09-04 14:55:20,665 INFO   NEW: Taito Toradora Deskt | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50858&limit=100
+2026-09-04 14:55:20,665 INFO   NEW: Taito Frieren Beyond | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51163&limit=100
+2026-09-04 14:55:20,665 INFO   NEW: Taito Wandering Witc | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51292&limit=100
+2026-09-04 14:55:20,665 INFO   NEW: Banpresto ONE PIECE | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50447&limit=100
+2026-09-04 14:55:20,665 INFO   NEW: Bandai Spirits Umamu | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50971&limit=100
+2026-09-04 14:55:20,665 INFO   NEW: Banpresto Dragon Bal | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51160&limit=100
+2026-09-04 14:55:20,665 INFO   NEW: Banpresto Dragon Bal | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51157&limit=100
+2026-09-04 14:55:20,665 INFO   NEW: Banpresto UNDERTALE | $20.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51151&limit=100
+2026-09-04 14:55:20,665 INFO   NEW: Sega Fave A Certain | $20.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50237&limit=100
+2026-09-04 14:55:20,665 INFO   NEW: Sega Fave A Certain | $20.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50238&limit=100
+2026-09-04 14:55:20,666 INFO   NEW: FuRyu Kasane Teto No | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50326&limit=100
+2026-09-04 14:55:20,666 INFO   NEW: FuRyu Hatsune Miku G | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51161&limit=100
+2026-09-04 14:55:20,666 INFO   NEW: FuRyu Frieren Beyond | $20.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51156&limit=100
+2026-09-04 14:55:20,666 INFO   NEW: Bandai ONE PIECE Car | $6.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51125&limit=100
+2026-09-04 14:55:20,666 INFO   NEW: Calpicousa Asahi Cal | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28501&limit=100
+2026-09-04 14:55:20,666 INFO   NEW: Takaokaya Doraemon F | $3.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51322&limit=100
+2026-09-04 14:55:22,130 INFO Email sent: Ebisu: 17 new/restocked items!
+2026-09-04 14:55:22,320 INFO ntfy push sent: Ebisu: 17 new/restocked items!
+2026-09-04 14:55:22,323 INFO === Run finished ===
