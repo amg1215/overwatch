@@ -8388,3 +8388,9 @@
 2026-09-04 22:08:11,540 INFO === Run started ===
 2026-09-04 22:08:20,591 INFO No new products (532 tracked)
 2026-09-04 22:08:20,595 INFO === Run finished ===
+2026-09-04 22:09:10,121 INFO === Run started ===
+2026-09-04 22:09:18,924 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 22:09:18,924 INFO   NEW: Hayashi Rilakkuma To | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11489&limit=100
+2026-09-04 22:09:21,803 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 22:09:21,968 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 22:09:21,972 INFO === Run finished ===

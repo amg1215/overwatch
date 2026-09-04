@@ -534,6 +534,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11488&limit=100",
       "stock": "n/a"
     },
+    "11489": {
+      "name": "Hayashi Rilakkuma To",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11489&limit=100",
+      "stock": "n/a"
+    },
     "10137": {
       "name": "Shiseido Collagen Fa",
       "price": "$5.39",
@@ -3194,6 +3200,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T22:08:20",
-  "last_count": 532
+  "last_run": "2026-09-04T22:09:21",
+  "last_count": 533
 }
