@@ -7473,3 +7473,9 @@
 2026-09-04 19:00:34,000 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:00:34,250 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:00:34,254 INFO === Run finished ===
+2026-09-04 19:01:18,043 INFO === Run started ===
+2026-09-04 19:01:25,504 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 19:01:25,504 INFO   NEW: API Keychain Hachiwa | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13649&limit=100
+2026-09-04 19:01:27,856 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:01:28,113 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:01:28,130 INFO === Run finished ===
