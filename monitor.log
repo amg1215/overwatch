@@ -8436,3 +8436,9 @@
 2026-09-04 22:21:22,784 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 22:21:22,902 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 22:21:22,906 INFO === Run finished ===
+2026-09-04 22:22:16,849 INFO === Run started ===
+2026-09-04 22:22:26,140 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 22:22:26,140 INFO   NEW: Ocean Plus Crispy Al | $4.45 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22013&limit=100
+2026-09-04 22:22:27,677 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 22:22:27,756 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 22:22:27,760 INFO === Run finished ===

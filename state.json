@@ -2724,6 +2724,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18733&limit=100",
       "stock": "n/a"
     },
+    "22013": {
+      "name": "Ocean Plus Crispy Al",
+      "price": "$4.45",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22013&limit=100",
+      "stock": "n/a"
+    },
     "24866": {
       "name": "Kojima Dried Squid 1",
       "price": "$1.79",
@@ -3212,6 +3218,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T22:21:22",
-  "last_count": 535
+  "last_run": "2026-09-04T22:22:27",
+  "last_count": 536
 }
