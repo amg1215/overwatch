@@ -2736,6 +2736,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24901&limit=100",
       "stock": "n/a"
     },
+    "18242": {
+      "name": "Lay's Potato Chips D",
+      "price": "$1.45",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18242&limit=100",
+      "stock": "n/a"
+    },
     "19376": {
       "name": "Lay's Potato Chips T",
       "price": "$1.45",
@@ -3302,6 +3308,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T22:37:20",
-  "last_count": 550
+  "last_run": "2026-09-04T22:38:23",
+  "last_count": 551
 }
