@@ -8570,3 +8570,9 @@
 2026-09-04 22:45:27,327 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 22:45:27,668 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 22:45:27,672 INFO === Run finished ===
+2026-09-04 22:46:13,784 INFO === Run started ===
+2026-09-04 22:46:23,849 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 22:46:23,850 INFO   NEW: Myojo Miyazaki Spicy | $6.57 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10428&limit=100
+2026-09-04 22:46:25,811 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 22:46:26,178 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 22:46:26,183 INFO === Run finished ===
