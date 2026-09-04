@@ -2592,6 +2592,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16947&limit=100",
       "stock": "n/a"
     },
+    "17138": {
+      "name": "Ace Bakery Jelly Gra",
+      "price": "$3.29",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17138&limit=100",
+      "stock": "n/a"
+    },
     "12358": {
       "name": "Ash Cake Lemon Flavo",
       "price": "$3.32",
@@ -3350,6 +3356,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T22:44:23",
-  "last_count": 558
+  "last_run": "2026-09-04T22:45:27",
+  "last_count": 559
 }

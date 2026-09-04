@@ -8564,3 +8564,9 @@
 2026-09-04 22:44:14,139 INFO === Run started ===
 2026-09-04 22:44:23,433 INFO No new products (558 tracked)
 2026-09-04 22:44:23,437 INFO === Run finished ===
+2026-09-04 22:45:15,821 INFO === Run started ===
+2026-09-04 22:45:25,407 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 22:45:25,407 INFO   NEW: Ace Bakery Jelly Gra | $3.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17138&limit=100
+2026-09-04 22:45:27,327 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 22:45:27,668 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 22:45:27,672 INFO === Run finished ===
