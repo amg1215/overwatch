@@ -7455,3 +7455,9 @@
 2026-09-04 18:56:24,407 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-04 18:56:24,649 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-04 18:56:24,652 INFO === Run finished ===
+2026-09-04 18:57:10,010 INFO === Run started ===
+2026-09-04 18:57:17,090 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 18:57:17,090 INFO   NEW: Rohto Acnes Acne rem | $7.45 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12034&limit=100
+2026-09-04 18:57:18,469 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 18:57:18,594 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 18:57:18,597 INFO === Run finished ===

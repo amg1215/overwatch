@@ -222,6 +222,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=210&limit=100",
       "stock": "n/a"
     },
+    "12034": {
+      "name": "Rohto Acnes Acne rem",
+      "price": "$7.45",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12034&limit=100",
+      "stock": "n/a"
+    },
     "29445": {
       "name": "COSMETEX ROLAND Hors",
       "price": "$3.69",
@@ -2480,6 +2486,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T18:56:24",
-  "last_count": 413
+  "last_run": "2026-09-04T18:57:18",
+  "last_count": 414
 }
