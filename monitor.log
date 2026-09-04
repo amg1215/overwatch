@@ -6641,3 +6641,16 @@
 2026-09-04 15:07:19,704 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-04 15:07:19,932 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-04 15:07:19,935 INFO === Run finished ===
+2026-09-04 15:08:14,632 INFO === Run started ===
+2026-09-04 15:08:21,259 INFO NEW/RESTOCKED products detected: 8
+2026-09-04 15:08:21,259 INFO   NEW: Taito OVERLORD Coref | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50397&limit=100
+2026-09-04 15:08:21,259 INFO   NEW: System Service Saga | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=49804&limit=100
+2026-09-04 15:08:21,259 INFO   NEW: FuRyu GODDESS OF VIC | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50859&limit=100
+2026-09-04 15:08:21,259 INFO   NEW: FuRyu Inuyasha Trio- | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50686&limit=100
+2026-09-04 15:08:21,259 INFO   NEW: FuRyu Frieren Beyond | $20.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51155&limit=100
+2026-09-04 15:08:21,259 INFO   NEW: FuRyu Frieren Beyond | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50800&limit=100
+2026-09-04 15:08:21,259 INFO   NEW: KONAMI Arcade Games | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50246&limit=100
+2026-09-04 15:08:21,259 INFO   NEW: Coca-Cola Water Whit | $1.56 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10374&limit=100
+2026-09-04 15:08:22,986 INFO Email sent: Ebisu: 8 new/restocked items!
+2026-09-04 15:08:23,255 INFO ntfy push sent: Ebisu: 8 new/restocked items!
+2026-09-04 15:08:23,258 INFO === Run finished ===
