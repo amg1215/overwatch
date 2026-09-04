@@ -7557,3 +7557,10 @@
 2026-09-04 19:15:29,144 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:15:29,509 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:15:29,512 INFO === Run finished ===
+2026-09-04 19:16:11,716 INFO === Run started ===
+2026-09-04 19:16:19,225 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 19:16:19,225 INFO   NEW: Sanyo Selected Cotto | $1.73 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2268&limit=100
+2026-09-04 19:16:19,225 INFO   NEW: Sanyo Adult Slender | $2.03 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2272&limit=100
+2026-09-04 19:16:21,958 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 19:16:22,127 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 19:16:22,130 INFO === Run finished ===

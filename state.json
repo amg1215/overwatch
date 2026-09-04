@@ -480,10 +480,22 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2266&limit=100",
       "stock": "n/a"
     },
+    "2268": {
+      "name": "Sanyo Selected Cotto",
+      "price": "$1.73",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2268&limit=100",
+      "stock": "n/a"
+    },
     "2270": {
       "name": "Sanyo 360 Degree Ear",
       "price": "$1.42",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2270&limit=100",
+      "stock": "n/a"
+    },
+    "2272": {
+      "name": "Sanyo Adult Slender",
+      "price": "$2.03",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2272&limit=100",
       "stock": "n/a"
     },
     "9437": {
@@ -2582,6 +2594,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T19:15:29",
-  "last_count": 430
+  "last_run": "2026-09-04T19:16:22",
+  "last_count": 432
 }
