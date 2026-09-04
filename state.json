@@ -1050,12 +1050,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29012&limit=100",
       "stock": "n/a"
     },
-    "25930": {
-      "name": "Dreams SMISKI Glow-i",
-      "price": "$5.35",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25930&limit=100",
-      "stock": "n/a"
-    },
     "21710": {
       "name": "Here Dream Island ZI",
       "price": "$11.80",
@@ -3170,6 +3164,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T21:28:22",
-  "last_count": 528
+  "last_run": "2026-09-04T21:29:21",
+  "last_count": 527
 }
