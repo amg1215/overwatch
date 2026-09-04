@@ -7072,3 +7072,10 @@
 2026-09-04 17:08:11,675 INFO === Run started ===
 2026-09-04 17:08:18,024 INFO No new products (387 tracked)
 2026-09-04 17:08:18,027 INFO === Run finished ===
+2026-09-04 17:09:16,805 INFO === Run started ===
+2026-09-04 17:09:23,492 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 17:09:23,492 INFO   NEW: MARO Cooling Shower | $7.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14117&limit=100
+2026-09-04 17:09:23,492 INFO   NEW: Moist Diane Botanica | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14400&limit=100
+2026-09-04 17:09:24,996 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 17:09:25,078 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 17:09:25,082 INFO === Run finished ===

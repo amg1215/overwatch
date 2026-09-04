@@ -342,10 +342,22 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11250&limit=100",
       "stock": "n/a"
     },
+    "14117": {
+      "name": "MARO Cooling Shower",
+      "price": "$7.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14117&limit=100",
+      "stock": "n/a"
+    },
     "11787": {
       "name": "Botanist Moisturizin",
       "price": "$8.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11787&limit=100",
+      "stock": "n/a"
+    },
+    "14400": {
+      "name": "Moist Diane Botanica",
+      "price": "$8.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14400&limit=100",
       "stock": "n/a"
     },
     "22346": {
@@ -2324,6 +2336,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T17:08:18",
-  "last_count": 387
+  "last_run": "2026-09-04T17:09:25",
+  "last_count": 389
 }
