@@ -870,6 +870,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11250&limit=100",
       "stock": "n/a"
     },
+    "5010": {
+      "name": "Kao Curel Shampoo 42",
+      "price": "$8.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5010&limit=100",
+      "stock": "n/a"
+    },
     "4996": {
       "name": "Kao Curel Conditione",
       "price": "$8.99",
@@ -3092,6 +3098,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T20:43:21",
-  "last_count": 515
+  "last_run": "2026-09-04T20:44:25",
+  "last_count": 516
 }

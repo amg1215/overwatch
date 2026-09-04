@@ -8047,3 +8047,9 @@
 2026-09-04 20:43:11,669 INFO === Run started ===
 2026-09-04 20:43:21,123 INFO No new products (515 tracked)
 2026-09-04 20:43:21,125 INFO === Run finished ===
+2026-09-04 20:44:14,831 INFO === Run started ===
+2026-09-04 20:44:23,654 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 20:44:23,654 INFO   NEW: Kao Curel Shampoo 42 | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5010&limit=100
+2026-09-04 20:44:25,022 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 20:44:25,264 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 20:44:25,268 INFO === Run finished ===
