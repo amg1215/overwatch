@@ -8586,3 +8586,9 @@
 2026-09-04 22:48:23,735 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-04 22:48:23,935 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-04 22:48:23,939 INFO === Run finished ===
+2026-09-04 22:49:10,040 INFO === Run started ===
+2026-09-04 22:49:18,970 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 22:49:18,970 INFO   NEW: Daisho Various Taste | $4.23 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9386&limit=100
+2026-09-04 22:49:22,792 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 22:49:22,968 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 22:49:22,972 INFO === Run finished ===
