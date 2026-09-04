@@ -1578,6 +1578,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18685&limit=100",
       "stock": "n/a"
     },
+    "18686": {
+      "name": "Toman Toys Chiikawa",
+      "price": "$6.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18686&limit=100",
+      "stock": "n/a"
+    },
+    "18687": {
+      "name": "Toman Toys Chiikawa",
+      "price": "$6.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18687&limit=100",
+      "stock": "n/a"
+    },
     "23070": {
       "name": "Ost GLOOMY Violent B",
       "price": "$8.39",
@@ -2960,6 +2972,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T20:08:21",
-  "last_count": 493
+  "last_run": "2026-09-04T20:09:19",
+  "last_count": 495
 }
