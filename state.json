@@ -1356,12 +1356,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31387&limit=100",
       "stock": "n/a"
     },
-    "31389": {
-      "name": "EAKI Sakamoto Daily",
-      "price": "$12.29",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31389&limit=100",
-      "stock": "n/a"
-    },
     "31393": {
       "name": "EAKI Demon Slayer Sh",
       "price": "$3.49",
@@ -1932,12 +1926,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50684&limit=100",
       "stock": "n/a"
     },
-    "51155": {
-      "name": "FuRyu Frieren Beyond",
-      "price": "$20.39",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51155&limit=100",
-      "stock": "n/a"
-    },
     "50800": {
       "name": "FuRyu Frieren Beyond",
       "price": "$21.59",
@@ -1948,12 +1936,6 @@
       "name": "Nonzero Studio 1/100",
       "price": "$40.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20632&limit=100",
-      "stock": "n/a"
-    },
-    "50246": {
-      "name": "KONAMI Arcade Games",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50246&limit=100",
       "stock": "n/a"
     },
     "51125": {
@@ -3000,6 +2982,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23739&limit=100",
       "stock": "n/a"
     },
+    "23740": {
+      "name": "UCC Coffee 16P Red",
+      "price": "$6.20",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23740&limit=100",
+      "stock": "n/a"
+    },
     "23741": {
       "name": "UCC Coffee 16P Blue",
       "price": "$6.20",
@@ -3104,6 +3092,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T20:53:27",
-  "last_count": 517
+  "last_run": "2026-09-04T20:54:22",
+  "last_count": 515
 }

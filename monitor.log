@@ -8086,3 +8086,9 @@
 2026-09-04 20:53:26,805 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 20:53:27,063 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 20:53:27,067 INFO === Run finished ===
+2026-09-04 20:54:12,209 INFO === Run started ===
+2026-09-04 20:54:21,013 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 20:54:21,013 INFO   NEW: UCC Coffee 16P Red | $6.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23740&limit=100
+2026-09-04 20:54:22,538 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 20:54:22,718 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 20:54:22,722 INFO === Run finished ===
