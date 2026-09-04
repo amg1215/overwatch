@@ -7053,3 +7053,10 @@
 2026-09-04 17:03:19,573 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-04 17:03:19,827 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-04 17:03:19,831 INFO === Run finished ===
+2026-09-04 17:04:12,182 INFO === Run started ===
+2026-09-04 17:04:18,739 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 17:04:18,740 INFO   NEW: Botanist Moisturizin | $13.28 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11250&limit=100
+2026-09-04 17:04:18,740 INFO   NEW: Botanist Moisturizin | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11787&limit=100
+2026-09-04 17:04:20,368 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 17:04:20,629 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 17:04:20,689 INFO === Run finished ===
