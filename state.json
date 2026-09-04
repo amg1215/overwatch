@@ -6,6 +6,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9886&limit=100",
       "stock": "n/a"
     },
+    "9456": {
+      "name": "EBiSU Toothbrush Hel",
+      "price": "$1.29",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9456&limit=100",
+      "stock": "n/a"
+    },
     "9664": {
       "name": "Lion Children's Toot",
       "price": "$1.13",
@@ -1956,6 +1962,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31094&limit=100",
       "stock": "n/a"
     },
+    "22191": {
+      "name": "Maeda Shikamaru-kun",
+      "price": "$9.70",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22191&limit=100",
+      "stock": "n/a"
+    },
     "24902": {
       "name": "LOTTE Pepero Chocola",
       "price": "$1.35",
@@ -2360,6 +2372,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T17:20:29",
-  "last_count": 393
+  "last_run": "2026-09-04T17:21:23",
+  "last_count": 395
 }

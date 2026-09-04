@@ -7122,3 +7122,10 @@
 2026-09-04 17:20:29,640 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 17:20:29,821 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 17:20:29,823 INFO === Run finished ===
+2026-09-04 17:21:14,655 INFO === Run started ===
+2026-09-04 17:21:21,965 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 17:21:21,965 INFO   NEW: EBiSU Toothbrush Hel | $1.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9456&limit=100
+2026-09-04 17:21:21,965 INFO   NEW: Maeda Shikamaru-kun | $9.70 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22191&limit=100
+2026-09-04 17:21:23,755 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 17:21:23,986 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 17:21:23,989 INFO === Run finished ===
