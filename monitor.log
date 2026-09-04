@@ -8831,3 +8831,9 @@
 2026-09-04 23:46:12,948 INFO === Run started ===
 2026-09-04 23:46:22,886 INFO No new products (587 tracked)
 2026-09-04 23:46:22,889 INFO === Run finished ===
+2026-09-04 23:47:10,751 INFO === Run started ===
+2026-09-04 23:47:20,167 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 23:47:20,167 INFO   NEW: Red Sakura French Br | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22041&limit=100
+2026-09-04 23:47:21,897 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 23:47:22,255 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 23:47:22,258 INFO === Run finished ===
