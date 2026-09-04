@@ -6654,3 +6654,13 @@
 2026-09-04 15:08:22,986 INFO Email sent: Ebisu: 8 new/restocked items!
 2026-09-04 15:08:23,255 INFO ntfy push sent: Ebisu: 8 new/restocked items!
 2026-09-04 15:08:23,258 INFO === Run finished ===
+2026-09-04 15:09:10,443 INFO === Run started ===
+2026-09-04 15:09:16,802 INFO NEW/RESTOCKED products detected: 5
+2026-09-04 15:09:16,802 INFO   NEW: Banpresto JoJo's Biz | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51428&limit=100
+2026-09-04 15:09:16,802 INFO   NEW: Banpresto JoJo's Biz | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51426&limit=100
+2026-09-04 15:09:16,802 INFO   NEW: Banpresto One Piece | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51431&limit=100
+2026-09-04 15:09:16,802 INFO   NEW: Banpresto Dandadan G | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51432&limit=100
+2026-09-04 15:09:16,802 INFO   NEW: Banpresto Hatsune Mi | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50445&limit=100
+2026-09-04 15:09:18,776 INFO Email sent: Ebisu: 5 new/restocked items!
+2026-09-04 15:09:18,851 INFO ntfy push sent: Ebisu: 5 new/restocked items!
+2026-09-04 15:09:18,855 INFO === Run finished ===
