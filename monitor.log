@@ -8140,3 +8140,11 @@
 2026-09-04 21:04:35,786 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 21:04:35,985 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 21:04:36,006 INFO === Run finished ===
+2026-09-04 21:06:23,979 INFO === Run started ===
+2026-09-04 21:06:36,437 INFO NEW/RESTOCKED products detected: 3
+2026-09-04 21:06:36,437 INFO   NEW: Asunarosha SLO Hello | $2.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28773&limit=100
+2026-09-04 21:06:36,437 INFO   NEW: Lion Max Toothpaste | $1.88 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9308&limit=100
+2026-09-04 21:06:36,438 INFO   NEW: AJINOMOTO Marim Coff | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29157&limit=100
+2026-09-04 21:06:38,849 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-04 21:06:39,113 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-04 21:06:39,117 INFO === Run finished ===
