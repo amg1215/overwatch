@@ -7877,3 +7877,10 @@
 2026-09-04 20:11:20,701 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-04 20:11:20,850 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-04 20:11:20,854 INFO === Run finished ===
+2026-09-04 20:12:11,335 INFO === Run started ===
+2026-09-04 20:12:19,843 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 20:12:19,843 INFO   NEW: Toyogami Confectione | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23095&limit=100
+2026-09-04 20:12:19,843 INFO   NEW: Marumiya Pokemon Cur | $1.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29158&limit=100
+2026-09-04 20:12:21,648 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 20:12:21,845 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 20:12:21,847 INFO === Run finished ===

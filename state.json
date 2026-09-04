@@ -2556,6 +2556,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22191&limit=100",
       "stock": "n/a"
     },
+    "23095": {
+      "name": "Toyogami Confectione",
+      "price": "$5.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23095&limit=100",
+      "stock": "n/a"
+    },
     "23096": {
       "name": "Toyogami Confectione",
       "price": "$5.39",
@@ -2988,6 +2994,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7033&limit=100",
       "stock": "n/a"
     },
+    "29158": {
+      "name": "Marumiya Pokemon Cur",
+      "price": "$1.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29158&limit=100",
+      "stock": "n/a"
+    },
     "18785": {
       "name": "Nissin Spicy Ramen 1",
       "price": "$3.42",
@@ -2996,6 +3008,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T20:11:20",
-  "last_count": 499
+  "last_run": "2026-09-04T20:12:21",
+  "last_count": 501
 }
