@@ -7496,3 +7496,9 @@
 2026-09-04 19:04:22,759 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-04 19:04:22,878 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-04 19:04:22,882 INFO === Run finished ===
+2026-09-04 19:05:14,467 INFO === Run started ===
+2026-09-04 19:05:22,612 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 19:05:22,613 INFO   NEW: Lion Clinica Mouthwa | $3.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10024&limit=100
+2026-09-04 19:05:24,610 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:05:24,825 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:05:24,829 INFO === Run finished ===

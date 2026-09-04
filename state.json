@@ -486,6 +486,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14400&limit=100",
       "stock": "n/a"
     },
+    "10024": {
+      "name": "Lion Clinica Mouthwa",
+      "price": "$3.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10024&limit=100",
+      "stock": "n/a"
+    },
     "22346": {
       "name": "Transformers TF-5 Q-",
       "price": "$7.02",
@@ -904,12 +910,6 @@
       "name": "EAKI Naruto Cute Bea",
       "price": "$14.95",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26514&limit=100",
-      "stock": "n/a"
-    },
-    "31398": {
-      "name": "EAKI Jojos Bizarre A",
-      "price": "$2.34",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31398&limit=100",
       "stock": "n/a"
     },
     "31374": {
@@ -2516,6 +2516,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T19:04:22",
+  "last_run": "2026-09-04T19:05:24",
   "last_count": 419
 }
