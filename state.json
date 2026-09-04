@@ -3275,9 +3275,15 @@
       "price": "$3.42",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18785&limit=100",
       "stock": "n/a"
+    },
+    "9782": {
+      "name": "Daisho Vermicelli So",
+      "price": "$4.22",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9782&limit=100",
+      "stock": "n/a"
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T22:33:20",
-  "last_count": 546
+  "last_run": "2026-09-04T22:34:25",
+  "last_count": 547
 }
