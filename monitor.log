@@ -8062,3 +8062,9 @@
 2026-09-04 20:47:10,662 INFO === Run started ===
 2026-09-04 20:47:19,801 INFO No new products (516 tracked)
 2026-09-04 20:47:19,804 INFO === Run finished ===
+2026-09-04 20:48:13,505 INFO === Run started ===
+2026-09-04 20:48:23,691 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 20:48:23,691 INFO   NEW: Kao Curel Currel Agi | $23.03 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4990&limit=100
+2026-09-04 20:48:25,781 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 20:48:26,042 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 20:48:26,092 INFO === Run finished ===
