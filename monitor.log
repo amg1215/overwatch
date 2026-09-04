@@ -8175,3 +8175,9 @@
 2026-09-04 21:11:09,804 INFO === Run started ===
 2026-09-04 21:11:18,213 INFO No new products (517 tracked)
 2026-09-04 21:11:18,217 INFO === Run finished ===
+2026-09-04 21:12:14,295 INFO === Run started ===
+2026-09-04 21:12:27,247 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 21:12:27,247 INFO   NEW: Sanrio Compact Comb | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10504&limit=100
+2026-09-04 21:12:28,648 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 21:12:28,932 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 21:12:28,936 INFO === Run finished ===
