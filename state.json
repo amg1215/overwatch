@@ -2718,6 +2718,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24901&limit=100",
       "stock": "n/a"
     },
+    "19376": {
+      "name": "Lay's Potato Chips T",
+      "price": "$1.45",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19376&limit=100",
+      "stock": "n/a"
+    },
     "19749": {
       "name": "Lay's Potato Chips K",
       "price": "$1.45",
@@ -3216,6 +3222,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7454&limit=100",
       "stock": "n/a"
     },
+    "6856": {
+      "name": "Kikkoman Sauce Veget",
+      "price": "$4.05",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6856&limit=100",
+      "stock": "n/a"
+    },
     "7033": {
       "name": "Kewpie Mayonnaise 45",
       "price": "$4.96",
@@ -3254,6 +3266,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T22:30:28",
-  "last_count": 542
+  "last_run": "2026-09-04T22:31:23",
+  "last_count": 544
 }

@@ -8484,3 +8484,10 @@
 2026-09-04 22:30:28,014 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 22:30:28,276 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 22:30:28,280 INFO === Run finished ===
+2026-09-04 22:31:10,543 INFO === Run started ===
+2026-09-04 22:31:20,638 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 22:31:20,638 INFO   NEW: Lay's Potato Chips T | $1.45 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19376&limit=100
+2026-09-04 22:31:20,638 INFO   NEW: Kikkoman Sauce Veget | $4.05 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6856&limit=100
+2026-09-04 22:31:22,777 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 22:31:23,030 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 22:31:23,034 INFO === Run finished ===
