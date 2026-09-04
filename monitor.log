@@ -7754,3 +7754,11 @@
 2026-09-04 19:51:19,433 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:51:19,610 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:51:19,614 INFO === Run finished ===
+2026-09-04 19:52:18,349 INFO === Run started ===
+2026-09-04 19:52:25,858 INFO NEW/RESTOCKED products detected: 3
+2026-09-04 19:52:25,858 INFO   NEW: Earth Children's Mou | $3.83 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9453&limit=100
+2026-09-04 19:52:25,858 INFO   NEW: Kokubo Pot Drainer W | $1.50 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10054&limit=100
+2026-09-04 19:52:25,858 INFO   NEW: LEMON Oil Colored Cr | $3.06 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7431&limit=100
+2026-09-04 19:52:27,880 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-04 19:52:28,105 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-04 19:52:28,109 INFO === Run finished ===
