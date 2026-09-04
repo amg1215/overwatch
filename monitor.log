@@ -7677,3 +7677,10 @@
 2026-09-04 19:37:23,118 INFO Email sent: Ebisu: 4 new/restocked items!
 2026-09-04 19:37:23,381 INFO ntfy push sent: Ebisu: 4 new/restocked items!
 2026-09-04 19:37:23,384 INFO === Run finished ===
+2026-09-04 19:38:13,083 INFO === Run started ===
+2026-09-04 19:38:21,270 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 19:38:21,270 INFO   NEW: SLO Keychain Cinnamo | $3.44 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10895&limit=100
+2026-09-04 19:38:21,270 INFO   NEW: SLO Keychain BAD BAD | $3.44 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10900&limit=100
+2026-09-04 19:38:23,437 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 19:38:23,689 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 19:38:23,693 INFO === Run finished ===
