@@ -8579,3 +8579,10 @@
 2026-09-04 22:47:11,907 INFO === Run started ===
 2026-09-04 22:47:21,759 INFO No new products (560 tracked)
 2026-09-04 22:47:21,762 INFO === Run finished ===
+2026-09-04 22:48:12,679 INFO === Run started ===
+2026-09-04 22:48:21,748 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 22:48:21,748 INFO   NEW: Hikari Miso Chinese | $2.13 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8903&limit=100
+2026-09-04 22:48:21,748 INFO   NEW: Hikari Miso Seafood | $2.13 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9713&limit=100
+2026-09-04 22:48:23,735 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 22:48:23,935 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 22:48:23,939 INFO === Run finished ===
