@@ -7799,3 +7799,11 @@
 2026-09-04 19:58:26,172 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:58:26,352 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:58:26,356 INFO === Run finished ===
+2026-09-04 19:59:09,671 INFO === Run started ===
+2026-09-04 19:59:17,237 INFO NEW/RESTOCKED products detected: 3
+2026-09-04 19:59:17,237 INFO   NEW: Nakaya Honoca Round | $1.05 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6911&limit=100
+2026-09-04 19:59:17,237 INFO   NEW: Kao Curel Makeup Rem | $11.65 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9265&limit=100
+2026-09-04 19:59:17,238 INFO   NEW: Ensky Puzzle My Hero | $26.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1733&limit=100
+2026-09-04 19:59:18,923 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-04 19:59:19,042 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-04 19:59:19,046 INFO === Run finished ===
