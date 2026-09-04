@@ -1098,10 +1098,34 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51431&limit=100",
       "stock": "n/a"
     },
+    "51425": {
+      "name": "Banpresto My Hero Ac",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51425&limit=100",
+      "stock": "n/a"
+    },
+    "50439": {
+      "name": "Banpresto HUNTER×HUN",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50439&limit=100",
+      "stock": "n/a"
+    },
+    "51429": {
+      "name": "Banpresto Chainsaw M",
+      "price": "$27.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51429&limit=100",
+      "stock": "n/a"
+    },
     "51432": {
       "name": "Banpresto Dandadan G",
       "price": "$23.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51432&limit=100",
+      "stock": "n/a"
+    },
+    "51162": {
+      "name": "Sega Jujutsu Kaisen",
+      "price": "$27.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51162&limit=100",
       "stock": "n/a"
     },
     "50237": {
@@ -2192,6 +2216,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T15:12:24",
-  "last_count": 365
+  "last_run": "2026-09-04T15:13:19",
+  "last_count": 369
 }

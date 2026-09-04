@@ -6677,3 +6677,12 @@
 2026-09-04 15:12:18,347 INFO === Run started ===
 2026-09-04 15:12:24,614 INFO No new products (365 tracked)
 2026-09-04 15:12:24,616 INFO === Run finished ===
+2026-09-04 15:13:10,480 INFO === Run started ===
+2026-09-04 15:13:16,951 INFO NEW/RESTOCKED products detected: 4
+2026-09-04 15:13:16,952 INFO   NEW: Banpresto My Hero Ac | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51425&limit=100
+2026-09-04 15:13:16,952 INFO   NEW: Banpresto HUNTER×HUN | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50439&limit=100
+2026-09-04 15:13:16,952 INFO   NEW: Banpresto Chainsaw M | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51429&limit=100
+2026-09-04 15:13:16,952 INFO   NEW: Sega Jujutsu Kaisen | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51162&limit=100
+2026-09-04 15:13:18,944 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-04 15:13:18,999 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-04 15:13:19,002 INFO === Run finished ===
