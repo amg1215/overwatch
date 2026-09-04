@@ -7870,3 +7870,10 @@
 2026-09-04 20:10:24,229 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-04 20:10:24,348 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-04 20:10:24,352 INFO === Run finished ===
+2026-09-04 20:11:11,182 INFO === Run started ===
+2026-09-04 20:11:19,088 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 20:11:19,088 INFO   NEW: Kojima Dried Squid 1 | $2.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24873&limit=100
+2026-09-04 20:11:19,088 INFO   NEW: Kojima Yuzu-Flavored | $2.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24875&limit=100
+2026-09-04 20:11:20,701 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 20:11:20,850 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 20:11:20,854 INFO === Run finished ===
