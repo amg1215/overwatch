@@ -570,6 +570,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9437&limit=100",
       "stock": "n/a"
     },
+    "9436": {
+      "name": "Koji False Eyelashe",
+      "price": "$2.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9436&limit=100",
+      "stock": "n/a"
+    },
     "9242": {
       "name": "Koji False Eyelashe",
       "price": "$6.83",
@@ -2774,6 +2780,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T19:41:19",
-  "last_count": 462
+  "last_run": "2026-09-04T19:42:25",
+  "last_count": 463
 }

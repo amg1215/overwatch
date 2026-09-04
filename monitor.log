@@ -7705,3 +7705,9 @@
 2026-09-04 19:41:19,508 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:41:19,556 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:41:19,559 INFO === Run finished ===
+2026-09-04 19:42:14,990 INFO === Run started ===
+2026-09-04 19:42:23,186 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 19:42:23,186 INFO   NEW: Koji False Eyelashe | $2.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9436&limit=100
+2026-09-04 19:42:25,163 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:42:25,437 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:42:25,441 INFO === Run finished ===
