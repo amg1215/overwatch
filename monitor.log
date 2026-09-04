@@ -6779,3 +6779,9 @@
 2026-09-04 15:33:12,516 INFO === Run started ===
 2026-09-04 15:33:18,824 INFO No new products (388 tracked)
 2026-09-04 15:33:18,825 INFO === Run finished ===
+2026-09-04 15:34:12,016 INFO === Run started ===
+2026-09-04 15:34:18,371 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 15:34:18,371 INFO   NEW: Taito To LOVE-Ru Dar | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51433&limit=100
+2026-09-04 15:34:21,015 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 15:34:21,200 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 15:34:21,203 INFO === Run finished ===
