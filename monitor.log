@@ -7116,3 +7116,9 @@
 2026-09-04 17:19:14,602 INFO === Run started ===
 2026-09-04 17:19:21,017 INFO No new products (392 tracked)
 2026-09-04 17:19:21,020 INFO === Run finished ===
+2026-09-04 17:20:21,015 INFO === Run started ===
+2026-09-04 17:20:27,241 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 17:20:27,241 INFO   NEW: Zebra Gel Pen JJ15-1 | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12667&limit=100
+2026-09-04 17:20:29,640 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 17:20:29,821 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 17:20:29,823 INFO === Run finished ===
