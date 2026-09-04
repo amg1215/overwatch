@@ -18,6 +18,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9664&limit=100",
       "stock": "n/a"
     },
+    "10020": {
+      "name": "Lion Clinica Mouthwa",
+      "price": "$3.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10020&limit=100",
+      "stock": "n/a"
+    },
     "958": {
       "name": "Japanese Butterfly L",
       "price": "$0.83",
@@ -340,6 +346,12 @@
       "name": "So Natural All Day T",
       "price": "$13.79",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51094&limit=100",
+      "stock": "n/a"
+    },
+    "350": {
+      "name": "Sanrio Air Cushion C",
+      "price": "$7.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=350&limit=100",
       "stock": "n/a"
     },
     "9437": {
@@ -1066,6 +1078,12 @@
       "name": "Guangbo Plush Doll H",
       "price": "$14.29",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29580&limit=100",
+      "stock": "n/a"
+    },
+    "3224": {
+      "name": "San-Ei Plush Doll Pe",
+      "price": "$12.15",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3224&limit=100",
       "stock": "n/a"
     },
     "29581": {
@@ -2390,6 +2408,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T17:29:24",
-  "last_count": 398
+  "last_run": "2026-09-04T17:30:29",
+  "last_count": 401
 }

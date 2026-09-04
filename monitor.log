@@ -7162,3 +7162,11 @@
 2026-09-04 17:29:24,633 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 17:29:24,987 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 17:29:24,989 INFO === Run finished ===
+2026-09-04 17:30:19,159 INFO === Run started ===
+2026-09-04 17:30:26,942 INFO NEW/RESTOCKED products detected: 3
+2026-09-04 17:30:26,943 INFO   NEW: Lion Clinica Mouthwa | $3.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10020&limit=100
+2026-09-04 17:30:26,943 INFO   NEW: Sanrio Air Cushion C | $7.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=350&limit=100
+2026-09-04 17:30:26,943 INFO   NEW: San-Ei Plush Doll Pe | $12.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3224&limit=100
+2026-09-04 17:30:28,977 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-04 17:30:29,073 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-04 17:30:29,076 INFO === Run finished ===
