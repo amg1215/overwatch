@@ -2892,6 +2892,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21005&limit=100",
       "stock": "n/a"
     },
+    "21007": {
+      "name": "Chin Chin Bake House",
+      "price": "$0.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21007&limit=100",
+      "stock": "n/a"
+    },
     "24036": {
       "name": "KOIKEYA Karamujyu Ch",
       "price": "$0.89",
@@ -3512,6 +3518,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T23:42:20",
-  "last_count": 585
+  "last_run": "2026-09-04T23:43:58",
+  "last_count": 586
 }
