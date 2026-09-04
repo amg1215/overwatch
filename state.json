@@ -114,6 +114,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17038&limit=100",
       "stock": "n/a"
     },
+    "8048": {
+      "name": "Bamboo Spatula",
+      "price": "$0.98",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8048&limit=100",
+      "stock": "n/a"
+    },
     "7390": {
       "name": "Nakaya Microwaveable",
       "price": "$1.60",
@@ -148,6 +154,12 @@
       "name": "Kokubo Pot Drainer W",
       "price": "$1.50",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10054&limit=100",
+      "stock": "n/a"
+    },
+    "24746": {
+      "name": "Yamada Soy Sauce Bot",
+      "price": "$1.10",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24746&limit=100",
       "stock": "n/a"
     },
     "7130": {
@@ -1264,12 +1276,6 @@
       "name": "EAKI Naruto Cute Bea",
       "price": "$14.95",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26514&limit=100",
-      "stock": "n/a"
-    },
-    "31374": {
-      "name": "EAKI Frieren: Beyond",
-      "price": "$2.34",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31374&limit=100",
       "stock": "n/a"
     },
     "31380": {
@@ -3062,6 +3068,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T20:25:25",
-  "last_count": 510
+  "last_run": "2026-09-04T20:26:21",
+  "last_count": 511
 }

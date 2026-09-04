@@ -7949,3 +7949,10 @@
 2026-09-04 20:25:15,445 INFO === Run started ===
 2026-09-04 20:25:25,449 INFO No new products (510 tracked)
 2026-09-04 20:25:25,453 INFO === Run finished ===
+2026-09-04 20:26:11,485 INFO === Run started ===
+2026-09-04 20:26:20,278 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 20:26:20,278 INFO   NEW: Bamboo Spatula | $0.98 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8048&limit=100
+2026-09-04 20:26:20,278 INFO   NEW: Yamada Soy Sauce Bot | $1.10 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24746&limit=100
+2026-09-04 20:26:21,886 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 20:26:21,956 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 20:26:21,960 INFO === Run finished ===
