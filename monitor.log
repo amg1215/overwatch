@@ -7467,3 +7467,9 @@
 2026-09-04 18:59:11,963 INFO === Run started ===
 2026-09-04 18:59:19,613 INFO No new products (414 tracked)
 2026-09-04 18:59:19,615 INFO === Run finished ===
+2026-09-04 19:00:23,280 INFO === Run started ===
+2026-09-04 19:00:31,807 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 19:00:31,807 INFO   NEW: API Socks Kyoto LE S | $5.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15696&limit=100
+2026-09-04 19:00:34,000 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:00:34,250 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:00:34,254 INFO === Run finished ===
