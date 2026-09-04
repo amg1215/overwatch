@@ -8190,3 +8190,9 @@
 2026-09-04 21:14:23,514 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 21:14:23,878 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 21:14:23,882 INFO === Run finished ===
+2026-09-04 21:15:18,675 INFO === Run started ===
+2026-09-04 21:15:27,644 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 21:15:27,644 INFO   NEW: Kimura Peach Soda 24 | $2.52 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4345&limit=100
+2026-09-04 21:15:30,555 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 21:15:30,710 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 21:15:30,713 INFO === Run finished ===

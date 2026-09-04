@@ -2844,6 +2844,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18802&limit=100",
       "stock": "n/a"
     },
+    "4345": {
+      "name": "Kimura Peach Soda 24",
+      "price": "$2.52",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4345&limit=100",
+      "stock": "n/a"
+    },
     "3805": {
       "name": "Kimura White Grape S",
       "price": "$2.52",
@@ -3116,6 +3122,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T21:14:23",
-  "last_count": 519
+  "last_run": "2026-09-04T21:15:30",
+  "last_count": 520
 }
