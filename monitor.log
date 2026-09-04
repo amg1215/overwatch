@@ -7762,3 +7762,9 @@
 2026-09-04 19:52:27,880 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-04 19:52:28,105 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-04 19:52:28,109 INFO === Run finished ===
+2026-09-04 19:53:09,109 INFO === Run started ===
+2026-09-04 19:53:16,581 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 19:53:16,581 INFO   NEW: John's Blend Room Fr | $8.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5909&limit=100
+2026-09-04 19:53:18,031 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:53:18,224 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:53:18,228 INFO === Run finished ===
