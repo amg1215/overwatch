@@ -540,6 +540,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9242&limit=100",
       "stock": "n/a"
     },
+    "9559": {
+      "name": "Kumano Horse Oil Con",
+      "price": "$5.55",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9559&limit=100",
+      "stock": "n/a"
+    },
     "13217": {
       "name": "Tsubaki Moisture Rep",
       "price": "$7.79",
@@ -1632,6 +1638,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12667&limit=100",
       "stock": "n/a"
     },
+    "8500": {
+      "name": "Mitsubishi Uni Ballp",
+      "price": "$1.54",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8500&limit=100",
+      "stock": "n/a"
+    },
     "5033": {
       "name": "Mitsubishi Uni-Ball",
       "price": "$2.63",
@@ -2648,6 +2660,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T19:29:22",
-  "last_count": 441
+  "last_run": "2026-09-04T19:30:30",
+  "last_count": 443
 }

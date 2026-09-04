@@ -7626,3 +7626,10 @@
 2026-09-04 19:29:21,811 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:29:22,078 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:29:22,082 INFO === Run finished ===
+2026-09-04 19:30:20,029 INFO === Run started ===
+2026-09-04 19:30:28,903 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 19:30:28,903 INFO   NEW: Kumano Horse Oil Con | $5.55 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9559&limit=100
+2026-09-04 19:30:28,903 INFO   NEW: Mitsubishi Uni Ballp | $1.54 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8500&limit=100
+2026-09-04 19:30:30,471 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 19:30:30,836 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 19:30:30,839 INFO === Run finished ===
