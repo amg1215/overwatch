@@ -1056,6 +1056,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21051&limit=100",
       "stock": "n/a"
     },
+    "21052": {
+      "name": "SAN-EI Pokemon Snorl",
+      "price": "$13.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21052&limit=100",
+      "stock": "n/a"
+    },
     "29580": {
       "name": "Guangbo Plush Doll H",
       "price": "$14.29",
@@ -2384,6 +2390,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T17:28:25",
-  "last_count": 397
+  "last_run": "2026-09-04T17:29:24",
+  "last_count": 398
 }

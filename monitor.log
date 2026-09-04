@@ -7156,3 +7156,9 @@
 2026-09-04 17:28:18,524 INFO === Run started ===
 2026-09-04 17:28:25,891 INFO No new products (397 tracked)
 2026-09-04 17:28:25,893 INFO === Run finished ===
+2026-09-04 17:29:16,327 INFO === Run started ===
+2026-09-04 17:29:22,855 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 17:29:22,855 INFO   NEW: SAN-EI Pokemon Snorl | $13.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21052&limit=100
+2026-09-04 17:29:24,633 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 17:29:24,987 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 17:29:24,989 INFO === Run finished ===
