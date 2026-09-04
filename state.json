@@ -54,6 +54,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7389&limit=100",
       "stock": "n/a"
     },
+    "6922": {
+      "name": "Nakaya Honoca Bean B",
+      "price": "$1.25",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6922&limit=100",
+      "stock": "n/a"
+    },
     "7536": {
       "name": "Maruki Bamboo Chopst",
       "price": "$1.44",
@@ -112,6 +118,12 @@
       "name": "Kokubo deLijoy Spher",
       "price": "$1.30",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8289&limit=100",
+      "stock": "n/a"
+    },
+    "5345": {
+      "name": "Kokubo Rice Stick On",
+      "price": "$1.17",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5345&limit=100",
       "stock": "n/a"
     },
     "10054": {
@@ -322,6 +334,12 @@
       "name": "Kokubo Comfortable F",
       "price": "$1.34",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5348&limit=100",
+      "stock": "n/a"
+    },
+    "8114": {
+      "name": "Kobayashi Eye Wash 5",
+      "price": "$8.95",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8114&limit=100",
       "stock": "n/a"
     },
     "210": {
@@ -2834,6 +2852,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T19:53:18",
-  "last_count": 472
+  "last_run": "2026-09-04T19:54:24",
+  "last_count": 475
 }

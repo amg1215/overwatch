@@ -7768,3 +7768,11 @@
 2026-09-04 19:53:18,031 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:53:18,224 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:53:18,228 INFO === Run finished ===
+2026-09-04 19:54:12,085 INFO === Run started ===
+2026-09-04 19:54:19,550 INFO NEW/RESTOCKED products detected: 3
+2026-09-04 19:54:19,550 INFO   NEW: Nakaya Honoca Bean B | $1.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6922&limit=100
+2026-09-04 19:54:19,550 INFO   NEW: Kokubo Rice Stick On | $1.17 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5345&limit=100
+2026-09-04 19:54:19,550 INFO   NEW: Kobayashi Eye Wash 5 | $8.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8114&limit=100
+2026-09-04 19:54:23,992 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-04 19:54:24,172 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-04 19:54:24,174 INFO === Run finished ===
