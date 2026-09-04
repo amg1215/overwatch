@@ -2526,6 +2526,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8452&limit=100",
       "stock": "n/a"
     },
+    "8456": {
+      "name": "Tarami White Peach J",
+      "price": "$1.68",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8456&limit=100",
+      "stock": "n/a"
+    },
     "3579": {
       "name": "Tarami Orange Pulp J",
       "price": "$1.68",
@@ -3266,6 +3272,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T22:31:23",
-  "last_count": 544
+  "last_run": "2026-09-04T22:32:32",
+  "last_count": 545
 }
