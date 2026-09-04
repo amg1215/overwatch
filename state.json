@@ -2904,6 +2904,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30700&limit=100",
       "stock": "n/a"
     },
+    "7926": {
+      "name": "AGF Blendy Mocha Au",
+      "price": "$2.88",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7926&limit=100",
+      "stock": "n/a"
+    },
     "23739": {
       "name": "UCC Coffee 16P Green",
       "price": "$6.20",
@@ -2988,6 +2994,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50968&limit=100",
       "stock": "n/a"
     },
+    "7454": {
+      "name": "AGF CookDo Twice-coo",
+      "price": "$2.20",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7454&limit=100",
+      "stock": "n/a"
+    },
     "7033": {
       "name": "Kewpie Mayonnaise 45",
       "price": "$4.96",
@@ -3008,6 +3020,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T20:12:21",
-  "last_count": 501
+  "last_run": "2026-09-04T20:13:23",
+  "last_count": 503
 }

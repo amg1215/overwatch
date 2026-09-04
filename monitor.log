@@ -7884,3 +7884,10 @@
 2026-09-04 20:12:21,648 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-04 20:12:21,845 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-04 20:12:21,847 INFO === Run finished ===
+2026-09-04 20:13:11,728 INFO === Run started ===
+2026-09-04 20:13:20,318 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 20:13:20,318 INFO   NEW: AGF Blendy Mocha Au | $2.88 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7926&limit=100
+2026-09-04 20:13:20,318 INFO   NEW: AGF CookDo Twice-coo | $2.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7454&limit=100
+2026-09-04 20:13:23,175 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 20:13:23,370 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 20:13:23,373 INFO === Run finished ===
