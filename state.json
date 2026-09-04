@@ -2652,6 +2652,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24875&limit=100",
       "stock": "n/a"
     },
+    "28766": {
+      "name": "RE-MENT Hello Kitty",
+      "price": "$10.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28766&limit=100",
+      "stock": "n/a"
+    },
     "10918": {
       "name": "Asahi Rich Black Cof",
       "price": "$1.49",
@@ -3020,6 +3026,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T20:13:23",
-  "last_count": 503
+  "last_run": "2026-09-04T20:14:25",
+  "last_count": 504
 }
