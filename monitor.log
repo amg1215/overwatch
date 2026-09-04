@@ -8454,3 +8454,9 @@
 2026-09-04 22:25:19,656 INFO === Run started ===
 2026-09-04 22:25:28,654 INFO No new products (537 tracked)
 2026-09-04 22:25:28,733 INFO === Run finished ===
+2026-09-04 22:26:11,615 INFO === Run started ===
+2026-09-04 22:26:20,712 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 22:26:20,712 INFO   NEW: I-MEI Soft Gummy Str | $1.92 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19390&limit=100
+2026-09-04 22:26:22,115 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 22:26:22,214 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 22:26:22,218 INFO === Run finished ===
