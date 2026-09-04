@@ -2832,6 +2832,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20987&limit=100",
       "stock": "n/a"
     },
+    "24036": {
+      "name": "KOIKEYA Karamujyu Ch",
+      "price": "$0.89",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24036&limit=100",
+      "stock": "n/a"
+    },
     "24037": {
       "name": "KOIKEYA Karamujyu Ch",
       "price": "$0.89",
@@ -3428,6 +3434,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T23:05:23",
-  "last_count": 571
+  "last_run": "2026-09-04T23:06:22",
+  "last_count": 572
 }
