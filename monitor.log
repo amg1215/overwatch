@@ -7046,3 +7046,10 @@
 2026-09-04 17:02:11,407 INFO === Run started ===
 2026-09-04 17:02:17,719 INFO No new products (383 tracked)
 2026-09-04 17:02:17,722 INFO === Run finished ===
+2026-09-04 17:03:11,216 INFO === Run started ===
+2026-09-04 17:03:17,884 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 17:03:17,884 INFO   NEW: Koji Dolly Wink Fals | $10.22 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9437&limit=100
+2026-09-04 17:03:17,884 INFO   NEW: Koji False Eyelashe | $6.83 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9242&limit=100
+2026-09-04 17:03:19,573 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 17:03:19,827 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 17:03:19,831 INFO === Run finished ===
