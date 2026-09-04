@@ -8647,3 +8647,9 @@
 2026-09-04 23:02:13,142 INFO === Run started ===
 2026-09-04 23:02:22,721 INFO No new products (569 tracked)
 2026-09-04 23:02:22,725 INFO === Run finished ===
+2026-09-04 23:03:11,655 INFO === Run started ===
+2026-09-04 23:03:21,346 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 23:03:21,346 INFO   NEW: Ocean Plus Fish Silk | $1.65 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22008&limit=100
+2026-09-04 23:03:22,750 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 23:03:23,044 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 23:03:23,048 INFO === Run finished ===
