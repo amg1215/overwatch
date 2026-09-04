@@ -1092,6 +1092,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20632&limit=100",
       "stock": "n/a"
     },
+    "50245": {
+      "name": "KONAMI Arcade Games",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50245&limit=100",
+      "stock": "n/a"
+    },
     "51125": {
       "name": "Bandai ONE PIECE Car",
       "price": "$6.29",
@@ -2102,6 +2108,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T14:56:19",
-  "last_count": 350
+  "last_run": "2026-09-04T14:57:21",
+  "last_count": 351
 }
