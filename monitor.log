@@ -8773,3 +8773,10 @@
 2026-09-04 23:31:11,370 INFO === Run started ===
 2026-09-04 23:31:20,809 INFO No new products (582 tracked)
 2026-09-04 23:31:20,812 INFO === Run finished ===
+2026-09-04 23:32:16,030 INFO === Run started ===
+2026-09-04 23:32:26,258 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 23:32:26,258 INFO   NEW: I-MEI Soft Gummy Rai | $1.92 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19391&limit=100
+2026-09-04 23:32:26,258 INFO   NEW: I-MEI Soft Gummy Mix | $1.92 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19392&limit=100
+2026-09-04 23:32:28,474 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 23:32:28,748 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 23:32:28,753 INFO === Run finished ===
