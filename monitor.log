@@ -7779,3 +7779,10 @@
 2026-09-04 19:55:12,984 INFO === Run started ===
 2026-09-04 19:55:20,388 INFO No new products (475 tracked)
 2026-09-04 19:55:20,391 INFO === Run finished ===
+2026-09-04 19:56:13,159 INFO === Run started ===
+2026-09-04 19:56:21,005 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 19:56:21,005 INFO   NEW: Kojima Spicy Grilled | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24869&limit=100
+2026-09-04 19:56:21,005 INFO   NEW: Kojima Black Pepper | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24871&limit=100
+2026-09-04 19:56:22,769 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 19:56:22,995 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 19:56:22,998 INFO === Run finished ===

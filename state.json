@@ -2502,6 +2502,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24866&limit=100",
       "stock": "n/a"
     },
+    "24869": {
+      "name": "Kojima Spicy Grilled",
+      "price": "$1.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24869&limit=100",
+      "stock": "n/a"
+    },
+    "24871": {
+      "name": "Kojima Black Pepper",
+      "price": "$1.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24871&limit=100",
+      "stock": "n/a"
+    },
     "10918": {
       "name": "Asahi Rich Black Cof",
       "price": "$1.49",
@@ -2852,6 +2864,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T19:55:20",
-  "last_count": 475
+  "last_run": "2026-09-04T19:56:22",
+  "last_count": 477
 }
