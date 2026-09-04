@@ -7807,3 +7807,9 @@
 2026-09-04 19:59:18,923 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-04 19:59:19,042 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-04 19:59:19,046 INFO === Run finished ===
+2026-09-04 20:00:25,365 INFO === Run started ===
+2026-09-04 20:00:34,411 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 20:00:34,411 INFO   NEW: Ensky Puzzle SPY×FAM | $26.50 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1731&limit=100
+2026-09-04 20:00:36,546 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 20:00:36,805 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 20:00:36,808 INFO === Run finished ===

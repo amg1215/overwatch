@@ -750,6 +750,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1916&limit=100",
       "stock": "n/a"
     },
+    "1731": {
+      "name": "Ensky Puzzle SPY×FAM",
+      "price": "$26.50",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1731&limit=100",
+      "stock": "n/a"
+    },
     "22346": {
       "name": "Transformers TF-5 Q-",
       "price": "$7.02",
@@ -2900,6 +2906,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T19:59:19",
-  "last_count": 483
+  "last_run": "2026-09-04T20:00:36",
+  "last_count": 484
 }
