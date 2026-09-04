@@ -7692,3 +7692,10 @@
 2026-09-04 19:39:31,377 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-04 19:39:31,677 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-04 19:39:31,680 INFO === Run finished ===
+2026-09-04 19:40:13,895 INFO === Run started ===
+2026-09-04 19:40:21,686 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 19:40:21,686 INFO   NEW: SLO Cinnamoroll Hair | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21268&limit=100
+2026-09-04 19:40:21,686 INFO   NEW: Koji Metal Nail File | $3.88 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4707&limit=100
+2026-09-04 19:40:23,100 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 19:40:23,180 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 19:40:23,183 INFO === Run finished ===

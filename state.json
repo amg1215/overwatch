@@ -126,6 +126,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19510&limit=100",
       "stock": "n/a"
     },
+    "21268": {
+      "name": "SLO Cinnamoroll Hair",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21268&limit=100",
+      "stock": "n/a"
+    },
     "15696": {
       "name": "API Socks Kyoto LE S",
       "price": "$5.20",
@@ -448,6 +454,12 @@
       "name": "KAI Nail Cutters KQ2",
       "price": "$5.39",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4619&limit=100",
+      "stock": "n/a"
+    },
+    "4707": {
+      "name": "Koji Metal Nail File",
+      "price": "$3.88",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4707&limit=100",
       "stock": "n/a"
     },
     "21354": {
@@ -2756,6 +2768,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T19:39:31",
-  "last_count": 459
+  "last_run": "2026-09-04T19:40:23",
+  "last_count": 461
 }
