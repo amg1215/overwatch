@@ -7967,3 +7967,12 @@
 2026-09-04 20:28:14,365 INFO === Run started ===
 2026-09-04 20:28:24,662 INFO No new products (514 tracked)
 2026-09-04 20:28:24,665 INFO === Run finished ===
+2026-09-04 20:29:10,307 INFO === Run started ===
+2026-09-04 20:29:18,910 INFO NEW/RESTOCKED products detected: 4
+2026-09-04 20:29:18,910 INFO   NEW: Kao Curel Moist Crea | $12.98 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9751&limit=100
+2026-09-04 20:29:18,910 INFO   NEW: Tsubaki Hair Care Es | $7.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13215&limit=100
+2026-09-04 20:29:18,910 INFO   NEW: Honeyque Deep Repair | $1.10 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13558&limit=100
+2026-09-04 20:29:18,910 INFO   NEW: Kokuyo Dotliner Stro | $3.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5046&limit=100
+2026-09-04 20:29:20,217 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-04 20:29:20,296 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-04 20:29:20,300 INFO === Run finished ===
