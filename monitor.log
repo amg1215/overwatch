@@ -7488,3 +7488,11 @@
 2026-09-04 19:03:12,464 INFO === Run started ===
 2026-09-04 19:03:20,193 INFO No new products (416 tracked)
 2026-09-04 19:03:20,196 INFO === Run finished ===
+2026-09-04 19:04:13,146 INFO === Run started ===
+2026-09-04 19:04:20,704 INFO NEW/RESTOCKED products detected: 3
+2026-09-04 19:04:20,704 INFO   NEW: Sanyo Baby Cotton Sw | $2.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2280&limit=100
+2026-09-04 19:04:20,704 INFO   NEW: Sanyo Baby Super Fin | $1.70 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2279&limit=100
+2026-09-04 19:04:20,704 INFO   NEW: Sanyo 360 Degree Ear | $1.42 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2270&limit=100
+2026-09-04 19:04:22,759 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-04 19:04:22,878 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-04 19:04:22,882 INFO === Run finished ===

@@ -24,6 +24,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10020&limit=100",
       "stock": "n/a"
     },
+    "2280": {
+      "name": "Sanyo Baby Cotton Sw",
+      "price": "$2.25",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2280&limit=100",
+      "stock": "n/a"
+    },
+    "2279": {
+      "name": "Sanyo Baby Super Fin",
+      "price": "$1.70",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2279&limit=100",
+      "stock": "n/a"
+    },
     "7536": {
       "name": "Maruki Bamboo Chopst",
       "price": "$1.44",
@@ -424,6 +436,12 @@
       "name": "Sanrio Air Cushion C",
       "price": "$7.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=350&limit=100",
+      "stock": "n/a"
+    },
+    "2270": {
+      "name": "Sanyo 360 Degree Ear",
+      "price": "$1.42",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2270&limit=100",
       "stock": "n/a"
     },
     "9437": {
@@ -2498,6 +2516,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T19:03:20",
-  "last_count": 416
+  "last_run": "2026-09-04T19:04:22",
+  "last_count": 419
 }
