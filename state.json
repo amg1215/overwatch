@@ -3264,6 +3264,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29158&limit=100",
       "stock": "n/a"
     },
+    "5438": {
+      "name": "Itsuki Osaka Shoyo T",
+      "price": "$2.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5438&limit=100",
+      "stock": "n/a"
+    },
     "18785": {
       "name": "Nissin Spicy Ramen 1",
       "price": "$3.42",
@@ -3272,6 +3278,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T22:32:32",
-  "last_count": 545
+  "last_run": "2026-09-04T22:33:20",
+  "last_count": 546
 }
