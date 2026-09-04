@@ -7956,3 +7956,11 @@
 2026-09-04 20:26:21,886 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-04 20:26:21,956 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-04 20:26:21,960 INFO === Run finished ===
+2026-09-04 20:27:09,798 INFO === Run started ===
+2026-09-04 20:27:18,645 INFO NEW/RESTOCKED products detected: 3
+2026-09-04 20:27:18,645 INFO   NEW: Tsubaki Moisture Rep | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16664&limit=100
+2026-09-04 20:27:18,645 INFO   NEW: Kojima Lemon Flavore | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24870&limit=100
+2026-09-04 20:27:18,645 INFO   NEW: Kojima Grilled Sandf | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24872&limit=100
+2026-09-04 20:27:19,860 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-04 20:27:19,924 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-04 20:27:19,928 INFO === Run finished ===

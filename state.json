@@ -750,6 +750,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9559&limit=100",
       "stock": "n/a"
     },
+    "16664": {
+      "name": "Tsubaki Moisture Rep",
+      "price": "$8.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16664&limit=100",
+      "stock": "n/a"
+    },
     "13216": {
       "name": "Tsubaki Moisture Rep",
       "price": "$7.79",
@@ -2664,10 +2670,22 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24869&limit=100",
       "stock": "n/a"
     },
+    "24870": {
+      "name": "Kojima Lemon Flavore",
+      "price": "$1.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24870&limit=100",
+      "stock": "n/a"
+    },
     "24871": {
       "name": "Kojima Black Pepper",
       "price": "$1.79",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24871&limit=100",
+      "stock": "n/a"
+    },
+    "24872": {
+      "name": "Kojima Grilled Sandf",
+      "price": "$1.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24872&limit=100",
       "stock": "n/a"
     },
     "24873": {
@@ -3068,6 +3086,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T20:26:21",
-  "last_count": 511
+  "last_run": "2026-09-04T20:27:19",
+  "last_count": 514
 }
