@@ -7723,3 +7723,9 @@
 2026-09-04 19:46:13,400 INFO === Run started ===
 2026-09-04 19:46:21,423 INFO No new products (463 tracked)
 2026-09-04 19:46:21,425 INFO === Run finished ===
+2026-09-04 19:47:16,208 INFO === Run started ===
+2026-09-04 19:47:25,064 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 19:47:25,064 INFO   NEW: Kojima Dried Squid 1 | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24866&limit=100
+2026-09-04 19:47:28,280 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:47:28,537 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:47:28,541 INFO === Run finished ===
