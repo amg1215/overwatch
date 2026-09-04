@@ -8610,3 +8610,9 @@
 2026-09-04 22:52:24,636 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 22:52:25,106 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 22:52:25,112 INFO === Run finished ===
+2026-09-04 22:53:12,376 INFO === Run started ===
+2026-09-04 22:53:22,004 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 22:53:22,004 INFO   NEW: Lay's Potato Chips 3 | $1.45 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19375&limit=100
+2026-09-04 22:53:23,815 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 22:53:24,049 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 22:53:24,056 INFO === Run finished ===
