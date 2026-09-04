@@ -2070,12 +2070,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10918&limit=100",
       "stock": "n/a"
     },
-    "306": {
-      "name": "House C1000 Vitamin",
-      "price": "$1.60",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=306&limit=100",
-      "stock": "n/a"
-    },
     "31589": {
       "name": "House Vitamin C1000",
       "price": "$1.60",
@@ -2426,6 +2420,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T18:18:24",
-  "last_count": 404
+  "last_run": "2026-09-04T18:19:18",
+  "last_count": 403
 }
