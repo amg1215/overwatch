@@ -582,6 +582,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3850&limit=100",
       "stock": "n/a"
     },
+    "3849": {
+      "name": "COW Bouncia Body Soa",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3849&limit=100",
+      "stock": "n/a"
+    },
+    "25407": {
+      "name": "COW Premium Bath Pow",
+      "price": "$1.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25407&limit=100",
+      "stock": "n/a"
+    },
     "14400": {
       "name": "Moist Diane Botanica",
       "price": "$8.99",
@@ -2666,6 +2678,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T19:31:22",
-  "last_count": 444
+  "last_run": "2026-09-04T19:32:24",
+  "last_count": 446
 }
