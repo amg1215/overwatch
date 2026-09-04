@@ -8801,3 +8801,9 @@
 2026-09-04 23:39:09,821 INFO === Run started ===
 2026-09-04 23:39:19,296 INFO No new products (584 tracked)
 2026-09-04 23:39:19,298 INFO === Run finished ===
+2026-09-04 23:40:14,301 INFO === Run started ===
+2026-09-04 23:40:23,023 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 23:40:23,024 INFO   NEW: Chin Chin Bake House | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21005&limit=100
+2026-09-04 23:40:25,527 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 23:40:25,789 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 23:40:25,793 INFO === Run finished ===
