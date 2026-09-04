@@ -8713,3 +8713,9 @@
 2026-09-04 23:17:10,250 INFO === Run started ===
 2026-09-04 23:17:19,465 INFO No new products (576 tracked)
 2026-09-04 23:17:19,468 INFO === Run finished ===
+2026-09-04 23:18:13,501 INFO === Run started ===
+2026-09-04 23:18:22,242 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 23:18:22,242 INFO   NEW: Hwa Yuan Potato Chip | $1.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26646&limit=100
+2026-09-04 23:18:26,172 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 23:18:26,446 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 23:18:26,448 INFO === Run finished ===
