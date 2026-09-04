@@ -7903,3 +7903,9 @@
 2026-09-04 20:16:13,483 INFO === Run started ===
 2026-09-04 20:16:23,655 INFO No new products (504 tracked)
 2026-09-04 20:16:23,658 INFO === Run finished ===
+2026-09-04 20:17:10,813 INFO === Run started ===
+2026-09-04 20:17:20,312 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 20:17:20,313 INFO   NEW: Kokubo Shosyu Air Fr | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10051&limit=100
+2026-09-04 20:17:22,029 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 20:17:22,227 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 20:17:22,231 INFO === Run finished ===
