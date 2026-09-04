@@ -7428,3 +7428,11 @@
 2026-09-04 18:51:18,930 INFO Email sent: Ebisu: 4 new/restocked items!
 2026-09-04 18:51:18,982 INFO ntfy push sent: Ebisu: 4 new/restocked items!
 2026-09-04 18:51:18,985 INFO === Run finished ===
+2026-09-04 18:52:18,522 INFO === Run started ===
+2026-09-04 18:52:26,302 INFO NEW/RESTOCKED products detected: 3
+2026-09-04 18:52:26,303 INFO   NEW: SLO Hello Kitty Bang | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19510&limit=100
+2026-09-04 18:52:26,303 INFO   NEW: Nichiban Adhesive Ba | $2.93 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=210&limit=100
+2026-09-04 18:52:26,303 INFO   NEW: Wellness Beaute Fals | $9.50 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5819&limit=100
+2026-09-04 18:52:28,104 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-04 18:52:28,518 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-04 18:52:28,521 INFO === Run finished ===
