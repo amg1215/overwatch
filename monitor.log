@@ -7587,3 +7587,9 @@
 2026-09-04 19:20:25,892 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-04 19:20:25,965 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-04 19:20:25,968 INFO === Run finished ===
+2026-09-04 19:21:09,963 INFO === Run started ===
+2026-09-04 19:21:17,870 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 19:21:17,871 INFO   NEW: ECHO Silicon Sauce B | $1.18 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8224&limit=100
+2026-09-04 19:21:19,282 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:21:19,581 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:21:19,584 INFO === Run finished ===

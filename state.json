@@ -96,6 +96,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6762&limit=100",
       "stock": "n/a"
     },
+    "8224": {
+      "name": "ECHO Silicon Sauce B",
+      "price": "$1.18",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8224&limit=100",
+      "stock": "n/a"
+    },
     "16099": {
       "name": "Shobido Usagi & Momo",
       "price": "$8.99",
@@ -2624,6 +2630,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T19:20:25",
-  "last_count": 437
+  "last_run": "2026-09-04T19:21:19",
+  "last_count": 438
 }
