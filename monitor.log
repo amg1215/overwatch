@@ -7230,3 +7230,9 @@
 2026-09-04 17:48:18,032 INFO === Run started ===
 2026-09-04 17:48:25,694 INFO No new products (404 tracked)
 2026-09-04 17:48:25,696 INFO === Run finished ===
+2026-09-04 17:49:12,233 INFO === Run started ===
+2026-09-04 17:49:19,728 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 17:49:19,728 INFO   NEW: API Plush Doll Penda | $11.71 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14100&limit=100
+2026-09-04 17:49:21,495 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 17:49:21,709 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 17:49:21,712 INFO === Run finished ===
