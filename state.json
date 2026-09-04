@@ -1212,6 +1212,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14096&limit=100",
       "stock": "n/a"
     },
+    "13650": {
+      "name": "API Keychain Chiikaw",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13650&limit=100",
+      "stock": "n/a"
+    },
     "13649": {
       "name": "API Keychain Hachiwa",
       "price": "$4.19",
@@ -2570,6 +2576,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T19:12:25",
-  "last_count": 428
+  "last_run": "2026-09-04T19:13:21",
+  "last_count": 429
 }
