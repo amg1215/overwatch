@@ -60,6 +60,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17038&limit=100",
       "stock": "n/a"
     },
+    "7297": {
+      "name": "Nakaya Freille Colan",
+      "price": "$1.35",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7297&limit=100",
+      "stock": "n/a"
+    },
     "29620": {
       "name": "Car Air Freshener So",
       "price": "$7.49",
@@ -352,6 +358,12 @@
       "name": "So Natural All Day T",
       "price": "$13.79",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51094&limit=100",
+      "stock": "n/a"
+    },
+    "5816": {
+      "name": "Wellness Beaute Fals",
+      "price": "$9.50",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5816&limit=100",
       "stock": "n/a"
     },
     "350": {
@@ -1096,6 +1108,12 @@
       "name": "API Plush Doll Penda",
       "price": "$11.71",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14096&limit=100",
+      "stock": "n/a"
+    },
+    "13645": {
+      "name": "API Keychain Usagi 1",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13645&limit=100",
       "stock": "n/a"
     },
     "14100": {
@@ -2352,6 +2370,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23742&limit=100",
       "stock": "n/a"
     },
+    "22245": {
+      "name": "UCC Ueshima Coffee T",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22245&limit=100",
+      "stock": "n/a"
+    },
     "28930": {
       "name": "Meito Milk Cocoa Pow",
       "price": "$3.79",
@@ -2420,6 +2444,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T18:50:27",
-  "last_count": 403
+  "last_run": "2026-09-04T18:51:18",
+  "last_count": 407
 }

@@ -7419,3 +7419,12 @@
 2026-09-04 18:50:19,485 INFO === Run started ===
 2026-09-04 18:50:27,128 INFO No new products (403 tracked)
 2026-09-04 18:50:27,131 INFO === Run finished ===
+2026-09-04 18:51:10,362 INFO === Run started ===
+2026-09-04 18:51:17,611 INFO NEW/RESTOCKED products detected: 4
+2026-09-04 18:51:17,611 INFO   NEW: Nakaya Freille Colan | $1.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7297&limit=100
+2026-09-04 18:51:17,611 INFO   NEW: Wellness Beaute Fals | $9.50 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5816&limit=100
+2026-09-04 18:51:17,612 INFO   NEW: API Keychain Usagi 1 | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13645&limit=100
+2026-09-04 18:51:17,612 INFO   NEW: UCC Ueshima Coffee T | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22245&limit=100
+2026-09-04 18:51:18,930 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-04 18:51:18,982 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-04 18:51:18,985 INFO === Run finished ===
