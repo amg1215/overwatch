@@ -294,6 +294,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3643&limit=100",
       "stock": "n/a"
     },
+    "3771": {
+      "name": "John's Blend Fragran",
+      "price": "$12.60",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3771&limit=100",
+      "stock": "n/a"
+    },
     "10051": {
       "name": "Kokubo Shosyu Air Fr",
       "price": "$1.19",
@@ -3078,6 +3084,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7033&limit=100",
       "stock": "n/a"
     },
+    "315": {
+      "name": "Kewpie Flaxseed Mayo",
+      "price": "$3.77",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=315&limit=100",
+      "stock": "n/a"
+    },
     "7463": {
       "name": "Nisshin Seifun Pasta",
       "price": "$2.60",
@@ -3098,6 +3110,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T20:58:20",
-  "last_count": 516
+  "last_run": "2026-09-04T20:59:23",
+  "last_count": 518
 }

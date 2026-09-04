@@ -8107,3 +8107,10 @@
 2026-09-04 20:58:11,651 INFO === Run started ===
 2026-09-04 20:58:20,548 INFO No new products (516 tracked)
 2026-09-04 20:58:20,551 INFO === Run finished ===
+2026-09-04 20:59:12,048 INFO === Run started ===
+2026-09-04 20:59:20,853 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 20:59:20,853 INFO   NEW: John's Blend Fragran | $12.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3771&limit=100
+2026-09-04 20:59:20,853 INFO   NEW: Kewpie Flaxseed Mayo | $3.77 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=315&limit=100
+2026-09-04 20:59:22,893 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 20:59:23,400 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 20:59:23,466 INFO === Run finished ===
