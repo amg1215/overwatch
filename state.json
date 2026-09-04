@@ -126,6 +126,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7297&limit=100",
       "stock": "n/a"
     },
+    "8282": {
+      "name": "Kokubo Boiled Eggs S",
+      "price": "$1.30",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8282&limit=100",
+      "stock": "n/a"
+    },
     "8289": {
       "name": "Kokubo deLijoy Spher",
       "price": "$1.30",
@@ -160,6 +166,12 @@
       "name": "ECHO Silicon Sauce B",
       "price": "$1.18",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8224&limit=100",
+      "stock": "n/a"
+    },
+    "16098": {
+      "name": "Shobido Chiikawa & H",
+      "price": "$8.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16098&limit=100",
       "stock": "n/a"
     },
     "16099": {
@@ -670,6 +682,12 @@
       "name": "Koji False Eyelashe",
       "price": "$2.00",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9436&limit=100",
+      "stock": "n/a"
+    },
+    "9240": {
+      "name": "Koji False Eyelashe",
+      "price": "$1.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9240&limit=100",
       "stock": "n/a"
     },
     "9242": {
@@ -2936,6 +2954,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T20:04:30",
-  "last_count": 489
+  "last_run": "2026-09-04T20:05:29",
+  "last_count": 492
 }

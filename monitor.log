@@ -7836,3 +7836,11 @@
 2026-09-04 20:04:30,165 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-04 20:04:30,528 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-04 20:04:30,532 INFO === Run finished ===
+2026-09-04 20:05:18,102 INFO === Run started ===
+2026-09-04 20:05:27,110 INFO NEW/RESTOCKED products detected: 3
+2026-09-04 20:05:27,110 INFO   NEW: Kokubo Boiled Eggs S | $1.30 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8282&limit=100
+2026-09-04 20:05:27,110 INFO   NEW: Shobido Chiikawa & H | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16098&limit=100
+2026-09-04 20:05:27,110 INFO   NEW: Koji False Eyelashe | $1.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9240&limit=100
+2026-09-04 20:05:28,900 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-04 20:05:29,190 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-04 20:05:29,194 INFO === Run finished ===
