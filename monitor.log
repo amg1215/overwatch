@@ -8668,3 +8668,9 @@
 2026-09-04 23:06:22,010 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 23:06:22,290 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 23:06:22,294 INFO === Run finished ===
+2026-09-04 23:07:12,755 INFO === Run started ===
+2026-09-04 23:07:22,765 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 23:07:22,766 INFO   NEW: Ocean Plus Fish Skin | $2.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19361&limit=100
+2026-09-04 23:07:26,759 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 23:07:27,049 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 23:07:27,053 INFO === Run finished ===

@@ -2868,6 +2868,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22013&limit=100",
       "stock": "n/a"
     },
+    "19361": {
+      "name": "Ocean Plus Fish Skin",
+      "price": "$2.89",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19361&limit=100",
+      "stock": "n/a"
+    },
     "22008": {
       "name": "Ocean Plus Fish Silk",
       "price": "$1.65",
@@ -3434,6 +3440,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T23:06:22",
-  "last_count": 572
+  "last_run": "2026-09-04T23:07:27",
+  "last_count": 573
 }
