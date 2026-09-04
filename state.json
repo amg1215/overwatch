@@ -372,6 +372,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21361&limit=100",
       "stock": "n/a"
     },
+    "4619": {
+      "name": "KAI Nail Cutters KQ2",
+      "price": "$5.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4619&limit=100",
+      "stock": "n/a"
+    },
     "21354": {
       "name": "MilleFée Shape Magic",
       "price": "$9.09",
@@ -2498,6 +2504,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T19:01:28",
-  "last_count": 416
+  "last_run": "2026-09-04T19:02:23",
+  "last_count": 417
 }

@@ -7479,3 +7479,9 @@
 2026-09-04 19:01:27,856 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:01:28,113 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:01:28,130 INFO === Run finished ===
+2026-09-04 19:02:12,067 INFO === Run started ===
+2026-09-04 19:02:19,413 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 19:02:19,413 INFO   NEW: KAI Nail Cutters KQ2 | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4619&limit=100
+2026-09-04 19:02:22,867 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:02:23,180 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:02:23,183 INFO === Run finished ===
