@@ -8148,3 +8148,10 @@
 2026-09-04 21:06:38,849 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-04 21:06:39,113 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-04 21:06:39,117 INFO === Run finished ===
+2026-09-04 21:07:15,744 INFO === Run started ===
+2026-09-04 21:07:26,817 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 21:07:26,817 INFO   NEW: John's Blend Hanging | $2.10 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3638&limit=100
+2026-09-04 21:07:26,817 INFO   NEW: John's Blend Hanging | $2.10 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10278&limit=100
+2026-09-04 21:07:28,806 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 21:07:29,039 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 21:07:29,043 INFO === Run finished ===
