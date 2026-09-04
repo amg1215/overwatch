@@ -252,6 +252,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3773&limit=100",
       "stock": "n/a"
     },
+    "3642": {
+      "name": "John's Blend Solid O",
+      "price": "$6.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3642&limit=100",
+      "stock": "n/a"
+    },
     "3769": {
       "name": "John's Blend Wardrob",
       "price": "$4.33",
@@ -3086,6 +3092,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T20:41:20",
-  "last_count": 514
+  "last_run": "2026-09-04T20:42:21",
+  "last_count": 515
 }
