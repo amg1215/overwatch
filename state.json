@@ -198,6 +198,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29617&limit=100",
       "stock": "n/a"
     },
+    "9686": {
+      "name": "Okamoto 0.01 L Size",
+      "price": "$7.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9686&limit=100",
+      "stock": "n/a"
+    },
     "210": {
       "name": "Nichiban Adhesive Ba",
       "price": "$2.93",
@@ -2462,6 +2468,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T18:53:20",
-  "last_count": 410
+  "last_run": "2026-09-04T18:54:22",
+  "last_count": 411
 }

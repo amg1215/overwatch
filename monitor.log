@@ -7439,3 +7439,9 @@
 2026-09-04 18:53:12,683 INFO === Run started ===
 2026-09-04 18:53:20,786 INFO No new products (410 tracked)
 2026-09-04 18:53:20,789 INFO === Run finished ===
+2026-09-04 18:54:13,065 INFO === Run started ===
+2026-09-04 18:54:20,504 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 18:54:20,504 INFO   NEW: Okamoto 0.01 L Size | $7.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9686&limit=100
+2026-09-04 18:54:21,821 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 18:54:22,234 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 18:54:22,238 INFO === Run finished ===
