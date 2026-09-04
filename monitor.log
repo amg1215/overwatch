@@ -8725,3 +8725,9 @@
 2026-09-04 23:19:23,272 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 23:19:23,810 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 23:19:23,814 INFO === Run finished ===
+2026-09-04 23:20:16,838 INFO === Run started ===
+2026-09-04 23:20:27,311 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 23:20:27,311 INFO   NEW: I-MEI Soft Gummy Cla | $1.92 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19393&limit=100
+2026-09-04 23:20:29,577 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 23:20:29,851 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 23:20:29,856 INFO === Run finished ===

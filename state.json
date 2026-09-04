@@ -2430,6 +2430,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19390&limit=100",
       "stock": "n/a"
     },
+    "19393": {
+      "name": "I-MEI Soft Gummy Cla",
+      "price": "$1.92",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19393&limit=100",
+      "stock": "n/a"
+    },
     "28927": {
       "name": "Kabaya Shaved Ice Gu",
       "price": "$1.49",
@@ -3470,6 +3476,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T23:19:23",
-  "last_count": 578
+  "last_run": "2026-09-04T23:20:29",
+  "last_count": 579
 }
