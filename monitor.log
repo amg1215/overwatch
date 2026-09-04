@@ -8460,3 +8460,9 @@
 2026-09-04 22:26:22,115 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 22:26:22,214 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 22:26:22,218 INFO === Run finished ===
+2026-09-04 22:27:10,638 INFO === Run started ===
+2026-09-04 22:27:20,693 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 22:27:20,693 INFO   NEW: Doritos Chips Golden | $1.45 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15075&limit=100
+2026-09-04 22:27:22,660 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 22:27:22,919 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 22:27:22,923 INFO === Run finished ===

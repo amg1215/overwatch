@@ -2712,6 +2712,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24901&limit=100",
       "stock": "n/a"
     },
+    "15075": {
+      "name": "Doritos Chips Golden",
+      "price": "$1.45",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15075&limit=100",
+      "stock": "n/a"
+    },
     "31587": {
       "name": "Bourbon Spicy Flavor",
       "price": "$2.19",
@@ -3230,6 +3236,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T22:26:22",
-  "last_count": 538
+  "last_run": "2026-09-04T22:27:22",
+  "last_count": 539
 }
