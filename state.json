@@ -456,6 +456,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=350&limit=100",
       "stock": "n/a"
     },
+    "2267": {
+      "name": "Sanyo Selected Cotto",
+      "price": "$1.73",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2267&limit=100",
+      "stock": "n/a"
+    },
+    "2266": {
+      "name": "Sanyo Spiral Cotton",
+      "price": "$2.43",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2266&limit=100",
+      "stock": "n/a"
+    },
     "2270": {
       "name": "Sanyo 360 Degree Ear",
       "price": "$1.42",
@@ -1210,6 +1222,12 @@
       "name": "API Plush Doll Penda",
       "price": "$11.71",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14100&limit=100",
+      "stock": "n/a"
+    },
+    "23070": {
+      "name": "Ost GLOOMY Violent B",
+      "price": "$8.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23070&limit=100",
       "stock": "n/a"
     },
     "3224": {
@@ -2540,6 +2558,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T19:08:22",
-  "last_count": 423
+  "last_run": "2026-09-04T19:09:18",
+  "last_count": 426
 }

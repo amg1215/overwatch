@@ -7519,3 +7519,11 @@
 2026-09-04 19:08:22,740 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-04 19:08:22,922 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-04 19:08:22,925 INFO === Run finished ===
+2026-09-04 19:09:10,316 INFO === Run started ===
+2026-09-04 19:09:17,360 INFO NEW/RESTOCKED products detected: 3
+2026-09-04 19:09:17,360 INFO   NEW: Sanyo Selected Cotto | $1.73 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2267&limit=100
+2026-09-04 19:09:17,360 INFO   NEW: Sanyo Spiral Cotton | $2.43 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2266&limit=100
+2026-09-04 19:09:17,360 INFO   NEW: Ost GLOOMY Violent B | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23070&limit=100
+2026-09-04 19:09:18,850 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-04 19:09:18,929 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-04 19:09:18,932 INFO === Run finished ===
