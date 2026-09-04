@@ -36,6 +36,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2279&limit=100",
       "stock": "n/a"
     },
+    "13665": {
+      "name": "T's Factory Pokemon",
+      "price": "$5.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13665&limit=100",
+      "stock": "n/a"
+    },
     "7389": {
       "name": "Nakaya 2 Partition P",
       "price": "$1.60",
@@ -2804,6 +2810,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T19:50:35",
-  "last_count": 467
+  "last_run": "2026-09-04T19:51:19",
+  "last_count": 468
 }

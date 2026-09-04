@@ -7748,3 +7748,9 @@
 2026-09-04 19:50:35,806 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-04 19:50:35,988 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-04 19:50:35,999 INFO === Run finished ===
+2026-09-04 19:51:10,532 INFO === Run started ===
+2026-09-04 19:51:17,957 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 19:51:17,957 INFO   NEW: T's Factory Pokemon | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13665&limit=100
+2026-09-04 19:51:19,433 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:51:19,610 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:51:19,614 INFO === Run finished ===
