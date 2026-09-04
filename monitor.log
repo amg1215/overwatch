@@ -8117,3 +8117,10 @@
 2026-09-04 21:00:20,530 INFO === Run started ===
 2026-09-04 21:00:29,954 INFO No new products (518 tracked)
 2026-09-04 21:00:29,957 INFO === Run finished ===
+2026-09-04 21:01:10,983 INFO === Run started ===
+2026-09-04 21:01:20,089 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 21:01:20,089 INFO   NEW: Shiseido Acne Removi | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10138&limit=100
+2026-09-04 21:01:20,089 INFO   NEW: Nisshin Seifun Pasta | $2.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=321&limit=100
+2026-09-04 21:01:22,019 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 21:01:22,259 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 21:01:22,263 INFO === Run finished ===

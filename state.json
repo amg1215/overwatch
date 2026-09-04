@@ -492,6 +492,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11488&limit=100",
       "stock": "n/a"
     },
+    "10138": {
+      "name": "Shiseido Acne Removi",
+      "price": "$5.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10138&limit=100",
+      "stock": "n/a"
+    },
     "9265": {
       "name": "Kao Curel Makeup Rem",
       "price": "$11.65",
@@ -3090,6 +3096,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=315&limit=100",
       "stock": "n/a"
     },
+    "321": {
+      "name": "Nisshin Seifun Pasta",
+      "price": "$2.60",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=321&limit=100",
+      "stock": "n/a"
+    },
     "7463": {
       "name": "Nisshin Seifun Pasta",
       "price": "$2.60",
@@ -3110,6 +3122,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T21:00:29",
-  "last_count": 518
+  "last_run": "2026-09-04T21:01:22",
+  "last_count": 520
 }
