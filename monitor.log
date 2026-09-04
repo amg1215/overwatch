@@ -7580,3 +7580,10 @@
 2026-09-04 19:19:25,581 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:19:25,803 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:19:25,806 INFO === Run finished ===
+2026-09-04 19:20:16,318 INFO === Run started ===
+2026-09-04 19:20:24,444 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 19:20:24,444 INFO   NEW: John's Blend Solid O | $6.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3641&limit=100
+2026-09-04 19:20:24,444 INFO   NEW: Tombow Plastic Erase | $0.56 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8488&limit=100
+2026-09-04 19:20:25,892 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 19:20:25,965 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 19:20:25,968 INFO === Run finished ===
