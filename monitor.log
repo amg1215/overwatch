@@ -7822,3 +7822,10 @@
 2026-09-04 20:02:22,023 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 20:02:22,383 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 20:02:22,386 INFO === Run finished ===
+2026-09-04 20:03:11,089 INFO === Run started ===
+2026-09-04 20:03:18,925 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 20:03:18,925 INFO   NEW: COW Skin Life Foam S | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4219&limit=100
+2026-09-04 20:03:18,926 INFO   NEW: Tsubaki Volumizing R | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13218&limit=100
+2026-09-04 20:03:22,034 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 20:03:22,233 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 20:03:22,238 INFO === Run finished ===
