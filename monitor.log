@@ -8184,3 +8184,9 @@
 2026-09-04 21:13:10,841 INFO === Run started ===
 2026-09-04 21:13:19,428 INFO No new products (518 tracked)
 2026-09-04 21:13:19,431 INFO === Run finished ===
+2026-09-04 21:14:12,229 INFO === Run started ===
+2026-09-04 21:14:21,585 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 21:14:21,585 INFO   NEW: Asunarosha SLO Pocha | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22829&limit=100
+2026-09-04 21:14:23,514 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 21:14:23,878 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 21:14:23,882 INFO === Run finished ===

@@ -72,6 +72,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22826&limit=100",
       "stock": "n/a"
     },
+    "22829": {
+      "name": "Asunarosha SLO Pocha",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22829&limit=100",
+      "stock": "n/a"
+    },
     "7389": {
       "name": "Nakaya 2 Partition P",
       "price": "$1.60",
@@ -3110,6 +3116,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T21:13:19",
-  "last_count": 518
+  "last_run": "2026-09-04T21:14:23",
+  "last_count": 519
 }
