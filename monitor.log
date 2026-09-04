@@ -8537,3 +8537,12 @@
 2026-09-04 22:39:20,556 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 22:39:20,740 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 22:39:20,745 INFO === Run finished ===
+2026-09-04 22:40:16,790 INFO === Run started ===
+2026-09-04 22:40:26,640 INFO NEW/RESTOCKED products detected: 4
+2026-09-04 22:40:26,640 INFO   NEW: Ace Jelly Soda Mix 1 | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16946&limit=100
+2026-09-04 22:40:26,640 INFO   NEW: Nomura Hello Kitty S | $1.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10080&limit=100
+2026-09-04 22:40:26,640 INFO   NEW: AGF Coffee Liquid Su | $2.11 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3747&limit=100
+2026-09-04 22:40:26,640 INFO   NEW: Hakubaku Salt-free T | $1.86 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9712&limit=100
+2026-09-04 22:40:28,574 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-04 22:40:28,843 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-04 22:40:28,848 INFO === Run finished ===

@@ -2580,6 +2580,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31592&limit=100",
       "stock": "n/a"
     },
+    "16946": {
+      "name": "Ace Jelly Soda Mix 1",
+      "price": "$2.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16946&limit=100",
+      "stock": "n/a"
+    },
     "12358": {
       "name": "Ash Cake Lemon Flavo",
       "price": "$3.32",
@@ -2716,6 +2722,12 @@
       "name": "Toyogami Confectione",
       "price": "$5.39",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23096&limit=100",
+      "stock": "n/a"
+    },
+    "10080": {
+      "name": "Nomura Hello Kitty S",
+      "price": "$1.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10080&limit=100",
       "stock": "n/a"
     },
     "24902": {
@@ -3144,6 +3156,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7926&limit=100",
       "stock": "n/a"
     },
+    "3747": {
+      "name": "AGF Coffee Liquid Su",
+      "price": "$2.11",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3747&limit=100",
+      "stock": "n/a"
+    },
     "29157": {
       "name": "AJINOMOTO Marim Coff",
       "price": "$2.39",
@@ -3300,6 +3318,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18785&limit=100",
       "stock": "n/a"
     },
+    "9712": {
+      "name": "Hakubaku Salt-free T",
+      "price": "$1.86",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9712&limit=100",
+      "stock": "n/a"
+    },
     "9782": {
       "name": "Daisho Vermicelli So",
       "price": "$4.22",
@@ -3314,6 +3338,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T22:39:20",
-  "last_count": 552
+  "last_run": "2026-09-04T22:40:28",
+  "last_count": 556
 }
