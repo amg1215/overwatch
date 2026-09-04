@@ -7927,3 +7927,10 @@
 2026-09-04 20:20:28,242 INFO Email sent: Ebisu: 4 new/restocked items!
 2026-09-04 20:20:28,439 INFO ntfy push sent: Ebisu: 4 new/restocked items!
 2026-09-04 20:20:28,443 INFO === Run finished ===
+2026-09-04 20:21:09,893 INFO === Run started ===
+2026-09-04 20:21:18,563 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 20:21:18,563 INFO   NEW: John's Blend Wardrob | $4.33 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3769&limit=100
+2026-09-04 20:21:18,563 INFO   NEW: Kao Curel Gel Lotion | $11.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5000&limit=100
+2026-09-04 20:21:21,525 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 20:21:21,652 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 20:21:21,656 INFO === Run finished ===
