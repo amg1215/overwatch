@@ -456,6 +456,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21361&limit=100",
       "stock": "n/a"
     },
+    "10692": {
+      "name": "Kissme Long & Curl M",
+      "price": "$10.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10692&limit=100",
+      "stock": "n/a"
+    },
     "4510": {
       "name": "Koji Spring Heart Li",
       "price": "$3.56",
@@ -664,6 +670,12 @@
       "name": "Lion Clinica Mouthwa",
       "price": "$3.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10024&limit=100",
+      "stock": "n/a"
+    },
+    "1916": {
+      "name": "Ensky Puzzle One Pie",
+      "price": "$26.20",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1916&limit=100",
       "stock": "n/a"
     },
     "22346": {
@@ -2394,6 +2406,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22191&limit=100",
       "stock": "n/a"
     },
+    "23096": {
+      "name": "Toyogami Confectione",
+      "price": "$5.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23096&limit=100",
+      "stock": "n/a"
+    },
     "24902": {
       "name": "LOTTE Pepero Chocola",
       "price": "$1.35",
@@ -2786,6 +2804,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T19:49:20",
-  "last_count": 464
+  "last_run": "2026-09-04T19:50:35",
+  "last_count": 467
 }

@@ -7740,3 +7740,11 @@
 2026-09-04 19:49:19,986 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-04 19:49:20,139 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-04 19:49:20,148 INFO === Run finished ===
+2026-09-04 19:50:25,535 INFO === Run started ===
+2026-09-04 19:50:32,940 INFO NEW/RESTOCKED products detected: 3
+2026-09-04 19:50:32,941 INFO   NEW: Kissme Long & Curl M | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10692&limit=100
+2026-09-04 19:50:32,941 INFO   NEW: Ensky Puzzle One Pie | $26.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1916&limit=100
+2026-09-04 19:50:32,941 INFO   NEW: Toyogami Confectione | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23096&limit=100
+2026-09-04 19:50:35,806 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-04 19:50:35,988 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-04 19:50:35,999 INFO === Run finished ===
