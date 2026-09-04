@@ -8005,3 +8005,10 @@
 2026-09-04 20:36:22,777 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-04 20:36:23,000 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-04 20:36:23,002 INFO === Run finished ===
+2026-09-04 20:37:09,688 INFO === Run started ===
+2026-09-04 20:37:18,724 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 20:37:18,724 INFO   NEW: ECHO Stainless Steel | $1.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6524&limit=100
+2026-09-04 20:37:18,724 INFO   NEW: Kokuyo Cutter Knife | $3.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4932&limit=100
+2026-09-04 20:37:20,050 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 20:37:20,129 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 20:37:20,133 INFO === Run finished ===
