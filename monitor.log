@@ -8409,3 +8409,9 @@
 2026-09-04 22:14:11,295 INFO === Run started ===
 2026-09-04 22:14:20,396 INFO No new products (533 tracked)
 2026-09-04 22:14:20,399 INFO === Run finished ===
+2026-09-04 22:15:15,781 INFO === Run started ===
+2026-09-04 22:15:25,733 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 22:15:25,733 INFO   NEW: Tarami Coconut Pulp | $1.68 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10707&limit=100
+2026-09-04 22:15:27,765 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 22:15:28,032 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 22:15:28,037 INFO === Run finished ===
