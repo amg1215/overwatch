@@ -1008,6 +1008,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29582&limit=100",
       "stock": "n/a"
     },
+    "50396": {
+      "name": "Taito To LOVE-Ru Dar",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50396&limit=100",
+      "stock": "n/a"
+    },
+    "50444": {
+      "name": "Taito Strawberry 100",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50444&limit=100",
+      "stock": "n/a"
+    },
     "50858": {
       "name": "Taito Toradora Deskt",
       "price": "$21.59",
@@ -1068,10 +1080,10 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50238&limit=100",
       "stock": "n/a"
     },
-    "50326": {
-      "name": "FuRyu Kasane Teto No",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50326&limit=100",
+    "50241": {
+      "name": "FuRyu Bad Girl Muchu",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50241&limit=100",
       "stock": "n/a"
     },
     "51161": {
@@ -1788,12 +1800,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31096&limit=100",
       "stock": "n/a"
     },
-    "10374": {
-      "name": "Coca-Cola Water Whit",
-      "price": "$1.56",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10374&limit=100",
-      "stock": "n/a"
-    },
     "13568": {
       "name": "Nippon Sangaria Beve",
       "price": "$1.49",
@@ -2108,6 +2114,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T15:06:22",
-  "last_count": 351
+  "last_run": "2026-09-04T15:07:19",
+  "last_count": 352
 }

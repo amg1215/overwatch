@@ -6633,3 +6633,11 @@
 2026-09-04 15:06:15,425 INFO === Run started ===
 2026-09-04 15:06:22,087 INFO No new products (351 tracked)
 2026-09-04 15:06:22,090 INFO === Run finished ===
+2026-09-04 15:07:11,196 INFO === Run started ===
+2026-09-04 15:07:18,043 INFO NEW/RESTOCKED products detected: 3
+2026-09-04 15:07:18,043 INFO   NEW: Taito To LOVE-Ru Dar | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50396&limit=100
+2026-09-04 15:07:18,043 INFO   NEW: Taito Strawberry 100 | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50444&limit=100
+2026-09-04 15:07:18,043 INFO   NEW: FuRyu Bad Girl Muchu | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50241&limit=100
+2026-09-04 15:07:19,704 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-04 15:07:19,932 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-04 15:07:19,935 INFO === Run finished ===
