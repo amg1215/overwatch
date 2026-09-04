@@ -8240,3 +8240,9 @@
 2026-09-04 21:24:11,864 INFO === Run started ===
 2026-09-04 21:24:21,033 INFO No new products (527 tracked)
 2026-09-04 21:24:21,036 INFO === Run finished ===
+2026-09-04 21:25:21,793 INFO === Run started ===
+2026-09-04 21:25:30,603 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 21:25:30,603 INFO   NEW: Tarami Jelly Yoghurt | $1.26 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10799&limit=100
+2026-09-04 21:25:33,206 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 21:25:33,469 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 21:25:33,473 INFO === Run finished ===
