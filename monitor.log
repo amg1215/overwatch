@@ -8012,3 +8012,11 @@
 2026-09-04 20:37:20,050 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-04 20:37:20,129 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-04 20:37:20,133 INFO === Run finished ===
+2026-09-04 20:38:12,107 INFO === Run started ===
+2026-09-04 20:38:21,465 INFO NEW/RESTOCKED products detected: 3
+2026-09-04 20:38:21,466 INFO   NEW: Asunarosha SLO Hello | $2.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23524&limit=100
+2026-09-04 20:38:21,466 INFO   NEW: Asunarosha SLO Kurom | $2.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29031&limit=100
+2026-09-04 20:38:21,466 INFO   NEW: Kao Curel Conditione | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4996&limit=100
+2026-09-04 20:38:24,479 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-04 20:38:24,769 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-04 20:38:24,773 INFO === Run finished ===

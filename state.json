@@ -462,6 +462,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4219&limit=100",
       "stock": "n/a"
     },
+    "23524": {
+      "name": "Asunarosha SLO Hello",
+      "price": "$2.89",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23524&limit=100",
+      "stock": "n/a"
+    },
+    "29031": {
+      "name": "Asunarosha SLO Kurom",
+      "price": "$2.89",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29031&limit=100",
+      "stock": "n/a"
+    },
     "9751": {
       "name": "Kao Curel Moist Crea",
       "price": "$12.98",
@@ -820,6 +832,12 @@
       "name": "Botanist Moisturizin",
       "price": "$13.28",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11250&limit=100",
+      "stock": "n/a"
+    },
+    "4996": {
+      "name": "Kao Curel Conditione",
+      "price": "$8.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4996&limit=100",
       "stock": "n/a"
     },
     "14117": {
@@ -3146,6 +3164,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T20:37:20",
-  "last_count": 524
+  "last_run": "2026-09-04T20:38:24",
+  "last_count": 527
 }
