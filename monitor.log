@@ -7998,3 +7998,10 @@
 2026-09-04 20:35:16,803 INFO === Run started ===
 2026-09-04 20:35:26,047 INFO No new products (520 tracked)
 2026-09-04 20:35:26,103 INFO === Run finished ===
+2026-09-04 20:36:11,915 INFO === Run started ===
+2026-09-04 20:36:21,168 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 20:36:21,168 INFO   NEW: Ashisen Labo. Corn A | $3.23 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8839&limit=100
+2026-09-04 20:36:21,168 INFO   NEW: Kumano Salon Link No | $6.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4733&limit=100
+2026-09-04 20:36:22,777 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 20:36:23,000 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 20:36:23,002 INFO === Run finished ===
