@@ -8155,3 +8155,11 @@
 2026-09-04 21:07:28,806 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-04 21:07:29,039 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-04 21:07:29,043 INFO === Run finished ===
+2026-09-04 21:08:20,384 INFO === Run started ===
+2026-09-04 21:08:30,332 INFO NEW/RESTOCKED products detected: 3
+2026-09-04 21:08:30,332 INFO   NEW: Pigeon Green-yellow | $2.63 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10007&limit=100
+2026-09-04 21:08:30,332 INFO   NEW: Morinaga Gummy Candy | $1.47 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29022&limit=100
+2026-09-04 21:08:30,332 INFO   NEW: Lion Peach-Famous Re | $1.73 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28929&limit=100
+2026-09-04 21:08:31,839 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-04 21:08:32,069 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-04 21:08:32,073 INFO === Run finished ===

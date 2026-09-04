@@ -48,6 +48,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2279&limit=100",
       "stock": "n/a"
     },
+    "10007": {
+      "name": "Pigeon Green-yellow",
+      "price": "$2.63",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10007&limit=100",
+      "stock": "n/a"
+    },
     "13665": {
       "name": "T's Factory Pokemon",
       "price": "$5.39",
@@ -642,12 +648,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17365&limit=100",
       "stock": "n/a"
     },
-    "30127": {
-      "name": "MilleFée Painting Ey",
-      "price": "$16.22",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30127&limit=100",
-      "stock": "n/a"
-    },
     "17332": {
       "name": "MilleFée Meow Paws E",
       "price": "$11.69",
@@ -736,12 +736,6 @@
       "name": "MilleFée Perfect Con",
       "price": "$13.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21352&limit=100",
-      "stock": "n/a"
-    },
-    "25575": {
-      "name": "MilleFée Tone-Up Con",
-      "price": "$10.39",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25575&limit=100",
       "stock": "n/a"
     },
     "51094": {
@@ -2400,6 +2394,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30963&limit=100",
       "stock": "n/a"
     },
+    "29022": {
+      "name": "Morinaga Gummy Candy",
+      "price": "$1.47",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29022&limit=100",
+      "stock": "n/a"
+    },
+    "28929": {
+      "name": "Lion Peach-Famous Re",
+      "price": "$1.73",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28929&limit=100",
+      "stock": "n/a"
+    },
     "9728": {
       "name": "Asahi Mintia Cold Sm",
       "price": "$1.21",
@@ -3092,6 +3098,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T21:07:29",
-  "last_count": 515
+  "last_run": "2026-09-04T21:08:32",
+  "last_count": 516
 }
