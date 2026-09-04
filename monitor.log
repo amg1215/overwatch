@@ -7976,3 +7976,10 @@
 2026-09-04 20:29:20,217 INFO Email sent: Ebisu: 4 new/restocked items!
 2026-09-04 20:29:20,296 INFO ntfy push sent: Ebisu: 4 new/restocked items!
 2026-09-04 20:29:20,300 INFO === Run finished ===
+2026-09-04 20:30:17,219 INFO === Run started ===
+2026-09-04 20:30:26,342 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 20:30:26,342 INFO   NEW: Rohto Skin Aqua Tone | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28757&limit=100
+2026-09-04 20:30:26,342 INFO   NEW: LEMON Color Pen 20 C | $1.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7428&limit=100
+2026-09-04 20:30:27,801 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 20:30:27,856 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 20:30:27,860 INFO === Run finished ===
