@@ -8020,3 +8020,12 @@
 2026-09-04 20:38:24,479 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-04 20:38:24,769 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-04 20:38:24,773 INFO === Run finished ===
+2026-09-04 20:39:09,971 INFO === Run started ===
+2026-09-04 20:39:20,378 INFO NEW/RESTOCKED products detected: 4
+2026-09-04 20:39:20,378 INFO   NEW: Kobayashi Eye Wash 5 | $8.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8115&limit=100
+2026-09-04 20:39:20,378 INFO   NEW: Rohto Eye Wash 450ml | $7.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7657&limit=100
+2026-09-04 20:39:20,378 INFO   NEW: Asunarosha SLO My Me | $2.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29030&limit=100
+2026-09-04 20:39:20,378 INFO   NEW: Shiseido FINO Hair M | $19.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14671&limit=100
+2026-09-04 20:39:21,716 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-04 20:39:21,789 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-04 20:39:21,793 INFO === Run finished ===
