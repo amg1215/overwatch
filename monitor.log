@@ -8270,3 +8270,10 @@
 2026-09-04 21:33:10,679 INFO === Run started ===
 2026-09-04 21:33:21,892 INFO No new products (527 tracked)
 2026-09-04 21:33:21,895 INFO === Run finished ===
+2026-09-04 21:34:12,017 INFO === Run started ===
+2026-09-04 21:34:21,925 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 21:34:21,925 INFO   NEW: Wakodo Udon Noodles | $1.64 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2847&limit=100
+2026-09-04 21:34:21,925 INFO   NEW: Tarami Pure Jelly Gr | $2.45 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8452&limit=100
+2026-09-04 21:34:23,768 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 21:34:23,995 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 21:34:23,999 INFO === Run finished ===

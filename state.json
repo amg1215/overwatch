@@ -48,6 +48,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2279&limit=100",
       "stock": "n/a"
     },
+    "2847": {
+      "name": "Wakodo Udon Noodles",
+      "price": "$1.64",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2847&limit=100",
+      "stock": "n/a"
+    },
     "10007": {
       "name": "Pigeon Green-yellow",
       "price": "$2.63",
@@ -2496,6 +2502,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9914&limit=100",
       "stock": "n/a"
     },
+    "8452": {
+      "name": "Tarami Pure Jelly Gr",
+      "price": "$2.45",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8452&limit=100",
+      "stock": "n/a"
+    },
     "8458": {
       "name": "Tarami Melon Jelly 1",
       "price": "$1.24",
@@ -3164,6 +3176,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T21:33:21",
-  "last_count": 527
+  "last_run": "2026-09-04T21:34:23",
+  "last_count": 529
 }
