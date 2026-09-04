@@ -7732,3 +7732,11 @@
 2026-09-04 19:48:12,936 INFO === Run started ===
 2026-09-04 19:48:21,524 INFO No new products (464 tracked)
 2026-09-04 19:48:21,527 INFO === Run finished ===
+2026-09-04 19:49:10,443 INFO === Run started ===
+2026-09-04 19:49:18,631 INFO NEW/RESTOCKED products detected: 3
+2026-09-04 19:49:18,631 INFO   NEW: Kokubo Washing Machi | $5.41 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3982&limit=100
+2026-09-04 19:49:18,631 INFO   NEW: Sanrio Plush Doll Pe | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10488&limit=100
+2026-09-04 19:49:18,631 INFO   NEW: Kokuyo Double Sided | $4.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5040&limit=100
+2026-09-04 19:49:19,986 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-04 19:49:20,139 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-04 19:49:20,148 INFO === Run finished ===

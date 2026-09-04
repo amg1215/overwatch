@@ -144,6 +144,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15696&limit=100",
       "stock": "n/a"
     },
+    "3982": {
+      "name": "Kokubo Washing Machi",
+      "price": "$5.41",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3982&limit=100",
+      "stock": "n/a"
+    },
     "3641": {
       "name": "John's Blend Solid O",
       "price": "$6.39",
@@ -1350,6 +1356,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10484&limit=100",
       "stock": "n/a"
     },
+    "10488": {
+      "name": "Sanrio Plush Doll Pe",
+      "price": "$7.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10488&limit=100",
+      "stock": "n/a"
+    },
     "10891": {
       "name": "SLO Keychain Hello K",
       "price": "$3.44",
@@ -2022,6 +2034,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4883&limit=100",
       "stock": "n/a"
     },
+    "5040": {
+      "name": "Kokuyo Double Sided",
+      "price": "$4.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5040&limit=100",
+      "stock": "n/a"
+    },
     "19941": {
       "name": "Kuki Cocoa Dessert P",
       "price": "$0.99",
@@ -2358,12 +2376,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28911&limit=100",
       "stock": "n/a"
     },
-    "30054": {
-      "name": "Nestle KitKat Chocol",
-      "price": "$3.65",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30054&limit=100",
-      "stock": "n/a"
-    },
     "22187": {
       "name": "Furuta SLO Biscuit C",
       "price": "$3.17",
@@ -2428,18 +2440,6 @@
       "name": "Asahi Rich Black Cof",
       "price": "$1.49",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10918&limit=100",
-      "stock": "n/a"
-    },
-    "31589": {
-      "name": "House Vitamin C1000",
-      "price": "$1.60",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31589&limit=100",
-      "stock": "n/a"
-    },
-    "31588": {
-      "name": "House Vitamin C1000",
-      "price": "$1.60",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31588&limit=100",
       "stock": "n/a"
     },
     "30877": {
@@ -2786,6 +2786,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T19:48:21",
+  "last_run": "2026-09-04T19:49:20",
   "last_count": 464
 }
