@@ -8313,3 +8313,9 @@
 2026-09-04 21:44:20,657 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 21:44:20,731 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 21:44:20,734 INFO === Run finished ===
+2026-09-04 21:45:23,401 INFO === Run started ===
+2026-09-04 21:45:31,775 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 21:45:31,775 INFO   NEW: Mitsui Norin Nittoh | $3.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29159&limit=100
+2026-09-04 21:45:33,301 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 21:45:33,662 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 21:45:33,665 INFO === Run finished ===

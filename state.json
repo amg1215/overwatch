@@ -3096,6 +3096,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=325&limit=100",
       "stock": "n/a"
     },
+    "29159": {
+      "name": "Mitsui Norin Nittoh",
+      "price": "$3.53",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29159&limit=100",
+      "stock": "n/a"
+    },
     "50966": {
       "name": "Urashima Nori Ebi Fu",
       "price": "$3.25",
@@ -3188,6 +3194,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T21:44:20",
-  "last_count": 531
+  "last_run": "2026-09-04T21:45:33",
+  "last_count": 532
 }
