@@ -1056,10 +1056,34 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=49804&limit=100",
       "stock": "n/a"
     },
+    "29531": {
+      "name": "Banpresto Puella Mag",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29531&limit=100",
+      "stock": "n/a"
+    },
     "30652": {
       "name": "Banpresto Puella Mag",
       "price": "$23.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30652&limit=100",
+      "stock": "n/a"
+    },
+    "51427": {
+      "name": "Banpresto Hatsune Mi",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51427&limit=100",
+      "stock": "n/a"
+    },
+    "30717": {
+      "name": "Banpresto Puella Mag",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30717&limit=100",
+      "stock": "n/a"
+    },
+    "50446": {
+      "name": "Banpresto ONE PIECE",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50446&limit=100",
       "stock": "n/a"
     },
     "50447": {
@@ -1134,6 +1158,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51430&limit=100",
       "stock": "n/a"
     },
+    "51423": {
+      "name": "Banpresto One Piece",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51423&limit=100",
+      "stock": "n/a"
+    },
     "51431": {
       "name": "Banpresto One Piece",
       "price": "$23.99",
@@ -1176,6 +1206,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51162&limit=100",
       "stock": "n/a"
     },
+    "50443": {
+      "name": "Sega Hatsune Miku Lu",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50443&limit=100",
+      "stock": "n/a"
+    },
     "50237": {
       "name": "Sega Fave A Certain",
       "price": "$20.39",
@@ -1188,10 +1224,22 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50238&limit=100",
       "stock": "n/a"
     },
+    "50441": {
+      "name": "Sega Chainsaw Man Th",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50441&limit=100",
+      "stock": "n/a"
+    },
     "50241": {
       "name": "FuRyu Bad Girl Muchu",
       "price": "$23.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50241&limit=100",
+      "stock": "n/a"
+    },
+    "50684": {
+      "name": "FuRyu Bad Girl Mucut",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50684&limit=100",
       "stock": "n/a"
     },
     "50859": {
@@ -2270,6 +2318,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T15:15:24",
-  "last_count": 378
+  "last_run": "2026-09-04T15:16:23",
+  "last_count": 386
 }

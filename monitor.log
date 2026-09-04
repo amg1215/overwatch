@@ -6705,3 +6705,16 @@
 2026-09-04 15:15:23,964 INFO Email sent: Ebisu: 4 new/restocked items!
 2026-09-04 15:15:24,032 INFO ntfy push sent: Ebisu: 4 new/restocked items!
 2026-09-04 15:15:24,036 INFO === Run finished ===
+2026-09-04 15:16:15,324 INFO === Run started ===
+2026-09-04 15:16:21,492 INFO NEW/RESTOCKED products detected: 8
+2026-09-04 15:16:21,492 INFO   NEW: Banpresto Puella Mag | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29531&limit=100
+2026-09-04 15:16:21,492 INFO   NEW: Banpresto Hatsune Mi | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51427&limit=100
+2026-09-04 15:16:21,492 INFO   NEW: Banpresto Puella Mag | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30717&limit=100
+2026-09-04 15:16:21,492 INFO   NEW: Banpresto ONE PIECE | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50446&limit=100
+2026-09-04 15:16:21,492 INFO   NEW: Banpresto One Piece | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51423&limit=100
+2026-09-04 15:16:21,492 INFO   NEW: Sega Hatsune Miku Lu | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50443&limit=100
+2026-09-04 15:16:21,492 INFO   NEW: Sega Chainsaw Man Th | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50441&limit=100
+2026-09-04 15:16:21,492 INFO   NEW: FuRyu Bad Girl Mucut | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50684&limit=100
+2026-09-04 15:16:23,486 INFO Email sent: Ebisu: 8 new/restocked items!
+2026-09-04 15:16:23,539 INFO ntfy push sent: Ebisu: 8 new/restocked items!
+2026-09-04 15:16:23,542 INFO === Run finished ===
