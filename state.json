@@ -1032,12 +1032,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50858&limit=100",
       "stock": "n/a"
     },
-    "51433": {
-      "name": "Taito To LOVE-Ru Dar",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51433&limit=100",
-      "stock": "n/a"
-    },
     "51440": {
       "name": "Taito Hatsune Miku B",
       "price": "$23.99",
@@ -1050,22 +1044,10 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51439&limit=100",
       "stock": "n/a"
     },
-    "51163": {
-      "name": "Taito Frieren Beyond",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51163&limit=100",
-      "stock": "n/a"
-    },
     "51292": {
       "name": "Taito Wandering Witc",
       "price": "$21.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51292&limit=100",
-      "stock": "n/a"
-    },
-    "49804": {
-      "name": "System Service Saga",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=49804&limit=100",
       "stock": "n/a"
     },
     "29531": {
@@ -1240,12 +1222,6 @@
       "name": "Sega Jujutsu Kaisen",
       "price": "$27.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51162&limit=100",
-      "stock": "n/a"
-    },
-    "50443": {
-      "name": "Sega Hatsune Miku Lu",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50443&limit=100",
       "stock": "n/a"
     },
     "50237": {
@@ -2354,6 +2330,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T15:32:20",
-  "last_count": 392
+  "last_run": "2026-09-04T15:33:18",
+  "last_count": 388
 }
