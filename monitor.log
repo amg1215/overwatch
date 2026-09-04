@@ -6686,3 +6686,13 @@
 2026-09-04 15:13:18,944 INFO Email sent: Ebisu: 4 new/restocked items!
 2026-09-04 15:13:18,999 INFO ntfy push sent: Ebisu: 4 new/restocked items!
 2026-09-04 15:13:19,002 INFO === Run finished ===
+2026-09-04 15:14:20,562 INFO === Run started ===
+2026-09-04 15:14:26,877 INFO NEW/RESTOCKED products detected: 5
+2026-09-04 15:14:26,878 INFO   NEW: Taito To LOVE-Ru Dar | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51433&limit=100
+2026-09-04 15:14:26,878 INFO   NEW: Banpresto Dragon Bal | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51158&limit=100
+2026-09-04 15:14:26,878 INFO   NEW: Banpresto NARUTO Shi | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51430&limit=100
+2026-09-04 15:14:26,878 INFO   NEW: Sega Jujutsu Kaisen | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51434&limit=100
+2026-09-04 15:14:26,878 INFO   NEW: Sega Jujutsu Kaisen | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51435&limit=100
+2026-09-04 15:14:28,757 INFO Email sent: Ebisu: 5 new/restocked items!
+2026-09-04 15:14:28,960 INFO ntfy push sent: Ebisu: 5 new/restocked items!
+2026-09-04 15:14:28,962 INFO === Run finished ===
