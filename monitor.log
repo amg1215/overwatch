@@ -8749,3 +8749,9 @@
 2026-09-04 23:25:14,909 INFO === Run started ===
 2026-09-04 23:25:25,126 INFO No new products (580 tracked)
 2026-09-04 23:25:25,129 INFO === Run finished ===
+2026-09-04 23:26:14,672 INFO === Run started ===
+2026-09-04 23:26:23,786 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 23:26:23,786 INFO   NEW: Red Sakura Kuromi B | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20980&limit=100
+2026-09-04 23:26:27,836 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 23:26:28,001 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 23:26:28,005 INFO === Run finished ===
