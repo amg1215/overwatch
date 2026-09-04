@@ -8692,3 +8692,9 @@
 2026-09-04 23:13:09,959 INFO === Run started ===
 2026-09-04 23:13:18,973 INFO No new products (573 tracked)
 2026-09-04 23:13:18,976 INFO === Run finished ===
+2026-09-04 23:14:12,366 INFO === Run started ===
+2026-09-04 23:14:22,076 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 23:14:22,076 INFO   NEW: Want Want Lonely God | $0.87 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30787&limit=100
+2026-09-04 23:14:24,702 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 23:14:24,923 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 23:14:24,927 INFO === Run finished ===

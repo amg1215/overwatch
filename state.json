@@ -2766,6 +2766,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24901&limit=100",
       "stock": "n/a"
     },
+    "30787": {
+      "name": "Want Want Lonely God",
+      "price": "$0.87",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30787&limit=100",
+      "stock": "n/a"
+    },
     "18242": {
       "name": "Lay's Potato Chips D",
       "price": "$1.45",
@@ -3440,6 +3446,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T23:13:18",
-  "last_count": 573
+  "last_run": "2026-09-04T23:14:24",
+  "last_count": 574
 }
