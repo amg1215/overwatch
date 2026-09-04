@@ -2730,6 +2730,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22013&limit=100",
       "stock": "n/a"
     },
+    "22012": {
+      "name": "Ocean Plus Sandwiche",
+      "price": "$3.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22012&limit=100",
+      "stock": "n/a"
+    },
     "24866": {
       "name": "Kojima Dried Squid 1",
       "price": "$1.79",
@@ -3218,6 +3224,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T22:23:21",
-  "last_count": 536
+  "last_run": "2026-09-04T22:24:25",
+  "last_count": 537
 }
