@@ -7564,3 +7564,10 @@
 2026-09-04 19:16:21,958 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-04 19:16:22,127 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-04 19:16:22,130 INFO === Run finished ===
+2026-09-04 19:17:14,146 INFO === Run started ===
+2026-09-04 19:17:21,759 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 19:17:21,759 INFO   NEW: Nakaya Microwaveable | $1.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7390&limit=100
+2026-09-04 19:17:21,760 INFO   NEW: Mitsubishi Uni Pin O | $1.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5125&limit=100
+2026-09-04 19:17:23,499 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 19:17:23,726 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 19:17:23,729 INFO === Run finished ===
