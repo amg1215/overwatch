@@ -8215,3 +8215,10 @@
 2026-09-04 21:19:14,216 INFO === Run started ===
 2026-09-04 21:19:24,155 INFO No new products (523 tracked)
 2026-09-04 21:19:24,158 INFO === Run finished ===
+2026-09-04 21:20:18,853 INFO === Run started ===
+2026-09-04 21:20:28,646 INFO NEW/RESTOCKED products detected: 2
+2026-09-04 21:20:28,646 INFO   NEW: Kao Curel Moisturizi | $19.50 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9656&limit=100
+2026-09-04 21:20:28,647 INFO   NEW: Tarami White Peach J | $1.24 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9914&limit=100
+2026-09-04 21:20:30,294 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-04 21:20:30,540 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-04 21:20:30,544 INFO === Run finished ===
