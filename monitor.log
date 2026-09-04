@@ -7668,3 +7668,12 @@
 2026-09-04 19:36:20,536 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-04 19:36:20,798 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-04 19:36:20,802 INFO === Run finished ===
+2026-09-04 19:37:12,927 INFO === Run started ===
+2026-09-04 19:37:21,222 INFO NEW/RESTOCKED products detected: 4
+2026-09-04 19:37:21,222 INFO   NEW: Sanrio Key Chain Poc | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10483&limit=100
+2026-09-04 19:37:21,222 INFO   NEW: Sanrio Key Chain BAD | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10484&limit=100
+2026-09-04 19:37:21,223 INFO   NEW: SLO Keychain Hello K | $3.44 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10891&limit=100
+2026-09-04 19:37:21,223 INFO   NEW: SLO Keychain Kuromi | $3.44 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10893&limit=100
+2026-09-04 19:37:23,118 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-04 19:37:23,381 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-04 19:37:23,384 INFO === Run finished ===
