@@ -546,6 +546,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14400&limit=100",
       "stock": "n/a"
     },
+    "13530": {
+      "name": "CRUX SLO Hair Stylin",
+      "price": "$7.03",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13530&limit=100",
+      "stock": "n/a"
+    },
     "10024": {
       "name": "Lion Clinica Mouthwa",
       "price": "$3.99",
@@ -2606,6 +2612,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T19:18:30",
-  "last_count": 434
+  "last_run": "2026-09-04T19:19:25",
+  "last_count": 435
 }
