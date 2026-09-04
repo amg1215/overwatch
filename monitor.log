@@ -7141,3 +7141,9 @@
 2026-09-04 17:24:24,801 INFO === Run started ===
 2026-09-04 17:24:32,115 INFO No new products (396 tracked)
 2026-09-04 17:24:32,118 INFO === Run finished ===
+2026-09-04 17:25:14,993 INFO === Run started ===
+2026-09-04 17:25:21,320 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 17:25:21,320 INFO   NEW: SAN-EI Pokemon Mew P | $11.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21051&limit=100
+2026-09-04 17:25:22,944 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 17:25:23,176 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 17:25:23,179 INFO === Run finished ===
