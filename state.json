@@ -516,12 +516,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18963&limit=100",
       "stock": "n/a"
     },
-    "25672": {
-      "name": "Moetch Sanrio Charac",
-      "price": "$9.69",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25672&limit=100",
-      "stock": "n/a"
-    },
     "25671": {
       "name": "Moetch Sanrio Charac",
       "price": "$6.89",
@@ -592,12 +586,6 @@
       "name": "Moetch Sanrio Fluffy",
       "price": "$2.75",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23725&limit=100",
-      "stock": "n/a"
-    },
-    "30685": {
-      "name": "Moetch Sanrio charac",
-      "price": "$15.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30685&limit=100",
       "stock": "n/a"
     },
     "31532": {
@@ -804,12 +792,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25669&limit=100",
       "stock": "n/a"
     },
-    "25668": {
-      "name": "Moetch Hello Kitty K",
-      "price": "$8.25",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25668&limit=100",
-      "stock": "n/a"
-    },
     "25676": {
       "name": "Moetch Sanrio Charac",
       "price": "$12.49",
@@ -820,12 +802,6 @@
       "name": "Moetch Sanrio Charac",
       "price": "$12.49",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25677&limit=100",
-      "stock": "n/a"
-    },
-    "25666": {
-      "name": "Moetch Sanrio Charac",
-      "price": "$5.69",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25666&limit=100",
       "stock": "n/a"
     },
     "26513": {
@@ -864,12 +840,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28480&limit=100",
       "stock": "n/a"
     },
-    "29584": {
-      "name": "Guangbo Plush Doll P",
-      "price": "$10.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29584&limit=100",
-      "stock": "n/a"
-    },
     "23712": {
       "name": "Moetch Sanrio Guardi",
       "price": "$4.17",
@@ -886,12 +856,6 @@
       "name": "Moetch Hello Kitty C",
       "price": "$6.49",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23717&limit=100",
-      "stock": "n/a"
-    },
-    "30679": {
-      "name": "Moetch Hello Kitty S",
-      "price": "$9.45",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30679&limit=100",
       "stock": "n/a"
     },
     "23711": {
@@ -2174,6 +2138,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T13:59:18",
-  "last_count": 362
+  "last_run": "2026-09-04T14:00:28",
+  "last_count": 356
 }
