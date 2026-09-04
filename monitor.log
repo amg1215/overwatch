@@ -7655,3 +7655,9 @@
 2026-09-04 19:34:26,326 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:34:26,378 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 19:34:26,382 INFO === Run finished ===
+2026-09-04 19:35:15,343 INFO === Run started ===
+2026-09-04 19:35:23,259 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 19:35:23,260 INFO   NEW: Masse Molly Perfume | $4.48 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13111&limit=100
+2026-09-04 19:35:25,330 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:35:25,557 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:35:25,560 INFO === Run finished ===
