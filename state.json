@@ -1764,6 +1764,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3224&limit=100",
       "stock": "n/a"
     },
+    "22834": {
+      "name": "Asunarosha SLO Pocha",
+      "price": "$5.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22834&limit=100",
+      "stock": "n/a"
+    },
     "29581": {
       "name": "Guangbo Plush Doll P",
       "price": "$7.69",
@@ -3098,6 +3104,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T21:09:19",
-  "last_count": 516
+  "last_run": "2026-09-04T21:10:28",
+  "last_count": 517
 }
