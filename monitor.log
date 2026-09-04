@@ -7602,3 +7602,9 @@
 2026-09-04 19:23:12,199 INFO === Run started ===
 2026-09-04 19:23:19,731 INFO No new products (439 tracked)
 2026-09-04 19:23:19,734 INFO === Run finished ===
+2026-09-04 19:24:12,049 INFO === Run started ===
+2026-09-04 19:24:19,829 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 19:24:19,829 INFO   NEW: Kokubo deLijoy Spher | $1.30 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8289&limit=100
+2026-09-04 19:24:21,190 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:24:21,321 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 19:24:21,324 INFO === Run finished ===
