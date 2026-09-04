@@ -3018,6 +3018,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7033&limit=100",
       "stock": "n/a"
     },
+    "7463": {
+      "name": "Nisshin Seifun Pasta",
+      "price": "$2.60",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7463&limit=100",
+      "stock": "n/a"
+    },
     "29158": {
       "name": "Marumiya Pokemon Cur",
       "price": "$1.59",
@@ -3032,6 +3038,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T20:17:22",
-  "last_count": 505
+  "last_run": "2026-09-04T20:18:25",
+  "last_count": 506
 }

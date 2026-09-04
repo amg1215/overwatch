@@ -7909,3 +7909,9 @@
 2026-09-04 20:17:22,029 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-04 20:17:22,227 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-04 20:17:22,231 INFO === Run finished ===
+2026-09-04 20:18:13,436 INFO === Run started ===
+2026-09-04 20:18:23,241 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 20:18:23,241 INFO   NEW: Nisshin Seifun Pasta | $2.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7463&limit=100
+2026-09-04 20:18:25,359 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 20:18:25,594 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 20:18:25,598 INFO === Run finished ===
