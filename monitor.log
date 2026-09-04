@@ -6696,3 +6696,12 @@
 2026-09-04 15:14:28,757 INFO Email sent: Ebisu: 5 new/restocked items!
 2026-09-04 15:14:28,960 INFO ntfy push sent: Ebisu: 5 new/restocked items!
 2026-09-04 15:14:28,962 INFO === Run finished ===
+2026-09-04 15:15:15,794 INFO === Run started ===
+2026-09-04 15:15:22,276 INFO NEW/RESTOCKED products detected: 4
+2026-09-04 15:15:22,276 INFO   NEW: Banpresto Puella Mag | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30652&limit=100
+2026-09-04 15:15:22,276 INFO   NEW: Banpresto The Apothe | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51424&limit=100
+2026-09-04 15:15:22,276 INFO   NEW: Banpresto NARUTO Shi | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50683&limit=100
+2026-09-04 15:15:22,276 INFO   NEW: Banpresto NARUTO Shi | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50798&limit=100
+2026-09-04 15:15:23,964 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-04 15:15:24,032 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-04 15:15:24,036 INFO === Run finished ===
