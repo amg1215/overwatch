@@ -2724,6 +2724,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19749&limit=100",
       "stock": "n/a"
     },
+    "18159": {
+      "name": "Lay's Potato Chips B",
+      "price": "$1.45",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18159&limit=100",
+      "stock": "n/a"
+    },
     "15075": {
       "name": "Doritos Chips Golden",
       "price": "$1.45",
@@ -3248,6 +3254,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T22:29:23",
-  "last_count": 541
+  "last_run": "2026-09-04T22:30:28",
+  "last_count": 542
 }
