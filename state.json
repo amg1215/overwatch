@@ -180,6 +180,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16099&limit=100",
       "stock": "n/a"
     },
+    "15169": {
+      "name": "T's Factory SLO Hell",
+      "price": "$10.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15169&limit=100",
+      "stock": "n/a"
+    },
     "438": {
       "name": "Sanrio Hair Ring Twi",
       "price": "$2.39",
@@ -214,6 +220,18 @@
       "name": "John's Blend Solid O",
       "price": "$6.39",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3641&limit=100",
+      "stock": "n/a"
+    },
+    "10277": {
+      "name": "John's Blend Solid O",
+      "price": "$6.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10277&limit=100",
+      "stock": "n/a"
+    },
+    "3773": {
+      "name": "John's Blend Solid O",
+      "price": "$6.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3773&limit=100",
       "stock": "n/a"
     },
     "5909": {
@@ -778,6 +796,12 @@
       "name": "Moist Diane Botanica",
       "price": "$8.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14400&limit=100",
+      "stock": "n/a"
+    },
+    "9808": {
+      "name": "Kobayashi Moisturizi",
+      "price": "$7.15",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9808&limit=100",
       "stock": "n/a"
     },
     "13530": {
@@ -3038,6 +3062,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T20:19:19",
-  "last_count": 506
+  "last_run": "2026-09-04T20:20:28",
+  "last_count": 510
 }
