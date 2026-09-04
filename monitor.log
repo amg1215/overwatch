@@ -7132,3 +7132,9 @@
 2026-09-04 17:22:16,778 INFO === Run started ===
 2026-09-04 17:22:23,505 INFO No new products (395 tracked)
 2026-09-04 17:22:23,507 INFO === Run finished ===
+2026-09-04 17:23:09,618 INFO === Run started ===
+2026-09-04 17:23:15,862 INFO NEW/RESTOCKED products detected: 1
+2026-09-04 17:23:15,862 INFO   NEW: Tsubaki Moisture Rep | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13217&limit=100
+2026-09-04 17:23:16,963 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-04 17:23:17,325 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-04 17:23:17,328 INFO === Run finished ===
