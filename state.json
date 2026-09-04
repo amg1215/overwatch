@@ -438,6 +438,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21361&limit=100",
       "stock": "n/a"
     },
+    "4510": {
+      "name": "Koji Spring Heart Li",
+      "price": "$3.56",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4510&limit=100",
+      "stock": "n/a"
+    },
     "4619": {
       "name": "KAI Nail Cutters KQ2",
       "price": "$5.39",
@@ -478,6 +484,12 @@
       "name": "Masse Molly Perfume",
       "price": "$4.48",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13111&limit=100",
+      "stock": "n/a"
+    },
+    "13106": {
+      "name": "Masse Molly Perfume",
+      "price": "$4.48",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13106&limit=100",
       "stock": "n/a"
     },
     "5816": {
@@ -1288,6 +1300,12 @@
       "name": "SAN-EI Pokemon Snorl",
       "price": "$13.79",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21052&limit=100",
+      "stock": "n/a"
+    },
+    "21056": {
+      "name": "SAN-EI Pokemon Mimik",
+      "price": "$13.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21056&limit=100",
       "stock": "n/a"
     },
     "29580": {
@@ -2738,6 +2756,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-04T19:38:23",
-  "last_count": 456
+  "last_run": "2026-09-04T19:39:31",
+  "last_count": 459
 }

@@ -7684,3 +7684,11 @@
 2026-09-04 19:38:23,437 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-04 19:38:23,689 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-04 19:38:23,693 INFO === Run finished ===
+2026-09-04 19:39:21,359 INFO === Run started ===
+2026-09-04 19:39:28,738 INFO NEW/RESTOCKED products detected: 3
+2026-09-04 19:39:28,738 INFO   NEW: Koji Spring Heart Li | $3.56 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4510&limit=100
+2026-09-04 19:39:28,738 INFO   NEW: Masse Molly Perfume | $4.48 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13106&limit=100
+2026-09-04 19:39:28,738 INFO   NEW: SAN-EI Pokemon Mimik | $13.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21056&limit=100
+2026-09-04 19:39:31,377 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-04 19:39:31,677 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-04 19:39:31,680 INFO === Run finished ===
