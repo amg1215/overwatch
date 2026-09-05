@@ -10449,3 +10449,10 @@
 2026-09-05 20:15:31,144 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-05 20:15:31,321 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-05 20:15:31,325 INFO === Run finished ===
+2026-09-05 20:16:11,604 INFO === Run started ===
+2026-09-05 20:16:25,536 INFO NEW/RESTOCKED products detected: 2
+2026-09-05 20:16:25,536 INFO   NEW: Crayon Shin-chan Lun | $6.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21456&limit=100
+2026-09-05 20:16:25,536 INFO   NEW: SUNNY FACE Ruyushuid | $1.65 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29183&limit=100
+2026-09-05 20:16:29,395 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-05 20:16:29,703 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-05 20:16:29,708 INFO === Run finished ===
