@@ -10264,3 +10264,9 @@
 2026-09-05 19:23:36,973 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-05 19:23:37,094 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-05 19:23:37,099 INFO === Run finished ===
+2026-09-05 19:24:11,747 INFO === Run started ===
+2026-09-05 19:24:33,523 INFO NEW/RESTOCKED products detected: 1
+2026-09-05 19:24:33,523 INFO   NEW: MK Thunder Race Car | $7.51 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12923&limit=100
+2026-09-05 19:24:37,139 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-05 19:24:37,357 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-05 19:24:37,362 INFO === Run finished ===
