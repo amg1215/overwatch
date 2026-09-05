@@ -10491,3 +10491,9 @@
 2026-09-05 20:22:29,493 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-05 20:22:29,585 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-05 20:22:29,671 INFO === Run finished ===
+2026-09-05 20:23:12,664 INFO === Run started ===
+2026-09-05 20:23:26,120 INFO NEW/RESTOCKED products detected: 1
+2026-09-05 20:23:26,120 INFO   NEW: SUNNY FACE Spring Ou | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29162&limit=100
+2026-09-05 20:23:28,319 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-05 20:23:28,543 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-05 20:23:28,547 INFO === Run finished ===
