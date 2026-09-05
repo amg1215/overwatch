@@ -1332,12 +1332,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31369&limit=100",
       "stock": "n/a"
     },
-    "31370": {
-      "name": "EAKI SPY×FAMILY Keyc",
-      "price": "$5.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31370&limit=100",
-      "stock": "n/a"
-    },
     "31371": {
       "name": "EAKI SPY×FAMILY Cat",
       "price": "$7.79",
@@ -1356,22 +1350,10 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31394&limit=100",
       "stock": "n/a"
     },
-    "31395": {
-      "name": "EAKI The Prince of T",
-      "price": "$2.34",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31395&limit=100",
-      "stock": "n/a"
-    },
     "31379": {
       "name": "EAKI Naruto Badge Vo",
       "price": "$2.34",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31379&limit=100",
-      "stock": "n/a"
-    },
-    "31382": {
-      "name": "EAKI Shinobi Assembl",
-      "price": "$3.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31382&limit=100",
       "stock": "n/a"
     },
     "31373": {
@@ -1384,18 +1366,6 @@
       "name": "EAKI Jujutsu Kaisen",
       "price": "$3.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31381&limit=100",
-      "stock": "n/a"
-    },
-    "26515": {
-      "name": "EAKI Naruto“Moe Dudu",
-      "price": "$7.79",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26515&limit=100",
-      "stock": "n/a"
-    },
-    "31391": {
-      "name": "EAKI Bocchi the Rock",
-      "price": "$2.34",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31391&limit=100",
       "stock": "n/a"
     },
     "31387": {
@@ -1450,12 +1420,6 @@
       "name": "EAKI Jujutsu Kaisen",
       "price": "$9.49",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31390&limit=100",
-      "stock": "n/a"
-    },
-    "31388": {
-      "name": "EAKI Jujutsu Kaisen",
-      "price": "$2.34",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31388&limit=100",
       "stock": "n/a"
     },
     "25657": {
@@ -3512,6 +3476,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T15:07:21",
-  "last_count": 585
+  "last_run": "2026-09-05T15:08:24",
+  "last_count": 579
 }
