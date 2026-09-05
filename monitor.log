@@ -10378,3 +10378,10 @@
 2026-09-05 19:54:10,743 INFO === Run started ===
 2026-09-05 19:54:24,071 INFO No new products (605 tracked)
 2026-09-05 19:54:24,075 INFO === Run finished ===
+2026-09-05 19:55:12,088 INFO === Run started ===
+2026-09-05 19:55:26,157 INFO NEW/RESTOCKED products detected: 2
+2026-09-05 19:55:26,157 INFO   NEW: ZYCHEE DECO Home Sce | $6.45 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27136&limit=100
+2026-09-05 19:55:26,157 INFO   NEW: ZYCHEE DECO Home Sce | $6.45 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27137&limit=100
+2026-09-05 19:55:29,653 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-05 19:55:29,734 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-05 19:55:29,739 INFO === Run finished ===
