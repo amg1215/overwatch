@@ -9883,3 +9883,9 @@
 2026-09-05 17:29:10,244 INFO === Run started ===
 2026-09-05 17:29:21,702 INFO No new products (583 tracked)
 2026-09-05 17:29:21,706 INFO === Run finished ===
+2026-09-05 17:30:17,134 INFO === Run started ===
+2026-09-05 17:30:27,631 INFO NEW/RESTOCKED products detected: 1
+2026-09-05 17:30:27,631 INFO   NEW: Joytop Hello Kitty S | $1.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28958&limit=100
+2026-09-05 17:30:29,772 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-05 17:30:29,834 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-05 17:30:29,839 INFO === Run finished ===

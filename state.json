@@ -2274,6 +2274,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5040&limit=100",
       "stock": "n/a"
     },
+    "28958": {
+      "name": "Joytop Hello Kitty S",
+      "price": "$1.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28958&limit=100",
+      "stock": "n/a"
+    },
     "19941": {
       "name": "Kuki Cocoa Dessert P",
       "price": "$0.99",
@@ -3500,6 +3506,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T17:29:21",
-  "last_count": 583
+  "last_run": "2026-09-05T17:30:29",
+  "last_count": 584
 }
