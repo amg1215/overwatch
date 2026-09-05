@@ -1956,12 +1956,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50238&limit=100",
       "stock": "n/a"
     },
-    "50241": {
-      "name": "FuRyu Bad Girl Muchu",
-      "price": "$23.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50241&limit=100",
-      "stock": "n/a"
-    },
     "50684": {
       "name": "FuRyu Bad Girl Mucut",
       "price": "$23.99",
@@ -2404,12 +2398,6 @@
       "name": "WantWant Sour Operat",
       "price": "$1.00",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31099&limit=100",
-      "stock": "n/a"
-    },
-    "30890": {
-      "name": "WantWant Sour Operat",
-      "price": "$1.09",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30890&limit=100",
       "stock": "n/a"
     },
     "19390": {
@@ -3518,6 +3506,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T13:55:32",
-  "last_count": 586
+  "last_run": "2026-09-05T13:56:20",
+  "last_count": 584
 }
