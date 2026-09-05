@@ -138,6 +138,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1297&limit=100",
       "stock": "n/a"
     },
+    "29185": {
+      "name": "SUNNY FACE Cherry Bl",
+      "price": "$0.75",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29185&limit=100",
+      "stock": "n/a"
+    },
     "7536": {
       "name": "Maruki Bamboo Chopst",
       "price": "$1.44",
@@ -3542,6 +3548,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T19:10:30",
-  "last_count": 590
+  "last_run": "2026-09-05T19:11:30",
+  "last_count": 591
 }
