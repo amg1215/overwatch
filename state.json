@@ -144,6 +144,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29171&limit=100",
       "stock": "n/a"
     },
+    "29172": {
+      "name": "SUNNY FACE Cute Blac",
+      "price": "$4.15",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29172&limit=100",
+      "stock": "n/a"
+    },
+    "29173": {
+      "name": "SUNNY FACE Cute Blac",
+      "price": "$4.15",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29173&limit=100",
+      "stock": "n/a"
+    },
     "29174": {
       "name": "SUNNY FACE Cute Blac",
       "price": "$4.15",
@@ -3746,6 +3758,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T20:35:30",
-  "last_count": 624
+  "last_run": "2026-09-05T20:36:28",
+  "last_count": 626
 }

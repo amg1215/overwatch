@@ -10548,3 +10548,10 @@
 2026-09-05 20:35:30,180 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-05 20:35:30,297 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-05 20:35:30,302 INFO === Run finished ===
+2026-09-05 20:36:11,934 INFO === Run started ===
+2026-09-05 20:36:26,632 INFO NEW/RESTOCKED products detected: 2
+2026-09-05 20:36:26,632 INFO   NEW: SUNNY FACE Cute Blac | $4.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29172&limit=100
+2026-09-05 20:36:26,633 INFO   NEW: SUNNY FACE Cute Blac | $4.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29173&limit=100
+2026-09-05 20:36:28,302 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-05 20:36:28,519 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-05 20:36:28,524 INFO === Run finished ===
