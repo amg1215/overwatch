@@ -10291,3 +10291,9 @@
 2026-09-05 19:31:47,144 INFO === Run started ===
 2026-09-05 19:32:10,215 INFO No new products (598 tracked)
 2026-09-05 19:32:10,218 INFO === Run finished ===
+2026-09-05 19:33:29,676 INFO === Run started ===
+2026-09-05 19:34:00,746 INFO NEW/RESTOCKED products detected: 1
+2026-09-05 19:34:00,747 INFO   NEW: Blind Box Elden Ring | $16.05 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18495&limit=100
+2026-09-05 19:34:02,141 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-05 19:34:02,443 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-05 19:34:02,447 INFO === Run finished ===
