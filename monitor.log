@@ -9358,3 +9358,6 @@
 2026-09-05 14:38:23,814 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-05 14:38:23,864 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-05 14:38:23,868 INFO === Run finished ===
+2026-09-05 14:39:15,512 INFO === Run started ===
+2026-09-05 14:39:25,670 INFO No new products (585 tracked)
+2026-09-05 14:39:25,673 INFO === Run finished ===
