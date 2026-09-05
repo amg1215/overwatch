@@ -10324,3 +10324,9 @@
 2026-09-05 19:40:14,626 INFO === Run started ===
 2026-09-05 19:40:42,778 INFO No new products (601 tracked)
 2026-09-05 19:40:42,781 INFO === Run finished ===
+2026-09-05 19:41:10,612 INFO === Run started ===
+2026-09-05 19:41:36,103 INFO NEW/RESTOCKED products detected: 1
+2026-09-05 19:41:36,103 INFO   NEW: SUNNY FACE Bread Ser | $3.65 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21447&limit=100
+2026-09-05 19:41:40,066 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-05 19:41:40,167 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-05 19:41:40,171 INFO === Run finished ===

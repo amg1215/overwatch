@@ -126,6 +126,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6922&limit=100",
       "stock": "n/a"
     },
+    "21447": {
+      "name": "SUNNY FACE Bread Ser",
+      "price": "$3.65",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21447&limit=100",
+      "stock": "n/a"
+    },
     "1296": {
       "name": "Pokemon Plate 9.8 in",
       "price": "$7.99",
@@ -3608,6 +3614,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T19:40:42",
-  "last_count": 601
+  "last_run": "2026-09-05T19:41:40",
+  "last_count": 602
 }
