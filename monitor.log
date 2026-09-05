@@ -10540,3 +10540,11 @@
 2026-09-05 20:34:30,939 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-05 20:34:31,195 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-05 20:34:31,200 INFO === Run finished ===
+2026-09-05 20:35:13,611 INFO === Run started ===
+2026-09-05 20:35:27,775 INFO NEW/RESTOCKED products detected: 3
+2026-09-05 20:35:27,775 INFO   NEW: SUNNY FACE Cat Coffe | $4.42 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29171&limit=100
+2026-09-05 20:35:27,775 INFO   NEW: SUNNY FACE Cute Blac | $4.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29175&limit=100
+2026-09-05 20:35:27,775 INFO   NEW: Tableware Lunch Box | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21464&limit=100
+2026-09-05 20:35:30,180 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-05 20:35:30,297 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-05 20:35:30,302 INFO === Run finished ===

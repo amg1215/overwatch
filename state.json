@@ -138,10 +138,22 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29169&limit=100",
       "stock": "n/a"
     },
+    "29171": {
+      "name": "SUNNY FACE Cat Coffe",
+      "price": "$4.42",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29171&limit=100",
+      "stock": "n/a"
+    },
     "29174": {
       "name": "SUNNY FACE Cute Blac",
       "price": "$4.15",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29174&limit=100",
+      "stock": "n/a"
+    },
+    "29175": {
+      "name": "SUNNY FACE Cute Blac",
+      "price": "$4.15",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29175&limit=100",
       "stock": "n/a"
     },
     "7389": {
@@ -190,6 +202,12 @@
       "name": "Crayon Shin-chan Lun",
       "price": "$6.39",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21456&limit=100",
+      "stock": "n/a"
+    },
+    "21464": {
+      "name": "Tableware Lunch Box",
+      "price": "$5.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21464&limit=100",
       "stock": "n/a"
     },
     "29177": {
@@ -3728,6 +3746,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T20:34:31",
-  "last_count": 621
+  "last_run": "2026-09-05T20:35:30",
+  "last_count": 624
 }
