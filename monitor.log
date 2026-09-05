@@ -10463,3 +10463,10 @@
 2026-09-05 20:17:27,862 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-05 20:17:28,058 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-05 20:17:28,062 INFO === Run finished ===
+2026-09-05 20:18:11,110 INFO === Run started ===
+2026-09-05 20:18:24,593 INFO NEW/RESTOCKED products detected: 2
+2026-09-05 20:18:24,593 INFO   NEW: SUNNY FACE Cartoon G | $4.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29164&limit=100
+2026-09-05 20:18:24,593 INFO   NEW: SUNNY FACE Cartoon G | $4.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29166&limit=100
+2026-09-05 20:18:28,208 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-05 20:18:28,397 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-05 20:18:28,400 INFO === Run finished ===

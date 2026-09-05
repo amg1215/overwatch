@@ -90,6 +90,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29163&limit=100",
       "stock": "n/a"
     },
+    "29164": {
+      "name": "SUNNY FACE Cartoon G",
+      "price": "$4.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29164&limit=100",
+      "stock": "n/a"
+    },
+    "29166": {
+      "name": "SUNNY FACE Cartoon G",
+      "price": "$4.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29166&limit=100",
+      "stock": "n/a"
+    },
     "29167": {
       "name": "SUNNY FACE Black Cat",
       "price": "$10.19",
@@ -3680,6 +3692,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T20:17:28",
-  "last_count": 613
+  "last_run": "2026-09-05T20:18:28",
+  "last_count": 615
 }
