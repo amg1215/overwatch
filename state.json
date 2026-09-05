@@ -84,6 +84,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22829&limit=100",
       "stock": "n/a"
     },
+    "29160": {
+      "name": "SUNNY FACE Spring Ou",
+      "price": "$4.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29160&limit=100",
+      "stock": "n/a"
+    },
     "29163": {
       "name": "SUNNY FACE Cartoon G",
       "price": "$4.39",
@@ -3704,6 +3710,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T20:21:27",
-  "last_count": 617
+  "last_run": "2026-09-05T20:22:29",
+  "last_count": 618
 }
