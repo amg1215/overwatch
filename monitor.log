@@ -9352,3 +9352,9 @@
 2026-09-05 14:37:10,062 INFO === Run started ===
 2026-09-05 14:37:21,965 INFO No new products (584 tracked)
 2026-09-05 14:37:21,968 INFO === Run finished ===
+2026-09-05 14:38:11,379 INFO === Run started ===
+2026-09-05 14:38:22,656 INFO NEW/RESTOCKED products detected: 1
+2026-09-05 14:38:22,656 INFO   NEW: Shiseido FINO Hair M | $19.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14671&limit=100
+2026-09-05 14:38:23,814 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-05 14:38:23,864 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-05 14:38:23,868 INFO === Run finished ===
