@@ -1452,6 +1452,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31390&limit=100",
       "stock": "n/a"
     },
+    "31388": {
+      "name": "EAKI Jujutsu Kaisen",
+      "price": "$2.34",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31388&limit=100",
+      "stock": "n/a"
+    },
     "25657": {
       "name": "ANTOO Small Paradise",
       "price": "$7.01",
@@ -1858,6 +1864,12 @@
       "name": "Taito Hatsune Miku T",
       "price": "$27.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51439&limit=100",
+      "stock": "n/a"
+    },
+    "51292": {
+      "name": "Taito Wandering Witc",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51292&limit=100",
       "stock": "n/a"
     },
     "51427": {
@@ -3500,6 +3512,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T14:00:32",
-  "last_count": 583
+  "last_run": "2026-09-05T14:01:24",
+  "last_count": 585
 }
