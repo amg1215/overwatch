@@ -10442,3 +10442,10 @@
 2026-09-05 20:14:11,851 INFO === Run started ===
 2026-09-05 20:14:26,144 INFO No new products (607 tracked)
 2026-09-05 20:14:26,147 INFO === Run finished ===
+2026-09-05 20:15:14,752 INFO === Run started ===
+2026-09-05 20:15:28,515 INFO NEW/RESTOCKED products detected: 2
+2026-09-05 20:15:28,515 INFO   NEW: SUNNY FACE Aosaki Se | $2.84 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29177&limit=100
+2026-09-05 20:15:28,515 INFO   NEW: SUNNY FACE Vintage F | $1.65 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29178&limit=100
+2026-09-05 20:15:31,144 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-05 20:15:31,321 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-05 20:15:31,325 INFO === Run finished ===

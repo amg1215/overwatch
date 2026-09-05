@@ -144,6 +144,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1297&limit=100",
       "stock": "n/a"
     },
+    "29177": {
+      "name": "SUNNY FACE Aosaki Se",
+      "price": "$2.84",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29177&limit=100",
+      "stock": "n/a"
+    },
+    "29178": {
+      "name": "SUNNY FACE Vintage F",
+      "price": "$1.65",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29178&limit=100",
+      "stock": "n/a"
+    },
     "29180": {
       "name": "SUNNY FACE Ruyushuid",
       "price": "$0.89",
@@ -3644,6 +3656,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T20:14:26",
-  "last_count": 607
+  "last_run": "2026-09-05T20:15:31",
+  "last_count": 609
 }
