@@ -10257,3 +10257,10 @@
 2026-09-05 19:22:11,346 INFO === Run started ===
 2026-09-05 19:22:33,891 INFO No new products (595 tracked)
 2026-09-05 19:22:33,894 INFO === Run finished ===
+2026-09-05 19:23:10,778 INFO === Run started ===
+2026-09-05 19:23:34,028 INFO NEW/RESTOCKED products detected: 2
+2026-09-05 19:23:34,028 INFO   NEW: MK Mini Motorcade Bu | $1.83 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2707&limit=100
+2026-09-05 19:23:34,028 INFO   NEW: MK Racing Car C2161- | $7.51 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12924&limit=100
+2026-09-05 19:23:36,973 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-05 19:23:37,094 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-05 19:23:37,099 INFO === Run finished ===
