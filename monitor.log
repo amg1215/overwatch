@@ -9313,3 +9313,9 @@
 2026-09-05 14:25:14,917 INFO === Run started ===
 2026-09-05 14:25:26,312 INFO No new products (585 tracked)
 2026-09-05 14:25:26,315 INFO === Run finished ===
+2026-09-05 14:26:13,523 INFO === Run started ===
+2026-09-05 14:26:24,706 INFO NEW/RESTOCKED products detected: 1
+2026-09-05 14:26:24,706 INFO   NEW: Ft.Fire Pippy Party | $4.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26507&limit=100
+2026-09-05 14:26:26,303 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-05 14:26:26,383 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-05 14:26:26,388 INFO === Run finished ===
