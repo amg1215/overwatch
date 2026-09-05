@@ -1200,12 +1200,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20455&limit=100",
       "stock": "n/a"
     },
-    "26507": {
-      "name": "Ft.Fire Pippy Party",
-      "price": "$4.89",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26507&limit=100",
-      "stock": "n/a"
-    },
     "18957": {
       "name": "Moetch Sanrio Hangyo",
       "price": "$10.99",
@@ -3518,6 +3512,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T14:24:25",
-  "last_count": 586
+  "last_run": "2026-09-05T14:25:26",
+  "last_count": 585
 }
