@@ -114,6 +114,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6922&limit=100",
       "stock": "n/a"
     },
+    "1297": {
+      "name": "Pokemon Pikachu Star",
+      "price": "$7.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1297&limit=100",
+      "stock": "n/a"
+    },
     "7536": {
       "name": "Maruki Bamboo Chopst",
       "price": "$1.44",
@@ -3506,6 +3512,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T17:38:21",
-  "last_count": 584
+  "last_run": "2026-09-05T17:39:21",
+  "last_count": 585
 }

@@ -9913,3 +9913,9 @@
 2026-09-05 17:38:10,615 INFO === Run started ===
 2026-09-05 17:38:21,469 INFO No new products (584 tracked)
 2026-09-05 17:38:21,472 INFO === Run finished ===
+2026-09-05 17:39:09,571 INFO === Run started ===
+2026-09-05 17:39:20,174 INFO NEW/RESTOCKED products detected: 1
+2026-09-05 17:39:20,174 INFO   NEW: Pokemon Pikachu Star | $7.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1297&limit=100
+2026-09-05 17:39:21,605 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-05 17:39:21,705 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-05 17:39:21,710 INFO === Run finished ===
