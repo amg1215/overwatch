@@ -144,6 +144,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29180&limit=100",
       "stock": "n/a"
     },
+    "29181": {
+      "name": "SUNNY FACE Ruyushuid",
+      "price": "$0.89",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29181&limit=100",
+      "stock": "n/a"
+    },
     "29185": {
       "name": "SUNNY FACE Cherry Bl",
       "price": "$0.75",
@@ -3554,6 +3560,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T19:12:25",
-  "last_count": 592
+  "last_run": "2026-09-05T19:13:25",
+  "last_count": 593
 }
