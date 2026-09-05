@@ -9841,3 +9841,9 @@
 2026-09-05 17:17:09,337 INFO === Run started ===
 2026-09-05 17:17:21,664 INFO No new products (581 tracked)
 2026-09-05 17:17:21,668 INFO === Run finished ===
+2026-09-05 17:18:13,031 INFO === Run started ===
+2026-09-05 17:18:25,411 INFO NEW/RESTOCKED products detected: 1
+2026-09-05 17:18:25,412 INFO   NEW: SUNNY FACE Good Luck | $3.67 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29169&limit=100
+2026-09-05 17:18:27,678 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-05 17:18:27,946 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-05 17:18:27,950 INFO === Run finished ===

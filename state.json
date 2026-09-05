@@ -84,6 +84,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22829&limit=100",
       "stock": "n/a"
     },
+    "29169": {
+      "name": "SUNNY FACE Good Luck",
+      "price": "$3.67",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29169&limit=100",
+      "stock": "n/a"
+    },
     "7389": {
       "name": "Nakaya 2 Partition P",
       "price": "$1.60",
@@ -3488,6 +3494,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T17:17:21",
-  "last_count": 581
+  "last_run": "2026-09-05T17:18:27",
+  "last_count": 582
 }
