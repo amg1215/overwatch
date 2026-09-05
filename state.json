@@ -426,6 +426,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10051&limit=100",
       "stock": "n/a"
     },
+    "27138": {
+      "name": "ZyChee DECO Home Sce",
+      "price": "$6.45",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27138&limit=100",
+      "stock": "n/a"
+    },
     "5911": {
       "name": "John's Blend Clip On",
       "price": "$6.79",
@@ -3626,6 +3632,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T19:52:29",
-  "last_count": 604
+  "last_run": "2026-09-05T19:53:31",
+  "last_count": 605
 }
