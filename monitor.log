@@ -10212,3 +10212,9 @@
 2026-09-05 19:11:29,867 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-05 19:11:30,149 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-05 19:11:30,154 INFO === Run finished ===
+2026-09-05 19:12:11,258 INFO === Run started ===
+2026-09-05 19:12:23,512 INFO NEW/RESTOCKED products detected: 1
+2026-09-05 19:12:23,512 INFO   NEW: SUNNY FACE Ruyushuid | $0.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29180&limit=100
+2026-09-05 19:12:25,320 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-05 19:12:25,458 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-05 19:12:25,461 INFO === Run finished ===
