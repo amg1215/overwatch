@@ -108,6 +108,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29164&limit=100",
       "stock": "n/a"
     },
+    "29165": {
+      "name": "SUNNY FACE Cartoon G",
+      "price": "$4.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29165&limit=100",
+      "stock": "n/a"
+    },
     "29166": {
       "name": "SUNNY FACE Cartoon G",
       "price": "$4.39",
@@ -130,6 +136,12 @@
       "name": "SUNNY FACE Good Luck",
       "price": "$3.67",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29169&limit=100",
+      "stock": "n/a"
+    },
+    "29174": {
+      "name": "SUNNY FACE Cute Blac",
+      "price": "$4.15",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29174&limit=100",
       "stock": "n/a"
     },
     "7389": {
@@ -3716,6 +3728,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T20:23:28",
-  "last_count": 619
+  "last_run": "2026-09-05T20:24:30",
+  "last_count": 621
 }
