@@ -1134,6 +1134,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12915&limit=100",
       "stock": "n/a"
     },
+    "12917": {
+      "name": "MK Building Block B2",
+      "price": "$6.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12917&limit=100",
+      "stock": "n/a"
+    },
     "12922": {
       "name": "MK Thunder Race Car",
       "price": "$7.51",
@@ -3614,6 +3620,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T19:48:25",
-  "last_count": 602
+  "last_run": "2026-09-05T19:49:26",
+  "last_count": 603
 }
