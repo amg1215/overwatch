@@ -10718,3 +10718,9 @@
 2026-09-05 21:34:11,488 INFO === Run started ===
 2026-09-05 21:34:37,390 INFO No new products (628 tracked)
 2026-09-05 21:34:37,394 INFO === Run finished ===
+2026-09-05 21:35:15,665 INFO === Run started ===
+2026-09-05 21:35:45,721 INFO NEW/RESTOCKED products detected: 1
+2026-09-05 21:35:45,721 INFO   NEW: Japanese Butterfly L | $0.83 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=829&limit=100
+2026-09-05 21:35:47,797 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-05 21:35:47,981 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-05 21:35:47,985 INFO === Run finished ===
