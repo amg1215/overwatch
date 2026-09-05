@@ -9847,3 +9847,9 @@
 2026-09-05 17:18:27,678 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-05 17:18:27,946 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-05 17:18:27,950 INFO === Run finished ===
+2026-09-05 17:19:10,370 INFO === Run started ===
+2026-09-05 17:19:21,971 INFO NEW/RESTOCKED products detected: 1
+2026-09-05 17:19:21,971 INFO   NEW: SUNNY FACE Peace & J | $3.67 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29168&limit=100
+2026-09-05 17:19:24,742 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-05 17:19:25,039 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-05 17:19:25,044 INFO === Run finished ===
