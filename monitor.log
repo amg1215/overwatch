@@ -10513,3 +10513,9 @@
 2026-09-05 20:27:10,329 INFO === Run started ===
 2026-09-05 20:27:24,544 INFO No new products (620 tracked)
 2026-09-05 20:27:24,548 INFO === Run finished ===
+2026-09-05 20:28:13,402 INFO === Run started ===
+2026-09-05 20:28:27,974 INFO NEW/RESTOCKED products detected: 1
+2026-09-05 20:28:27,974 INFO   NEW: Takaokaya Doraemon F | $3.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50962&limit=100
+2026-09-05 20:28:29,500 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-05 20:28:29,726 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-05 20:28:29,731 INFO === Run finished ===

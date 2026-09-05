@@ -3042,12 +3042,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19749&limit=100",
       "stock": "n/a"
     },
-    "15082": {
-      "name": "Lay's Potato Chips K",
-      "price": "$2.20",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15082&limit=100",
-      "stock": "n/a"
-    },
     "19374": {
       "name": "Lay's Potato Chips S",
       "price": "$1.45",
@@ -3600,6 +3594,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50964&limit=100",
       "stock": "n/a"
     },
+    "50962": {
+      "name": "Takaokaya Doraemon F",
+      "price": "$3.25",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50962&limit=100",
+      "stock": "n/a"
+    },
     "50963": {
       "name": "Takaokaya Doraemon F",
       "price": "$3.25",
@@ -3722,6 +3722,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T20:27:24",
+  "last_run": "2026-09-05T20:28:29",
   "last_count": 620
 }
