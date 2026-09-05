@@ -10363,3 +10363,9 @@
 2026-09-05 19:51:09,792 INFO === Run started ===
 2026-09-05 19:51:23,136 INFO No new products (603 tracked)
 2026-09-05 19:51:23,247 INFO === Run finished ===
+2026-09-05 19:52:12,405 INFO === Run started ===
+2026-09-05 19:52:25,857 INFO NEW/RESTOCKED products detected: 1
+2026-09-05 19:52:25,857 INFO   NEW: MK Building Block B2 | $1.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12914&limit=100
+2026-09-05 19:52:29,211 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-05 19:52:29,291 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-05 19:52:29,296 INFO === Run finished ===

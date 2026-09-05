@@ -1128,6 +1128,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2582&limit=100",
       "stock": "n/a"
     },
+    "12914": {
+      "name": "MK Building Block B2",
+      "price": "$1.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12914&limit=100",
+      "stock": "n/a"
+    },
     "12915": {
       "name": "MK Mini Motorcade As",
       "price": "$1.99",
@@ -3620,6 +3626,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T19:51:23",
-  "last_count": 603
+  "last_run": "2026-09-05T19:52:29",
+  "last_count": 604
 }
