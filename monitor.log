@@ -10248,3 +10248,9 @@
 2026-09-05 19:20:14,334 INFO === Run started ===
 2026-09-05 19:20:38,254 INFO No new products (594 tracked)
 2026-09-05 19:20:38,258 INFO === Run finished ===
+2026-09-05 19:21:09,898 INFO === Run started ===
+2026-09-05 19:21:33,103 INFO NEW/RESTOCKED products detected: 1
+2026-09-05 19:21:33,103 INFO   NEW: MK Toy Car 2208-1 | $1.83 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2582&limit=100
+2026-09-05 19:21:36,417 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-05 19:21:36,558 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-05 19:21:36,563 INFO === Run finished ===
