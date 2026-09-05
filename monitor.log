@@ -9919,3 +9919,10 @@
 2026-09-05 17:39:21,605 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-05 17:39:21,705 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-05 17:39:21,710 INFO === Run finished ===
+2026-09-05 17:40:14,707 INFO === Run started ===
+2026-09-05 17:40:25,948 INFO NEW/RESTOCKED products detected: 2
+2026-09-05 17:40:25,948 INFO   NEW: EAKI The Prince of T | $2.34 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31395&limit=100
+2026-09-05 17:40:25,948 INFO   NEW: EAKI Naruto“Moe Dudu | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26515&limit=100
+2026-09-05 17:40:28,333 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-05 17:40:28,448 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-05 17:40:28,453 INFO === Run finished ===
