@@ -1134,6 +1134,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29012&limit=100",
       "stock": "n/a"
     },
+    "24417": {
+      "name": "EMMA Secret Forest S",
+      "price": "$8.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24417&limit=100",
+      "stock": "n/a"
+    },
     "21710": {
       "name": "Here Dream Island ZI",
       "price": "$11.80",
@@ -3560,6 +3566,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T19:16:39",
-  "last_count": 593
+  "last_run": "2026-09-05T19:17:38",
+  "last_count": 594
 }

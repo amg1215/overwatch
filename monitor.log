@@ -10233,3 +10233,9 @@
 2026-09-05 19:16:12,386 INFO === Run started ===
 2026-09-05 19:16:39,125 INFO No new products (593 tracked)
 2026-09-05 19:16:39,129 INFO === Run finished ===
+2026-09-05 19:17:09,874 INFO === Run started ===
+2026-09-05 19:17:34,409 INFO NEW/RESTOCKED products detected: 1
+2026-09-05 19:17:34,409 INFO   NEW: EMMA Secret Forest S | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24417&limit=100
+2026-09-05 19:17:38,353 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-05 19:17:38,670 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-05 19:17:38,675 INFO === Run finished ===
