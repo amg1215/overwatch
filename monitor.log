@@ -10555,3 +10555,10 @@
 2026-09-05 20:36:28,302 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-05 20:36:28,519 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-05 20:36:28,524 INFO === Run finished ===
+2026-09-05 20:37:45,227 INFO === Run started ===
+2026-09-05 20:38:08,746 INFO NEW/RESTOCKED products detected: 2
+2026-09-05 20:38:08,747 INFO   NEW: SUNNY FACE Spring Ou | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29161&limit=100
+2026-09-05 20:38:08,747 INFO   NEW: SUNNY FACE Cat Coffe | $4.42 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29170&limit=100
+2026-09-05 20:38:12,101 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-05 20:38:12,332 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-05 20:38:12,337 INFO === Run finished ===

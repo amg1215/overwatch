@@ -90,6 +90,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29160&limit=100",
       "stock": "n/a"
     },
+    "29161": {
+      "name": "SUNNY FACE Spring Ou",
+      "price": "$4.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29161&limit=100",
+      "stock": "n/a"
+    },
     "29162": {
       "name": "SUNNY FACE Spring Ou",
       "price": "$4.79",
@@ -136,6 +142,12 @@
       "name": "SUNNY FACE Good Luck",
       "price": "$3.67",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29169&limit=100",
+      "stock": "n/a"
+    },
+    "29170": {
+      "name": "SUNNY FACE Cat Coffe",
+      "price": "$4.42",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29170&limit=100",
       "stock": "n/a"
     },
     "29171": {
@@ -3758,6 +3770,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-05T20:36:28",
-  "last_count": 626
+  "last_run": "2026-09-05T20:38:12",
+  "last_count": 628
 }
