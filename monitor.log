@@ -10312,3 +10312,9 @@
 2026-09-05 19:37:12,374 INFO === Run started ===
 2026-09-05 19:37:36,759 INFO No new products (600 tracked)
 2026-09-05 19:37:36,762 INFO === Run finished ===
+2026-09-05 19:38:15,456 INFO === Run started ===
+2026-09-05 19:38:42,596 INFO NEW/RESTOCKED products detected: 1
+2026-09-05 19:38:42,596 INFO   NEW: MK Mini Motorcade As | $1.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12915&limit=100
+2026-09-05 19:38:44,426 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-05 19:38:44,850 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-05 19:38:44,853 INFO === Run finished ===
