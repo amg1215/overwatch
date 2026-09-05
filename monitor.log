@@ -10300,3 +10300,9 @@
 2026-09-05 19:34:14,680 INFO === Run started ===
 2026-09-05 19:34:38,063 INFO No new products (599 tracked)
 2026-09-05 19:34:38,066 INFO === Run finished ===
+2026-09-05 19:35:12,039 INFO === Run started ===
+2026-09-05 19:35:36,571 INFO NEW/RESTOCKED products detected: 1
+2026-09-05 19:35:36,571 INFO   NEW: Disney Plush Doll St | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20009&limit=100
+2026-09-05 19:35:38,232 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-05 19:35:38,460 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-05 19:35:38,464 INFO === Run finished ===
