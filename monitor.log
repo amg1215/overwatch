@@ -12140,3 +12140,9 @@
 2026-09-06 16:31:25,963 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 16:31:26,082 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 16:31:26,087 INFO === Run finished ===
+2026-09-06 16:32:12,931 INFO === Run started ===
+2026-09-06 16:32:27,832 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 16:32:27,833 INFO   NEW: TAKARA TOMY Pokemon | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29976&limit=100
+2026-09-06 16:32:29,769 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 16:32:29,979 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 16:32:29,983 INFO === Run finished ===
