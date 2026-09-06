@@ -11821,3 +11821,9 @@
 2026-09-06 15:17:24,499 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 15:17:24,609 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 15:17:24,613 INFO === Run finished ===
+2026-09-06 15:18:12,217 INFO === Run started ===
+2026-09-06 15:18:25,696 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 15:18:25,696 INFO   NEW: Nakaya Honoca Small | $1.05 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6908&limit=100
+2026-09-06 15:18:27,529 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 15:18:27,777 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 15:18:27,782 INFO === Run finished ===

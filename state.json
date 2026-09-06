@@ -240,6 +240,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7389&limit=100",
       "stock": "n/a"
     },
+    "6908": {
+      "name": "Nakaya Honoca Small",
+      "price": "$1.05",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6908&limit=100",
+      "stock": "n/a"
+    },
     "6911": {
       "name": "Nakaya Honoca Round",
       "price": "$1.05",
@@ -3992,6 +3998,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T15:17:24",
-  "last_count": 665
+  "last_run": "2026-09-06T15:18:27",
+  "last_count": 666
 }
