@@ -12323,3 +12323,10 @@
 2026-09-06 17:07:10,097 INFO === Run started ===
 2026-09-06 17:07:25,564 INFO No new products (745 tracked)
 2026-09-06 17:07:25,569 INFO === Run finished ===
+2026-09-06 17:08:14,302 INFO === Run started ===
+2026-09-06 17:08:29,143 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 17:08:29,143 INFO   NEW: Kobayashi Sawaday Fr | $3.40 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5394&limit=100
+2026-09-06 17:08:29,143 INFO   NEW: Kobayashi Sawaday Fr | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5398&limit=100
+2026-09-06 17:08:30,738 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 17:08:31,051 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 17:08:31,091 INFO === Run finished ===
