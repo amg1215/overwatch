@@ -1362,6 +1362,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30007&limit=100",
       "stock": "n/a"
     },
+    "30009": {
+      "name": "KOSE Glow Skin Tone-",
+      "price": "$8.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30009&limit=100",
+      "stock": "n/a"
+    },
     "28757": {
       "name": "Rohto Skin Aqua Tone",
       "price": "$8.39",
@@ -2754,6 +2760,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19884&limit=100",
       "stock": "n/a"
     },
+    "19885": {
+      "name": "Ost SLO Cinnamoroll",
+      "price": "$7.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19885&limit=100",
+      "stock": "n/a"
+    },
     "19887": {
       "name": "Ost SLO Kuromi Doll",
       "price": "$7.79",
@@ -2956,6 +2968,12 @@
       "name": "Kamio Japan SLO Hang",
       "price": "$2.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23815&limit=100",
+      "stock": "n/a"
+    },
+    "29987": {
+      "name": "CRUX Hatsune Miku Mo",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29987&limit=100",
       "stock": "n/a"
     },
     "51125": {
@@ -4700,6 +4718,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T17:37:28",
-  "last_count": 783
+  "last_run": "2026-09-06T17:38:32",
+  "last_count": 786
 }
