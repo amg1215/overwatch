@@ -12867,3 +12867,10 @@
 2026-09-06 19:20:38,289 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 19:20:38,546 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 19:20:38,551 INFO === Run finished ===
+2026-09-06 19:21:10,389 INFO === Run started ===
+2026-09-06 19:21:27,588 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 19:21:27,589 INFO   NEW: SLO Hello Kitty Phot | $5.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19500&limit=100
+2026-09-06 19:21:27,589 INFO   NEW: SLO My Melody Photo | $5.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19501&limit=100
+2026-09-06 19:21:29,480 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:21:29,683 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:21:29,689 INFO === Run finished ===

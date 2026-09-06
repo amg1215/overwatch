@@ -2748,6 +2748,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10897&limit=100",
       "stock": "n/a"
     },
+    "19500": {
+      "name": "SLO Hello Kitty Phot",
+      "price": "$5.29",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19500&limit=100",
+      "stock": "n/a"
+    },
+    "19501": {
+      "name": "SLO My Melody Photo",
+      "price": "$5.29",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19501&limit=100",
+      "stock": "n/a"
+    },
     "19502": {
       "name": "SLO Pompom Purin Pho",
       "price": "$5.29",
@@ -4940,6 +4952,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T19:20:38",
-  "last_count": 823
+  "last_run": "2026-09-06T19:21:29",
+  "last_count": 825
 }
