@@ -3564,6 +3564,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19931&limit=100",
       "stock": "n/a"
     },
+    "8490": {
+      "name": "Dragonfly Eraser 6.7",
+      "price": "$1.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8490&limit=100",
+      "stock": "n/a"
+    },
     "8491": {
       "name": "Dragonfly Eraser PE0",
       "price": "$0.59",
@@ -4826,6 +4832,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T18:53:29",
-  "last_count": 804
+  "last_run": "2026-09-06T18:54:33",
+  "last_count": 805
 }
