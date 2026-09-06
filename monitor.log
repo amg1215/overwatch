@@ -12262,3 +12262,11 @@
 2026-09-06 16:57:11,434 INFO === Run started ===
 2026-09-06 16:57:27,294 INFO No new products (728 tracked)
 2026-09-06 16:57:27,298 INFO === Run finished ===
+2026-09-06 16:58:12,544 INFO === Run started ===
+2026-09-06 16:58:25,626 INFO NEW/RESTOCKED products detected: 3
+2026-09-06 16:58:25,626 INFO   NEW: Seiwa-pro Kitchen Sp | $1.77 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9451&limit=100
+2026-09-06 16:58:25,626 INFO   NEW: iPlanning SLO My Mel | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30217&limit=100
+2026-09-06 16:58:25,626 INFO   NEW: T's Factory Pokemon | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15173&limit=100
+2026-09-06 16:58:26,877 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-06 16:58:27,127 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-06 16:58:27,131 INFO === Run finished ===
