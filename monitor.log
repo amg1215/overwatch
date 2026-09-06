@@ -12715,3 +12715,9 @@
 2026-09-06 18:47:28,817 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 18:47:29,175 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 18:47:29,180 INFO === Run finished ===
+2026-09-06 18:48:11,352 INFO === Run started ===
+2026-09-06 18:48:28,016 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 18:48:28,016 INFO   NEW: ECHO Lemon Squeezer | $1.62 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7577&limit=100
+2026-09-06 18:48:29,499 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 18:48:29,802 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 18:48:29,808 INFO === Run finished ===
