@@ -2628,6 +2628,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15173&limit=100",
       "stock": "n/a"
     },
+    "10841": {
+      "name": "SLO 3D Keychain Hell",
+      "price": "$6.89",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10841&limit=100",
+      "stock": "n/a"
+    },
     "10483": {
       "name": "Sanrio Key Chain Poc",
       "price": "$7.79",
@@ -4814,6 +4820,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T18:50:31",
-  "last_count": 802
+  "last_run": "2026-09-06T18:51:27",
+  "last_count": 803
 }

@@ -12730,3 +12730,9 @@
 2026-09-06 18:50:31,746 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 18:50:31,853 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 18:50:31,858 INFO === Run finished ===
+2026-09-06 18:51:10,024 INFO === Run started ===
+2026-09-06 18:51:26,151 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 18:51:26,151 INFO   NEW: SLO 3D Keychain Hell | $6.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10841&limit=100
+2026-09-06 18:51:27,427 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 18:51:27,551 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 18:51:27,557 INFO === Run finished ===
