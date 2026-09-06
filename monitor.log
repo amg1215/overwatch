@@ -11918,3 +11918,10 @@
 2026-09-06 15:37:24,246 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 15:37:24,301 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 15:37:24,306 INFO === Run finished ===
+2026-09-06 15:38:12,588 INFO === Run started ===
+2026-09-06 15:38:25,962 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 15:38:25,962 INFO   NEW: Kamio Japan SLO Hell | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22739&limit=100
+2026-09-06 15:38:25,962 INFO   NEW: Kamio Japan SLO Kuro | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22741&limit=100
+2026-09-06 15:38:28,059 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 15:38:28,311 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 15:38:28,315 INFO === Run finished ===
