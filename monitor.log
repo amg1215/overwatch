@@ -11966,3 +11966,9 @@
 2026-09-06 15:50:16,518 INFO === Run started ===
 2026-09-06 15:50:29,344 INFO No new products (684 tracked)
 2026-09-06 15:50:29,348 INFO === Run finished ===
+2026-09-06 15:51:12,356 INFO === Run started ===
+2026-09-06 15:51:25,489 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 15:51:25,489 INFO   NEW: Carari Face Towel Ko | $7.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9609&limit=100
+2026-09-06 15:51:27,055 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 15:51:27,181 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 15:51:27,185 INFO === Run finished ===
