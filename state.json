@@ -2508,6 +2508,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8500&limit=100",
       "stock": "n/a"
     },
+    "1746": {
+      "name": "Uni Pen Refill 0.5-2",
+      "price": "$1.55",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1746&limit=100",
+      "stock": "n/a"
+    },
     "1747": {
       "name": "Uni Pen Refill 0.5-2",
       "price": "$1.55",
@@ -4028,6 +4034,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T15:24:33",
-  "last_count": 671
+  "last_run": "2026-09-06T15:25:31",
+  "last_count": 672
 }
