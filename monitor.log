@@ -11667,3 +11667,9 @@
 2026-09-06 14:47:10,624 INFO === Run started ===
 2026-09-06 14:47:22,722 INFO No new products (630 tracked)
 2026-09-06 14:47:22,726 INFO === Run finished ===
+2026-09-06 14:48:11,399 INFO === Run started ===
+2026-09-06 14:48:23,442 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 14:48:23,442 INFO   NEW: Zojirushi Vacuum Bot | $25.34 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9230&limit=100
+2026-09-06 14:48:25,927 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 14:48:26,005 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 14:48:26,010 INFO === Run finished ===

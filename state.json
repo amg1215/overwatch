@@ -180,6 +180,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29175&limit=100",
       "stock": "n/a"
     },
+    "9230": {
+      "name": "Zojirushi Vacuum Bot",
+      "price": "$25.34",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9230&limit=100",
+      "stock": "n/a"
+    },
     "7389": {
       "name": "Nakaya 2 Partition P",
       "price": "$1.60",
@@ -3782,6 +3788,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T14:47:22",
-  "last_count": 630
+  "last_run": "2026-09-06T14:48:26",
+  "last_count": 631
 }
