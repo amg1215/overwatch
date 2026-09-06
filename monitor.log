@@ -12896,3 +12896,10 @@
 2026-09-06 19:26:12,497 INFO === Run started ===
 2026-09-06 19:26:29,298 INFO No new products (828 tracked)
 2026-09-06 19:26:29,303 INFO === Run finished ===
+2026-09-06 19:27:10,657 INFO === Run started ===
+2026-09-06 19:27:28,181 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 19:27:28,181 INFO   NEW: Bee Cruise Mofusand | $7.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23900&limit=100
+2026-09-06 19:27:28,181 INFO   NEW: Bee Cruise Mofusand | $7.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23903&limit=100
+2026-09-06 19:27:30,104 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:27:30,342 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:27:30,347 INFO === Run finished ===
