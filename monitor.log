@@ -12032,3 +12032,9 @@
 2026-09-06 16:07:35,432 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 16:07:35,805 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 16:07:35,809 INFO === Run finished ===
+2026-09-06 16:08:11,910 INFO === Run started ===
+2026-09-06 16:08:24,620 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 16:08:24,620 INFO   NEW: Yamada 7 Days Case | $1.46 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8050&limit=100
+2026-09-06 16:08:25,968 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 16:08:26,076 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 16:08:26,081 INFO === Run finished ===
