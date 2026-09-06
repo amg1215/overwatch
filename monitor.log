@@ -13321,3 +13321,10 @@
 2026-09-06 20:56:31,859 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 20:56:32,129 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 20:56:32,169 INFO === Run finished ===
+2026-09-06 20:57:10,644 INFO === Run started ===
+2026-09-06 20:57:25,323 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 20:57:25,323 INFO   NEW: DHC Fat Reducing Tab | $17.64 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8910&limit=100
+2026-09-06 20:57:25,323 INFO   NEW: DHC Collagen Tablets | $11.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8909&limit=100
+2026-09-06 20:57:28,734 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 20:57:28,807 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 20:57:28,811 INFO === Run finished ===
