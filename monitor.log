@@ -13027,3 +13027,11 @@
 2026-09-06 19:49:29,619 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-06 19:49:29,774 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-06 19:49:29,779 INFO === Run finished ===
+2026-09-06 19:50:17,160 INFO === Run started ===
+2026-09-06 19:50:33,868 INFO NEW/RESTOCKED products detected: 3
+2026-09-06 19:50:33,868 INFO   NEW: Kao Curel Whitening | $22.74 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4994&limit=100
+2026-09-06 19:50:33,868 INFO   NEW: Canmake Perfect Mult | $9.50 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7480&limit=100
+2026-09-06 19:50:33,868 INFO   NEW: Canmake Melting gel | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6572&limit=100
+2026-09-06 19:50:36,427 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-06 19:50:36,592 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-06 19:50:36,598 INFO === Run finished ===

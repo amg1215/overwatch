@@ -1440,6 +1440,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9656&limit=100",
       "stock": "n/a"
     },
+    "4994": {
+      "name": "Kao Curel Whitening",
+      "price": "$22.74",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4994&limit=100",
+      "stock": "n/a"
+    },
     "4990": {
       "name": "Kao Curel Currel Agi",
       "price": "$23.03",
@@ -1606,6 +1612,18 @@
       "name": "MilleFée Under Eye G",
       "price": "$10.39",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21361&limit=100",
+      "stock": "n/a"
+    },
+    "7480": {
+      "name": "Canmake Perfect Mult",
+      "price": "$9.50",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7480&limit=100",
+      "stock": "n/a"
+    },
+    "6572": {
+      "name": "Canmake Melting gel",
+      "price": "$7.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6572&limit=100",
       "stock": "n/a"
     },
     "10692": {
@@ -5132,6 +5150,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T19:49:29",
-  "last_count": 855
+  "last_run": "2026-09-06T19:50:36",
+  "last_count": 858
 }
