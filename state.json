@@ -3678,6 +3678,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7431&limit=100",
       "stock": "n/a"
     },
+    "7152": {
+      "name": "Seiwa-pro B Pencil w",
+      "price": "$1.25",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7152&limit=100",
+      "stock": "n/a"
+    },
     "19939": {
       "name": "Kuki Cocoa Dessert C",
       "price": "$0.99",
@@ -5276,6 +5282,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T20:25:35",
-  "last_count": 879
+  "last_run": "2026-09-06T20:26:32",
+  "last_count": 880
 }

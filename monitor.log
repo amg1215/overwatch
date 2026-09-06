@@ -13186,3 +13186,9 @@
 2026-09-06 20:25:34,931 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 20:25:35,355 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 20:25:35,361 INFO === Run finished ===
+2026-09-06 20:26:12,287 INFO === Run started ===
+2026-09-06 20:26:30,506 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 20:26:30,506 INFO   NEW: Seiwa-pro B Pencil w | $1.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7152&limit=100
+2026-09-06 20:26:32,240 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:26:32,661 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:26:32,667 INFO === Run finished ===
