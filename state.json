@@ -90,6 +90,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13665&limit=100",
       "stock": "n/a"
     },
+    "18659": {
+      "name": "Yamaka Hachiware Mug",
+      "price": "$13.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18659&limit=100",
+      "stock": "n/a"
+    },
     "18660": {
       "name": "Yamaka Usagi Mug 1pc",
       "price": "$13.19",
@@ -1506,6 +1512,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2272&limit=100",
       "stock": "n/a"
     },
+    "30216": {
+      "name": "iPlanning SLO Cinnam",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30216&limit=100",
+      "stock": "n/a"
+    },
     "30217": {
       "name": "iPlanning SLO My Mel",
       "price": "$3.59",
@@ -1720,6 +1732,12 @@
       "name": "Lion Clinica Mouthwa",
       "price": "$3.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10024&limit=100",
+      "stock": "n/a"
+    },
+    "12097": {
+      "name": "Tokiwa Dinosaur Egg",
+      "price": "$1.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12097&limit=100",
       "stock": "n/a"
     },
     "1733": {
@@ -4580,6 +4598,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T17:20:31",
-  "last_count": 763
+  "last_run": "2026-09-06T17:21:30",
+  "last_count": 766
 }
