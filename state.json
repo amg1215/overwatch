@@ -540,6 +540,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=438&limit=100",
       "stock": "n/a"
     },
+    "22740": {
+      "name": "Kamio Japan SLO Hell",
+      "price": "$5.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22740&limit=100",
+      "stock": "n/a"
+    },
     "19510": {
       "name": "SLO Hello Kitty Bang",
       "price": "$4.19",
@@ -2484,6 +2490,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51125&limit=100",
       "stock": "n/a"
     },
+    "11023": {
+      "name": "Showa Pokemon B5 Gra",
+      "price": "$1.30",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11023&limit=100",
+      "stock": "n/a"
+    },
     "11030": {
       "name": "Showa Pokemon Note S",
       "price": "$4.00",
@@ -4064,6 +4076,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T15:36:23",
-  "last_count": 677
+  "last_run": "2026-09-06T15:37:24",
+  "last_count": 679
 }

@@ -11911,3 +11911,10 @@
 2026-09-06 15:36:10,946 INFO === Run started ===
 2026-09-06 15:36:23,571 INFO No new products (677 tracked)
 2026-09-06 15:36:23,575 INFO === Run finished ===
+2026-09-06 15:37:09,919 INFO === Run started ===
+2026-09-06 15:37:22,746 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 15:37:22,747 INFO   NEW: Kamio Japan SLO Hell | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22740&limit=100
+2026-09-06 15:37:22,747 INFO   NEW: Showa Pokemon B5 Gra | $1.30 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11023&limit=100
+2026-09-06 15:37:24,246 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 15:37:24,301 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 15:37:24,306 INFO === Run finished ===
