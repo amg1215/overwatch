@@ -1518,6 +1518,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4510&limit=100",
       "stock": "n/a"
     },
+    "23289": {
+      "name": "Kamio Japan SLO Nigh",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23289&limit=100",
+      "stock": "n/a"
+    },
     "23290": {
       "name": "Kamio Japan SLO Hell",
       "price": "$2.99",
@@ -1654,6 +1660,18 @@
       "name": "Sanyo Adult Slender",
       "price": "$2.03",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2272&limit=100",
+      "stock": "n/a"
+    },
+    "30214": {
+      "name": "iPlanning SLO My Mel",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30214&limit=100",
+      "stock": "n/a"
+    },
+    "30215": {
+      "name": "iPlanning SLO Kuromi",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30215&limit=100",
       "stock": "n/a"
     },
     "30216": {
@@ -3040,6 +3058,12 @@
       "name": "Nonzero Studio 1/100",
       "price": "$40.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20632&limit=100",
+      "stock": "n/a"
+    },
+    "23807": {
+      "name": "Kamio Japan Powerpuf",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23807&limit=100",
       "stock": "n/a"
     },
     "23808": {
@@ -4844,6 +4868,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T19:03:27",
-  "last_count": 807
+  "last_run": "2026-09-06T19:04:32",
+  "last_count": 811
 }

@@ -12784,3 +12784,12 @@
 2026-09-06 19:03:10,973 INFO === Run started ===
 2026-09-06 19:03:27,803 INFO No new products (807 tracked)
 2026-09-06 19:03:27,807 INFO === Run finished ===
+2026-09-06 19:04:14,433 INFO === Run started ===
+2026-09-06 19:04:30,568 INFO NEW/RESTOCKED products detected: 4
+2026-09-06 19:04:30,568 INFO   NEW: Kamio Japan SLO Nigh | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23289&limit=100
+2026-09-06 19:04:30,568 INFO   NEW: iPlanning SLO My Mel | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30214&limit=100
+2026-09-06 19:04:30,568 INFO   NEW: iPlanning SLO Kuromi | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30215&limit=100
+2026-09-06 19:04:30,568 INFO   NEW: Kamio Japan Powerpuf | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23807&limit=100
+2026-09-06 19:04:32,649 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-06 19:04:32,699 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-06 19:04:32,705 INFO === Run finished ===
