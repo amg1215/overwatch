@@ -12026,3 +12026,9 @@
 2026-09-06 16:06:34,835 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-06 16:06:35,102 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-06 16:06:35,107 INFO === Run finished ===
+2026-09-06 16:07:11,216 INFO === Run started ===
+2026-09-06 16:07:32,637 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 16:07:32,637 INFO   NEW: Sunstar Painting Boo | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10580&limit=100
+2026-09-06 16:07:35,432 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 16:07:35,805 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 16:07:35,809 INFO === Run finished ===
