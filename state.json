@@ -3384,6 +3384,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29405&limit=100",
       "stock": "n/a"
     },
+    "29407": {
+      "name": "Banpresto My Hero Ac",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29407&limit=100",
+      "stock": "n/a"
+    },
     "29396": {
       "name": "Banpresto Overlord G",
       "price": "$23.99",
@@ -3466,6 +3472,12 @@
       "name": "FuRyu Bad Girl Mucut",
       "price": "$23.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50684&limit=100",
+      "stock": "n/a"
+    },
+    "29389": {
+      "name": "FuRyu Hatsune Miku S",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29389&limit=100",
       "stock": "n/a"
     },
     "20632": {
@@ -5396,6 +5408,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T21:01:30",
-  "last_count": 899
+  "last_run": "2026-09-06T21:02:30",
+  "last_count": 901
 }
