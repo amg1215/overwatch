@@ -3186,12 +3186,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50439&limit=100",
       "stock": "n/a"
     },
-    "51436": {
-      "name": "Banpresto To LOVE-Ru",
-      "price": "$23.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51436&limit=100",
-      "stock": "n/a"
-    },
     "50237": {
       "name": "Sega Fave A Certain",
       "price": "$20.39",
@@ -4200,6 +4194,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29731&limit=100",
       "stock": "n/a"
     },
+    "22041": {
+      "name": "Red Sakura French Br",
+      "price": "$8.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22041&limit=100",
+      "stock": "n/a"
+    },
     "23107": {
       "name": "Ezaki Glico Pocky Ex",
       "price": "$1.97",
@@ -4540,12 +4540,6 @@
       "name": "Asahi Rich Black Cof",
       "price": "$1.49",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10918&limit=100",
-      "stock": "n/a"
-    },
-    "30877": {
-      "name": "Itoen Nippon Ale Miy",
-      "price": "$1.45",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30877&limit=100",
       "stock": "n/a"
     },
     "25073": {
@@ -5048,6 +5042,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T19:36:34",
-  "last_count": 841
+  "last_run": "2026-09-06T19:37:28",
+  "last_count": 840
 }
