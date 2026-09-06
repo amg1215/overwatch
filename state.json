@@ -804,6 +804,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22786&limit=100",
       "stock": "n/a"
     },
+    "22788": {
+      "name": "SLO Cinnamoroll Bang",
+      "price": "$4.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22788&limit=100",
+      "stock": "n/a"
+    },
+    "22791": {
+      "name": "SLO Honey Bonnie Ban",
+      "price": "$4.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22791&limit=100",
+      "stock": "n/a"
+    },
     "19510": {
       "name": "SLO Hello Kitty Bang",
       "price": "$4.19",
@@ -5066,6 +5078,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T19:43:27",
-  "last_count": 844
+  "last_run": "2026-09-06T19:44:32",
+  "last_count": 846
 }

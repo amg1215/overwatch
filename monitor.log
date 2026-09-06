@@ -12988,3 +12988,10 @@
 2026-09-06 19:43:10,121 INFO === Run started ===
 2026-09-06 19:43:27,147 INFO No new products (844 tracked)
 2026-09-06 19:43:27,152 INFO === Run finished ===
+2026-09-06 19:44:13,745 INFO === Run started ===
+2026-09-06 19:44:30,622 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 19:44:30,622 INFO   NEW: SLO Cinnamoroll Bang | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22788&limit=100
+2026-09-06 19:44:30,623 INFO   NEW: SLO Honey Bonnie Ban | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22791&limit=100
+2026-09-06 19:44:32,224 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:44:32,554 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:44:32,560 INFO === Run finished ===
