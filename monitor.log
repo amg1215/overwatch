@@ -11887,3 +11887,9 @@
 2026-09-06 15:30:19,162 INFO === Run started ===
 2026-09-06 15:30:31,647 INFO No new products (675 tracked)
 2026-09-06 15:30:31,651 INFO === Run finished ===
+2026-09-06 15:31:13,200 INFO === Run started ===
+2026-09-06 15:31:26,752 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 15:31:26,752 INFO   NEW: Carari Hooded Towel | $19.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9002&limit=100
+2026-09-06 15:31:28,701 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 15:31:28,968 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 15:31:28,973 INFO === Run finished ===

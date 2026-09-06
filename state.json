@@ -888,6 +888,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8839&limit=100",
       "stock": "n/a"
     },
+    "9002": {
+      "name": "Carari Hooded Towel",
+      "price": "$19.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9002&limit=100",
+      "stock": "n/a"
+    },
     "11489": {
       "name": "Hayashi Rilakkuma To",
       "price": "$4.19",
@@ -4052,6 +4058,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T15:30:31",
-  "last_count": 675
+  "last_run": "2026-09-06T15:31:28",
+  "last_count": 676
 }
