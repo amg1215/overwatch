@@ -13173,3 +13173,9 @@
 2026-09-06 20:23:15,873 INFO === Run started ===
 2026-09-06 20:23:31,285 INFO No new products (876 tracked)
 2026-09-06 20:23:31,288 INFO === Run finished ===
+2026-09-06 20:24:11,606 INFO === Run started ===
+2026-09-06 20:24:28,761 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 20:24:28,761 INFO   NEW: Sanrio Hair Band Mel | $9.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1013&limit=100
+2026-09-06 20:24:30,128 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:24:30,180 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:24:30,186 INFO === Run finished ===
