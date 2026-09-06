@@ -12219,3 +12219,11 @@
 2026-09-06 16:49:29,688 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 16:49:29,913 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 16:49:29,918 INFO === Run finished ===
+2026-09-06 16:50:18,499 INFO === Run started ===
+2026-09-06 16:50:32,211 INFO NEW/RESTOCKED products detected: 3
+2026-09-06 16:50:32,211 INFO   NEW: Nakaya Honoca Round | $1.05 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6910&limit=100
+2026-09-06 16:50:32,211 INFO   NEW: Kamio Japan Powerpuf | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23809&limit=100
+2026-09-06 16:50:32,211 INFO   NEW: Tombow Correction Ta | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5044&limit=100
+2026-09-06 16:50:33,455 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-06 16:50:33,583 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-06 16:50:33,588 INFO === Run finished ===
