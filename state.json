@@ -1578,6 +1578,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23899&limit=100",
       "stock": "n/a"
     },
+    "4997": {
+      "name": "Kao Curel Skin Care",
+      "price": "$14.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4997&limit=100",
+      "stock": "n/a"
+    },
     "13565": {
       "name": "Ampule Shot Hydratin",
       "price": "$11.39",
@@ -2038,6 +2044,12 @@
       "name": "Botanist Moisturizin",
       "price": "$13.28",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11250&limit=100",
+      "stock": "n/a"
+    },
+    "5009": {
+      "name": "Kao Curel Shampoo &",
+      "price": "$4.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5009&limit=100",
       "stock": "n/a"
     },
     "5010": {
@@ -5324,6 +5336,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T20:38:47",
-  "last_count": 887
+  "last_run": "2026-09-06T20:39:30",
+  "last_count": 889
 }

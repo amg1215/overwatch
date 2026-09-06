@@ -13247,3 +13247,10 @@
 2026-09-06 20:38:13,678 INFO === Run started ===
 2026-09-06 20:38:47,255 INFO No new products (887 tracked)
 2026-09-06 20:38:47,259 INFO === Run finished ===
+2026-09-06 20:39:12,740 INFO === Run started ===
+2026-09-06 20:39:29,407 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 20:39:29,408 INFO   NEW: Kao Curel Skin Care | $14.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4997&limit=100
+2026-09-06 20:39:29,408 INFO   NEW: Kao Curel Shampoo & | $4.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5009&limit=100
+2026-09-06 20:39:30,648 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 20:39:30,842 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 20:39:30,847 INFO === Run finished ===
