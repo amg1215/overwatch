@@ -12751,3 +12751,9 @@
 2026-09-06 18:54:33,163 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 18:54:33,353 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 18:54:33,359 INFO === Run finished ===
+2026-09-06 18:55:13,988 INFO === Run started ===
+2026-09-06 18:55:30,372 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 18:55:30,372 INFO   NEW: Kamio Japan SLO Kuro | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24410&limit=100
+2026-09-06 18:55:34,167 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 18:55:34,435 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 18:55:34,440 INFO === Run finished ===

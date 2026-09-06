@@ -3162,6 +3162,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24407&limit=100",
       "stock": "n/a"
     },
+    "24410": {
+      "name": "Kamio Japan SLO Kuro",
+      "price": "$5.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24410&limit=100",
+      "stock": "n/a"
+    },
     "24411": {
       "name": "Kamio Japan SLO Cinn",
       "price": "$5.99",
@@ -4832,6 +4838,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T18:54:33",
-  "last_count": 805
+  "last_run": "2026-09-06T18:55:34",
+  "last_count": 806
 }
