@@ -3084,6 +3084,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23812&limit=100",
       "stock": "n/a"
     },
+    "23814": {
+      "name": "Kamio Japan SLO Poch",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23814&limit=100",
+      "stock": "n/a"
+    },
     "23815": {
       "name": "Kamio Japan SLO Hang",
       "price": "$2.99",
@@ -4865,9 +4871,15 @@
       "price": "$14.21",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9877&limit=100",
       "stock": "n/a"
+    },
+    "56": {
+      "name": "Pillbox Turmeric Han",
+      "price": "$4.70",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=56&limit=100",
+      "stock": "n/a"
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T19:05:29",
-  "last_count": 811
+  "last_run": "2026-09-06T19:06:31",
+  "last_count": 813
 }

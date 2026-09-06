@@ -12796,3 +12796,10 @@
 2026-09-06 19:05:13,562 INFO === Run started ===
 2026-09-06 19:05:29,446 INFO No new products (811 tracked)
 2026-09-06 19:05:29,451 INFO === Run finished ===
+2026-09-06 19:06:12,629 INFO === Run started ===
+2026-09-06 19:06:28,998 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 19:06:28,999 INFO   NEW: Kamio Japan SLO Poch | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23814&limit=100
+2026-09-06 19:06:28,999 INFO   NEW: Pillbox Turmeric Han | $4.70 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=56&limit=100
+2026-09-06 19:06:30,933 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:06:31,323 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:06:31,329 INFO === Run finished ===
