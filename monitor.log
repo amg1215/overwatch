@@ -11972,3 +11972,10 @@
 2026-09-06 15:51:27,055 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 15:51:27,181 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 15:51:27,185 INFO === Run finished ===
+2026-09-06 15:52:12,559 INFO === Run started ===
+2026-09-06 15:52:24,620 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 15:52:24,620 INFO   NEW: Shiseido ANESSA Perf | $18.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30007&limit=100
+2026-09-06 15:52:24,620 INFO   NEW: TAKARA TOMY Pokemon | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29977&limit=100
+2026-09-06 15:52:27,014 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 15:52:27,112 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 15:52:27,116 INFO === Run finished ===

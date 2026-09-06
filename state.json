@@ -1068,6 +1068,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4208&limit=100",
       "stock": "n/a"
     },
+    "30007": {
+      "name": "Shiseido ANESSA Perf",
+      "price": "$18.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30007&limit=100",
+      "stock": "n/a"
+    },
     "28757": {
       "name": "Rohto Skin Aqua Tone",
       "price": "$8.39",
@@ -2290,6 +2296,12 @@
       "name": "TAKARA TOMY Pokemon",
       "price": "$4.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29975&limit=100",
+      "stock": "n/a"
+    },
+    "29977": {
+      "name": "TAKARA TOMY Pokemon",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29977&limit=100",
       "stock": "n/a"
     },
     "29978": {
@@ -4112,6 +4124,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T15:51:27",
-  "last_count": 685
+  "last_run": "2026-09-06T15:52:27",
+  "last_count": 687
 }
