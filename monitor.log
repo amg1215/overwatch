@@ -12291,3 +12291,11 @@
 2026-09-06 17:02:12,546 INFO === Run started ===
 2026-09-06 17:02:28,292 INFO No new products (736 tracked)
 2026-09-06 17:02:28,296 INFO === Run finished ===
+2026-09-06 17:03:11,082 INFO === Run started ===
+2026-09-06 17:03:26,481 INFO NEW/RESTOCKED products detected: 3
+2026-09-06 17:03:26,481 INFO   NEW: Kamio Japan SLO Hang | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23815&limit=100
+2026-09-06 17:03:26,481 INFO   NEW: Mitsubishi Uni Pen M | $7.48 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10414&limit=100
+2026-09-06 17:03:26,481 INFO   NEW: Mitsubishi Uni-Ball | $2.63 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5036&limit=100
+2026-09-06 17:03:30,140 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-06 17:03:30,508 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-06 17:03:30,513 INFO === Run finished ===
