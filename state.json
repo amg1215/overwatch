@@ -624,6 +624,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15169&limit=100",
       "stock": "n/a"
     },
+    "15170": {
+      "name": "T's Factory SLO My M",
+      "price": "$10.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15170&limit=100",
+      "stock": "n/a"
+    },
     "19456": {
       "name": "SLO My Melody Bow Ba",
       "price": "$5.69",
@@ -4610,6 +4616,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T17:26:25",
-  "last_count": 768
+  "last_run": "2026-09-06T17:27:29",
+  "last_count": 769
 }

@@ -12423,3 +12423,9 @@
 2026-09-06 17:26:11,415 INFO === Run started ===
 2026-09-06 17:26:25,530 INFO No new products (768 tracked)
 2026-09-06 17:26:25,534 INFO === Run finished ===
+2026-09-06 17:27:12,161 INFO === Run started ===
+2026-09-06 17:27:27,663 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 17:27:27,664 INFO   NEW: T's Factory SLO My M | $10.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15170&limit=100
+2026-09-06 17:27:29,431 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 17:27:29,649 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 17:27:29,653 INFO === Run finished ===
