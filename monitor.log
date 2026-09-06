@@ -12526,3 +12526,10 @@
 2026-09-06 17:46:14,845 INFO === Run started ===
 2026-09-06 17:46:29,914 INFO No new products (794 tracked)
 2026-09-06 17:46:29,919 INFO === Run finished ===
+2026-09-06 17:47:17,278 INFO === Run started ===
+2026-09-06 17:47:30,917 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 17:47:30,917 INFO   NEW: ECHO Mamas Slicer Wh | $1.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7724&limit=100
+2026-09-06 17:47:30,917 INFO   NEW: SJ Sparkling Metal K | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1993&limit=100
+2026-09-06 17:47:34,933 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 17:47:35,283 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 17:47:35,286 INFO === Run finished ===
