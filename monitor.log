@@ -12277,3 +12277,11 @@
 2026-09-06 16:59:28,604 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 16:59:28,789 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 16:59:28,795 INFO === Run finished ===
+2026-09-06 17:00:20,570 INFO === Run started ===
+2026-09-06 17:00:34,371 INFO NEW/RESTOCKED products detected: 3
+2026-09-06 17:00:34,372 INFO   NEW: Yamaka Usagi Mug 1pc | $13.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18660&limit=100
+2026-09-06 17:00:34,372 INFO   NEW: iPlanning SLO Kuromi | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30218&limit=100
+2026-09-06 17:00:34,372 INFO   NEW: iPlanning SLO Cinnam | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30219&limit=100
+2026-09-06 17:00:35,689 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-06 17:00:35,767 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-06 17:00:35,772 INFO === Run finished ===
