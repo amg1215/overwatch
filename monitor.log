@@ -13340,3 +13340,9 @@
 2026-09-06 21:00:24,691 INFO === Run started ===
 2026-09-06 21:00:42,376 INFO No new products (898 tracked)
 2026-09-06 21:00:42,381 INFO === Run finished ===
+2026-09-06 21:01:11,422 INFO === Run started ===
+2026-09-06 21:01:28,701 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 21:01:28,701 INFO   NEW: Taito Oshi no Ko T-m | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29567&limit=100
+2026-09-06 21:01:30,491 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 21:01:30,687 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 21:01:30,693 INFO === Run finished ===
