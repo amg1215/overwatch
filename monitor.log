@@ -12227,3 +12227,10 @@
 2026-09-06 16:50:33,455 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-06 16:50:33,583 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-06 16:50:33,588 INFO === Run finished ===
+2026-09-06 16:51:09,853 INFO === Run started ===
+2026-09-06 16:51:23,996 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 16:51:23,997 INFO   NEW: Inomata Spatula 1160 | $1.12 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10798&limit=100
+2026-09-06 16:51:23,997 INFO   NEW: LEC Cloud-shaped Spo | $1.12 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6886&limit=100
+2026-09-06 16:51:25,236 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 16:51:25,286 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 16:51:25,291 INFO === Run finished ===

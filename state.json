@@ -474,6 +474,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8048&limit=100",
       "stock": "n/a"
     },
+    "10798": {
+      "name": "Inomata Spatula 1160",
+      "price": "$1.12",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10798&limit=100",
+      "stock": "n/a"
+    },
     "7390": {
       "name": "Nakaya Microwaveable",
       "price": "$1.60",
@@ -754,6 +760,12 @@
       "name": "ZyChee DECO Home Sce",
       "price": "$6.45",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27138&limit=100",
+      "stock": "n/a"
+    },
+    "6886": {
+      "name": "LEC Cloud-shaped Spo",
+      "price": "$1.12",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6886&limit=100",
       "stock": "n/a"
     },
     "1982": {
@@ -4322,6 +4334,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T16:50:33",
-  "last_count": 720
+  "last_run": "2026-09-06T16:51:25",
+  "last_count": 722
 }
