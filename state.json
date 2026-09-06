@@ -2742,6 +2742,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29984&limit=100",
       "stock": "n/a"
     },
+    "13862": {
+      "name": "Ost Plush Doll Penda",
+      "price": "$8.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13862&limit=100",
+      "stock": "n/a"
+    },
     "15456": {
       "name": "Ost Plush Doll Penda",
       "price": "$8.39",
@@ -2974,6 +2980,12 @@
       "name": "CRUX Hatsune Miku Mo",
       "price": "$4.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29987&limit=100",
+      "stock": "n/a"
+    },
+    "29988": {
+      "name": "CRUX Hatsune Miku Mo",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29988&limit=100",
       "stock": "n/a"
     },
     "51125": {
@@ -4718,6 +4730,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T17:38:32",
-  "last_count": 786
+  "last_run": "2026-09-06T17:39:26",
+  "last_count": 788
 }

@@ -12488,3 +12488,10 @@
 2026-09-06 17:38:32,103 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-06 17:38:32,332 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-06 17:38:32,337 INFO === Run finished ===
+2026-09-06 17:39:10,688 INFO === Run started ===
+2026-09-06 17:39:24,900 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 17:39:24,900 INFO   NEW: Ost Plush Doll Penda | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13862&limit=100
+2026-09-06 17:39:24,900 INFO   NEW: CRUX Hatsune Miku Mo | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29988&limit=100
+2026-09-06 17:39:26,355 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 17:39:26,487 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 17:39:26,493 INFO === Run finished ===
