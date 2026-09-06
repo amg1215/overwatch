@@ -12198,3 +12198,11 @@
 2026-09-06 16:45:14,596 INFO === Run started ===
 2026-09-06 16:45:28,967 INFO No new products (712 tracked)
 2026-09-06 16:45:28,971 INFO === Run finished ===
+2026-09-06 16:46:12,748 INFO === Run started ===
+2026-09-06 16:46:27,804 INFO NEW/RESTOCKED products detected: 3
+2026-09-06 16:46:27,804 INFO   NEW: Kamio Japan SLO Kuro | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22742&limit=100
+2026-09-06 16:46:27,804 INFO   NEW: Sato ACESS Care Toot | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5529&limit=100
+2026-09-06 16:46:27,804 INFO   NEW: Uni POSCA Pen 6 Colo | $10.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8495&limit=100
+2026-09-06 16:46:29,877 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-06 16:46:30,134 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-06 16:46:30,139 INFO === Run finished ===
