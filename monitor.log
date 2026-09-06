@@ -11648,3 +11648,10 @@
 2026-09-06 14:43:09,507 INFO === Run started ===
 2026-09-06 14:43:21,947 INFO No new products (627 tracked)
 2026-09-06 14:43:21,950 INFO === Run finished ===
+2026-09-06 14:44:12,080 INFO === Run started ===
+2026-09-06 14:44:25,073 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 14:44:25,073 INFO   NEW: J's Planning SLO Hel | $17.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29971&limit=100
+2026-09-06 14:44:25,073 INFO   NEW: J's Planning SLO My | $17.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29972&limit=100
+2026-09-06 14:44:26,757 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 14:44:27,011 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 14:44:27,015 INFO === Run finished ===
