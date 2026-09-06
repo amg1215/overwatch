@@ -11979,3 +11979,9 @@
 2026-09-06 15:52:27,014 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 15:52:27,112 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 15:52:27,116 INFO === Run finished ===
+2026-09-06 15:53:10,258 INFO === Run started ===
+2026-09-06 15:53:22,864 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 15:53:22,865 INFO   NEW: Shiseido Anessa Suns | $18.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11245&limit=100
+2026-09-06 15:53:24,244 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 15:53:24,296 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 15:53:24,302 INFO === Run finished ===
