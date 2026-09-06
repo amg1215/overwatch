@@ -12056,3 +12056,9 @@
 2026-09-06 16:14:12,070 INFO === Run started ===
 2026-09-06 16:14:25,070 INFO No new products (693 tracked)
 2026-09-06 16:14:25,075 INFO === Run finished ===
+2026-09-06 16:15:17,218 INFO === Run started ===
+2026-09-06 16:15:30,043 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 16:15:30,043 INFO   NEW: Carari Dry Hair Cap | $11.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11034&limit=100
+2026-09-06 16:15:31,974 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 16:15:32,398 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 16:15:32,403 INFO === Run finished ===
