@@ -732,6 +732,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18213&limit=100",
       "stock": "n/a"
     },
+    "17797": {
+      "name": "SLO Pochacco 23-25cm",
+      "price": "$4.53",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17797&limit=100",
+      "stock": "n/a"
+    },
     "15696": {
       "name": "API Socks Kyoto LE S",
       "price": "$5.20",
@@ -2736,6 +2742,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3224&limit=100",
       "stock": "n/a"
     },
+    "22821": {
+      "name": "Asunarosha SLO Hello",
+      "price": "$8.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22821&limit=100",
+      "stock": "n/a"
+    },
     "22834": {
       "name": "Asunarosha SLO Pocha",
       "price": "$5.39",
@@ -4646,6 +4658,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T17:29:26",
-  "last_count": 774
+  "last_run": "2026-09-06T17:30:35",
+  "last_count": 776
 }

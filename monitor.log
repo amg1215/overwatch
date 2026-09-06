@@ -12442,3 +12442,10 @@
 2026-09-06 17:29:11,011 INFO === Run started ===
 2026-09-06 17:29:26,733 INFO No new products (774 tracked)
 2026-09-06 17:29:26,737 INFO === Run finished ===
+2026-09-06 17:30:18,338 INFO === Run started ===
+2026-09-06 17:30:33,657 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 17:30:33,658 INFO   NEW: SLO Pochacco 23-25cm | $4.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17797&limit=100
+2026-09-06 17:30:33,658 INFO   NEW: Asunarosha SLO Hello | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22821&limit=100
+2026-09-06 17:30:35,334 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 17:30:35,511 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 17:30:35,516 INFO === Run finished ===
