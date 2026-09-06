@@ -12155,3 +12155,10 @@
 2026-09-06 16:35:13,824 INFO === Run started ===
 2026-09-06 16:35:28,768 INFO No new products (707 tracked)
 2026-09-06 16:35:28,772 INFO === Run finished ===
+2026-09-06 16:36:12,355 INFO === Run started ===
+2026-09-06 16:36:26,260 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 16:36:26,260 INFO   NEW: ITOEN Eco-friendly G | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18833&limit=100
+2026-09-06 16:36:26,260 INFO   NEW: ITOEN Eco-friendly G | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18835&limit=100
+2026-09-06 16:36:28,684 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 16:36:28,961 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 16:36:28,966 INFO === Run finished ===
