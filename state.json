@@ -3396,6 +3396,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29405&limit=100",
       "stock": "n/a"
     },
+    "30307": {
+      "name": "BANDAI SPIRITS Hunte",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30307&limit=100",
+      "stock": "n/a"
+    },
     "29401": {
       "name": "Banprest Naruto 72 S",
       "price": "$23.99",
@@ -3526,6 +3532,12 @@
       "name": "FuRyu Hatsune Miku S",
       "price": "$21.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29389&limit=100",
+      "stock": "n/a"
+    },
+    "29416": {
+      "name": "Sega Frieren Beyond",
+      "price": "$17.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29416&limit=100",
       "stock": "n/a"
     },
     "20632": {
@@ -5456,6 +5468,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T21:15:37",
-  "last_count": 909
+  "last_run": "2026-09-06T21:16:30",
+  "last_count": 911
 }

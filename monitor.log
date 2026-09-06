@@ -13405,3 +13405,10 @@
 2026-09-06 21:15:17,585 INFO === Run started ===
 2026-09-06 21:15:37,651 INFO No new products (909 tracked)
 2026-09-06 21:15:37,656 INFO === Run finished ===
+2026-09-06 21:16:11,084 INFO === Run started ===
+2026-09-06 21:16:29,092 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 21:16:29,092 INFO   NEW: BANDAI SPIRITS Hunte | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30307&limit=100
+2026-09-06 21:16:29,092 INFO   NEW: Sega Frieren Beyond | $17.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29416&limit=100
+2026-09-06 21:16:30,338 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 21:16:30,392 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 21:16:30,539 INFO === Run finished ===
