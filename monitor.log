@@ -12062,3 +12062,9 @@
 2026-09-06 16:15:31,974 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 16:15:32,398 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 16:15:32,403 INFO === Run finished ===
+2026-09-06 16:16:12,243 INFO === Run started ===
+2026-09-06 16:16:25,373 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 16:16:25,373 INFO   NEW: U-company Toothbrush | $2.91 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9669&limit=100
+2026-09-06 16:16:26,985 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 16:16:27,211 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 16:16:27,255 INFO === Run finished ===
