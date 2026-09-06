@@ -13055,3 +13055,9 @@
 2026-09-06 19:54:17,252 INFO === Run started ===
 2026-09-06 19:54:33,034 INFO No new products (862 tracked)
 2026-09-06 19:54:33,037 INFO === Run finished ===
+2026-09-06 19:55:12,411 INFO === Run started ===
+2026-09-06 19:55:28,750 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 19:55:28,751 INFO   NEW: Seiwa-pro Egg Master | $1.74 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7136&limit=100
+2026-09-06 19:55:31,179 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 19:55:31,298 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 19:55:31,304 INFO === Run finished ===
