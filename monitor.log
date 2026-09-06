@@ -13158,3 +13158,9 @@
 2026-09-06 20:19:10,089 INFO === Run started ===
 2026-09-06 20:19:26,348 INFO No new products (875 tracked)
 2026-09-06 20:19:26,353 INFO === Run finished ===
+2026-09-06 20:20:16,404 INFO === Run started ===
+2026-09-06 20:20:34,214 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 20:20:34,214 INFO   NEW: Kobayashi Women's Ph | $37.18 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8244&limit=100
+2026-09-06 20:20:36,996 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:20:37,284 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:20:37,290 INFO === Run finished ===
