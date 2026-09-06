@@ -1848,6 +1848,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23900&limit=100",
       "stock": "n/a"
     },
+    "23901": {
+      "name": "Bee Cruise Mofusand",
+      "price": "$7.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23901&limit=100",
+      "stock": "n/a"
+    },
     "23902": {
       "name": "Bee Cruise Mofusand",
       "price": "$7.19",
@@ -4982,6 +4988,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T19:27:30",
-  "last_count": 830
+  "last_run": "2026-09-06T19:28:35",
+  "last_count": 831
 }
