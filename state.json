@@ -516,6 +516,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21455&limit=100",
       "stock": "n/a"
     },
+    "7584": {
+      "name": "ECHO Flower Print Fr",
+      "price": "$1.56",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7584&limit=100",
+      "stock": "n/a"
+    },
     "8048": {
       "name": "Bamboo Spatula",
       "price": "$0.98",
@@ -4730,6 +4736,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T17:43:35",
-  "last_count": 788
+  "last_run": "2026-09-06T17:44:36",
+  "last_count": 789
 }

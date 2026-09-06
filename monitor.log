@@ -12507,3 +12507,9 @@
 2026-09-06 17:43:19,372 INFO === Run started ===
 2026-09-06 17:43:35,430 INFO No new products (788 tracked)
 2026-09-06 17:43:35,435 INFO === Run finished ===
+2026-09-06 17:44:18,376 INFO === Run started ===
+2026-09-06 17:44:32,161 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 17:44:32,162 INFO   NEW: ECHO Flower Print Fr | $1.56 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7584&limit=100
+2026-09-06 17:44:36,128 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 17:44:36,308 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 17:44:36,311 INFO === Run finished ===
