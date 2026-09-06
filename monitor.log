@@ -13266,3 +13266,9 @@
 2026-09-06 20:41:28,665 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 20:41:28,785 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 20:41:28,793 INFO === Run finished ===
+2026-09-06 20:42:12,211 INFO === Run started ===
+2026-09-06 20:42:30,223 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 20:42:30,223 INFO   NEW: DHC Coix Seed Tablet | $9.80 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9654&limit=100
+2026-09-06 20:42:31,751 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:42:31,948 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:42:31,954 INFO === Run finished ===

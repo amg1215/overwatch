@@ -5316,6 +5316,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9875&limit=100",
       "stock": "n/a"
     },
+    "9654": {
+      "name": "DHC Coix Seed Tablet",
+      "price": "$9.80",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9654&limit=100",
+      "stock": "n/a"
+    },
     "9877": {
       "name": "Pillbox Onaka Puerar",
       "price": "$14.21",
@@ -5348,6 +5354,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T20:41:28",
-  "last_count": 891
+  "last_run": "2026-09-06T20:42:31",
+  "last_count": 892
 }
