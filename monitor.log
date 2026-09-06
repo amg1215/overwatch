@@ -11814,3 +11814,10 @@
 2026-09-06 15:16:30,542 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 15:16:30,779 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 15:16:30,784 INFO === Run finished ===
+2026-09-06 15:17:11,427 INFO === Run started ===
+2026-09-06 15:17:22,953 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 15:17:22,953 INFO   NEW: Mitsubishi Uni Pen M | $7.48 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8494&limit=100
+2026-09-06 15:17:22,953 INFO   NEW: Uni POSCA Pen 7 Colo | $11.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8496&limit=100
+2026-09-06 15:17:24,499 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 15:17:24,609 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 15:17:24,613 INFO === Run finished ===

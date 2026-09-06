@@ -2460,6 +2460,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12667&limit=100",
       "stock": "n/a"
     },
+    "8494": {
+      "name": "Mitsubishi Uni Pen M",
+      "price": "$7.48",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8494&limit=100",
+      "stock": "n/a"
+    },
     "8500": {
       "name": "Mitsubishi Uni Ballp",
       "price": "$1.54",
@@ -2482,6 +2488,12 @@
       "name": "Mitsubishi Uni Pin O",
       "price": "$1.29",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5125&limit=100",
+      "stock": "n/a"
+    },
+    "8496": {
+      "name": "Uni POSCA Pen 7 Colo",
+      "price": "$11.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8496&limit=100",
       "stock": "n/a"
     },
     "7428": {
@@ -3980,6 +3992,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T15:16:30",
-  "last_count": 663
+  "last_run": "2026-09-06T15:17:24",
+  "last_count": 665
 }
