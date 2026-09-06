@@ -11807,3 +11807,10 @@
 2026-09-06 15:15:14,957 INFO === Run started ===
 2026-09-06 15:15:27,491 INFO No new products (661 tracked)
 2026-09-06 15:15:27,494 INFO === Run finished ===
+2026-09-06 15:16:16,685 INFO === Run started ===
+2026-09-06 15:16:29,076 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 15:16:29,076 INFO   NEW: Showa Pokemon Note S | $4.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11030&limit=100
+2026-09-06 15:16:29,077 INFO   NEW: Zebra Fluorescent Pe | $4.55 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10113&limit=100
+2026-09-06 15:16:30,542 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 15:16:30,779 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 15:16:30,784 INFO === Run finished ===

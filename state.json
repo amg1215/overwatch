@@ -2424,6 +2424,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51125&limit=100",
       "stock": "n/a"
     },
+    "11030": {
+      "name": "Showa Pokemon Note S",
+      "price": "$4.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11030&limit=100",
+      "stock": "n/a"
+    },
     "24406": {
       "name": "Kamio Japan SLO Hell",
       "price": "$5.99",
@@ -2440,6 +2446,12 @@
       "name": "Zebra Fluorescent Pe",
       "price": "$4.53",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6097&limit=100",
+      "stock": "n/a"
+    },
+    "10113": {
+      "name": "Zebra Fluorescent Pe",
+      "price": "$4.55",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10113&limit=100",
       "stock": "n/a"
     },
     "12667": {
@@ -3968,6 +3980,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T15:15:27",
-  "last_count": 661
+  "last_run": "2026-09-06T15:16:30",
+  "last_count": 663
 }
