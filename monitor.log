@@ -12174,3 +12174,9 @@
 2026-09-06 16:39:10,490 INFO === Run started ===
 2026-09-06 16:39:25,303 INFO No new products (710 tracked)
 2026-09-06 16:39:25,307 INFO === Run finished ===
+2026-09-06 16:40:15,961 INFO === Run started ===
+2026-09-06 16:40:30,792 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 16:40:30,792 INFO   NEW: Bourbon Mineral Salt | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30050&limit=100
+2026-09-06 16:40:34,736 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 16:40:35,048 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 16:40:35,053 INFO === Run finished ===
