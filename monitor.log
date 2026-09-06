@@ -13315,3 +13315,9 @@
 2026-09-06 20:55:32,385 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 20:55:32,437 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 20:55:32,443 INFO === Run finished ===
+2026-09-06 20:56:12,677 INFO === Run started ===
+2026-09-06 20:56:30,023 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 20:56:30,023 INFO   NEW: DHC Vitamin B Mix 60 | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=384&limit=100
+2026-09-06 20:56:31,859 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:56:32,129 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:56:32,169 INFO === Run finished ===
