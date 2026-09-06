@@ -13019,3 +13019,11 @@
 2026-09-06 19:48:11,818 INFO === Run started ===
 2026-09-06 19:48:27,210 INFO No new products (852 tracked)
 2026-09-06 19:48:27,244 INFO === Run finished ===
+2026-09-06 19:49:10,566 INFO === Run started ===
+2026-09-06 19:49:25,950 INFO NEW/RESTOCKED products detected: 3
+2026-09-06 19:49:25,950 INFO   NEW: Seiwa-pro Body Spong | $1.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7342&limit=100
+2026-09-06 19:49:25,950 INFO   NEW: Seiwa-pro Compressed | $1.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7519&limit=100
+2026-09-06 19:49:25,950 INFO   NEW: Kissme Volume & Curl | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11116&limit=100
+2026-09-06 19:49:29,619 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-06 19:49:29,774 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-06 19:49:29,779 INFO === Run finished ===
