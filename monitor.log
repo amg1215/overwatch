@@ -13235,3 +13235,9 @@
 2026-09-06 20:35:14,927 INFO === Run started ===
 2026-09-06 20:35:31,700 INFO No new products (886 tracked)
 2026-09-06 20:35:31,761 INFO === Run finished ===
+2026-09-06 20:36:23,724 INFO === Run started ===
+2026-09-06 20:36:39,933 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 20:36:39,933 INFO   NEW: Banpresto Dragon Bal | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51158&limit=100
+2026-09-06 20:36:43,679 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:36:44,147 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:36:44,151 INFO === Run finished ===
