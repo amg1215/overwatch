@@ -12825,3 +12825,10 @@
 2026-09-06 19:11:09,830 INFO === Run started ===
 2026-09-06 19:11:25,119 INFO No new products (816 tracked)
 2026-09-06 19:11:25,124 INFO === Run finished ===
+2026-09-06 19:12:16,575 INFO === Run started ===
+2026-09-06 19:12:32,387 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 19:12:32,387 INFO   NEW: SLO Hello Kitty Bang | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22786&limit=100
+2026-09-06 19:12:32,387 INFO   NEW: SLO Kuromi Photo Sto | $5.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19504&limit=100
+2026-09-06 19:12:35,093 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:12:35,389 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:12:35,394 INFO === Run finished ===

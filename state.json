@@ -768,6 +768,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22742&limit=100",
       "stock": "n/a"
     },
+    "22786": {
+      "name": "SLO Hello Kitty Bang",
+      "price": "$4.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22786&limit=100",
+      "stock": "n/a"
+    },
     "19510": {
       "name": "SLO Hello Kitty Bang",
       "price": "$4.19",
@@ -2740,6 +2746,12 @@
       "name": "SLO Keychain Gudetam",
       "price": "$3.44",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10897&limit=100",
+      "stock": "n/a"
+    },
+    "19504": {
+      "name": "SLO Kuromi Photo Sto",
+      "price": "$5.29",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19504&limit=100",
       "stock": "n/a"
     },
     "19508": {
@@ -4898,6 +4910,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T19:11:25",
-  "last_count": 816
+  "last_run": "2026-09-06T19:12:35",
+  "last_count": 818
 }
