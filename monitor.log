@@ -11869,3 +11869,9 @@
 2026-09-06 15:26:25,546 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 15:26:25,810 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 15:26:25,837 INFO === Run finished ===
+2026-09-06 15:27:12,800 INFO === Run started ===
+2026-09-06 15:27:37,540 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 15:27:37,540 INFO   NEW: U-company Bounce Up | $3.17 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3846&limit=100
+2026-09-06 15:27:41,511 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 15:27:41,830 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 15:27:41,836 INFO === Run finished ===

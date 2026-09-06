@@ -1,5 +1,11 @@
 {
   "products": {
+    "3846": {
+      "name": "U-company Bounce Up",
+      "price": "$3.17",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3846&limit=100",
+      "stock": "n/a"
+    },
     "9886": {
       "name": "U-company Toothbrush",
       "price": "$2.91",
@@ -4046,6 +4052,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T15:26:25",
-  "last_count": 674
+  "last_run": "2026-09-06T15:27:41",
+  "last_count": 675
 }
