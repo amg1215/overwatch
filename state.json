@@ -180,6 +180,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29175&limit=100",
       "stock": "n/a"
     },
+    "9228": {
+      "name": "Zojirushi Vacuum Bot",
+      "price": "$21.44",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9228&limit=100",
+      "stock": "n/a"
+    },
     "9230": {
       "name": "Zojirushi Vacuum Bot",
       "price": "$25.34",
@@ -2028,6 +2034,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10893&limit=100",
       "stock": "n/a"
     },
+    "10896": {
+      "name": "SLO Keychain Pochacc",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10896&limit=100",
+      "stock": "n/a"
+    },
     "10900": {
       "name": "SLO Keychain BAD BAD",
       "price": "$3.44",
@@ -3788,6 +3800,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T14:48:26",
-  "last_count": 631
+  "last_run": "2026-09-06T14:49:28",
+  "last_count": 633
 }

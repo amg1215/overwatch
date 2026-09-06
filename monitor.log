@@ -11673,3 +11673,10 @@
 2026-09-06 14:48:25,927 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 14:48:26,005 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 14:48:26,010 INFO === Run finished ===
+2026-09-06 14:49:12,954 INFO === Run started ===
+2026-09-06 14:49:26,403 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 14:49:26,403 INFO   NEW: Zojirushi Vacuum Bot | $21.44 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9228&limit=100
+2026-09-06 14:49:26,403 INFO   NEW: SLO Keychain Pochacc | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10896&limit=100
+2026-09-06 14:49:28,414 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 14:49:28,820 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 14:49:28,825 INFO === Run finished ===
