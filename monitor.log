@@ -11763,3 +11763,11 @@
 2026-09-06 15:06:27,170 INFO Email sent: Ebisu: 4 new/restocked items!
 2026-09-06 15:06:27,295 INFO ntfy push sent: Ebisu: 4 new/restocked items!
 2026-09-06 15:06:27,301 INFO === Run finished ===
+2026-09-06 15:07:09,779 INFO === Run started ===
+2026-09-06 15:07:22,369 INFO NEW/RESTOCKED products detected: 3
+2026-09-06 15:07:22,370 INFO   NEW: Nakaya Microwave Rou | $1.56 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7385&limit=100
+2026-09-06 15:07:22,370 INFO   NEW: Carari Kids Dry Hair | $9.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9364&limit=100
+2026-09-06 15:07:22,370 INFO   NEW: Kamio Japan SLO Cinn | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24411&limit=100
+2026-09-06 15:07:23,827 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-06 15:07:24,025 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-06 15:07:24,030 INFO === Run finished ===

@@ -228,6 +228,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6105&limit=100",
       "stock": "n/a"
     },
+    "7385": {
+      "name": "Nakaya Microwave Rou",
+      "price": "$1.56",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7385&limit=100",
+      "stock": "n/a"
+    },
     "7389": {
       "name": "Nakaya 2 Partition P",
       "price": "$1.60",
@@ -850,6 +856,12 @@
       "name": "Hayashi Rilakkuma To",
       "price": "$4.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11489&limit=100",
+      "stock": "n/a"
+    },
+    "9364": {
+      "name": "Carari Kids Dry Hair",
+      "price": "$9.29",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9364&limit=100",
       "stock": "n/a"
     },
     "9608": {
@@ -2380,6 +2392,12 @@
       "name": "Bandai ONE PIECE Car",
       "price": "$6.29",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51125&limit=100",
+      "stock": "n/a"
+    },
+    "24411": {
+      "name": "Kamio Japan SLO Cinn",
+      "price": "$5.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24411&limit=100",
       "stock": "n/a"
     },
     "6097": {
@@ -3914,6 +3932,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T15:06:27",
-  "last_count": 652
+  "last_run": "2026-09-06T15:07:24",
+  "last_count": 655
 }
