@@ -12212,3 +12212,10 @@
 2026-09-06 16:48:11,959 INFO === Run started ===
 2026-09-06 16:48:26,861 INFO No new products (715 tracked)
 2026-09-06 16:48:26,959 INFO === Run finished ===
+2026-09-06 16:49:12,886 INFO === Run started ===
+2026-09-06 16:49:27,619 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 16:49:27,619 INFO   NEW: Kamio Japan SLO Hell | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24407&limit=100
+2026-09-06 16:49:27,619 INFO   NEW: Dragonfly Eraser PE0 | $0.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8491&limit=100
+2026-09-06 16:49:29,688 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 16:49:29,913 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 16:49:29,918 INFO === Run finished ===
