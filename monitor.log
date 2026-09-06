@@ -12248,3 +12248,11 @@
 2026-09-06 16:54:29,084 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-06 16:54:29,260 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-06 16:54:29,265 INFO === Run finished ===
+2026-09-06 16:55:15,296 INFO === Run started ===
+2026-09-06 16:55:29,427 INFO NEW/RESTOCKED products detected: 3
+2026-09-06 16:55:29,427 INFO   NEW: Nakaya White Pack Wi | $1.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10048&limit=100
+2026-09-06 16:55:29,427 INFO   NEW: SLO Cinnamoroll 23-2 | $4.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18213&limit=100
+2026-09-06 16:55:29,427 INFO   NEW: LEMON Pencil Caps Dr | $1.43 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7429&limit=100
+2026-09-06 16:55:30,835 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-06 16:55:30,934 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-06 16:55:30,939 INFO === Run finished ===
