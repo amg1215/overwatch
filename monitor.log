@@ -13220,3 +13220,9 @@
 2026-09-06 20:32:30,479 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 20:32:30,581 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 20:32:30,587 INFO === Run finished ===
+2026-09-06 20:33:12,637 INFO === Run started ===
+2026-09-06 20:33:31,144 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 20:33:31,144 INFO   NEW: Salonpas Sheets Reli | $13.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8237&limit=100
+2026-09-06 20:33:33,136 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:33:33,391 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:33:33,397 INFO === Run finished ===
