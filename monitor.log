@@ -13369,3 +13369,9 @@
 2026-09-06 21:06:32,670 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 21:06:32,783 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 21:06:32,802 INFO === Run finished ===
+2026-09-06 21:07:47,950 INFO === Run started ===
+2026-09-06 21:08:07,074 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 21:08:07,074 INFO   NEW: Banprest Naruto 72 S | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29401&limit=100
+2026-09-06 21:08:08,343 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 21:08:08,424 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 21:08:08,430 INFO === Run finished ===

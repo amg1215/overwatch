@@ -3384,6 +3384,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29405&limit=100",
       "stock": "n/a"
     },
+    "29401": {
+      "name": "Banprest Naruto 72 S",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29401&limit=100",
+      "stock": "n/a"
+    },
     "29407": {
       "name": "Banpresto My Hero Ac",
       "price": "$23.99",
@@ -5420,6 +5426,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T21:06:32",
-  "last_count": 903
+  "last_run": "2026-09-06T21:08:08",
+  "last_count": 904
 }
