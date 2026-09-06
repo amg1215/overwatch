@@ -12462,3 +12462,12 @@
 2026-09-06 17:33:10,278 INFO === Run started ===
 2026-09-06 17:33:24,107 INFO No new products (778 tracked)
 2026-09-06 17:33:24,111 INFO === Run finished ===
+2026-09-06 17:34:47,893 INFO === Run started ===
+2026-09-06 17:35:02,454 INFO NEW/RESTOCKED products detected: 4
+2026-09-06 17:35:02,454 INFO   NEW: Sanrio Mug Melody 1p | $8.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1165&limit=100
+2026-09-06 17:35:02,455 INFO   NEW: Sanrio Mug Kuromi 1p | $8.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1167&limit=100
+2026-09-06 17:35:02,455 INFO   NEW: Sanrio Mug Pochacco | $8.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1168&limit=100
+2026-09-06 17:35:02,455 INFO   NEW: Ost Plush Doll Penda | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15456&limit=100
+2026-09-06 17:35:03,776 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-06 17:35:03,909 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-06 17:35:03,915 INFO === Run finished ===
