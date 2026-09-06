@@ -1704,6 +1704,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19576&limit=100",
       "stock": "n/a"
     },
+    "19571": {
+      "name": "Canmake Lame Mania 0",
+      "price": "$7.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19571&limit=100",
+      "stock": "n/a"
+    },
     "10692": {
       "name": "Kissme Long & Curl M",
       "price": "$10.19",
@@ -5294,6 +5300,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T20:29:29",
-  "last_count": 882
+  "last_run": "2026-09-06T20:30:36",
+  "last_count": 883
 }

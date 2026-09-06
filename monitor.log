@@ -13205,3 +13205,9 @@
 2026-09-06 20:29:12,285 INFO === Run started ===
 2026-09-06 20:29:29,561 INFO No new products (882 tracked)
 2026-09-06 20:29:29,566 INFO === Run finished ===
+2026-09-06 20:30:18,543 INFO === Run started ===
+2026-09-06 20:30:34,584 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 20:30:34,584 INFO   NEW: Canmake Lame Mania 0 | $7.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19571&limit=100
+2026-09-06 20:30:36,284 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:30:36,431 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:30:36,438 INFO === Run finished ===
