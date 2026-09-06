@@ -11655,3 +11655,9 @@
 2026-09-06 14:44:26,757 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 14:44:27,011 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 14:44:27,015 INFO === Run finished ===
+2026-09-06 14:45:16,811 INFO === Run started ===
+2026-09-06 14:45:30,656 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 14:45:30,656 INFO   NEW: J's Planning SLO Cin | $17.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29974&limit=100
+2026-09-06 14:45:32,403 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 14:45:32,689 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 14:45:32,710 INFO === Run finished ===
