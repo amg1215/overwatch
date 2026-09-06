@@ -252,6 +252,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7389&limit=100",
       "stock": "n/a"
     },
+    "6906": {
+      "name": "Nakaya Honoca Deep P",
+      "price": "$1.17",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6906&limit=100",
+      "stock": "n/a"
+    },
     "6907": {
       "name": "Nakaya Honoca Deep P",
       "price": "$1.17",
@@ -436,6 +442,12 @@
       "name": "Nakaya Microwaveable",
       "price": "$1.60",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7390&limit=100",
+      "stock": "n/a"
+    },
+    "7397": {
+      "name": "Nakaya White Pack Sq",
+      "price": "$1.60",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7397&limit=100",
       "stock": "n/a"
     },
     "10046": {
@@ -1510,6 +1522,12 @@
       "name": "Transformers TF-5 Q-",
       "price": "$7.02",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22346&limit=100",
+      "stock": "n/a"
+    },
+    "15678": {
+      "name": "Re-Ment Pokemon Blin",
+      "price": "$10.17",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15678&limit=100",
       "stock": "n/a"
     },
     "28758": {
@@ -4088,6 +4106,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T15:45:27",
-  "last_count": 681
+  "last_run": "2026-09-06T15:46:28",
+  "last_count": 684
 }
