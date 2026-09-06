@@ -13254,3 +13254,9 @@
 2026-09-06 20:39:30,648 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 20:39:30,842 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 20:39:30,847 INFO === Run finished ===
+2026-09-06 20:40:17,525 INFO === Run started ===
+2026-09-06 20:40:33,450 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 20:40:33,450 INFO   NEW: ITOEN Easy Brew Prem | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18836&limit=100
+2026-09-06 20:40:35,903 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:40:35,953 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:40:35,957 INFO === Run finished ===
