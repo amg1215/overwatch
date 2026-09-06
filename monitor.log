@@ -12429,3 +12429,13 @@
 2026-09-06 17:27:29,431 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 17:27:29,649 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 17:27:29,653 INFO === Run finished ===
+2026-09-06 17:28:12,807 INFO === Run started ===
+2026-09-06 17:28:48,963 INFO NEW/RESTOCKED products detected: 5
+2026-09-06 17:28:48,963 INFO   NEW: Asunarosha Kuromi Sa | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23428&limit=100
+2026-09-06 17:28:48,963 INFO   NEW: Bee Cruise Mofusand | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23896&limit=100
+2026-09-06 17:28:48,963 INFO   NEW: Bee Cruise Mofusand | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23897&limit=100
+2026-09-06 17:28:48,963 INFO   NEW: Bee Cruise Mofusand | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23898&limit=100
+2026-09-06 17:28:48,963 INFO   NEW: Bee Cruise Mofusand | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23899&limit=100
+2026-09-06 17:28:51,756 INFO Email sent: Ebisu: 5 new/restocked items!
+2026-09-06 17:28:51,901 INFO ntfy push sent: Ebisu: 5 new/restocked items!
+2026-09-06 17:28:51,906 INFO === Run finished ===

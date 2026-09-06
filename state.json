@@ -114,6 +114,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22826&limit=100",
       "stock": "n/a"
     },
+    "23428": {
+      "name": "Asunarosha Kuromi Sa",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23428&limit=100",
+      "stock": "n/a"
+    },
     "22829": {
       "name": "Asunarosha SLO Pocha",
       "price": "$4.19",
@@ -1276,6 +1282,30 @@
       "name": "MilleFée Juicy Glow",
       "price": "$10.78",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25579&limit=100",
+      "stock": "n/a"
+    },
+    "23896": {
+      "name": "Bee Cruise Mofusand",
+      "price": "$5.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23896&limit=100",
+      "stock": "n/a"
+    },
+    "23897": {
+      "name": "Bee Cruise Mofusand",
+      "price": "$5.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23897&limit=100",
+      "stock": "n/a"
+    },
+    "23898": {
+      "name": "Bee Cruise Mofusand",
+      "price": "$5.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23898&limit=100",
+      "stock": "n/a"
+    },
+    "23899": {
+      "name": "Bee Cruise Mofusand",
+      "price": "$5.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23899&limit=100",
       "stock": "n/a"
     },
     "5000": {
@@ -4616,6 +4646,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T17:27:29",
-  "last_count": 769
+  "last_run": "2026-09-06T17:28:51",
+  "last_count": 774
 }
