@@ -480,6 +480,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8048&limit=100",
       "stock": "n/a"
     },
+    "6888": {
+      "name": "LEC Square Food Oil",
+      "price": "$1.29",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6888&limit=100",
+      "stock": "n/a"
+    },
     "10798": {
       "name": "Inomata Spatula 1160",
       "price": "$1.12",
@@ -1504,6 +1510,12 @@
       "name": "iPlanning SLO Hello",
       "price": "$4.79",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30220&limit=100",
+      "stock": "n/a"
+    },
+    "30221": {
+      "name": "iPlanning SLO Hello",
+      "price": "$4.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30221&limit=100",
       "stock": "n/a"
     },
     "30222": {
@@ -4532,6 +4544,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T17:16:29",
-  "last_count": 755
+  "last_run": "2026-09-06T17:17:28",
+  "last_count": 757
 }

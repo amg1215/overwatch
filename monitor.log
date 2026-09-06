@@ -12370,3 +12370,10 @@
 2026-09-06 17:16:14,796 INFO === Run started ===
 2026-09-06 17:16:29,558 INFO No new products (755 tracked)
 2026-09-06 17:16:29,563 INFO === Run finished ===
+2026-09-06 17:17:10,868 INFO === Run started ===
+2026-09-06 17:17:26,345 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 17:17:26,345 INFO   NEW: LEC Square Food Oil | $1.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6888&limit=100
+2026-09-06 17:17:26,345 INFO   NEW: iPlanning SLO Hello | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30221&limit=100
+2026-09-06 17:17:28,426 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 17:17:28,690 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 17:17:28,696 INFO === Run finished ===
