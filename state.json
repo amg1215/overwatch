@@ -606,6 +606,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15169&limit=100",
       "stock": "n/a"
     },
+    "19456": {
+      "name": "SLO My Melody Bow Ba",
+      "price": "$5.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19456&limit=100",
+      "stock": "n/a"
+    },
     "438": {
       "name": "Sanrio Hair Ring Twi",
       "price": "$2.39",
@@ -4460,6 +4466,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T17:04:29",
-  "last_count": 743
+  "last_run": "2026-09-06T17:05:28",
+  "last_count": 744
 }

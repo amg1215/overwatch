@@ -12308,3 +12308,9 @@
 2026-09-06 17:04:29,492 INFO Email sent: Ebisu: 4 new/restocked items!
 2026-09-06 17:04:29,574 INFO ntfy push sent: Ebisu: 4 new/restocked items!
 2026-09-06 17:04:29,579 INFO === Run finished ===
+2026-09-06 17:05:13,486 INFO === Run started ===
+2026-09-06 17:05:26,863 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 17:05:26,864 INFO   NEW: SLO My Melody Bow Ba | $5.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19456&limit=100
+2026-09-06 17:05:28,427 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 17:05:28,588 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 17:05:28,593 INFO === Run finished ===
