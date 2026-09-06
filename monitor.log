@@ -12086,3 +12086,10 @@
 2026-09-06 16:20:32,395 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 16:20:32,652 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 16:20:32,656 INFO === Run finished ===
+2026-09-06 16:21:13,662 INFO === Run started ===
+2026-09-06 16:21:26,104 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 16:21:26,104 INFO   NEW: Nakaya Square Bean B | $1.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7402&limit=100
+2026-09-06 16:21:26,104 INFO   NEW: Mitsuki Tweezers Thi | $0.98 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6969&limit=100
+2026-09-06 16:21:28,047 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 16:21:28,308 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 16:21:28,327 INFO === Run finished ===
