@@ -12995,3 +12995,10 @@
 2026-09-06 19:44:32,224 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 19:44:32,554 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 19:44:32,560 INFO === Run finished ===
+2026-09-06 19:45:15,770 INFO === Run started ===
+2026-09-06 19:45:31,444 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 19:45:31,444 INFO   NEW: SLO Chami Bangs Clip | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22790&limit=100
+2026-09-06 19:45:31,444 INFO   NEW: SLO Stamp Set Cinnam | $9.21 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13434&limit=100
+2026-09-06 19:45:34,882 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:45:34,960 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:45:34,983 INFO === Run finished ===
