@@ -390,6 +390,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7390&limit=100",
       "stock": "n/a"
     },
+    "7404": {
+      "name": "Nakaya White Pack Wi",
+      "price": "$1.60",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7404&limit=100",
+      "stock": "n/a"
+    },
     "7297": {
       "name": "Nakaya Freille Colan",
       "price": "$1.35",
@@ -3824,6 +3830,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T14:54:26",
-  "last_count": 637
+  "last_run": "2026-09-06T14:55:29",
+  "last_count": 638
 }

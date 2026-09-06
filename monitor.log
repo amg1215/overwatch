@@ -11703,3 +11703,9 @@
 2026-09-06 14:54:12,872 INFO === Run started ===
 2026-09-06 14:54:26,041 INFO No new products (637 tracked)
 2026-09-06 14:54:26,044 INFO === Run finished ===
+2026-09-06 14:55:14,370 INFO === Run started ===
+2026-09-06 14:55:27,757 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 14:55:27,757 INFO   NEW: Nakaya White Pack Wi | $1.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7404&limit=100
+2026-09-06 14:55:29,620 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 14:55:29,879 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 14:55:29,884 INFO === Run finished ===
