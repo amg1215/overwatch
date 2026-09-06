@@ -252,6 +252,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7389&limit=100",
       "stock": "n/a"
     },
+    "6907": {
+      "name": "Nakaya Honoca Deep P",
+      "price": "$1.17",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6907&limit=100",
+      "stock": "n/a"
+    },
     "6908": {
       "name": "Nakaya Honoca Small",
       "price": "$1.05",
@@ -1270,12 +1276,6 @@
       "name": "Kumano Salon Link No",
       "price": "$6.15",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4733&limit=100",
-      "stock": "n/a"
-    },
-    "14671": {
-      "name": "Shiseido FINO Hair M",
-      "price": "$19.19",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14671&limit=100",
       "stock": "n/a"
     },
     "13215": {
@@ -4052,6 +4052,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T15:27:41",
+  "last_run": "2026-09-06T15:28:27",
   "last_count": 675
 }

@@ -11875,3 +11875,9 @@
 2026-09-06 15:27:41,511 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 15:27:41,830 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 15:27:41,836 INFO === Run finished ===
+2026-09-06 15:28:12,356 INFO === Run started ===
+2026-09-06 15:28:25,541 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 15:28:25,541 INFO   NEW: Nakaya Honoca Deep P | $1.17 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6907&limit=100
+2026-09-06 15:28:26,922 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 15:28:27,026 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 15:28:27,031 INFO === Run finished ===
