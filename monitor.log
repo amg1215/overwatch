@@ -12109,3 +12109,10 @@
 2026-09-06 16:25:34,799 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 16:25:35,107 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 16:25:35,111 INFO === Run finished ===
+2026-09-06 16:26:19,276 INFO === Run started ===
+2026-09-06 16:26:34,378 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 16:26:34,378 INFO   NEW: Suruga Bath Sponge L | $1.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1522&limit=100
+2026-09-06 16:26:34,378 INFO   NEW: Showa Note Pokemon 5 | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20334&limit=100
+2026-09-06 16:26:38,328 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 16:26:38,512 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 16:26:38,515 INFO === Run finished ===
