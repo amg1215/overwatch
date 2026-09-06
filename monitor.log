@@ -12976,3 +12976,9 @@
 2026-09-06 19:40:32,819 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 19:40:32,898 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 19:40:32,904 INFO === Run finished ===
+2026-09-06 19:41:14,153 INFO === Run started ===
+2026-09-06 19:41:31,319 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 19:41:31,319 INFO   NEW: SLO Tuxedosam Photo | $5.26 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19506&limit=100
+2026-09-06 19:41:33,247 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 19:41:33,513 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 19:41:33,519 INFO === Run finished ===
