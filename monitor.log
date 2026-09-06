@@ -12970,3 +12970,9 @@
 2026-09-06 19:39:31,467 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 19:39:31,698 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 19:39:31,791 INFO === Run finished ===
+2026-09-06 19:40:14,107 INFO === Run started ===
+2026-09-06 19:40:30,569 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 19:40:30,569 INFO   NEW: SLO BAD BADTZ-MARU P | $5.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19509&limit=100
+2026-09-06 19:40:32,819 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 19:40:32,898 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 19:40:32,904 INFO === Run finished ===
