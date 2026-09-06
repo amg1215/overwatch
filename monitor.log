@@ -12102,3 +12102,10 @@
 2026-09-06 16:24:16,246 INFO === Run started ===
 2026-09-06 16:24:30,267 INFO No new products (699 tracked)
 2026-09-06 16:24:30,271 INFO === Run finished ===
+2026-09-06 16:25:16,549 INFO === Run started ===
+2026-09-06 16:25:30,428 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 16:25:30,428 INFO   NEW: Green Ornament Potho | $1.12 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6984&limit=100
+2026-09-06 16:25:30,428 INFO   NEW: Heart LOVELETS Ouran | $1.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30129&limit=100
+2026-09-06 16:25:34,799 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 16:25:35,107 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 16:25:35,111 INFO === Run finished ===
