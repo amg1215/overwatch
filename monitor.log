@@ -12513,3 +12513,13 @@
 2026-09-06 17:44:36,128 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 17:44:36,308 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 17:44:36,311 INFO === Run finished ===
+2026-09-06 17:45:15,492 INFO === Run started ===
+2026-09-06 17:45:30,078 INFO NEW/RESTOCKED products detected: 5
+2026-09-06 17:45:30,078 INFO   NEW: ECHO Heat Resistant | $1.32 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8120&limit=100
+2026-09-06 17:45:30,078 INFO   NEW: ECHO Electric Blende | $1.73 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8116&limit=100
+2026-09-06 17:45:30,078 INFO   NEW: Ost SLO My Melody Do | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19886&limit=100
+2026-09-06 17:45:30,078 INFO   NEW: CRUX Hatsune Miku Mo | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29986&limit=100
+2026-09-06 17:45:30,078 INFO   NEW: CRUX Hatsune Miku Mo | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29989&limit=100
+2026-09-06 17:45:32,828 INFO Email sent: Ebisu: 5 new/restocked items!
+2026-09-06 17:45:33,050 INFO ntfy push sent: Ebisu: 5 new/restocked items!
+2026-09-06 17:45:33,055 INFO === Run finished ===

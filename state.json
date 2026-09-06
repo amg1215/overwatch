@@ -618,6 +618,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7130&limit=100",
       "stock": "n/a"
     },
+    "8120": {
+      "name": "ECHO Heat Resistant",
+      "price": "$1.32",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8120&limit=100",
+      "stock": "n/a"
+    },
     "7572": {
       "name": "ECHO Double-sided Wh",
       "price": "$1.71",
@@ -634,6 +640,12 @@
       "name": "ECHO Stainless Steel",
       "price": "$1.29",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6524&limit=100",
+      "stock": "n/a"
+    },
+    "8116": {
+      "name": "ECHO Electric Blende",
+      "price": "$1.73",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8116&limit=100",
       "stock": "n/a"
     },
     "8224": {
@@ -2778,6 +2790,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19885&limit=100",
       "stock": "n/a"
     },
+    "19886": {
+      "name": "Ost SLO My Melody Do",
+      "price": "$7.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19886&limit=100",
+      "stock": "n/a"
+    },
     "19887": {
       "name": "Ost SLO Kuromi Doll",
       "price": "$7.79",
@@ -2982,6 +3000,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23815&limit=100",
       "stock": "n/a"
     },
+    "29986": {
+      "name": "CRUX Hatsune Miku Mo",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29986&limit=100",
+      "stock": "n/a"
+    },
     "29987": {
       "name": "CRUX Hatsune Miku Mo",
       "price": "$4.19",
@@ -2992,6 +3016,12 @@
       "name": "CRUX Hatsune Miku Mo",
       "price": "$4.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29988&limit=100",
+      "stock": "n/a"
+    },
+    "29989": {
+      "name": "CRUX Hatsune Miku Mo",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29989&limit=100",
       "stock": "n/a"
     },
     "51125": {
@@ -4736,6 +4766,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T17:44:36",
-  "last_count": 789
+  "last_run": "2026-09-06T17:45:33",
+  "last_count": 794
 }
