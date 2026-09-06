@@ -13002,3 +13002,11 @@
 2026-09-06 19:45:34,882 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 19:45:34,960 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 19:45:34,983 INFO === Run finished ===
+2026-09-06 19:46:13,942 INFO === Run started ===
+2026-09-06 19:46:30,736 INFO NEW/RESTOCKED products detected: 3
+2026-09-06 19:46:30,736 INFO   NEW: SLO My Melody Bangs | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22787&limit=100
+2026-09-06 19:46:30,736 INFO   NEW: Asunarosha Japanese | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22853&limit=100
+2026-09-06 19:46:30,736 INFO   NEW: Maruman Collagen Cap | $15.36 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3066&limit=100
+2026-09-06 19:46:32,561 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-06 19:46:32,888 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-06 19:46:32,894 INFO === Run finished ===
