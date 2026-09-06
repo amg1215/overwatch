@@ -11787,3 +11787,11 @@
 2026-09-06 15:11:10,293 INFO === Run started ===
 2026-09-06 15:11:23,550 INFO No new products (657 tracked)
 2026-09-06 15:11:23,553 INFO === Run finished ===
+2026-09-06 15:12:10,732 INFO === Run started ===
+2026-09-06 15:12:23,173 INFO NEW/RESTOCKED products detected: 3
+2026-09-06 15:12:23,173 INFO   NEW: Shiseido Aqua Label | $14.40 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30008&limit=100
+2026-09-06 15:12:23,173 INFO   NEW: TAKARA TOMY Pokemon | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29984&limit=100
+2026-09-06 15:12:23,173 INFO   NEW: Ost GLOOMY Violent B | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23069&limit=100
+2026-09-06 15:12:24,766 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-06 15:12:24,896 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-06 15:12:24,902 INFO === Run finished ===

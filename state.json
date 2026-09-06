@@ -942,6 +942,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4990&limit=100",
       "stock": "n/a"
     },
+    "30008": {
+      "name": "Shiseido Aqua Label",
+      "price": "$14.40",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30008&limit=100",
+      "stock": "n/a"
+    },
     "29445": {
       "name": "COSMETEX ROLAND Hors",
       "price": "$3.69",
@@ -2230,6 +2236,18 @@
       "name": "TAKARA TOMY Pokemon",
       "price": "$4.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29983&limit=100",
+      "stock": "n/a"
+    },
+    "29984": {
+      "name": "TAKARA TOMY Pokemon",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29984&limit=100",
+      "stock": "n/a"
+    },
+    "23069": {
+      "name": "Ost GLOOMY Violent B",
+      "price": "$8.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23069&limit=100",
       "stock": "n/a"
     },
     "23070": {
@@ -3944,6 +3962,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T15:11:23",
-  "last_count": 657
+  "last_run": "2026-09-06T15:12:24",
+  "last_count": 660
 }
