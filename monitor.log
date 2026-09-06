@@ -12912,3 +12912,9 @@
 2026-09-06 19:29:09,538 INFO === Run started ===
 2026-09-06 19:29:24,633 INFO No new products (831 tracked)
 2026-09-06 19:29:24,636 INFO === Run finished ===
+2026-09-06 19:30:18,399 INFO === Run started ===
+2026-09-06 19:30:35,283 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 19:30:35,283 INFO   NEW: San-Ei Plush Doll Po | $15.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2150&limit=100
+2026-09-06 19:30:39,355 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 19:30:39,529 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 19:30:39,535 INFO === Run finished ===
