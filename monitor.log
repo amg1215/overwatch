@@ -12809,3 +12809,10 @@
 2026-09-06 19:08:14,211 INFO === Run started ===
 2026-09-06 19:08:30,866 INFO No new products (813 tracked)
 2026-09-06 19:08:30,872 INFO === Run finished ===
+2026-09-06 19:09:14,306 INFO === Run started ===
+2026-09-06 19:09:31,913 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 19:09:31,913 INFO   NEW: Sanada Partition Box | $1.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7422&limit=100
+2026-09-06 19:09:31,913 INFO   NEW: Sanada Charm Storage | $1.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7327&limit=100
+2026-09-06 19:09:33,570 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:09:33,791 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:09:33,797 INFO === Run finished ===
