@@ -12708,3 +12708,10 @@
 2026-09-06 18:46:11,383 INFO === Run started ===
 2026-09-06 18:46:26,468 INFO No new products (798 tracked)
 2026-09-06 18:46:26,473 INFO === Run finished ===
+2026-09-06 18:47:11,455 INFO === Run started ===
+2026-09-06 18:47:27,059 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 18:47:27,059 INFO   NEW: ECHO Clean Scraper L | $1.54 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7578&limit=100
+2026-09-06 18:47:27,059 INFO   NEW: ECHO Stainless Steel | $1.42 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6763&limit=100
+2026-09-06 18:47:28,817 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 18:47:29,175 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 18:47:29,180 INFO === Run finished ===
