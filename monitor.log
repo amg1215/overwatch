@@ -11534,3 +11534,9 @@
 2026-09-06 14:08:15,710 INFO === Run started ===
 2026-09-06 14:08:29,316 INFO No new products (625 tracked)
 2026-09-06 14:08:29,319 INFO === Run finished ===
+2026-09-06 14:09:09,894 INFO === Run started ===
+2026-09-06 14:09:21,556 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 14:09:21,556 INFO   NEW: Itoen Nippon Ale Miy | $1.45 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30877&limit=100
+2026-09-06 14:09:23,712 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 14:09:23,875 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 14:09:23,879 INFO === Run finished ===
