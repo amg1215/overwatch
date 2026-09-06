@@ -204,6 +204,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9230&limit=100",
       "stock": "n/a"
     },
+    "6104": {
+      "name": "Zojirushi Vacuum Str",
+      "price": "$23.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6104&limit=100",
+      "stock": "n/a"
+    },
     "6105": {
       "name": "Zojirushi Vacuum Str",
       "price": "$23.59",
@@ -3818,6 +3824,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T14:50:27",
-  "last_count": 636
+  "last_run": "2026-09-06T14:51:30",
+  "last_count": 637
 }
