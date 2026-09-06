@@ -792,6 +792,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10051&limit=100",
       "stock": "n/a"
     },
+    "14276": {
+      "name": "Kobayashi Indoor Aro",
+      "price": "$4.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14276&limit=100",
+      "stock": "n/a"
+    },
     "27136": {
       "name": "ZYCHEE DECO Home Sce",
       "price": "$6.45",
@@ -4466,6 +4472,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T17:05:28",
-  "last_count": 744
+  "last_run": "2026-09-06T17:06:31",
+  "last_count": 745
 }

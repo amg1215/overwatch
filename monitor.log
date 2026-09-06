@@ -12314,3 +12314,9 @@
 2026-09-06 17:05:28,427 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 17:05:28,588 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 17:05:28,593 INFO === Run finished ===
+2026-09-06 17:06:13,993 INFO === Run started ===
+2026-09-06 17:06:29,382 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 17:06:29,382 INFO   NEW: Kobayashi Indoor Aro | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14276&limit=100
+2026-09-06 17:06:31,216 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 17:06:31,446 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 17:06:31,451 INFO === Run finished ===
