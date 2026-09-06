@@ -4386,6 +4386,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28766&limit=100",
       "stock": "n/a"
     },
+    "29866": {
+      "name": "BANDAI SLO Series Fi",
+      "price": "$3.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29866&limit=100",
+      "stock": "n/a"
+    },
     "30000": {
       "name": "Ensky Demon Slayer C",
       "price": "$1.89",
@@ -4910,6 +4916,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T19:16:30",
-  "last_count": 818
+  "last_run": "2026-09-06T19:17:32",
+  "last_count": 819
 }

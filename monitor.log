@@ -12844,3 +12844,9 @@
 2026-09-06 19:16:13,610 INFO === Run started ===
 2026-09-06 19:16:30,912 INFO No new products (818 tracked)
 2026-09-06 19:16:30,917 INFO === Run finished ===
+2026-09-06 19:17:11,824 INFO === Run started ===
+2026-09-06 19:17:29,683 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 19:17:29,683 INFO   NEW: BANDAI SLO Series Fi | $3.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29866&limit=100
+2026-09-06 19:17:31,781 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 19:17:32,038 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 19:17:32,044 INFO === Run finished ===
