@@ -12963,3 +12963,10 @@
 2026-09-06 19:38:14,491 INFO === Run started ===
 2026-09-06 19:38:31,625 INFO No new products (840 tracked)
 2026-09-06 19:38:31,630 INFO === Run finished ===
+2026-09-06 19:39:12,400 INFO === Run started ===
+2026-09-06 19:39:29,500 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 19:39:29,500 INFO   NEW: Seiwa-pro 3D Makeup | $1.03 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6739&limit=100
+2026-09-06 19:39:29,500 INFO   NEW: San-Ei Plush Doll Po | $15.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2151&limit=100
+2026-09-06 19:39:31,467 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:39:31,698 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:39:31,791 INFO === Run finished ===

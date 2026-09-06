@@ -1812,6 +1812,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9242&limit=100",
       "stock": "n/a"
     },
+    "6739": {
+      "name": "Seiwa-pro 3D Makeup",
+      "price": "$1.03",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6739&limit=100",
+      "stock": "n/a"
+    },
     "9559": {
       "name": "Kumano Horse Oil Con",
       "price": "$5.55",
@@ -2674,6 +2680,12 @@
       "name": "San-Ei Plush Doll Pi",
       "price": "$38.85",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3219&limit=100",
+      "stock": "n/a"
+    },
+    "2151": {
+      "name": "San-Ei Plush Doll Po",
+      "price": "$15.25",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2151&limit=100",
       "stock": "n/a"
     },
     "2150": {
@@ -5042,6 +5054,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T19:38:31",
-  "last_count": 840
+  "last_run": "2026-09-06T19:39:31",
+  "last_count": 842
 }
