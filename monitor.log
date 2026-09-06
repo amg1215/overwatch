@@ -11735,3 +11735,10 @@
 2026-09-06 15:00:36,770 INFO Email sent: Ebisu: 4 new/restocked items!
 2026-09-06 15:00:37,017 INFO ntfy push sent: Ebisu: 4 new/restocked items!
 2026-09-06 15:00:37,022 INFO === Run finished ===
+2026-09-06 15:01:14,410 INFO === Run started ===
+2026-09-06 15:01:27,730 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 15:01:27,730 INFO   NEW: ECHO Double-sided Wh | $1.71 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7572&limit=100
+2026-09-06 15:01:27,730 INFO   NEW: TAKARA TOMY Pokemon | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29975&limit=100
+2026-09-06 15:01:31,966 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 15:01:32,162 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 15:01:32,167 INFO === Run finished ===
