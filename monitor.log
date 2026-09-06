@@ -11847,3 +11847,9 @@
 2026-09-06 15:22:27,838 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 15:22:28,082 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 15:22:28,087 INFO === Run finished ===
+2026-09-06 15:23:15,882 INFO === Run started ===
+2026-09-06 15:23:28,803 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 15:23:28,803 INFO   NEW: Ost Plush Doll Penda | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15455&limit=100
+2026-09-06 15:23:30,601 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 15:23:30,806 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 15:23:30,876 INFO === Run finished ===

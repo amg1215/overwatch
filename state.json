@@ -2268,6 +2268,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29984&limit=100",
       "stock": "n/a"
     },
+    "15455": {
+      "name": "Ost Plush Doll Penda",
+      "price": "$8.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15455&limit=100",
+      "stock": "n/a"
+    },
     "19884": {
       "name": "Ost SLO Hello Kitty",
       "price": "$7.79",
@@ -4022,6 +4028,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T15:22:28",
-  "last_count": 670
+  "last_run": "2026-09-06T15:23:30",
+  "last_count": 671
 }
