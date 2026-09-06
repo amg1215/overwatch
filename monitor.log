@@ -12377,3 +12377,10 @@
 2026-09-06 17:17:28,426 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 17:17:28,690 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 17:17:28,696 INFO === Run finished ===
+2026-09-06 17:18:13,937 INFO === Run started ===
+2026-09-06 17:18:28,292 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 17:18:28,293 INFO   NEW: Yamaka Momonga Plate | $8.16 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18665&limit=100
+2026-09-06 17:18:28,293 INFO   NEW: SLO Pompom Purin Ban | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19512&limit=100
+2026-09-06 17:18:29,896 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 17:18:30,091 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 17:18:30,095 INFO === Run finished ===

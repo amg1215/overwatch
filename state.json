@@ -324,6 +324,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6922&limit=100",
       "stock": "n/a"
     },
+    "18665": {
+      "name": "Yamaka Momonga Plate",
+      "price": "$8.16",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18665&limit=100",
+      "stock": "n/a"
+    },
     "21446": {
       "name": "SUNNY FACE Bread Ser",
       "price": "$5.35",
@@ -658,6 +664,12 @@
       "name": "SLO Hello Kitty Bang",
       "price": "$4.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19510&limit=100",
+      "stock": "n/a"
+    },
+    "19512": {
+      "name": "SLO Pompom Purin Ban",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19512&limit=100",
       "stock": "n/a"
     },
     "19515": {
@@ -4544,6 +4556,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T17:17:28",
-  "last_count": 757
+  "last_run": "2026-09-06T17:18:30",
+  "last_count": 759
 }
