@@ -744,6 +744,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19459&limit=100",
       "stock": "n/a"
     },
+    "1024": {
+      "name": "Sanrio Long Hairpin",
+      "price": "$6.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1024&limit=100",
+      "stock": "n/a"
+    },
     "1026": {
       "name": "Sanrio Long Hairpin",
       "price": "$6.00",
@@ -804,10 +810,22 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19510&limit=100",
       "stock": "n/a"
     },
+    "19511": {
+      "name": "SLO My Melody Bangs",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19511&limit=100",
+      "stock": "n/a"
+    },
     "19512": {
       "name": "SLO Pompom Purin Ban",
       "price": "$4.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19512&limit=100",
+      "stock": "n/a"
+    },
+    "19513": {
+      "name": "SLO Kuromi Bangs Cli",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19513&limit=100",
       "stock": "n/a"
     },
     "19515": {
@@ -2826,6 +2844,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10897&limit=100",
       "stock": "n/a"
     },
+    "10902": {
+      "name": "SLO Keychain Piano 1",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10902&limit=100",
+      "stock": "n/a"
+    },
     "19500": {
       "name": "SLO Hello Kitty Phot",
       "price": "$5.29",
@@ -4176,12 +4200,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29731&limit=100",
       "stock": "n/a"
     },
-    "22041": {
-      "name": "Red Sakura French Br",
-      "price": "$8.39",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22041&limit=100",
-      "stock": "n/a"
-    },
     "23107": {
       "name": "Ezaki Glico Pocky Ex",
       "price": "$1.97",
@@ -5030,6 +5048,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T19:35:28",
-  "last_count": 838
+  "last_run": "2026-09-06T19:36:34",
+  "last_count": 841
 }
