@@ -11771,3 +11771,10 @@
 2026-09-06 15:07:23,827 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-06 15:07:24,025 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-06 15:07:24,030 INFO === Run finished ===
+2026-09-06 15:08:11,167 INFO === Run started ===
+2026-09-06 15:08:24,194 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 15:08:24,194 INFO   NEW: Nakaya White Pack Sq | $1.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10046&limit=100
+2026-09-06 15:08:24,194 INFO   NEW: Kamio Japan SLO Hell | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24406&limit=100
+2026-09-06 15:08:26,104 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 15:08:26,192 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 15:08:26,197 INFO === Run finished ===

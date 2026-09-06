@@ -414,6 +414,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7390&limit=100",
       "stock": "n/a"
     },
+    "10046": {
+      "name": "Nakaya White Pack Sq",
+      "price": "$1.53",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10046&limit=100",
+      "stock": "n/a"
+    },
     "7404": {
       "name": "Nakaya White Pack Wi",
       "price": "$1.60",
@@ -2394,6 +2400,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51125&limit=100",
       "stock": "n/a"
     },
+    "24406": {
+      "name": "Kamio Japan SLO Hell",
+      "price": "$5.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24406&limit=100",
+      "stock": "n/a"
+    },
     "24411": {
       "name": "Kamio Japan SLO Cinn",
       "price": "$5.99",
@@ -3932,6 +3944,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T15:07:24",
-  "last_count": 655
+  "last_run": "2026-09-06T15:08:26",
+  "last_count": 657
 }
