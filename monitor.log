@@ -12018,3 +12018,11 @@
 2026-09-06 16:05:17,443 INFO === Run started ===
 2026-09-06 16:05:56,007 INFO No new products (688 tracked)
 2026-09-06 16:05:56,011 INFO === Run finished ===
+2026-09-06 16:06:19,033 INFO === Run started ===
+2026-09-06 16:06:32,917 INFO NEW/RESTOCKED products detected: 3
+2026-09-06 16:06:32,917 INFO   NEW: Sunstar B5 Painting | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1701&limit=100
+2026-09-06 16:06:32,917 INFO   NEW: Sunstar Coloring Boo | $2.08 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13850&limit=100
+2026-09-06 16:06:32,917 INFO   NEW: Showa Note Pokemon R | $2.27 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23841&limit=100
+2026-09-06 16:06:34,835 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-06 16:06:35,102 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-06 16:06:35,107 INFO === Run finished ===
