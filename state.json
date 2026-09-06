@@ -3372,6 +3372,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51292&limit=100",
       "stock": "n/a"
     },
+    "29405": {
+      "name": "Banpresto Dragon Bal",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29405&limit=100",
+      "stock": "n/a"
+    },
     "29396": {
       "name": "Banpresto Overlord G",
       "price": "$23.99",
@@ -5384,6 +5390,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T20:58:30",
-  "last_count": 897
+  "last_run": "2026-09-06T20:59:28",
+  "last_count": 898
 }
