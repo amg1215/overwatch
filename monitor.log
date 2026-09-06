@@ -13179,3 +13179,10 @@
 2026-09-06 20:24:30,128 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 20:24:30,180 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 20:24:30,186 INFO === Run finished ===
+2026-09-06 20:25:15,447 INFO === Run started ===
+2026-09-06 20:25:32,972 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 20:25:32,972 INFO   NEW: Yamada Rice Spoon | $1.23 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8054&limit=100
+2026-09-06 20:25:32,972 INFO   NEW: Shiseido Serum Noir | $21.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8159&limit=100
+2026-09-06 20:25:34,931 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 20:25:35,355 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 20:25:35,361 INFO === Run finished ===

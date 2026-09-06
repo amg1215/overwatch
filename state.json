@@ -468,6 +468,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8047&limit=100",
       "stock": "n/a"
     },
+    "8054": {
+      "name": "Yamada Rice Spoon",
+      "price": "$1.23",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8054&limit=100",
+      "stock": "n/a"
+    },
     "7536": {
       "name": "Maruki Bamboo Chopst",
       "price": "$1.44",
@@ -2032,6 +2038,12 @@
       "name": "Shiseido Serum Noir",
       "price": "$21.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8160&limit=100",
+      "stock": "n/a"
+    },
+    "8159": {
+      "name": "Shiseido Serum Noir",
+      "price": "$21.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8159&limit=100",
       "stock": "n/a"
     },
     "4861": {
@@ -5264,6 +5276,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T20:24:30",
-  "last_count": 877
+  "last_run": "2026-09-06T20:25:35",
+  "last_count": 879
 }
