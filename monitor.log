@@ -12886,3 +12886,10 @@
 2026-09-06 19:24:13,932 INFO === Run started ===
 2026-09-06 19:24:31,160 INFO No new products (826 tracked)
 2026-09-06 19:24:31,165 INFO === Run finished ===
+2026-09-06 19:25:14,513 INFO === Run started ===
+2026-09-06 19:25:31,727 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 19:25:31,727 INFO   NEW: Asunarosha Crepe Sil | $28.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22854&limit=100
+2026-09-06 19:25:31,727 INFO   NEW: Asunarosha Crepe Jap | $28.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22855&limit=100
+2026-09-06 19:25:33,648 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:25:33,915 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:25:33,920 INFO === Run finished ===

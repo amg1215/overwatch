@@ -2646,6 +2646,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3220&limit=100",
       "stock": "n/a"
     },
+    "22854": {
+      "name": "Asunarosha Crepe Sil",
+      "price": "$28.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22854&limit=100",
+      "stock": "n/a"
+    },
+    "22855": {
+      "name": "Asunarosha Crepe Jap",
+      "price": "$28.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22855&limit=100",
+      "stock": "n/a"
+    },
     "20009": {
       "name": "Disney Plush Doll St",
       "price": "$8.99",
@@ -4958,6 +4970,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T19:24:31",
-  "last_count": 826
+  "last_run": "2026-09-06T19:25:33",
+  "last_count": 828
 }
