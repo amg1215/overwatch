@@ -12180,3 +12180,9 @@
 2026-09-06 16:40:34,736 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 16:40:35,048 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 16:40:35,053 INFO === Run finished ===
+2026-09-06 16:41:09,871 INFO === Run started ===
+2026-09-06 16:41:23,517 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 16:41:23,517 INFO   NEW: Bourbon Chewy & Smoo | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30048&limit=100
+2026-09-06 16:41:24,774 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 16:41:24,903 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 16:41:24,909 INFO === Run finished ===
