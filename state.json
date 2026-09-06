@@ -1320,6 +1320,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5348&limit=100",
       "stock": "n/a"
     },
+    "8026": {
+      "name": "Kinomegumi Foot Shee",
+      "price": "$14.27",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8026&limit=100",
+      "stock": "n/a"
+    },
     "8114": {
       "name": "Kobayashi Eye Wash 5",
       "price": "$8.95",
@@ -5300,6 +5306,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T20:31:28",
-  "last_count": 883
+  "last_run": "2026-09-06T20:32:30",
+  "last_count": 884
 }

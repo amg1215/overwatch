@@ -13214,3 +13214,9 @@
 2026-09-06 20:31:10,414 INFO === Run started ===
 2026-09-06 20:31:28,022 INFO No new products (883 tracked)
 2026-09-06 20:31:28,027 INFO === Run finished ===
+2026-09-06 20:32:11,408 INFO === Run started ===
+2026-09-06 20:32:27,998 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 20:32:27,998 INFO   NEW: Kinomegumi Foot Shee | $14.27 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8026&limit=100
+2026-09-06 20:32:30,479 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:32:30,581 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:32:30,587 INFO === Run finished ===
