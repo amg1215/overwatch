@@ -12116,3 +12116,9 @@
 2026-09-06 16:26:38,328 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 16:26:38,512 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 16:26:38,515 INFO === Run finished ===
+2026-09-06 16:27:19,478 INFO === Run started ===
+2026-09-06 16:27:34,659 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 16:27:34,659 INFO   NEW: Mitsubishi Uni-Ball | $1.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5027&limit=100
+2026-09-06 16:27:36,232 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 16:27:36,503 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 16:27:36,508 INFO === Run finished ===
