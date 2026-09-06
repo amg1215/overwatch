@@ -13114,3 +13114,9 @@
 2026-09-06 20:07:30,136 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 20:07:30,382 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 20:07:30,387 INFO === Run finished ===
+2026-09-06 20:08:13,472 INFO === Run started ===
+2026-09-06 20:08:30,492 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 20:08:30,493 INFO   NEW: Pillbox Onaka Puerar | $25.18 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6872&limit=100
+2026-09-06 20:08:31,813 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:08:31,899 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 20:08:31,905 INFO === Run finished ===

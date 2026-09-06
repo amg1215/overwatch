@@ -5214,6 +5214,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9877&limit=100",
       "stock": "n/a"
     },
+    "6872": {
+      "name": "Pillbox Onaka Puerar",
+      "price": "$25.18",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6872&limit=100",
+      "stock": "n/a"
+    },
     "56": {
       "name": "Pillbox Turmeric Han",
       "price": "$4.70",
@@ -5228,6 +5234,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T20:07:30",
-  "last_count": 871
+  "last_run": "2026-09-06T20:08:31",
+  "last_count": 872
 }
