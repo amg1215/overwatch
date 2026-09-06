@@ -11841,3 +11841,9 @@
 2026-09-06 15:21:35,495 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-06 15:21:35,671 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-06 15:21:35,674 INFO === Run finished ===
+2026-09-06 15:22:12,606 INFO === Run started ===
+2026-09-06 15:22:25,946 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 15:22:25,946 INFO   NEW: Ost SLO Kuromi Doll | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19887&limit=100
+2026-09-06 15:22:27,838 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 15:22:28,082 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 15:22:28,087 INFO === Run finished ===

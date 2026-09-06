@@ -2274,6 +2274,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19884&limit=100",
       "stock": "n/a"
     },
+    "19887": {
+      "name": "Ost SLO Kuromi Doll",
+      "price": "$7.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19887&limit=100",
+      "stock": "n/a"
+    },
     "23069": {
       "name": "Ost GLOOMY Violent B",
       "price": "$8.39",
@@ -4016,6 +4022,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T15:21:35",
-  "last_count": 669
+  "last_run": "2026-09-06T15:22:28",
+  "last_count": 670
 }
