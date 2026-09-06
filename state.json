@@ -612,6 +612,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19456&limit=100",
       "stock": "n/a"
     },
+    "19457": {
+      "name": "SLO Cinnamoroll Bow",
+      "price": "$5.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19457&limit=100",
+      "stock": "n/a"
+    },
     "438": {
       "name": "Sanrio Hair Ring Twi",
       "price": "$2.39",
@@ -2362,6 +2368,12 @@
       "name": "Guangbo Plush Doll H",
       "price": "$14.29",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29580&limit=100",
+      "stock": "n/a"
+    },
+    "449": {
+      "name": "Sanrio Sanrio Charac",
+      "price": "$5.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=449&limit=100",
       "stock": "n/a"
     },
     "1835": {
@@ -4490,6 +4502,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T17:12:29",
-  "last_count": 748
+  "last_run": "2026-09-06T17:13:28",
+  "last_count": 750
 }
