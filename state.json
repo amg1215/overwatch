@@ -654,6 +654,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21268&limit=100",
       "stock": "n/a"
     },
+    "30223": {
+      "name": "iPlanning SLO Hello",
+      "price": "$4.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30223&limit=100",
+      "stock": "n/a"
+    },
     "30226": {
       "name": "iPlanning SLO Hello",
       "price": "$4.79",
@@ -2706,6 +2712,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20632&limit=100",
       "stock": "n/a"
     },
+    "23808": {
+      "name": "Kamio Japan Powerpuf",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23808&limit=100",
+      "stock": "n/a"
+    },
     "23809": {
       "name": "Kamio Japan Powerpuf",
       "price": "$2.99",
@@ -2728,6 +2740,12 @@
       "name": "Bandai ONE PIECE Car",
       "price": "$6.29",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51125&limit=100",
+      "stock": "n/a"
+    },
+    "19519": {
+      "name": "SUNSTAR Chiikawa Rak",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19519&limit=100",
       "stock": "n/a"
     },
     "1701": {
@@ -2890,6 +2908,12 @@
       "name": "LEMON Pencil Caps Dr",
       "price": "$1.43",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7429&limit=100",
+      "stock": "n/a"
+    },
+    "10438": {
+      "name": "LEMON Hexagon 2B Pen",
+      "price": "$0.95",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10438&limit=100",
       "stock": "n/a"
     },
     "7431": {
@@ -4436,6 +4460,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T17:03:30",
-  "last_count": 739
+  "last_run": "2026-09-06T17:04:29",
+  "last_count": 743
 }

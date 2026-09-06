@@ -12299,3 +12299,12 @@
 2026-09-06 17:03:30,140 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-06 17:03:30,508 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-06 17:03:30,513 INFO === Run finished ===
+2026-09-06 17:04:14,062 INFO === Run started ===
+2026-09-06 17:04:28,217 INFO NEW/RESTOCKED products detected: 4
+2026-09-06 17:04:28,217 INFO   NEW: iPlanning SLO Hello | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30223&limit=100
+2026-09-06 17:04:28,217 INFO   NEW: Kamio Japan Powerpuf | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23808&limit=100
+2026-09-06 17:04:28,217 INFO   NEW: SUNSTAR Chiikawa Rak | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19519&limit=100
+2026-09-06 17:04:28,217 INFO   NEW: LEMON Hexagon 2B Pen | $0.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10438&limit=100
+2026-09-06 17:04:29,492 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-06 17:04:29,574 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-06 17:04:29,579 INFO === Run finished ===
