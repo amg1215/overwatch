@@ -13107,3 +13107,10 @@
 2026-09-06 20:06:21,225 INFO === Run started ===
 2026-09-06 20:06:36,446 INFO No new products (869 tracked)
 2026-09-06 20:06:36,449 INFO === Run finished ===
+2026-09-06 20:07:11,081 INFO === Run started ===
+2026-09-06 20:07:28,211 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 20:07:28,212 INFO   NEW: Ampule Shot Hydratin | $11.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13565&limit=100
+2026-09-06 20:07:28,212 INFO   NEW: KYOWA Red and Blue P | $1.12 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7285&limit=100
+2026-09-06 20:07:30,136 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 20:07:30,382 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 20:07:30,387 INFO === Run finished ===
