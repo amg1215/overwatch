@@ -13412,3 +13412,9 @@
 2026-09-06 21:16:30,338 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 21:16:30,392 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 21:16:30,539 INFO === Run finished ===
+2026-09-06 21:17:12,250 INFO === Run started ===
+2026-09-06 21:17:31,469 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 21:17:31,470 INFO   NEW: Banpresto Uma Musume | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29406&limit=100
+2026-09-06 21:17:33,253 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 21:17:33,741 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 21:17:33,747 INFO === Run finished ===
