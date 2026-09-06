@@ -12816,3 +12816,9 @@
 2026-09-06 19:09:33,570 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 19:09:33,791 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 19:09:33,797 INFO === Run finished ===
+2026-09-06 19:10:17,645 INFO === Run started ===
+2026-09-06 19:10:34,994 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 19:10:34,995 INFO   NEW: Sanada Storage Box 3 | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16500&limit=100
+2026-09-06 19:10:36,922 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 19:10:37,184 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 19:10:37,190 INFO === Run finished ===
