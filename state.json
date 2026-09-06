@@ -648,6 +648,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21268&limit=100",
       "stock": "n/a"
     },
+    "30226": {
+      "name": "iPlanning SLO Hello",
+      "price": "$4.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30226&limit=100",
+      "stock": "n/a"
+    },
     "18213": {
       "name": "SLO Cinnamoroll 23-2",
       "price": "$4.53",
@@ -2688,6 +2694,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23809&limit=100",
       "stock": "n/a"
     },
+    "23812": {
+      "name": "Kamio Japan SLO Kuro",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23812&limit=100",
+      "stock": "n/a"
+    },
     "51125": {
       "name": "Bandai ONE PIECE Car",
       "price": "$6.29",
@@ -4388,6 +4400,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T16:58:27",
-  "last_count": 731
+  "last_run": "2026-09-06T16:59:28",
+  "last_count": 733
 }

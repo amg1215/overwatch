@@ -12270,3 +12270,10 @@
 2026-09-06 16:58:26,877 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-06 16:58:27,127 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-06 16:58:27,131 INFO === Run finished ===
+2026-09-06 16:59:10,672 INFO === Run started ===
+2026-09-06 16:59:24,732 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 16:59:24,732 INFO   NEW: iPlanning SLO Hello | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30226&limit=100
+2026-09-06 16:59:24,732 INFO   NEW: Kamio Japan SLO Kuro | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23812&limit=100
+2026-09-06 16:59:28,604 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 16:59:28,789 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 16:59:28,795 INFO === Run finished ===
