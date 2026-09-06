@@ -6,6 +6,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9886&limit=100",
       "stock": "n/a"
     },
+    "9529": {
+      "name": "U-company Toothbrush",
+      "price": "$2.91",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9529&limit=100",
+      "stock": "n/a"
+    },
     "9453": {
       "name": "Earth Children's Mou",
       "price": "$3.83",
@@ -2094,6 +2100,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29580&limit=100",
       "stock": "n/a"
     },
+    "1835": {
+      "name": "SJ Rubber Reel Keych",
+      "price": "$5.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1835&limit=100",
+      "stock": "n/a"
+    },
     "10483": {
       "name": "Sanrio Key Chain Poc",
       "price": "$7.79",
@@ -2254,6 +2266,12 @@
       "name": "TAKARA TOMY Pokemon",
       "price": "$4.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29984&limit=100",
+      "stock": "n/a"
+    },
+    "19884": {
+      "name": "Ost SLO Hello Kitty",
+      "price": "$7.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19884&limit=100",
       "stock": "n/a"
     },
     "23069": {
@@ -3998,6 +4016,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T15:20:36",
-  "last_count": 666
+  "last_run": "2026-09-06T15:21:35",
+  "last_count": 669
 }

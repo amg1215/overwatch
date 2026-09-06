@@ -11833,3 +11833,11 @@
 2026-09-06 15:20:23,440 INFO === Run started ===
 2026-09-06 15:20:36,230 INFO No new products (666 tracked)
 2026-09-06 15:20:36,233 INFO === Run finished ===
+2026-09-06 15:21:21,083 INFO === Run started ===
+2026-09-06 15:21:32,827 INFO NEW/RESTOCKED products detected: 3
+2026-09-06 15:21:32,827 INFO   NEW: U-company Toothbrush | $2.91 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9529&limit=100
+2026-09-06 15:21:32,827 INFO   NEW: SJ Rubber Reel Keych | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1835&limit=100
+2026-09-06 15:21:32,827 INFO   NEW: Ost SLO Hello Kitty | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19884&limit=100
+2026-09-06 15:21:35,495 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-06 15:21:35,671 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-06 15:21:35,674 INFO === Run finished ===
