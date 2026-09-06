@@ -1128,6 +1128,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1982&limit=100",
       "stock": "n/a"
     },
+    "7290": {
+      "name": "Inomata Footbath Buc",
+      "price": "$8.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7290&limit=100",
+      "stock": "n/a"
+    },
     "8050": {
       "name": "Yamada 7 Days Case",
       "price": "$1.46",
@@ -5186,6 +5192,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T19:58:03",
-  "last_count": 864
+  "last_run": "2026-09-06T19:59:28",
+  "last_count": 865
 }
