@@ -2214,6 +2214,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29978&limit=100",
       "stock": "n/a"
     },
+    "29979": {
+      "name": "TAKARA TOMY Pokemon",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29979&limit=100",
+      "stock": "n/a"
+    },
     "29980": {
       "name": "TAKARA TOMY Pokemon",
       "price": "$4.19",
@@ -3962,6 +3968,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T15:12:24",
-  "last_count": 660
+  "last_run": "2026-09-06T15:13:23",
+  "last_count": 661
 }
