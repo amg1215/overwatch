@@ -2748,6 +2748,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10897&limit=100",
       "stock": "n/a"
     },
+    "19502": {
+      "name": "SLO Pompom Purin Pho",
+      "price": "$5.29",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19502&limit=100",
+      "stock": "n/a"
+    },
     "19504": {
       "name": "SLO Kuromi Photo Sto",
       "price": "$5.29",
@@ -4404,6 +4410,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29877&limit=100",
       "stock": "n/a"
     },
+    "29878": {
+      "name": "BANDAI Galaxy Expres",
+      "price": "$1.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29878&limit=100",
+      "stock": "n/a"
+    },
     "30000": {
       "name": "Ensky Demon Slayer C",
       "price": "$1.89",
@@ -4928,6 +4940,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T19:19:29",
-  "last_count": 821
+  "last_run": "2026-09-06T19:20:38",
+  "last_count": 823
 }
