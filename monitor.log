@@ -11709,3 +11709,10 @@
 2026-09-06 14:55:29,620 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 14:55:29,879 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 14:55:29,884 INFO === Run finished ===
+2026-09-06 14:56:47,895 INFO === Run started ===
+2026-09-06 14:57:00,226 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 14:57:00,226 INFO   NEW: Yamada Straw Nursing | $1.44 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8051&limit=100
+2026-09-06 14:57:00,226 INFO   NEW: Yamada Straw Nursing | $1.38 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10459&limit=100
+2026-09-06 14:57:01,523 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 14:57:01,600 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 14:57:01,605 INFO === Run finished ===

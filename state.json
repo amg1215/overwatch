@@ -180,6 +180,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29175&limit=100",
       "stock": "n/a"
     },
+    "8051": {
+      "name": "Yamada Straw Nursing",
+      "price": "$1.44",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8051&limit=100",
+      "stock": "n/a"
+    },
+    "10459": {
+      "name": "Yamada Straw Nursing",
+      "price": "$1.38",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10459&limit=100",
+      "stock": "n/a"
+    },
     "9227": {
       "name": "Zojirushi Vacuum Bot",
       "price": "$21.44",
@@ -3830,6 +3842,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T14:55:29",
-  "last_count": 638
+  "last_run": "2026-09-06T14:57:01",
+  "last_count": 640
 }
