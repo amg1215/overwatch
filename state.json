@@ -3288,6 +3288,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51292&limit=100",
       "stock": "n/a"
     },
+    "29396": {
+      "name": "Banpresto Overlord G",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29396&limit=100",
+      "stock": "n/a"
+    },
     "51427": {
       "name": "Banpresto Hatsune Mi",
       "price": "$23.99",
@@ -5210,6 +5216,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T20:02:32",
-  "last_count": 868
+  "last_run": "2026-09-06T20:03:31",
+  "last_count": 869
 }
