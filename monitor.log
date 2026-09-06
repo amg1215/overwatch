@@ -13079,3 +13079,10 @@
 2026-09-06 20:00:20,852 INFO === Run started ===
 2026-09-06 20:00:36,991 INFO No new products (865 tracked)
 2026-09-06 20:00:36,996 INFO === Run finished ===
+2026-09-06 20:01:12,595 INFO === Run started ===
+2026-09-06 20:01:30,993 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 20:01:30,993 INFO   NEW: Canmake Jewelry Eyes | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7949&limit=100
+2026-09-06 20:01:30,993 INFO   NEW: Canmake Powder Cheek | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19572&limit=100
+2026-09-06 20:01:33,873 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 20:01:34,146 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 20:01:34,151 INFO === Run finished ===
