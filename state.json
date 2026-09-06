@@ -3408,6 +3408,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29401&limit=100",
       "stock": "n/a"
     },
+    "29409": {
+      "name": "Banpresto BORUTO NAR",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29409&limit=100",
+      "stock": "n/a"
+    },
     "29400": {
       "name": "Banpresto ONE PIECE",
       "price": "$21.59",
@@ -3556,6 +3562,12 @@
       "name": "Nonzero Studio 1/100",
       "price": "$40.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20632&limit=100",
+      "stock": "n/a"
+    },
+    "29843": {
+      "name": "KONAMI Mahjong Fight",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29843&limit=100",
       "stock": "n/a"
     },
     "23807": {
@@ -5480,6 +5492,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T21:18:31",
-  "last_count": 913
+  "last_run": "2026-09-06T21:19:30",
+  "last_count": 915
 }

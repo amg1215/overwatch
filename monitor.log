@@ -13424,3 +13424,10 @@
 2026-09-06 21:18:31,617 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 21:18:31,891 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 21:18:31,897 INFO === Run finished ===
+2026-09-06 21:19:09,340 INFO === Run started ===
+2026-09-06 21:19:28,286 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 21:19:28,286 INFO   NEW: Banpresto BORUTO NAR | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29409&limit=100
+2026-09-06 21:19:28,286 INFO   NEW: KONAMI Mahjong Fight | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29843&limit=100
+2026-09-06 21:19:30,648 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 21:19:30,701 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 21:19:30,707 INFO === Run finished ===
