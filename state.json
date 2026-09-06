@@ -240,6 +240,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6911&limit=100",
       "stock": "n/a"
     },
+    "6921": {
+      "name": "Nakaya Honoca Bean B",
+      "price": "$1.25",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6921&limit=100",
+      "stock": "n/a"
+    },
     "6922": {
       "name": "Nakaya Honoca Bean B",
       "price": "$1.25",
@@ -846,6 +852,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11489&limit=100",
       "stock": "n/a"
     },
+    "9608": {
+      "name": "Carari Kids Dry Hair",
+      "price": "$9.29",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9608&limit=100",
+      "stock": "n/a"
+    },
     "10137": {
       "name": "Shiseido Collagen Fa",
       "price": "$5.39",
@@ -1036,6 +1048,12 @@
       "name": "Koji Spring Heart Li",
       "price": "$3.56",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4510&limit=100",
+      "stock": "n/a"
+    },
+    "23290": {
+      "name": "Kamio Japan SLO Hell",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23290&limit=100",
       "stock": "n/a"
     },
     "4619": {
@@ -2380,6 +2398,12 @@
       "name": "Mitsubishi Uni Ballp",
       "price": "$1.54",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8500&limit=100",
+      "stock": "n/a"
+    },
+    "1747": {
+      "name": "Uni Pen Refill 0.5-2",
+      "price": "$1.55",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1747&limit=100",
       "stock": "n/a"
     },
     "5033": {
@@ -3890,6 +3914,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T15:05:28",
-  "last_count": 648
+  "last_run": "2026-09-06T15:06:27",
+  "last_count": 652
 }

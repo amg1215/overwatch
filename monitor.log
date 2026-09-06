@@ -11754,3 +11754,12 @@
 2026-09-06 15:05:16,685 INFO === Run started ===
 2026-09-06 15:05:28,754 INFO No new products (648 tracked)
 2026-09-06 15:05:28,757 INFO === Run finished ===
+2026-09-06 15:06:13,703 INFO === Run started ===
+2026-09-06 15:06:25,820 INFO NEW/RESTOCKED products detected: 4
+2026-09-06 15:06:25,820 INFO   NEW: Nakaya Honoca Bean B | $1.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6921&limit=100
+2026-09-06 15:06:25,820 INFO   NEW: Carari Kids Dry Hair | $9.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9608&limit=100
+2026-09-06 15:06:25,820 INFO   NEW: Kamio Japan SLO Hell | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23290&limit=100
+2026-09-06 15:06:25,820 INFO   NEW: Uni Pen Refill 0.5-2 | $1.55 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1747&limit=100
+2026-09-06 15:06:27,170 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-06 15:06:27,295 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-06 15:06:27,301 INFO === Run finished ===
