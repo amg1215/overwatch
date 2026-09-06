@@ -12352,3 +12352,12 @@
 2026-09-06 17:13:28,448 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 17:13:28,547 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 17:13:28,553 INFO === Run finished ===
+2026-09-06 17:14:13,824 INFO === Run started ===
+2026-09-06 17:14:29,337 INFO NEW/RESTOCKED products detected: 4
+2026-09-06 17:14:29,338 INFO   NEW: Kobayashi Sawaday Fr | $3.40 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5404&limit=100
+2026-09-06 17:14:29,338 INFO   NEW: Kobayashi Indoor Aro | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14279&limit=100
+2026-09-06 17:14:29,338 INFO   NEW: Kobayashi Indoor Aro | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14278&limit=100
+2026-09-06 17:14:29,338 INFO   NEW: iPlanning SLO Hello | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30220&limit=100
+2026-09-06 17:14:31,255 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-06 17:14:31,489 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-06 17:14:31,494 INFO === Run finished ===
