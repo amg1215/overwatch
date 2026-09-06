@@ -1344,6 +1344,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12034&limit=100",
       "stock": "n/a"
     },
+    "2520": {
+      "name": "Kokando Byurakku Con",
+      "price": "$9.85",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2520&limit=100",
+      "stock": "n/a"
+    },
     "8839": {
       "name": "Ashisen Labo. Corn A",
       "price": "$3.23",
@@ -2008,6 +2014,12 @@
       "name": "Kao Curel Conditione",
       "price": "$8.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4996&limit=100",
+      "stock": "n/a"
+    },
+    "8160": {
+      "name": "Shiseido Serum Noir",
+      "price": "$21.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8160&limit=100",
       "stock": "n/a"
     },
     "4861": {
@@ -5231,9 +5243,15 @@
       "price": "$15.36",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3066&limit=100",
       "stock": "n/a"
+    },
+    "12100": {
+      "name": "Shiseido Collagen Or",
+      "price": "$24.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12100&limit=100",
+      "stock": "n/a"
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T20:14:31",
-  "last_count": 872
+  "last_run": "2026-09-06T20:15:32",
+  "last_count": 875
 }

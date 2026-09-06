@@ -13138,3 +13138,11 @@
 2026-09-06 20:14:13,556 INFO === Run started ===
 2026-09-06 20:14:31,190 INFO No new products (872 tracked)
 2026-09-06 20:14:31,195 INFO === Run finished ===
+2026-09-06 20:15:14,424 INFO === Run started ===
+2026-09-06 20:15:30,486 INFO NEW/RESTOCKED products detected: 3
+2026-09-06 20:15:30,486 INFO   NEW: Kokando Byurakku Con | $9.85 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2520&limit=100
+2026-09-06 20:15:30,486 INFO   NEW: Shiseido Serum Noir | $21.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8160&limit=100
+2026-09-06 20:15:30,486 INFO   NEW: Shiseido Collagen Or | $24.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12100&limit=100
+2026-09-06 20:15:32,647 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-06 20:15:32,921 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-06 20:15:32,927 INFO === Run finished ===
