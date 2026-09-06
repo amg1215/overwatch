@@ -13378,3 +13378,11 @@
 2026-09-06 21:09:10,721 INFO === Run started ===
 2026-09-06 21:09:29,661 INFO No new products (904 tracked)
 2026-09-06 21:09:29,666 INFO === Run finished ===
+2026-09-06 21:10:14,551 INFO === Run started ===
+2026-09-06 21:10:33,038 INFO NEW/RESTOCKED products detected: 3
+2026-09-06 21:10:33,039 INFO   NEW: Banpresto Hell Teach | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29398&limit=100
+2026-09-06 21:10:33,039 INFO   NEW: Banpresto ONE PIECE | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29530&limit=100
+2026-09-06 21:10:33,039 INFO   NEW: FuRyu Overlord BiCut | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29388&limit=100
+2026-09-06 21:10:35,648 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-06 21:10:35,917 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-06 21:10:35,923 INFO === Run finished ===

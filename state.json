@@ -3378,6 +3378,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51292&limit=100",
       "stock": "n/a"
     },
+    "29398": {
+      "name": "Banpresto Hell Teach",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29398&limit=100",
+      "stock": "n/a"
+    },
     "29405": {
       "name": "Banpresto Dragon Bal",
       "price": "$21.59",
@@ -3406,6 +3412,12 @@
       "name": "Banpresto Overlord G",
       "price": "$23.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29396&limit=100",
+      "stock": "n/a"
+    },
+    "29530": {
+      "name": "Banpresto ONE PIECE",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29530&limit=100",
       "stock": "n/a"
     },
     "51427": {
@@ -3490,6 +3502,12 @@
       "name": "FuRyu Touhou Project",
       "price": "$21.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30309&limit=100",
+      "stock": "n/a"
+    },
+    "29388": {
+      "name": "FuRyu Overlord BiCut",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29388&limit=100",
       "stock": "n/a"
     },
     "29389": {
@@ -5426,6 +5444,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T21:09:29",
-  "last_count": 904
+  "last_run": "2026-09-06T21:10:35",
+  "last_count": 907
 }
