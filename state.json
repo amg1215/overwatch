@@ -570,6 +570,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10798&limit=100",
       "stock": "n/a"
     },
+    "10043": {
+      "name": "Nakaya Square Draini",
+      "price": "$1.35",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10043&limit=100",
+      "stock": "n/a"
+    },
     "7390": {
       "name": "Nakaya Microwaveable",
       "price": "$1.60",
@@ -916,6 +922,12 @@
       "name": "Kokubo Washing Machi",
       "price": "$5.41",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3982&limit=100",
+      "stock": "n/a"
+    },
+    "9935": {
+      "name": "Seiwa-pro Kitchen Sp",
+      "price": "$1.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9935&limit=100",
       "stock": "n/a"
     },
     "9451": {
@@ -5162,6 +5174,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T19:52:30",
-  "last_count": 860
+  "last_run": "2026-09-06T19:53:27",
+  "last_count": 862
 }

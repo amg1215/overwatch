@@ -13045,3 +13045,10 @@
 2026-09-06 19:52:12,306 INFO === Run started ===
 2026-09-06 19:52:30,407 INFO No new products (860 tracked)
 2026-09-06 19:52:30,412 INFO === Run finished ===
+2026-09-06 19:53:09,692 INFO === Run started ===
+2026-09-06 19:53:25,854 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 19:53:25,854 INFO   NEW: Nakaya Square Draini | $1.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10043&limit=100
+2026-09-06 19:53:25,854 INFO   NEW: Seiwa-pro Kitchen Sp | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9935&limit=100
+2026-09-06 19:53:27,215 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:53:27,393 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:53:27,399 INFO === Run finished ===
