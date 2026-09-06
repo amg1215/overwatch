@@ -2154,12 +2154,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50970&limit=100",
       "stock": "n/a"
     },
-    "51158": {
-      "name": "Banpresto Dragon Bal",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51158&limit=100",
-      "stock": "n/a"
-    },
     "50683": {
       "name": "Banpresto NARUTO Shi",
       "price": "$21.59",
@@ -3758,6 +3752,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T14:11:25",
-  "last_count": 626
+  "last_run": "2026-09-06T14:12:23",
+  "last_count": 625
 }
