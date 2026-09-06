@@ -1620,10 +1620,22 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7480&limit=100",
       "stock": "n/a"
     },
+    "7947": {
+      "name": "Canmake Melting Gel",
+      "price": "$7.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7947&limit=100",
+      "stock": "n/a"
+    },
     "6572": {
       "name": "Canmake Melting gel",
       "price": "$7.79",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6572&limit=100",
+      "stock": "n/a"
+    },
+    "19576": {
+      "name": "CANMAKE Perfect Mult",
+      "price": "$8.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19576&limit=100",
       "stock": "n/a"
     },
     "10692": {
@@ -5150,6 +5162,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T19:50:36",
-  "last_count": 858
+  "last_run": "2026-09-06T19:51:29",
+  "last_count": 860
 }

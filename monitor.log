@@ -13035,3 +13035,10 @@
 2026-09-06 19:50:36,427 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-06 19:50:36,592 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-06 19:50:36,598 INFO === Run finished ===
+2026-09-06 19:51:10,198 INFO === Run started ===
+2026-09-06 19:51:26,944 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 19:51:26,944 INFO   NEW: Canmake Melting Gel | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7947&limit=100
+2026-09-06 19:51:26,944 INFO   NEW: CANMAKE Perfect Mult | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19576&limit=100
+2026-09-06 19:51:29,409 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:51:29,532 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:51:29,538 INFO === Run finished ===
