@@ -12850,3 +12850,10 @@
 2026-09-06 19:17:31,781 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 19:17:32,038 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 19:17:32,044 INFO === Run finished ===
+2026-09-06 19:18:12,357 INFO === Run started ===
+2026-09-06 19:18:29,163 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 19:18:29,163 INFO   NEW: SLO Keroppi Photo St | $5.26 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19507&limit=100
+2026-09-06 19:18:29,163 INFO   NEW: BANDAI Mobile Suit G | $3.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29877&limit=100
+2026-09-06 19:18:32,275 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:18:32,714 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 19:18:32,721 INFO === Run finished ===

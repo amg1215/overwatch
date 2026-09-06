@@ -2754,6 +2754,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19504&limit=100",
       "stock": "n/a"
     },
+    "19507": {
+      "name": "SLO Keroppi Photo St",
+      "price": "$5.26",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19507&limit=100",
+      "stock": "n/a"
+    },
     "19508": {
       "name": "SLO Baker Duck Photo",
       "price": "$5.29",
@@ -4392,6 +4398,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29866&limit=100",
       "stock": "n/a"
     },
+    "29877": {
+      "name": "BANDAI Mobile Suit G",
+      "price": "$3.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29877&limit=100",
+      "stock": "n/a"
+    },
     "30000": {
       "name": "Ensky Demon Slayer C",
       "price": "$1.89",
@@ -4916,6 +4928,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T19:17:32",
-  "last_count": 819
+  "last_run": "2026-09-06T19:18:32",
+  "last_count": 821
 }
