@@ -12387,3 +12387,12 @@
 2026-09-06 17:19:10,816 INFO === Run started ===
 2026-09-06 17:19:25,539 INFO No new products (759 tracked)
 2026-09-06 17:19:25,543 INFO === Run finished ===
+2026-09-06 17:20:15,298 INFO === Run started ===
+2026-09-06 17:20:29,760 INFO NEW/RESTOCKED products detected: 4
+2026-09-06 17:20:29,760 INFO   NEW: iPlanning SLO Hello | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30225&limit=100
+2026-09-06 17:20:29,760 INFO   NEW: Kamio Japan SLO Kuro | $1.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24695&limit=100
+2026-09-06 17:20:29,760 INFO   NEW: LEMON Pencil Caps Er | $1.38 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7427&limit=100
+2026-09-06 17:20:29,760 INFO   NEW: Pillbox Onaka Puerar | $14.21 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9877&limit=100
+2026-09-06 17:20:31,201 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-06 17:20:31,310 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-06 17:20:31,315 INFO === Run finished ===

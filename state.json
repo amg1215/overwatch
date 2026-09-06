@@ -690,6 +690,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30223&limit=100",
       "stock": "n/a"
     },
+    "30225": {
+      "name": "iPlanning SLO Hello",
+      "price": "$4.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30225&limit=100",
+      "stock": "n/a"
+    },
     "30226": {
       "name": "iPlanning SLO Hello",
       "price": "$4.79",
@@ -2892,6 +2898,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20334&limit=100",
       "stock": "n/a"
     },
+    "24695": {
+      "name": "Kamio Japan SLO Kuro",
+      "price": "$1.89",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24695&limit=100",
+      "stock": "n/a"
+    },
     "24406": {
       "name": "Kamio Japan SLO Hell",
       "price": "$5.99",
@@ -3310,6 +3322,12 @@
       "name": "Dragonfly Eraser PE0",
       "price": "$0.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8491&limit=100",
+      "stock": "n/a"
+    },
+    "7427": {
+      "name": "LEMON Pencil Caps Er",
+      "price": "$1.38",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7427&limit=100",
       "stock": "n/a"
     },
     "8488": {
@@ -4553,9 +4571,15 @@
       "price": "$4.22",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9875&limit=100",
       "stock": "n/a"
+    },
+    "9877": {
+      "name": "Pillbox Onaka Puerar",
+      "price": "$14.21",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9877&limit=100",
+      "stock": "n/a"
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T17:19:25",
-  "last_count": 759
+  "last_run": "2026-09-06T17:20:31",
+  "last_count": 763
 }
