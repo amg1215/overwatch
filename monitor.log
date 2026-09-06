@@ -12165,3 +12165,9 @@
 2026-09-06 16:37:12,269 INFO === Run started ===
 2026-09-06 16:37:27,220 INFO No new products (709 tracked)
 2026-09-06 16:37:27,224 INFO === Run finished ===
+2026-09-06 16:38:15,547 INFO === Run started ===
+2026-09-06 16:38:29,498 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 16:38:29,498 INFO   NEW: Bourbon Chewy & Smoo | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30049&limit=100
+2026-09-06 16:38:30,695 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 16:38:30,992 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 16:38:30,998 INFO === Run finished ===
