@@ -12471,3 +12471,9 @@
 2026-09-06 17:35:03,776 INFO Email sent: Ebisu: 4 new/restocked items!
 2026-09-06 17:35:03,909 INFO ntfy push sent: Ebisu: 4 new/restocked items!
 2026-09-06 17:35:03,915 INFO === Run finished ===
+2026-09-06 17:36:11,065 INFO === Run started ===
+2026-09-06 17:36:25,156 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 17:36:25,156 INFO   NEW: Sanrio Mug Cinnamoro | $8.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1166&limit=100
+2026-09-06 17:36:26,522 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 17:36:26,621 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 17:36:26,627 INFO === Run finished ===

@@ -96,6 +96,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1165&limit=100",
       "stock": "n/a"
     },
+    "1166": {
+      "name": "Sanrio Mug Cinnamoro",
+      "price": "$8.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1166&limit=100",
+      "stock": "n/a"
+    },
     "1167": {
       "name": "Sanrio Mug Kuromi 1p",
       "price": "$8.00",
@@ -4694,6 +4700,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T17:35:03",
-  "last_count": 782
+  "last_run": "2026-09-06T17:36:26",
+  "last_count": 783
 }
