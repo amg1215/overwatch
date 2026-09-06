@@ -12449,3 +12449,10 @@
 2026-09-06 17:30:35,334 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-06 17:30:35,511 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-06 17:30:35,516 INFO === Run finished ===
+2026-09-06 17:31:11,954 INFO === Run started ===
+2026-09-06 17:31:27,781 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 17:31:27,782 INFO   NEW: San-Ei Plush Doll Pi | $38.85 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3219&limit=100
+2026-09-06 17:31:27,782 INFO   NEW: San-Ei Plush Doll Ki | $24.04 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3220&limit=100
+2026-09-06 17:31:29,682 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 17:31:29,946 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 17:31:29,951 INFO === Run finished ===
