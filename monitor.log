@@ -13308,3 +13308,10 @@
 2026-09-06 20:54:11,114 INFO === Run started ===
 2026-09-06 20:54:26,953 INFO No new products (892 tracked)
 2026-09-06 20:54:26,958 INFO === Run finished ===
+2026-09-06 20:55:12,441 INFO === Run started ===
+2026-09-06 20:55:29,505 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 20:55:29,505 INFO   NEW: Maruki Deco Bento Mo | $1.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7545&limit=100
+2026-09-06 20:55:29,505 INFO   NEW: DHC Vitamin C Tablet | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11093&limit=100
+2026-09-06 20:55:32,385 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 20:55:32,437 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 20:55:32,443 INFO === Run finished ===
