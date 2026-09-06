@@ -12240,3 +12240,11 @@
 2026-09-06 16:53:09,800 INFO === Run started ===
 2026-09-06 16:53:23,618 INFO No new products (722 tracked)
 2026-09-06 16:53:23,623 INFO === Run finished ===
+2026-09-06 16:54:13,417 INFO === Run started ===
+2026-09-06 16:54:27,017 INFO NEW/RESTOCKED products detected: 3
+2026-09-06 16:54:27,017 INFO   NEW: SLO Pochacco Bangs C | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19515&limit=100
+2026-09-06 16:54:27,017 INFO   NEW: iPlanning SLO Hello | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30222&limit=100
+2026-09-06 16:54:27,017 INFO   NEW: SLO Baker Duck Photo | $5.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19508&limit=100
+2026-09-06 16:54:29,084 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-06 16:54:29,260 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-06 16:54:29,265 INFO === Run finished ===
