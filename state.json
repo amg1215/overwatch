@@ -696,6 +696,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30223&limit=100",
       "stock": "n/a"
     },
+    "30224": {
+      "name": "iPlanning SLO Hello",
+      "price": "$4.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30224&limit=100",
+      "stock": "n/a"
+    },
     "30225": {
       "name": "iPlanning SLO Hello",
       "price": "$4.79",
@@ -1648,6 +1654,12 @@
       "name": "Kao Curel Conditione",
       "price": "$8.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4996&limit=100",
+      "stock": "n/a"
+    },
+    "4861": {
+      "name": "Rohto Mentholatum Sc",
+      "price": "$15.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4861&limit=100",
       "stock": "n/a"
     },
     "23902": {
@@ -4598,6 +4610,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T17:23:27",
-  "last_count": 766
+  "last_run": "2026-09-06T17:24:27",
+  "last_count": 768
 }

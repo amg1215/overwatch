@@ -12410,3 +12410,10 @@
 2026-09-06 17:23:12,708 INFO === Run started ===
 2026-09-06 17:23:27,436 INFO No new products (766 tracked)
 2026-09-06 17:23:27,440 INFO === Run finished ===
+2026-09-06 17:24:11,998 INFO === Run started ===
+2026-09-06 17:24:25,913 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 17:24:25,913 INFO   NEW: iPlanning SLO Hello | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30224&limit=100
+2026-09-06 17:24:25,913 INFO   NEW: Rohto Mentholatum Sc | $15.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4861&limit=100
+2026-09-06 17:24:27,381 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 17:24:27,452 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 17:24:27,458 INFO === Run finished ===
