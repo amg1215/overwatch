@@ -13362,3 +13362,10 @@
 2026-09-06 21:05:13,889 INFO === Run started ===
 2026-09-06 21:05:32,082 INFO No new products (901 tracked)
 2026-09-06 21:05:32,087 INFO === Run finished ===
+2026-09-06 21:06:12,608 INFO === Run started ===
+2026-09-06 21:06:30,920 INFO NEW/RESTOCKED products detected: 2
+2026-09-06 21:06:30,920 INFO   NEW: Banpresto Puella Mag | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29531&limit=100
+2026-09-06 21:06:30,920 INFO   NEW: FuRyu Touhou Project | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30309&limit=100
+2026-09-06 21:06:32,670 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-06 21:06:32,783 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-06 21:06:32,802 INFO === Run finished ===

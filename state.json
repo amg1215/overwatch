@@ -3390,6 +3390,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29407&limit=100",
       "stock": "n/a"
     },
+    "29531": {
+      "name": "Banpresto Puella Mag",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29531&limit=100",
+      "stock": "n/a"
+    },
     "29396": {
       "name": "Banpresto Overlord G",
       "price": "$23.99",
@@ -3472,6 +3478,12 @@
       "name": "FuRyu Bad Girl Mucut",
       "price": "$23.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50684&limit=100",
+      "stock": "n/a"
+    },
+    "30309": {
+      "name": "FuRyu Touhou Project",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30309&limit=100",
       "stock": "n/a"
     },
     "29389": {
@@ -5408,6 +5420,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T21:05:32",
-  "last_count": 901
+  "last_run": "2026-09-06T21:06:32",
+  "last_count": 903
 }
