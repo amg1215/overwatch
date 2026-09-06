@@ -540,6 +540,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7591&limit=100",
       "stock": "n/a"
     },
+    "7697": {
+      "name": "ECHO Soft Cutting Bo",
+      "price": "$1.65",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7697&limit=100",
+      "stock": "n/a"
+    },
     "8048": {
       "name": "Bamboo Spatula",
       "price": "$0.98",
@@ -4808,6 +4814,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-06T18:49:26",
-  "last_count": 801
+  "last_run": "2026-09-06T18:50:31",
+  "last_count": 802
 }

@@ -12724,3 +12724,9 @@
 2026-09-06 18:49:10,042 INFO === Run started ===
 2026-09-06 18:49:26,307 INFO No new products (801 tracked)
 2026-09-06 18:49:26,311 INFO === Run finished ===
+2026-09-06 18:50:13,990 INFO === Run started ===
+2026-09-06 18:50:30,339 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 18:50:30,339 INFO   NEW: ECHO Soft Cutting Bo | $1.65 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7697&limit=100
+2026-09-06 18:50:31,746 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 18:50:31,853 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 18:50:31,858 INFO === Run finished ===
