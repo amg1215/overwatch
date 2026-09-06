@@ -12080,3 +12080,9 @@
 2026-09-06 16:19:31,283 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-06 16:19:31,715 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-06 16:19:31,719 INFO === Run finished ===
+2026-09-06 16:20:16,740 INFO === Run started ===
+2026-09-06 16:20:30,217 INFO NEW/RESTOCKED products detected: 1
+2026-09-06 16:20:30,217 INFO   NEW: Showa Note 2026 New | $1.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24381&limit=100
+2026-09-06 16:20:32,395 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-06 16:20:32,652 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-06 16:20:32,656 INFO === Run finished ===
