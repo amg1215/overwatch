@@ -14235,3 +14235,9 @@
 2026-09-07 13:44:12,672 INFO === Run started ===
 2026-09-07 13:44:30,944 INFO No new products (919 tracked)
 2026-09-07 13:44:30,949 INFO === Run finished ===
+2026-09-07 13:45:18,347 INFO === Run started ===
+2026-09-07 13:45:34,917 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 13:45:34,917 INFO   NEW: Banpresto Demon Slay | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29565&limit=100
+2026-09-07 13:45:38,782 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 13:45:39,121 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 13:45:39,126 INFO === Run finished ===
