@@ -14574,3 +14574,10 @@
 2026-09-07 15:13:12,687 INFO === Run started ===
 2026-09-07 15:13:30,673 INFO No new products (941 tracked)
 2026-09-07 15:13:30,678 INFO === Run finished ===
+2026-09-07 15:14:17,449 INFO === Run started ===
+2026-09-07 15:14:33,479 INFO NEW/RESTOCKED products detected: 2
+2026-09-07 15:14:33,479 INFO   NEW: Maruki Cafe Siesta W | $1.76 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7542&limit=100
+2026-09-07 15:14:33,479 INFO   NEW: Maruki Rolling Pin 3 | $1.50 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8036&limit=100
+2026-09-07 15:14:34,838 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-07 15:14:34,932 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-07 15:14:34,937 INFO === Run finished ===
