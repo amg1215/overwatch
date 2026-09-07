@@ -3378,12 +3378,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51440&limit=100",
       "stock": "n/a"
     },
-    "51439": {
-      "name": "Taito Hatsune Miku T",
-      "price": "$27.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51439&limit=100",
-      "stock": "n/a"
-    },
     "51292": {
       "name": "Taito Wandering Witc",
       "price": "$21.59",
@@ -5546,6 +5540,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T14:14:34",
-  "last_count": 924
+  "last_run": "2026-09-07T14:15:35",
+  "last_count": 923
 }
