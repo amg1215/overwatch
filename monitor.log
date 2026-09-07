@@ -16217,3 +16217,9 @@
 2026-09-07 23:02:34,322 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 23:02:34,568 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 23:02:34,574 INFO === Run finished ===
+2026-09-07 23:03:12,151 INFO === Run started ===
+2026-09-07 23:03:33,492 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 23:03:33,492 INFO   NEW: Laundrin Room Diffus | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15444&limit=100
+2026-09-07 23:03:35,084 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 23:03:35,286 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 23:03:35,291 INFO === Run finished ===
