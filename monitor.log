@@ -14301,3 +14301,9 @@
 2026-09-07 13:59:11,858 INFO === Run started ===
 2026-09-07 13:59:36,283 INFO No new products (926 tracked)
 2026-09-07 13:59:36,288 INFO === Run finished ===
+2026-09-07 14:00:21,100 INFO === Run started ===
+2026-09-07 14:00:38,616 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 14:00:38,616 INFO   NEW: Suntory Big Zero Pep | $1.56 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25073&limit=100
+2026-09-07 14:00:41,314 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 14:00:41,547 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 14:00:41,553 INFO === Run finished ===
