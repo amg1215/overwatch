@@ -14277,3 +14277,9 @@
 2026-09-07 13:53:40,504 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 13:53:40,688 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 13:53:40,692 INFO === Run finished ===
+2026-09-07 13:54:16,560 INFO === Run started ===
+2026-09-07 13:54:35,196 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 13:54:35,197 INFO   NEW: Banpresto Blue Archi | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29564&limit=100
+2026-09-07 13:54:37,265 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 13:54:37,518 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 13:54:37,525 INFO === Run finished ===
