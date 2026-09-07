@@ -14440,3 +14440,10 @@
 2026-09-07 14:36:13,157 INFO === Run started ===
 2026-09-07 14:36:31,959 INFO No new products (932 tracked)
 2026-09-07 14:36:31,964 INFO === Run finished ===
+2026-09-07 14:37:11,904 INFO === Run started ===
+2026-09-07 14:37:50,465 INFO NEW/RESTOCKED products detected: 2
+2026-09-07 14:37:50,465 INFO   NEW: Taito Strawberry 100 | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50444&limit=100
+2026-09-07 14:37:50,465 INFO   NEW: Taito Hatsune Miku T | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51439&limit=100
+2026-09-07 14:37:52,296 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-07 14:37:52,583 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-07 14:37:52,589 INFO === Run finished ===
