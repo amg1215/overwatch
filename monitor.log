@@ -15629,3 +15629,9 @@
 2026-09-07 20:19:33,440 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 20:19:33,957 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 20:19:33,964 INFO === Run finished ===
+2026-09-07 20:20:14,642 INFO === Run started ===
+2026-09-07 20:20:31,552 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 20:20:31,552 INFO   NEW: Cure Exfoliating Gel | $22.01 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10149&limit=100
+2026-09-07 20:20:32,956 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 20:20:33,055 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 20:20:33,061 INFO === Run finished ===
