@@ -14271,3 +14271,9 @@
 2026-09-07 13:52:11,705 INFO === Run started ===
 2026-09-07 13:52:28,412 INFO No new products (923 tracked)
 2026-09-07 13:52:28,417 INFO === Run finished ===
+2026-09-07 13:53:20,077 INFO === Run started ===
+2026-09-07 13:53:36,506 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 13:53:36,506 INFO   NEW: Banpresto Re ZERO St | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29410&limit=100
+2026-09-07 13:53:40,504 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 13:53:40,688 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 13:53:40,692 INFO === Run finished ===
