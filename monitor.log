@@ -14360,3 +14360,12 @@
 2026-09-07 14:16:48,195 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-07 14:16:48,408 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-07 14:16:48,412 INFO === Run finished ===
+2026-09-07 14:17:10,699 INFO === Run started ===
+2026-09-07 14:17:28,134 INFO NEW/RESTOCKED products detected: 4
+2026-09-07 14:17:28,134 INFO   NEW: EAKI SPY×FAMILY Keyc | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31370&limit=100
+2026-09-07 14:17:28,134 INFO   NEW: EAKI Bocchi the Rock | $2.34 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31391&limit=100
+2026-09-07 14:17:28,134 INFO   NEW: EAKI Jujutsu Kaisen | $2.34 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31388&limit=100
+2026-09-07 14:17:28,134 INFO   NEW: Sega Wandering Witch | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29529&limit=100
+2026-09-07 14:17:29,610 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-07 14:17:29,891 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-07 14:17:29,897 INFO === Run finished ===
