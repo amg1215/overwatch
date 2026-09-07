@@ -1650,6 +1650,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29445&limit=100",
       "stock": "n/a"
     },
+    "10010": {
+      "name": "Mandom GATSBY Men's",
+      "price": "$2.70",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10010&limit=100",
+      "stock": "n/a"
+    },
     "25576": {
       "name": "MilleFée Juicy Glow",
       "price": "$10.78",
@@ -5930,6 +5936,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T20:20:33",
-  "last_count": 988
+  "last_run": "2026-09-07T20:21:33",
+  "last_count": 989
 }
