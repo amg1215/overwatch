@@ -3510,6 +3510,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29832&limit=100",
       "stock": "n/a"
     },
+    "29831": {
+      "name": "Banpresto Dragon Bal",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29831&limit=100",
+      "stock": "n/a"
+    },
     "29407": {
       "name": "Banpresto My Hero Ac",
       "price": "$23.99",
@@ -3628,6 +3634,12 @@
       "name": "Sega Re ZERO Startin",
       "price": "$21.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29394&limit=100",
+      "stock": "n/a"
+    },
+    "29395": {
+      "name": "Sega Re ZERO Startin",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29395&limit=100",
       "stock": "n/a"
     },
     "29392": {
@@ -5660,6 +5672,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T15:29:28",
-  "last_count": 943
+  "last_run": "2026-09-07T15:30:45",
+  "last_count": 945
 }

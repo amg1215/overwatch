@@ -14636,3 +14636,10 @@
 2026-09-07 15:29:11,118 INFO === Run started ===
 2026-09-07 15:29:28,141 INFO No new products (943 tracked)
 2026-09-07 15:29:28,146 INFO === Run finished ===
+2026-09-07 15:30:24,312 INFO === Run started ===
+2026-09-07 15:30:42,229 INFO NEW/RESTOCKED products detected: 2
+2026-09-07 15:30:42,230 INFO   NEW: Banpresto Dragon Bal | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29831&limit=100
+2026-09-07 15:30:42,230 INFO   NEW: Sega Re ZERO Startin | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29395&limit=100
+2026-09-07 15:30:45,277 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-07 15:30:45,471 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-07 15:30:45,475 INFO === Run finished ===
