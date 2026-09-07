@@ -14421,3 +14421,10 @@
 2026-09-07 14:31:48,979 INFO === Run started ===
 2026-09-07 14:32:06,435 INFO No new products (929 tracked)
 2026-09-07 14:32:06,440 INFO === Run finished ===
+2026-09-07 14:33:14,085 INFO === Run started ===
+2026-09-07 14:33:32,729 INFO NEW/RESTOCKED products detected: 2
+2026-09-07 14:33:32,729 INFO   NEW: Banpresto NARUTO 72 | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29834&limit=100
+2026-09-07 14:33:32,729 INFO   NEW: Banpresto One Piece | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29837&limit=100
+2026-09-07 14:33:34,715 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-07 14:33:34,951 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-07 14:33:34,958 INFO === Run finished ===
