@@ -15051,3 +15051,9 @@
 2026-09-07 17:35:12,360 INFO === Run started ===
 2026-09-07 17:35:29,767 INFO No new products (954 tracked)
 2026-09-07 17:35:29,772 INFO === Run finished ===
+2026-09-07 17:36:11,237 INFO === Run started ===
+2026-09-07 17:36:28,079 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 17:36:28,079 INFO   NEW: BANDAI Chiikawa Char | $1.55 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29963&limit=100
+2026-09-07 17:36:29,337 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 17:36:29,420 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 17:36:29,426 INFO === Run finished ===
