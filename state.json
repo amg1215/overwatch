@@ -2226,6 +2226,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11250&limit=100",
       "stock": "n/a"
     },
+    "6527": {
+      "name": "Vicrea &honey Deep M",
+      "price": "$14.94",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6527&limit=100",
+      "stock": "n/a"
+    },
     "13508": {
       "name": "Vicrea &honey Melty",
       "price": "$10.79",
@@ -5942,6 +5948,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T21:11:28",
-  "last_count": 990
+  "last_run": "2026-09-07T21:12:38",
+  "last_count": 991
 }

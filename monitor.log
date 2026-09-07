@@ -15788,3 +15788,9 @@
 2026-09-07 21:11:10,163 INFO === Run started ===
 2026-09-07 21:11:28,598 INFO No new products (990 tracked)
 2026-09-07 21:11:28,603 INFO === Run finished ===
+2026-09-07 21:12:17,502 INFO === Run started ===
+2026-09-07 21:12:36,750 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 21:12:36,750 INFO   NEW: Vicrea &honey Deep M | $14.94 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6527&limit=100
+2026-09-07 21:12:38,637 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 21:12:38,947 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 21:12:38,953 INFO === Run finished ===
