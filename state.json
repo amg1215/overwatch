@@ -1158,6 +1158,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27138&limit=100",
       "stock": "n/a"
     },
+    "29935": {
+      "name": "SMISKI Incredible Li",
+      "price": "$10.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29935&limit=100",
+      "stock": "n/a"
+    },
     "6886": {
       "name": "LEC Cloud-shaped Spo",
       "price": "$1.12",
@@ -1900,6 +1906,12 @@
       "name": "Kissme Volume & Curl",
       "price": "$10.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11116&limit=100",
+      "stock": "n/a"
+    },
+    "28939": {
+      "name": "Kissme Volume UP Mas",
+      "price": "$10.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28939&limit=100",
       "stock": "n/a"
     },
     "4510": {
@@ -5960,6 +5972,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T21:36:32",
-  "last_count": 993
+  "last_run": "2026-09-07T21:37:27",
+  "last_count": 995
 }

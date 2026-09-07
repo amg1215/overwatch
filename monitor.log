@@ -15875,3 +15875,10 @@
 2026-09-07 21:36:31,845 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 21:36:32,125 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 21:36:32,132 INFO === Run finished ===
+2026-09-07 21:37:09,146 INFO === Run started ===
+2026-09-07 21:37:26,306 INFO NEW/RESTOCKED products detected: 2
+2026-09-07 21:37:26,307 INFO   NEW: SMISKI Incredible Li | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29935&limit=100
+2026-09-07 21:37:26,307 INFO   NEW: Kissme Volume UP Mas | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28939&limit=100
+2026-09-07 21:37:27,552 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-07 21:37:27,604 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-07 21:37:27,610 INFO === Run finished ===
