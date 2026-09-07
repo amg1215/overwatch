@@ -14199,3 +14199,9 @@
 2026-09-07 13:37:11,335 INFO === Run started ===
 2026-09-07 13:37:28,588 INFO No new products (915 tracked)
 2026-09-07 13:37:28,591 INFO === Run finished ===
+2026-09-07 13:38:12,409 INFO === Run started ===
+2026-09-07 13:38:30,396 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 13:38:30,396 INFO   NEW: Taito The Angel Next | $23.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29417&limit=100
+2026-09-07 13:38:31,775 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 13:38:31,833 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 13:38:31,842 INFO === Run finished ===
