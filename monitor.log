@@ -14262,3 +14262,9 @@
 2026-09-07 13:50:38,953 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 13:50:39,222 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 13:50:39,228 INFO === Run finished ===
+2026-09-07 13:51:18,336 INFO === Run started ===
+2026-09-07 13:51:35,401 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 13:51:35,401 INFO   NEW: Banpresto Mega Man B | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29566&limit=100
+2026-09-07 13:51:37,435 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 13:51:37,693 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 13:51:37,725 INFO === Run finished ===
