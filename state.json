@@ -750,6 +750,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15170&limit=100",
       "stock": "n/a"
     },
+    "19455": {
+      "name": "SLO Hello Kitty Bow",
+      "price": "$5.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19455&limit=100",
+      "stock": "n/a"
+    },
     "19456": {
       "name": "SLO My Melody Bow Ba",
       "price": "$5.69",
@@ -5498,6 +5504,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T13:40:33",
-  "last_count": 916
+  "last_run": "2026-09-07T13:41:47",
+  "last_count": 917
 }
