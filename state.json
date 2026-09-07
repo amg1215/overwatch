@@ -1740,6 +1740,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4208&limit=100",
       "stock": "n/a"
     },
+    "10829": {
+      "name": "Kao Nivea Gel Sunscr",
+      "price": "$7.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10829&limit=100",
+      "stock": "n/a"
+    },
     "18891": {
       "name": "Kao Biore Sunscreen",
       "price": "$7.79",
@@ -5906,6 +5912,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T20:16:36",
-  "last_count": 984
+  "last_run": "2026-09-07T20:17:30",
+  "last_count": 985
 }
