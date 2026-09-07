@@ -2244,10 +2244,28 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14400&limit=100",
       "stock": "n/a"
     },
+    "22119": {
+      "name": "FIANCEE  Body Mist W",
+      "price": "$11.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22119&limit=100",
+      "stock": "n/a"
+    },
+    "22120": {
+      "name": "FIANCEE  Body Mist W",
+      "price": "$11.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22120&limit=100",
+      "stock": "n/a"
+    },
     "22121": {
       "name": "FIANCEE  Body Mist F",
       "price": "$11.39",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22121&limit=100",
+      "stock": "n/a"
+    },
+    "22122": {
+      "name": "FIANCEE Body Mist Wh",
+      "price": "$11.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22122&limit=100",
       "stock": "n/a"
     },
     "9808": {
@@ -5786,6 +5804,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T19:06:30",
-  "last_count": 964
+  "last_run": "2026-09-07T19:07:30",
+  "last_count": 967
 }

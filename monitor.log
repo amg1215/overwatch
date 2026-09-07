@@ -15352,3 +15352,11 @@
 2026-09-07 19:06:13,290 INFO === Run started ===
 2026-09-07 19:06:30,817 INFO No new products (964 tracked)
 2026-09-07 19:06:30,822 INFO === Run finished ===
+2026-09-07 19:07:10,221 INFO === Run started ===
+2026-09-07 19:07:28,721 INFO NEW/RESTOCKED products detected: 3
+2026-09-07 19:07:28,721 INFO   NEW: FIANCEE  Body Mist W | $11.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22119&limit=100
+2026-09-07 19:07:28,721 INFO   NEW: FIANCEE  Body Mist W | $11.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22120&limit=100
+2026-09-07 19:07:28,721 INFO   NEW: FIANCEE Body Mist Wh | $11.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22122&limit=100
+2026-09-07 19:07:30,361 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-07 19:07:30,498 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-07 19:07:30,504 INFO === Run finished ===
