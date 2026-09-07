@@ -15569,3 +15569,9 @@
 2026-09-07 20:06:10,740 INFO === Run started ===
 2026-09-07 20:06:28,069 INFO No new products (980 tracked)
 2026-09-07 20:06:28,075 INFO === Run finished ===
+2026-09-07 20:07:12,313 INFO === Run started ===
+2026-09-07 20:07:32,077 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 20:07:32,077 INFO   NEW: P&G Car Fragrance Di | $3.96 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21288&limit=100
+2026-09-07 20:07:33,929 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 20:07:34,359 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 20:07:34,429 INFO === Run finished ===
