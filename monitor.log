@@ -14390,3 +14390,10 @@
 2026-09-07 14:22:36,960 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 14:22:37,226 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 14:22:37,233 INFO === Run finished ===
+2026-09-07 14:23:09,125 INFO === Run started ===
+2026-09-07 14:23:25,197 INFO NEW/RESTOCKED products detected: 2
+2026-09-07 14:23:25,197 INFO   NEW: Banpresto Hell Teach | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29399&limit=100
+2026-09-07 14:23:25,197 INFO   NEW: Sega NEEDY GIRL OVER | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29393&limit=100
+2026-09-07 14:23:26,807 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-07 14:23:26,856 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-07 14:23:26,861 INFO === Run finished ===
