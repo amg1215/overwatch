@@ -16089,3 +16089,9 @@
 2026-09-07 22:35:14,585 INFO === Run started ===
 2026-09-07 22:35:35,906 INFO No new products (1007 tracked)
 2026-09-07 22:35:35,911 INFO === Run finished ===
+2026-09-07 22:36:13,760 INFO === Run started ===
+2026-09-07 22:36:32,805 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 22:36:32,805 INFO   NEW: Koikeya Potato Chips | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22188&limit=100
+2026-09-07 22:36:35,673 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 22:36:35,986 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 22:36:35,990 INFO === Run finished ===

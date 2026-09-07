@@ -5250,6 +5250,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24038&limit=100",
       "stock": "n/a"
     },
+    "22188": {
+      "name": "Koikeya Potato Chips",
+      "price": "$2.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22188&limit=100",
+      "stock": "n/a"
+    },
     "31587": {
       "name": "Bourbon Spicy Flavor",
       "price": "$2.19",
@@ -6044,6 +6050,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T22:35:35",
-  "last_count": 1007
+  "last_run": "2026-09-07T22:36:35",
+  "last_count": 1008
 }
