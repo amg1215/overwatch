@@ -14220,3 +14220,9 @@
 2026-09-07 13:41:47,833 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 13:41:47,884 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 13:41:47,890 INFO === Run finished ===
+2026-09-07 13:42:12,048 INFO === Run started ===
+2026-09-07 13:42:28,953 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 13:42:28,953 INFO   NEW: iPlanning SLO Hello | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30213&limit=100
+2026-09-07 13:42:30,386 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 13:42:30,445 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 13:42:30,451 INFO === Run finished ===

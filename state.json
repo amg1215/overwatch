@@ -1914,6 +1914,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2272&limit=100",
       "stock": "n/a"
     },
+    "30213": {
+      "name": "iPlanning SLO Hello",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30213&limit=100",
+      "stock": "n/a"
+    },
     "30214": {
       "name": "iPlanning SLO My Mel",
       "price": "$3.59",
@@ -5504,6 +5510,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T13:41:47",
-  "last_count": 917
+  "last_run": "2026-09-07T13:42:30",
+  "last_count": 918
 }
