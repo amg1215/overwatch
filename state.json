@@ -3516,12 +3516,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29831&limit=100",
       "stock": "n/a"
     },
-    "29407": {
-      "name": "Banpresto My Hero Ac",
-      "price": "$23.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29407&limit=100",
-      "stock": "n/a"
-    },
     "29531": {
       "name": "Banpresto Puella Mag",
       "price": "$23.99",
@@ -5678,6 +5672,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T16:25:36",
-  "last_count": 946
+  "last_run": "2026-09-07T16:26:32",
+  "last_count": 945
 }
