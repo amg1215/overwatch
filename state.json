@@ -474,6 +474,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8054&limit=100",
       "stock": "n/a"
     },
+    "7535": {
+      "name": "Maruki Chopsticks Wh",
+      "price": "$1.38",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7535&limit=100",
+      "stock": "n/a"
+    },
     "7536": {
       "name": "Maruki Bamboo Chopst",
       "price": "$1.44",
@@ -5642,6 +5648,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T15:06:31",
-  "last_count": 940
+  "last_run": "2026-09-07T15:07:34",
+  "last_count": 941
 }
