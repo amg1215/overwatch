@@ -15456,3 +15456,9 @@
 2026-09-07 19:37:10,440 INFO === Run started ===
 2026-09-07 19:37:29,314 INFO No new products (969 tracked)
 2026-09-07 19:37:29,319 INFO === Run finished ===
+2026-09-07 19:38:14,749 INFO === Run started ===
+2026-09-07 19:38:34,105 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 19:38:34,105 INFO   NEW: Kao Biore UV Perfect | $7.48 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8874&limit=100
+2026-09-07 19:38:35,851 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 19:38:36,200 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 19:38:36,207 INFO === Run finished ===
