@@ -15794,3 +15794,9 @@
 2026-09-07 21:12:38,637 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 21:12:38,947 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 21:12:38,953 INFO === Run finished ===
+2026-09-07 21:13:09,950 INFO === Run started ===
+2026-09-07 21:13:27,329 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 21:13:27,329 INFO   NEW: Vicrea &honey EX Nou | $15.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16681&limit=100
+2026-09-07 21:13:29,869 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 21:13:29,920 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 21:13:29,926 INFO === Run finished ===
