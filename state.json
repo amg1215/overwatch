@@ -1836,12 +1836,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17332&limit=100",
       "stock": "n/a"
     },
-    "17340": {
-      "name": "MilleFée My Kitty Ey",
-      "price": "$11.69",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17340&limit=100",
-      "stock": "n/a"
-    },
     "17300": {
       "name": "MilleFée Painting Ey",
       "price": "$16.22",
@@ -6026,6 +6020,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T22:20:39",
-  "last_count": 1004
+  "last_run": "2026-09-07T22:21:31",
+  "last_count": 1003
 }
