@@ -15477,3 +15477,10 @@
 2026-09-07 19:42:31,268 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 19:42:31,331 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 19:42:31,337 INFO === Run finished ===
+2026-09-07 19:43:11,260 INFO === Run started ===
+2026-09-07 19:43:29,056 INFO NEW/RESTOCKED products detected: 2
+2026-09-07 19:43:29,056 INFO   NEW: Bandai Band Aid Chii | $2.75 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3776&limit=100
+2026-09-07 19:43:29,056 INFO   NEW: Kracie Popin’ Cookin | $3.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23275&limit=100
+2026-09-07 19:43:30,934 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-07 19:43:31,167 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-07 19:43:31,172 INFO === Run finished ===

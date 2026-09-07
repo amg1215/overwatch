@@ -1380,6 +1380,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29974&limit=100",
       "stock": "n/a"
     },
+    "3776": {
+      "name": "Bandai Band Aid Chii",
+      "price": "$2.75",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3776&limit=100",
+      "stock": "n/a"
+    },
     "5348": {
       "name": "Kokubo Comfortable F",
       "price": "$1.34",
@@ -5232,6 +5238,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29878&limit=100",
       "stock": "n/a"
     },
+    "23275": {
+      "name": "Kracie Popin’ Cookin",
+      "price": "$3.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23275&limit=100",
+      "stock": "n/a"
+    },
     "30000": {
       "name": "Ensky Demon Slayer C",
       "price": "$1.89",
@@ -5828,6 +5840,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T19:42:31",
-  "last_count": 971
+  "last_run": "2026-09-07T19:43:31",
+  "last_count": 973
 }
