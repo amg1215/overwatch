@@ -16275,3 +16275,9 @@
 2026-09-07 23:17:10,281 INFO === Run started ===
 2026-09-07 23:17:29,696 INFO No new products (1032 tracked)
 2026-09-07 23:17:29,704 INFO === Run finished ===
+2026-09-07 23:18:11,140 INFO === Run started ===
+2026-09-07 23:18:30,469 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 23:18:30,469 INFO   NEW: Mondelez Oreo Sandwi | $2.96 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17776&limit=100
+2026-09-07 23:18:33,373 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 23:18:33,493 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 23:18:33,500 INFO === Run finished ===
