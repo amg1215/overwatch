@@ -15484,3 +15484,9 @@
 2026-09-07 19:43:30,934 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-07 19:43:31,167 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-07 19:43:31,172 INFO === Run finished ===
+2026-09-07 19:44:11,891 INFO === Run started ===
+2026-09-07 19:44:29,534 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 19:44:29,534 INFO   NEW: Tohato Star Shaped B | $1.34 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10325&limit=100
+2026-09-07 19:44:30,815 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 19:44:30,869 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 19:44:30,875 INFO === Run finished ===
