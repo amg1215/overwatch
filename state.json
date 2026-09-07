@@ -5346,6 +5346,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30878&limit=100",
       "stock": "n/a"
     },
+    "30881": {
+      "name": "Koikeya Polinky Shri",
+      "price": "$1.38",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30881&limit=100",
+      "stock": "n/a"
+    },
     "31587": {
       "name": "Bourbon Spicy Flavor",
       "price": "$2.19",
@@ -6200,6 +6206,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T23:18:33",
-  "last_count": 1033
+  "last_run": "2026-09-07T23:19:31",
+  "last_count": 1034
 }

@@ -16281,3 +16281,9 @@
 2026-09-07 23:18:33,373 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 23:18:33,493 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 23:18:33,500 INFO === Run finished ===
+2026-09-07 23:19:10,766 INFO === Run started ===
+2026-09-07 23:19:29,892 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 23:19:29,892 INFO   NEW: Koikeya Polinky Shri | $1.38 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30881&limit=100
+2026-09-07 23:19:30,980 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 23:19:31,097 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 23:19:31,202 INFO === Run finished ===
