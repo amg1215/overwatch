@@ -16323,3 +16323,10 @@
 2026-09-07 23:27:12,284 INFO === Run started ===
 2026-09-07 23:27:30,958 INFO No new products (1038 tracked)
 2026-09-07 23:27:30,963 INFO === Run finished ===
+2026-09-07 23:28:12,013 INFO === Run started ===
+2026-09-07 23:28:31,894 INFO NEW/RESTOCKED products detected: 2
+2026-09-07 23:28:31,894 INFO   NEW: YAMAMOTO Spicy Mixed | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24260&limit=100
+2026-09-07 23:28:31,894 INFO   NEW: YAMAMOTO Curry Udon | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24261&limit=100
+2026-09-07 23:28:33,015 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-07 23:28:33,135 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-07 23:28:33,142 INFO === Run finished ===
