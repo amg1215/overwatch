@@ -15605,3 +15605,9 @@
 2026-09-07 20:15:18,022 INFO === Run started ===
 2026-09-07 20:15:35,025 INFO No new products (983 tracked)
 2026-09-07 20:15:35,028 INFO === Run finished ===
+2026-09-07 20:16:12,535 INFO === Run started ===
+2026-09-07 20:16:32,987 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 20:16:32,987 INFO   NEW: Off & Relax Hot Spri | $14.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3514&limit=100
+2026-09-07 20:16:35,749 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 20:16:36,038 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 20:16:36,045 INFO === Run finished ===
