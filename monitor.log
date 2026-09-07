@@ -16027,3 +16027,10 @@
 2026-09-07 22:19:14,702 INFO === Run started ===
 2026-09-07 22:19:34,766 INFO No new products (1002 tracked)
 2026-09-07 22:19:34,770 INFO === Run finished ===
+2026-09-07 22:20:17,091 INFO === Run started ===
+2026-09-07 22:20:36,855 INFO NEW/RESTOCKED products detected: 2
+2026-09-07 22:20:36,855 INFO   NEW: KAGOME 30 Types Of F | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25061&limit=100
+2026-09-07 22:20:36,855 INFO   NEW: KAGOME Summer Fruits | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30889&limit=100
+2026-09-07 22:20:39,470 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-07 22:20:39,550 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-07 22:20:39,556 INFO === Run finished ===
