@@ -4368,12 +4368,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28928&limit=100",
       "stock": "n/a"
     },
-    "30479": {
-      "name": "Kracie Mentos Cola F",
-      "price": "$1.21",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30479&limit=100",
-      "stock": "n/a"
-    },
     "30056": {
       "name": "Fujiya Chiikawa Char",
       "price": "$1.25",
@@ -5552,6 +5546,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T14:05:37",
-  "last_count": 925
+  "last_run": "2026-09-07T14:06:35",
+  "last_count": 924
 }
