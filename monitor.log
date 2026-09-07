@@ -15869,3 +15869,9 @@
 2026-09-07 21:35:34,717 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 21:35:34,976 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 21:35:34,982 INFO === Run finished ===
+2026-09-07 21:36:11,871 INFO === Run started ===
+2026-09-07 21:36:30,058 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 21:36:30,058 INFO   NEW: KISSME Eyebrow Cream | $7.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13856&limit=100
+2026-09-07 21:36:31,845 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 21:36:32,125 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 21:36:32,132 INFO === Run finished ===

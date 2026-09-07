@@ -1956,6 +1956,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13857&limit=100",
       "stock": "n/a"
     },
+    "13856": {
+      "name": "KISSME Eyebrow Cream",
+      "price": "$7.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13856&limit=100",
+      "stock": "n/a"
+    },
     "51094": {
       "name": "So Natural All Day T",
       "price": "$13.79",
@@ -5954,6 +5960,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T21:35:34",
-  "last_count": 992
+  "last_run": "2026-09-07T21:36:32",
+  "last_count": 993
 }
