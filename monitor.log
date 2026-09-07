@@ -16254,3 +16254,9 @@
 2026-09-07 23:11:09,129 INFO === Run started ===
 2026-09-07 23:11:29,379 INFO No new products (1030 tracked)
 2026-09-07 23:11:29,385 INFO === Run finished ===
+2026-09-07 23:12:13,653 INFO === Run started ===
+2026-09-07 23:12:34,190 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 23:12:34,190 INFO   NEW: Tohato SALTY Setouch | $1.75 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30891&limit=100
+2026-09-07 23:12:36,040 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 23:13:06,051 ERROR ntfy push failed: HTTPSConnectionPool(host='ntfy.sh', port=443): Max retries exceeded with url: /ebisu-arrivals-kx7v92qm (Caused by NewConnectionError("HTTPSConnection(host='ntfy.sh', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+2026-09-07 23:13:06,057 INFO === Run finished ===

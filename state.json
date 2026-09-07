@@ -5088,6 +5088,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23107&limit=100",
       "stock": "n/a"
     },
+    "30891": {
+      "name": "Tohato SALTY Setouch",
+      "price": "$1.75",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30891&limit=100",
+      "stock": "n/a"
+    },
     "28911": {
       "name": "Nestle KitKat Carame",
       "price": "$3.65",
@@ -6182,6 +6188,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T23:11:29",
-  "last_count": 1030
+  "last_run": "2026-09-07T23:13:06",
+  "last_count": 1031
 }
