@@ -14352,3 +14352,11 @@
 2026-09-07 14:15:15,380 INFO === Run started ===
 2026-09-07 14:15:35,003 INFO No new products (923 tracked)
 2026-09-07 14:15:35,008 INFO === Run finished ===
+2026-09-07 14:16:13,890 INFO === Run started ===
+2026-09-07 14:16:46,432 INFO NEW/RESTOCKED products detected: 3
+2026-09-07 14:16:46,432 INFO   NEW: EAKI Shinobi Assembl | $3.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31382&limit=100
+2026-09-07 14:16:46,432 INFO   NEW: Sega My Teen Romanti | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29844&limit=100
+2026-09-07 14:16:46,432 INFO   NEW: Sega My Teen Romanti | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29845&limit=100
+2026-09-07 14:16:48,195 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-07 14:16:48,408 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-07 14:16:48,412 INFO === Run finished ===
