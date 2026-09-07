@@ -5220,6 +5220,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21007&limit=100",
       "stock": "n/a"
     },
+    "10349": {
+      "name": "Calbee Shrimp Flavor",
+      "price": "$1.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10349&limit=100",
+      "stock": "n/a"
+    },
     "30046": {
       "name": "Calbee Prawn Cracker",
       "price": "$1.49",
@@ -6050,6 +6056,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T22:38:30",
-  "last_count": 1008
+  "last_run": "2026-09-07T22:39:28",
+  "last_count": 1009
 }

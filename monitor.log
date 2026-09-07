@@ -16101,3 +16101,9 @@
 2026-09-07 22:38:11,609 INFO === Run started ===
 2026-09-07 22:38:30,143 INFO No new products (1008 tracked)
 2026-09-07 22:38:30,148 INFO === Run finished ===
+2026-09-07 22:39:08,588 INFO === Run started ===
+2026-09-07 22:39:26,660 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 22:39:26,660 INFO   NEW: Calbee Shrimp Flavor | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10349&limit=100
+2026-09-07 22:39:28,150 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 22:39:28,543 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 22:39:28,548 INFO === Run finished ===
