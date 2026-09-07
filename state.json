@@ -1182,6 +1182,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1982&limit=100",
       "stock": "n/a"
     },
+    "7367": {
+      "name": "Inomata Plastic Foot",
+      "price": "$6.90",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7367&limit=100",
+      "stock": "n/a"
+    },
     "7277": {
       "name": "Inomata Plastic Foot",
       "price": "$6.90",
@@ -5690,6 +5696,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T17:25:36",
-  "last_count": 948
+  "last_run": "2026-09-07T17:26:32",
+  "last_count": 949
 }

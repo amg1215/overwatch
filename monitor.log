@@ -15003,3 +15003,9 @@
 2026-09-07 17:25:36,445 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 17:25:36,714 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 17:25:36,721 INFO === Run finished ===
+2026-09-07 17:26:12,957 INFO === Run started ===
+2026-09-07 17:26:30,231 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 17:26:30,232 INFO   NEW: Inomata Plastic Foot | $6.90 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7367&limit=100
+2026-09-07 17:26:31,834 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 17:26:32,046 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 17:26:32,049 INFO === Run finished ===
