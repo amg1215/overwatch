@@ -16160,3 +16160,11 @@
 2026-09-07 22:50:17,075 INFO === Run started ===
 2026-09-07 22:50:36,647 INFO No new products (1017 tracked)
 2026-09-07 22:50:36,653 INFO === Run finished ===
+2026-09-07 22:51:09,903 INFO === Run started ===
+2026-09-07 22:51:28,997 INFO NEW/RESTOCKED products detected: 3
+2026-09-07 22:51:28,997 INFO   NEW: Kataoka Matcha Latte | $7.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23176&limit=100
+2026-09-07 22:51:28,997 INFO   NEW: Kataoka Tsujiri Smoo | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30884&limit=100
+2026-09-07 22:51:28,997 INFO   NEW: Kataoka Milk Coffee | $2.41 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18391&limit=100
+2026-09-07 22:51:31,941 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-07 22:51:32,145 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-07 22:51:32,151 INFO === Run finished ===
