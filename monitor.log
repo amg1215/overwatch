@@ -15653,3 +15653,9 @@
 2026-09-07 20:25:14,708 INFO === Run started ===
 2026-09-07 20:25:33,531 INFO No new products (989 tracked)
 2026-09-07 20:25:33,536 INFO === Run finished ===
+2026-09-07 20:26:18,399 INFO === Run started ===
+2026-09-07 20:26:35,378 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 20:26:35,378 INFO   NEW: SMISKI Birthday Seri | $9.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23775&limit=100
+2026-09-07 20:26:39,400 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 20:26:39,679 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 20:26:39,683 INFO === Run finished ===
