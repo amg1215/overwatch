@@ -1668,6 +1668,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5000&limit=100",
       "stock": "n/a"
     },
+    "10819": {
+      "name": "Kao Biore UV Aqua Ri",
+      "price": "$8.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10819&limit=100",
+      "stock": "n/a"
+    },
     "4208": {
       "name": "Kao Biore UV Aqua Ri",
       "price": "$7.19",
@@ -2098,6 +2104,12 @@
       "name": "Tsubaki Volumizing R",
       "price": "$7.79",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13218&limit=100",
+      "stock": "n/a"
+    },
+    "15864": {
+      "name": "Ululis Shampoo Treat",
+      "price": "$0.96",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15864&limit=100",
       "stock": "n/a"
     },
     "18770": {
@@ -5774,6 +5786,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T18:58:36",
-  "last_count": 962
+  "last_run": "2026-09-07T18:59:34",
+  "last_count": 964
 }

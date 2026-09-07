@@ -15324,3 +15324,10 @@
 2026-09-07 18:58:35,882 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 18:58:36,168 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 18:58:36,174 INFO === Run finished ===
+2026-09-07 18:59:15,397 INFO === Run started ===
+2026-09-07 18:59:32,571 INFO NEW/RESTOCKED products detected: 2
+2026-09-07 18:59:32,571 INFO   NEW: Kao Biore UV Aqua Ri | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10819&limit=100
+2026-09-07 18:59:32,571 INFO   NEW: Ululis Shampoo Treat | $0.96 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15864&limit=100
+2026-09-07 18:59:34,301 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-07 18:59:34,443 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-07 18:59:34,448 INFO === Run finished ===
