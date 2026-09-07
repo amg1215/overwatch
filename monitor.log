@@ -15030,3 +15030,9 @@
 2026-09-07 17:30:41,305 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 17:30:41,507 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 17:30:41,514 INFO === Run finished ===
+2026-09-07 17:31:09,754 INFO === Run started ===
+2026-09-07 17:31:26,932 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 17:31:26,932 INFO   NEW: TOHATO Extra Thick C | $1.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30051&limit=100
+2026-09-07 17:31:28,602 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 17:31:28,736 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 17:31:28,781 INFO === Run finished ===
