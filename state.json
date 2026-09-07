@@ -2244,6 +2244,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13218&limit=100",
       "stock": "n/a"
     },
+    "29941": {
+      "name": "Shiseido TSUBAKI Pre",
+      "price": "$14.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29941&limit=100",
+      "stock": "n/a"
+    },
     "15864": {
       "name": "Ululis Shampoo Treat",
       "price": "$0.96",
@@ -6152,6 +6158,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T23:01:33",
-  "last_count": 1025
+  "last_run": "2026-09-07T23:02:34",
+  "last_count": 1026
 }
