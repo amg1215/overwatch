@@ -14590,3 +14590,10 @@
 2026-09-07 15:17:09,215 INFO === Run started ===
 2026-09-07 15:17:26,199 INFO No new products (940 tracked)
 2026-09-07 15:17:26,203 INFO === Run finished ===
+2026-09-07 15:18:13,135 INFO === Run started ===
+2026-09-07 15:18:31,984 INFO NEW/RESTOCKED products detected: 2
+2026-09-07 15:18:31,984 INFO   NEW: Twinings Fruit Tea S | $4.33 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14246&limit=100
+2026-09-07 15:18:31,984 INFO   NEW: Yamashiro Domestic M | $14.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24150&limit=100
+2026-09-07 15:18:33,991 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-07 15:18:34,256 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-07 15:18:34,262 INFO === Run finished ===
