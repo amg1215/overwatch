@@ -14988,3 +14988,9 @@
 2026-09-07 17:22:29,582 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 17:22:29,889 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 17:22:29,894 INFO === Run finished ===
+2026-09-07 17:23:09,362 INFO === Run started ===
+2026-09-07 17:23:27,869 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 17:23:27,869 INFO   NEW: Fujiya Country Ma’am | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30060&limit=100
+2026-09-07 17:23:29,960 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 17:23:30,300 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 17:23:30,306 INFO === Run finished ===

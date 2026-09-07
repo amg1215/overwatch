@@ -4776,6 +4776,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31094&limit=100",
       "stock": "n/a"
     },
+    "30060": {
+      "name": "Fujiya Country Ma’am",
+      "price": "$2.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30060&limit=100",
+      "stock": "n/a"
+    },
     "22191": {
       "name": "Maeda Shikamaru-kun",
       "price": "$9.70",
@@ -5678,6 +5684,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T17:22:29",
-  "last_count": 946
+  "last_run": "2026-09-07T17:23:30",
+  "last_count": 947
 }
