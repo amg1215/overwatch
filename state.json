@@ -5946,6 +5946,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29158&limit=100",
       "stock": "n/a"
     },
+    "22183": {
+      "name": "Ongane Ramen Noodles",
+      "price": "$1.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22183&limit=100",
+      "stock": "n/a"
+    },
+    "22184": {
+      "name": "Ongane Ramen Noodles",
+      "price": "$1.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22184&limit=100",
+      "stock": "n/a"
+    },
     "14067": {
       "name": "AJINOMOTO Pasta Soup",
       "price": "$1.66",
@@ -6068,6 +6080,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T22:41:32",
-  "last_count": 1011
+  "last_run": "2026-09-07T22:42:32",
+  "last_count": 1013
 }
