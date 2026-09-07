@@ -1584,6 +1584,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18812&limit=100",
       "stock": "n/a"
     },
+    "30893": {
+      "name": "SPA Treatment Snake",
+      "price": "$29.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30893&limit=100",
+      "stock": "n/a"
+    },
+    "10453": {
+      "name": "Sana Soymilk Eye Flu",
+      "price": "$7.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10453&limit=100",
+      "stock": "n/a"
+    },
     "9751": {
       "name": "Kao Curel Moist Crea",
       "price": "$12.98",
@@ -5870,6 +5882,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T19:59:52",
-  "last_count": 978
+  "last_run": "2026-09-07T20:00:44",
+  "last_count": 980
 }

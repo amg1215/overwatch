@@ -15544,3 +15544,10 @@
 2026-09-07 19:59:52,047 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 19:59:52,342 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 19:59:52,348 INFO === Run finished ===
+2026-09-07 20:00:24,274 INFO === Run started ===
+2026-09-07 20:00:41,855 INFO NEW/RESTOCKED products detected: 2
+2026-09-07 20:00:41,855 INFO   NEW: SPA Treatment Snake | $29.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30893&limit=100
+2026-09-07 20:00:41,855 INFO   NEW: Sana Soymilk Eye Flu | $7.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10453&limit=100
+2026-09-07 20:00:43,917 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-07 20:00:44,180 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-07 20:00:44,186 INFO === Run finished ===
