@@ -15925,3 +15925,9 @@
 2026-09-07 21:48:11,736 INFO === Run started ===
 2026-09-07 21:48:29,717 INFO No new products (999 tracked)
 2026-09-07 21:48:29,723 INFO === Run finished ===
+2026-09-07 21:49:10,161 INFO === Run started ===
+2026-09-07 21:49:27,364 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 21:49:27,365 INFO   NEW: Want Want Double Lay | $1.03 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15259&limit=100
+2026-09-07 21:49:29,833 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 21:49:30,105 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 21:49:30,111 INFO === Run finished ===
