@@ -3654,6 +3654,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29416&limit=100",
       "stock": "n/a"
     },
+    "29792": {
+      "name": "Sega Jujutsu Kaisen",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29792&limit=100",
+      "stock": "n/a"
+    },
     "29393": {
       "name": "Sega NEEDY GIRL OVER",
       "price": "$21.59",
@@ -5588,6 +5594,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T14:33:34",
-  "last_count": 931
+  "last_run": "2026-09-07T14:34:30",
+  "last_count": 932
 }
