@@ -15900,3 +15900,10 @@
 2026-09-07 21:41:32,499 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 21:41:32,972 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 21:41:32,979 INFO === Run finished ===
+2026-09-07 21:42:13,546 INFO === Run started ===
+2026-09-07 21:42:33,296 INFO NEW/RESTOCKED products detected: 2
+2026-09-07 21:42:33,296 INFO   NEW: Attenir Skin Clear C | $16.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30896&limit=100
+2026-09-07 21:42:33,296 INFO   NEW: KISSME Eyeliner Gel | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25735&limit=100
+2026-09-07 21:42:36,173 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-07 21:42:36,463 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-07 21:42:36,470 INFO === Run finished ===

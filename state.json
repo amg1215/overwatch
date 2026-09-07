@@ -1542,6 +1542,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30895&limit=100",
       "stock": "n/a"
     },
+    "30896": {
+      "name": "Attenir Skin Clear C",
+      "price": "$16.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30896&limit=100",
+      "stock": "n/a"
+    },
     "10137": {
       "name": "Shiseido Collagen Fa",
       "price": "$5.39",
@@ -1912,6 +1918,12 @@
       "name": "Kissme Volume & Curl",
       "price": "$10.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11116&limit=100",
+      "stock": "n/a"
+    },
+    "25735": {
+      "name": "KISSME Eyeliner Gel",
+      "price": "$8.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25735&limit=100",
       "stock": "n/a"
     },
     "28939": {
@@ -5984,6 +5996,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T21:41:32",
-  "last_count": 997
+  "last_run": "2026-09-07T21:42:36",
+  "last_count": 999
 }
