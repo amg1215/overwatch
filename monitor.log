@@ -14244,3 +14244,9 @@
 2026-09-07 13:46:12,054 INFO === Run started ===
 2026-09-07 13:46:29,573 INFO No new products (920 tracked)
 2026-09-07 13:46:29,578 INFO === Run finished ===
+2026-09-07 13:47:11,379 INFO === Run started ===
+2026-09-07 13:47:28,870 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 13:47:28,870 INFO   NEW: Sega Re ZERO Startin | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29394&limit=100
+2026-09-07 13:47:30,641 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 13:47:30,826 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 13:47:30,833 INFO === Run finished ===
