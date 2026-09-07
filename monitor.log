@@ -14283,3 +14283,9 @@
 2026-09-07 13:54:37,265 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 13:54:37,518 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 13:54:37,525 INFO === Run finished ===
+2026-09-07 13:55:13,580 INFO === Run started ===
+2026-09-07 13:55:31,132 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 13:55:31,133 INFO   NEW: Banpresto Gakuen Ido | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29415&limit=100
+2026-09-07 13:55:32,646 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 13:55:32,863 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 13:55:32,870 INFO === Run finished ===
