@@ -5304,6 +5304,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30052&limit=100",
       "stock": "n/a"
     },
+    "15537": {
+      "name": "Frito-Lay Corn Stick",
+      "price": "$1.44",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15537&limit=100",
+      "stock": "n/a"
+    },
     "15536": {
       "name": "Frito-Lay Corn Stick",
       "price": "$1.44",
@@ -6024,6 +6030,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10428&limit=100",
       "stock": "n/a"
     },
+    "13405": {
+      "name": "Myojo Noodles Salt 1",
+      "price": "$2.13",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13405&limit=100",
+      "stock": "n/a"
+    },
     "24263": {
       "name": "YAMAMOTO Tonkotsu Ra",
       "price": "$2.39",
@@ -6122,6 +6134,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T22:52:36",
-  "last_count": 1020
+  "last_run": "2026-09-07T22:53:35",
+  "last_count": 1022
 }

@@ -16171,3 +16171,10 @@
 2026-09-07 22:52:13,410 INFO === Run started ===
 2026-09-07 22:52:36,044 INFO No new products (1020 tracked)
 2026-09-07 22:52:36,050 INFO === Run finished ===
+2026-09-07 22:53:10,952 INFO === Run started ===
+2026-09-07 22:53:31,651 INFO NEW/RESTOCKED products detected: 2
+2026-09-07 22:53:31,651 INFO   NEW: Frito-Lay Corn Stick | $1.44 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15537&limit=100
+2026-09-07 22:53:31,651 INFO   NEW: Myojo Noodles Salt 1 | $2.13 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13405&limit=100
+2026-09-07 22:53:34,796 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-07 22:53:35,015 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-07 22:53:35,021 INFO === Run finished ===
