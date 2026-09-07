@@ -5346,6 +5346,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30878&limit=100",
       "stock": "n/a"
     },
+    "14509": {
+      "name": "Koikeya French Fries",
+      "price": "$2.40",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14509&limit=100",
+      "stock": "n/a"
+    },
     "30881": {
       "name": "Koikeya Polinky Shri",
       "price": "$1.38",
@@ -6206,6 +6212,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T23:19:31",
-  "last_count": 1034
+  "last_run": "2026-09-07T23:20:39",
+  "last_count": 1035
 }
