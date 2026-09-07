@@ -16136,3 +16136,9 @@
 2026-09-07 22:45:39,901 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 22:45:39,945 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 22:45:40,006 INFO === Run finished ===
+2026-09-07 22:46:11,357 INFO === Run started ===
+2026-09-07 22:46:46,758 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 22:46:46,759 INFO   NEW: Lotte Koala Shape Ch | $3.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13693&limit=100
+2026-09-07 22:46:49,016 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 22:46:49,163 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 22:46:49,169 INFO === Run finished ===
