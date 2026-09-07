@@ -15471,3 +15471,9 @@
 2026-09-07 19:41:10,462 INFO === Run started ===
 2026-09-07 19:41:28,400 INFO No new products (970 tracked)
 2026-09-07 19:41:28,406 INFO === Run finished ===
+2026-09-07 19:42:11,492 INFO === Run started ===
+2026-09-07 19:42:29,844 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 19:42:29,844 INFO   NEW: Frito-Lay Corn Stick | $1.44 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15536&limit=100
+2026-09-07 19:42:31,268 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 19:42:31,331 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 19:42:31,337 INFO === Run finished ===
