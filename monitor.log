@@ -15532,3 +15532,9 @@
 2026-09-07 19:56:13,798 INFO === Run started ===
 2026-09-07 19:56:32,263 INFO No new products (976 tracked)
 2026-09-07 19:56:32,269 INFO === Run finished ===
+2026-09-07 19:58:19,433 INFO === Run started ===
+2026-09-07 19:58:38,563 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 19:58:38,563 INFO   NEW: SLO Kuromi Bow Bangs | $5.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19458&limit=100
+2026-09-07 19:58:40,536 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 19:58:40,797 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 19:58:40,804 INFO === Run finished ===
