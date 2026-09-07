@@ -1350,6 +1350,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9686&limit=100",
       "stock": "n/a"
     },
+    "19464": {
+      "name": "SLO Pochacco USB & B",
+      "price": "$11.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19464&limit=100",
+      "stock": "n/a"
+    },
     "29971": {
       "name": "J's Planning SLO Hel",
       "price": "$17.39",
@@ -5744,6 +5750,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T17:41:30",
-  "last_count": 957
+  "last_run": "2026-09-07T17:42:33",
+  "last_count": 958
 }
