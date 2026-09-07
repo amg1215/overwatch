@@ -14504,3 +14504,10 @@
 2026-09-07 14:52:35,305 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 14:52:35,659 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 14:52:35,665 INFO === Run finished ===
+2026-09-07 14:53:13,726 INFO === Run started ===
+2026-09-07 14:53:31,253 INFO NEW/RESTOCKED products detected: 2
+2026-09-07 14:53:31,254 INFO   NEW: Maruki Deco Bento Mo | $1.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7543&limit=100
+2026-09-07 14:53:31,254 INFO   NEW: ITOEN Premium Matcha | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18830&limit=100
+2026-09-07 14:53:35,268 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-07 14:53:35,715 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-07 14:53:35,721 INFO === Run finished ===
