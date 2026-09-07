@@ -15538,3 +15538,9 @@
 2026-09-07 19:58:40,536 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 19:58:40,797 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 19:58:40,804 INFO === Run finished ===
+2026-09-07 19:59:26,649 INFO === Run started ===
+2026-09-07 19:59:49,101 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 19:59:49,102 INFO   NEW: Kao Curel Lotion I 1 | $16.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9266&limit=100
+2026-09-07 19:59:52,047 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 19:59:52,342 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 19:59:52,348 INFO === Run finished ===
