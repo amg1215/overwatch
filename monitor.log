@@ -15496,3 +15496,9 @@
 2026-09-07 19:46:14,418 INFO === Run started ===
 2026-09-07 19:46:32,731 INFO No new products (974 tracked)
 2026-09-07 19:46:32,737 INFO === Run finished ===
+2026-09-07 19:47:12,058 INFO === Run started ===
+2026-09-07 19:47:31,788 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 19:47:31,788 INFO   NEW: Ishizawa Smear Rice | $11.04 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18812&limit=100
+2026-09-07 19:47:34,775 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 19:47:35,265 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 19:47:35,272 INFO === Run finished ===
