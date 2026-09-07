@@ -14453,3 +14453,11 @@
 2026-09-07 14:39:14,136 INFO === Run started ===
 2026-09-07 14:39:32,896 INFO No new products (933 tracked)
 2026-09-07 14:39:32,901 INFO === Run finished ===
+2026-09-07 14:40:16,532 INFO === Run started ===
+2026-09-07 14:40:35,358 INFO NEW/RESTOCKED products detected: 3
+2026-09-07 14:40:35,358 INFO   NEW: Banpresto Blue Archi | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29534&limit=100
+2026-09-07 14:40:35,358 INFO   NEW: FuRyu Death Note Cha | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30308&limit=100
+2026-09-07 14:40:35,358 INFO   NEW: Banpresto The Angel | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29404&limit=100
+2026-09-07 14:40:36,677 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-07 14:40:36,735 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-07 14:40:36,741 INFO === Run finished ===

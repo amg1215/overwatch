@@ -3528,6 +3528,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29564&limit=100",
       "stock": "n/a"
     },
+    "29534": {
+      "name": "Banpresto Blue Archi",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29534&limit=100",
+      "stock": "n/a"
+    },
     "29530": {
       "name": "Banpresto ONE PIECE",
       "price": "$23.99",
@@ -3636,6 +3642,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29845&limit=100",
       "stock": "n/a"
     },
+    "30308": {
+      "name": "FuRyu Death Note Cha",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30308&limit=100",
+      "stock": "n/a"
+    },
     "30309": {
       "name": "FuRyu Touhou Project",
       "price": "$21.59",
@@ -3682,6 +3694,12 @@
       "name": "Banpresto Re ZERO St",
       "price": "$23.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29410&limit=100",
+      "stock": "n/a"
+    },
+    "29404": {
+      "name": "Banpresto The Angel",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29404&limit=100",
       "stock": "n/a"
     },
     "20632": {
@@ -5040,12 +5058,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10918&limit=100",
       "stock": "n/a"
     },
-    "25073": {
-      "name": "Suntory Big Zero Pep",
-      "price": "$1.56",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25073&limit=100",
-      "stock": "n/a"
-    },
     "31095": {
       "name": "Suntory Craft Boss S",
       "price": "$1.75",
@@ -5600,6 +5612,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T14:39:32",
-  "last_count": 933
+  "last_run": "2026-09-07T14:40:36",
+  "last_count": 935
 }
