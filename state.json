@@ -4740,6 +4740,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30053&limit=100",
       "stock": "n/a"
     },
+    "5263": {
+      "name": "Nobel Gummy Candy 80",
+      "price": "$2.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5263&limit=100",
+      "stock": "n/a"
+    },
     "30056": {
       "name": "Fujiya Chiikawa Char",
       "price": "$1.25",
@@ -5820,6 +5826,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14246&limit=100",
       "stock": "n/a"
     },
+    "23178": {
+      "name": "Kataoka Matcha Milk",
+      "price": "$5.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23178&limit=100",
+      "stock": "n/a"
+    },
     "28930": {
       "name": "Meito Milk Cocoa Pow",
       "price": "$3.79",
@@ -6056,6 +6068,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T22:39:28",
-  "last_count": 1009
+  "last_run": "2026-09-07T22:40:37",
+  "last_count": 1011
 }

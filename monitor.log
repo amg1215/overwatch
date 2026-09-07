@@ -16107,3 +16107,10 @@
 2026-09-07 22:39:28,150 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 22:39:28,543 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 22:39:28,548 INFO === Run finished ===
+2026-09-07 22:40:15,223 INFO === Run started ===
+2026-09-07 22:40:35,238 INFO NEW/RESTOCKED products detected: 2
+2026-09-07 22:40:35,238 INFO   NEW: Nobel Gummy Candy 80 | $2.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5263&limit=100
+2026-09-07 22:40:35,238 INFO   NEW: Kataoka Matcha Milk | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23178&limit=100
+2026-09-07 22:40:36,947 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-07 22:40:37,156 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-07 22:40:37,163 INFO === Run finished ===
