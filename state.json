@@ -1536,6 +1536,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4219&limit=100",
       "stock": "n/a"
     },
+    "5344": {
+      "name": "Lion Pair Acne Cream",
+      "price": "$8.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5344&limit=100",
+      "stock": "n/a"
+    },
     "7519": {
       "name": "Seiwa-pro Compressed",
       "price": "$1.25",
@@ -5852,6 +5858,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T19:48:29",
-  "last_count": 975
+  "last_run": "2026-09-07T19:49:29",
+  "last_count": 976
 }
