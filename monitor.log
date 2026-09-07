@@ -14375,3 +14375,9 @@
 2026-09-07 14:19:12,474 INFO === Run started ===
 2026-09-07 14:19:32,403 INFO No new products (925 tracked)
 2026-09-07 14:19:32,408 INFO === Run finished ===
+2026-09-07 14:20:15,970 INFO === Run started ===
+2026-09-07 14:20:34,536 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 14:20:34,536 INFO   NEW: Canmake Jewelry Eyes | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7949&limit=100
+2026-09-07 14:20:39,115 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 14:20:39,550 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 14:20:39,556 INFO === Run finished ===
