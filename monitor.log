@@ -15617,3 +15617,9 @@
 2026-09-07 20:17:30,829 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 20:17:30,882 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 20:17:30,888 INFO === Run finished ===
+2026-09-07 20:18:12,069 INFO === Run started ===
+2026-09-07 20:18:30,857 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 20:18:30,857 INFO   NEW: Off & Relax SPA Hair | $11.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3513&limit=100
+2026-09-07 20:18:32,717 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 20:18:32,853 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 20:18:32,859 INFO === Run finished ===

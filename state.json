@@ -2196,6 +2196,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3514&limit=100",
       "stock": "n/a"
     },
+    "3513": {
+      "name": "Off & Relax SPA Hair",
+      "price": "$11.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3513&limit=100",
+      "stock": "n/a"
+    },
     "13558": {
       "name": "Honeyque Deep Repair",
       "price": "$1.10",
@@ -5912,6 +5918,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T20:17:30",
-  "last_count": 985
+  "last_run": "2026-09-07T20:18:32",
+  "last_count": 986
 }
