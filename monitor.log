@@ -14997,3 +14997,9 @@
 2026-09-07 17:24:13,579 INFO === Run started ===
 2026-09-07 17:24:32,951 INFO No new products (947 tracked)
 2026-09-07 17:24:32,956 INFO === Run finished ===
+2026-09-07 17:25:15,499 INFO === Run started ===
+2026-09-07 17:25:34,416 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 17:25:34,416 INFO   NEW: Inomata Plastic Drai | $4.92 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7288&limit=100
+2026-09-07 17:25:36,445 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 17:25:36,714 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 17:25:36,721 INFO === Run finished ===
