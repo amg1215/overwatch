@@ -15623,3 +15623,9 @@
 2026-09-07 20:18:32,717 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-07 20:18:32,853 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-07 20:18:32,859 INFO === Run finished ===
+2026-09-07 20:19:11,117 INFO === Run started ===
+2026-09-07 20:19:30,647 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 20:19:30,647 INFO   NEW: Techxcel Okuchi Port | $2.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18769&limit=100
+2026-09-07 20:19:33,440 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 20:19:33,957 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 20:19:33,964 INFO === Run finished ===

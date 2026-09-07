@@ -2376,6 +2376,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5529&limit=100",
       "stock": "n/a"
     },
+    "18769": {
+      "name": "Techxcel Okuchi Port",
+      "price": "$2.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18769&limit=100",
+      "stock": "n/a"
+    },
     "10024": {
       "name": "Lion Clinica Mouthwa",
       "price": "$3.99",
@@ -5918,6 +5924,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T20:18:32",
-  "last_count": 986
+  "last_run": "2026-09-07T20:19:33",
+  "last_count": 987
 }
