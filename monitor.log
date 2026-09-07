@@ -14498,3 +14498,9 @@
 2026-09-07 14:51:12,851 INFO === Run started ===
 2026-09-07 14:51:31,605 INFO No new products (937 tracked)
 2026-09-07 14:51:31,610 INFO === Run finished ===
+2026-09-07 14:52:14,714 INFO === Run started ===
+2026-09-07 14:52:32,288 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 14:52:32,289 INFO   NEW: FuRyu Mononoke the M | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29528&limit=100
+2026-09-07 14:52:35,305 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 14:52:35,659 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 14:52:35,665 INFO === Run finished ===
