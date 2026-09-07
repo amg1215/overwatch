@@ -3552,6 +3552,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29534&limit=100",
       "stock": "n/a"
     },
+    "29833": {
+      "name": "Banpresto Kingdom Gr",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29833&limit=100",
+      "stock": "n/a"
+    },
     "29530": {
       "name": "Banpresto ONE PIECE",
       "price": "$23.99",
@@ -5648,6 +5654,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T15:24:31",
-  "last_count": 941
+  "last_run": "2026-09-07T15:25:37",
+  "last_count": 942
 }

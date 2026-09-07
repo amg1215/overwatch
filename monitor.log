@@ -14615,3 +14615,9 @@
 2026-09-07 15:24:14,733 INFO === Run started ===
 2026-09-07 15:24:31,955 INFO No new products (941 tracked)
 2026-09-07 15:24:31,958 INFO === Run finished ===
+2026-09-07 15:25:16,763 INFO === Run started ===
+2026-09-07 15:25:35,317 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 15:25:35,317 INFO   NEW: Banpresto Kingdom Gr | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29833&limit=100
+2026-09-07 15:25:37,412 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 15:25:37,641 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 15:25:37,661 INFO === Run finished ===
