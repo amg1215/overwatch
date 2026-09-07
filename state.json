@@ -4488,6 +4488,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28928&limit=100",
       "stock": "n/a"
     },
+    "30053": {
+      "name": "Nobel Sorbetto Gummy",
+      "price": "$1.65",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30053&limit=100",
+      "stock": "n/a"
+    },
     "30056": {
       "name": "Fujiya Chiikawa Char",
       "price": "$1.25",
@@ -5708,6 +5714,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T17:29:30",
-  "last_count": 951
+  "last_run": "2026-09-07T17:30:41",
+  "last_count": 952
 }
