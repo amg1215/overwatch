@@ -15063,3 +15063,9 @@
 2026-09-07 17:38:13,812 INFO === Run started ===
 2026-09-07 17:38:32,859 INFO No new products (955 tracked)
 2026-09-07 17:38:32,865 INFO === Run finished ===
+2026-09-07 17:39:10,057 INFO === Run started ===
+2026-09-07 17:39:27,744 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 17:39:27,744 INFO   NEW: RE-MENT HUNTER×HUNTE | $10.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25374&limit=100
+2026-09-07 17:39:29,475 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 17:39:29,650 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 17:39:29,657 INFO === Run finished ===

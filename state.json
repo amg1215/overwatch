@@ -2322,6 +2322,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15678&limit=100",
       "stock": "n/a"
     },
+    "25374": {
+      "name": "RE-MENT HUNTER×HUNTE",
+      "price": "$10.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25374&limit=100",
+      "stock": "n/a"
+    },
     "28758": {
       "name": "RE-MENT Pokemon Deco",
       "price": "$11.39",
@@ -5732,6 +5738,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T17:38:32",
-  "last_count": 955
+  "last_run": "2026-09-07T17:39:29",
+  "last_count": 956
 }
