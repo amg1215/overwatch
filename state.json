@@ -6006,6 +6006,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10428&limit=100",
       "stock": "n/a"
     },
+    "24263": {
+      "name": "YAMAMOTO Tonkotsu Ra",
+      "price": "$2.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24263&limit=100",
+      "stock": "n/a"
+    },
     "8903": {
       "name": "Hikari Miso Chinese",
       "price": "$2.13",
@@ -6098,6 +6104,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T22:48:31",
-  "last_count": 1016
+  "last_run": "2026-09-07T22:49:33",
+  "last_count": 1017
 }

@@ -16151,3 +16151,9 @@
 2026-09-07 22:48:11,228 INFO === Run started ===
 2026-09-07 22:48:31,270 INFO No new products (1016 tracked)
 2026-09-07 22:48:31,276 INFO === Run finished ===
+2026-09-07 22:49:10,529 INFO === Run started ===
+2026-09-07 22:49:31,689 INFO NEW/RESTOCKED products detected: 1
+2026-09-07 22:49:31,689 INFO   NEW: YAMAMOTO Tonkotsu Ra | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24263&limit=100
+2026-09-07 22:49:33,639 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-07 22:49:33,887 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-07 22:49:33,894 INFO === Run finished ===
