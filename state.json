@@ -4704,6 +4704,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31104&limit=100",
       "stock": "n/a"
     },
+    "30888": {
+      "name": "Want Want Sour and S",
+      "price": "$2.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30888&limit=100",
+      "stock": "n/a"
+    },
     "31103": {
       "name": "WantWant Seriously!",
       "price": "$1.00",
@@ -6218,6 +6224,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-07T23:23:31",
-  "last_count": 1036
+  "last_run": "2026-09-07T23:24:33",
+  "last_count": 1037
 }
