@@ -18139,3 +18139,9 @@
 2026-09-08 21:14:47,285 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-08 21:14:47,377 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-08 21:14:47,384 INFO === Run finished ===
+2026-09-08 21:15:15,335 INFO === Run started ===
+2026-09-08 21:15:47,753 INFO NEW/RESTOCKED products detected: 1
+2026-09-08 21:15:47,753 INFO   NEW: CEZANNE Lipstick 01 | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25728&limit=100
+2026-09-08 21:15:49,140 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-08 21:15:49,306 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-08 21:15:49,312 INFO === Run finished ===
