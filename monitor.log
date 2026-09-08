@@ -17108,3 +17108,9 @@
 2026-09-08 15:46:51,862 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-08 15:46:52,204 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-08 15:46:52,211 INFO === Run finished ===
+2026-09-08 15:47:11,373 INFO === Run started ===
+2026-09-08 15:47:32,146 INFO NEW/RESTOCKED products detected: 1
+2026-09-08 15:47:32,146 INFO   NEW: SAN-EI Pokemon Mimik | $13.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21056&limit=100
+2026-09-08 15:47:34,126 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-08 15:47:34,353 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-08 15:47:34,360 INFO === Run finished ===
