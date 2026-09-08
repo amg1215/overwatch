@@ -1590,12 +1590,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9265&limit=100",
       "stock": "n/a"
     },
-    "4219": {
-      "name": "COW Skin Life Foam S",
-      "price": "$4.79",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4219&limit=100",
-      "stock": "n/a"
-    },
     "5344": {
       "name": "Lion Pair Acne Cream",
       "price": "$8.99",
@@ -6236,6 +6230,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-08T16:52:30",
-  "last_count": 1039
+  "last_run": "2026-09-08T16:53:41",
+  "last_count": 1038
 }
