@@ -1494,6 +1494,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9368&limit=100",
       "stock": "n/a"
     },
+    "13465": {
+      "name": "Mandom Body Wipes Ci",
+      "price": "$3.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13465&limit=100",
+      "stock": "n/a"
+    },
     "18404": {
       "name": "Hayashi Facial Tissu",
       "price": "$3.12",
@@ -1888,6 +1894,12 @@
       "name": "CEZANNE Lipstick 01",
       "price": "$5.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25728&limit=100",
+      "stock": "n/a"
+    },
+    "25729": {
+      "name": "CEZANNE Lipstick 02",
+      "price": "$5.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25729&limit=100",
       "stock": "n/a"
     },
     "25730": {
@@ -6368,6 +6380,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-08T21:15:49",
-  "last_count": 1061
+  "last_run": "2026-09-08T21:16:46",
+  "last_count": 1063
 }

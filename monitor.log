@@ -18145,3 +18145,10 @@
 2026-09-08 21:15:49,140 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-08 21:15:49,306 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-08 21:15:49,312 INFO === Run finished ===
+2026-09-08 21:16:11,804 INFO === Run started ===
+2026-09-08 21:16:44,956 INFO NEW/RESTOCKED products detected: 2
+2026-09-08 21:16:44,956 INFO   NEW: Mandom Body Wipes Ci | $3.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13465&limit=100
+2026-09-08 21:16:44,956 INFO   NEW: CEZANNE Lipstick 02 | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25729&limit=100
+2026-09-08 21:16:46,059 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-08 21:16:46,375 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-08 21:16:46,381 INFO === Run finished ===
