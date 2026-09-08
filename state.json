@@ -906,6 +906,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19510&limit=100",
       "stock": "n/a"
     },
+    "21297": {
+      "name": "Lovisia Kirby Hairba",
+      "price": "$8.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21297&limit=100",
+      "stock": "n/a"
+    },
     "19511": {
       "name": "SLO My Melody Bangs",
       "price": "$4.19",
@@ -2710,6 +2716,12 @@
       "name": "Lion Clinica Mouthwa",
       "price": "$3.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10024&limit=100",
+      "stock": "n/a"
+    },
+    "21289": {
+      "name": "PIERAS SLO Mouthwash",
+      "price": "$5.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21289&limit=100",
       "stock": "n/a"
     },
     "12097": {
@@ -6452,6 +6464,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-08T21:41:43",
-  "last_count": 1075
+  "last_run": "2026-09-08T21:42:49",
+  "last_count": 1077
 }
