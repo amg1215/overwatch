@@ -1596,6 +1596,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30896&limit=100",
       "stock": "n/a"
     },
+    "26073": {
+      "name": "Attenir Cleansing Oi",
+      "price": "$16.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26073&limit=100",
+      "stock": "n/a"
+    },
     "10137": {
       "name": "Shiseido Collagen Fa",
       "price": "$5.39",
@@ -6482,6 +6488,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-08T22:04:20",
-  "last_count": 1080
+  "last_run": "2026-09-08T22:06:13",
+  "last_count": 1081
 }
