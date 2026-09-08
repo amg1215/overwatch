@@ -2532,6 +2532,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22170&limit=100",
       "stock": "n/a"
     },
+    "22171": {
+      "name": "Dariya Salon de Pro",
+      "price": "$5.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22171&limit=100",
+      "stock": "n/a"
+    },
     "9308": {
       "name": "Lion Max Toothpaste",
       "price": "$1.88",
@@ -6296,6 +6302,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-08T20:33:45",
-  "last_count": 1049
+  "last_run": "2026-09-08T20:34:39",
+  "last_count": 1050
 }
