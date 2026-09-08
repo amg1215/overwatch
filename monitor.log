@@ -17897,3 +17897,11 @@
 2026-09-08 20:11:29,762 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-08 20:11:29,912 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-08 20:11:29,918 INFO === Run finished ===
+2026-09-08 20:12:12,335 INFO === Run started ===
+2026-09-08 20:12:29,878 INFO NEW/RESTOCKED products detected: 3
+2026-09-08 20:12:29,878 INFO   NEW: KISSME Eyelash Makeu | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26081&limit=100
+2026-09-08 20:12:29,878 INFO   NEW: Spa Treatment HAS Fi | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30897&limit=100
+2026-09-08 20:12:29,879 INFO   NEW: SMISKI Incredible Li | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29937&limit=100
+2026-09-08 20:12:31,139 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-08 20:12:31,254 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-08 20:12:31,260 INFO === Run finished ===
