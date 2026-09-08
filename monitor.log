@@ -18225,3 +18225,9 @@
 2026-09-08 21:33:43,930 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-08 21:33:44,169 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-08 21:33:44,174 INFO === Run finished ===
+2026-09-08 21:34:12,444 INFO === Run started ===
+2026-09-08 21:34:52,546 INFO NEW/RESTOCKED products detected: 1
+2026-09-08 21:34:52,546 INFO   NEW: FIANCEE Body Mist Me | $11.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22123&limit=100
+2026-09-08 21:34:53,987 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-08 21:34:54,155 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-08 21:34:54,162 INFO === Run finished ===
