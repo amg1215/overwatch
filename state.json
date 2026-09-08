@@ -1992,6 +1992,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7259&limit=100",
       "stock": "n/a"
     },
+    "7262": {
+      "name": "D-UP Liquid Eyeliner",
+      "price": "$13.40",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7262&limit=100",
+      "stock": "n/a"
+    },
     "4510": {
       "name": "Koji Spring Heart Li",
       "price": "$3.56",
@@ -2056,6 +2062,12 @@
       "name": "KISSME Eyebrow Cream",
       "price": "$7.69",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13856&limit=100",
+      "stock": "n/a"
+    },
+    "13860": {
+      "name": "KISSME Eyebrow Cream",
+      "price": "$7.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13860&limit=100",
       "stock": "n/a"
     },
     "13858": {
@@ -6338,6 +6350,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-08T21:12:50",
-  "last_count": 1056
+  "last_run": "2026-09-08T21:13:48",
+  "last_count": 1058
 }
