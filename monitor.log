@@ -18080,3 +18080,9 @@
 2026-09-08 20:57:15,680 INFO === Run started ===
 2026-09-08 20:57:48,003 INFO No new products (1056 tracked)
 2026-09-08 20:57:48,009 INFO === Run finished ===
+2026-09-08 20:58:11,135 INFO === Run started ===
+2026-09-08 20:58:43,165 INFO NEW/RESTOCKED products detected: 1
+2026-09-08 20:58:43,165 INFO   NEW: Kao Nivea Essence Su | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10830&limit=100
+2026-09-08 20:58:44,112 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-08 20:58:44,502 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-08 20:58:44,510 INFO === Run finished ===
