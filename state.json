@@ -5046,12 +5046,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14522&limit=100",
       "stock": "n/a"
     },
-    "24228": {
-      "name": "Orion Cutie Pie Stra",
-      "price": "$4.49",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24228&limit=100",
-      "stock": "n/a"
-    },
     "29731": {
       "name": "Orion Choco Pie Clas",
       "price": "$4.49",
@@ -6230,6 +6224,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-08T18:23:04",
-  "last_count": 1038
+  "last_run": "2026-09-08T18:24:37",
+  "last_count": 1037
 }
