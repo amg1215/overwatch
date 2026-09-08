@@ -1974,6 +1974,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28939&limit=100",
       "stock": "n/a"
     },
+    "7256": {
+      "name": "D-UP Perfect Extensi",
+      "price": "$14.24",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7256&limit=100",
+      "stock": "n/a"
+    },
     "7259": {
       "name": "D-UP Perfect Extensi",
       "price": "$14.24",
@@ -6308,6 +6314,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-08T20:44:40",
-  "last_count": 1051
+  "last_run": "2026-09-08T20:45:49",
+  "last_count": 1052
 }

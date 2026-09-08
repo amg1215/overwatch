@@ -18028,3 +18028,9 @@
 2026-09-08 20:44:12,076 INFO === Run started ===
 2026-09-08 20:44:40,277 INFO No new products (1051 tracked)
 2026-09-08 20:44:40,283 INFO === Run finished ===
+2026-09-08 20:45:19,023 INFO === Run started ===
+2026-09-08 20:45:47,529 INFO NEW/RESTOCKED products detected: 1
+2026-09-08 20:45:47,530 INFO   NEW: D-UP Perfect Extensi | $14.24 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7256&limit=100
+2026-09-08 20:45:48,785 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-08 20:45:49,019 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-08 20:45:49,025 INFO === Run finished ===
