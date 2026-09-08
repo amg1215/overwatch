@@ -18268,3 +18268,10 @@
 2026-09-08 21:44:13,682 INFO === Run started ===
 2026-09-08 21:44:47,228 INFO No new products (1077 tracked)
 2026-09-08 21:44:47,234 INFO === Run finished ===
+2026-09-08 21:45:24,189 INFO === Run started ===
+2026-09-08 21:45:55,938 INFO NEW/RESTOCKED products detected: 2
+2026-09-08 21:45:55,938 INFO   NEW: Lovisia Kirby Hairba | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21299&limit=100
+2026-09-08 21:45:55,938 INFO   NEW: Kissme Liquid Eyelin | $10.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4560&limit=100
+2026-09-08 21:45:58,139 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-08 21:45:58,352 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-08 21:45:58,357 INFO === Run finished ===
