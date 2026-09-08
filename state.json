@@ -1944,6 +1944,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10692&limit=100",
       "stock": "n/a"
     },
+    "25734": {
+      "name": "KISSME Eyeliner Gel",
+      "price": "$8.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25734&limit=100",
+      "stock": "n/a"
+    },
     "25735": {
       "name": "KISSME Eyeliner Gel",
       "price": "$8.99",
@@ -6254,6 +6260,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-08T20:13:32",
-  "last_count": 1042
+  "last_run": "2026-09-08T20:14:34",
+  "last_count": 1043
 }

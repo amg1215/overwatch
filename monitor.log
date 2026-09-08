@@ -17911,3 +17911,9 @@
 2026-09-08 20:13:32,688 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-08 20:13:32,931 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-08 20:13:32,938 INFO === Run finished ===
+2026-09-08 20:14:12,943 INFO === Run started ===
+2026-09-08 20:14:33,002 INFO NEW/RESTOCKED products detected: 1
+2026-09-08 20:14:33,002 INFO   NEW: KISSME Eyeliner Gel | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25734&limit=100
+2026-09-08 20:14:34,495 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-08 20:14:34,834 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-08 20:14:34,841 INFO === Run finished ===
