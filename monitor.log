@@ -18016,3 +18016,9 @@
 2026-09-08 20:41:10,235 INFO === Run started ===
 2026-09-08 20:41:36,078 INFO No new products (1050 tracked)
 2026-09-08 20:41:36,084 INFO === Run finished ===
+2026-09-08 20:42:13,071 INFO === Run started ===
+2026-09-08 20:42:32,311 INFO NEW/RESTOCKED products detected: 1
+2026-09-08 20:42:32,311 INFO   NEW: ROSY ROSA Eyebrow Ra | $8.03 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22154&limit=100
+2026-09-08 20:42:33,385 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-08 20:42:33,457 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-08 20:42:33,465 INFO === Run finished ===
