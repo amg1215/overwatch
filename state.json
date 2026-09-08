@@ -1962,6 +1962,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28939&limit=100",
       "stock": "n/a"
     },
+    "7259": {
+      "name": "D-UP Perfect Extensi",
+      "price": "$14.24",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7259&limit=100",
+      "stock": "n/a"
+    },
     "4510": {
       "name": "Koji Spring Heart Li",
       "price": "$3.56",
@@ -6260,6 +6266,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-08T20:14:34",
-  "last_count": 1043
+  "last_run": "2026-09-08T20:15:36",
+  "last_count": 1044
 }
