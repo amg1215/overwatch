@@ -18192,3 +18192,9 @@
 2026-09-08 21:25:46,644 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-08 21:25:46,939 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-08 21:25:46,946 INFO === Run finished ===
+2026-09-08 21:26:13,933 INFO === Run started ===
+2026-09-08 21:26:45,722 INFO NEW/RESTOCKED products detected: 1
+2026-09-08 21:26:45,722 INFO   NEW: Kissme Volume & Curl | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11116&limit=100
+2026-09-08 21:26:48,031 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-08 21:26:48,219 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-08 21:26:48,225 INFO === Run finished ===
