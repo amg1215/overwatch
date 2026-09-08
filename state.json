@@ -1608,6 +1608,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30897&limit=100",
       "stock": "n/a"
     },
+    "22112": {
+      "name": "SHO-BI mofusand Rabb",
+      "price": "$3.52",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22112&limit=100",
+      "stock": "n/a"
+    },
     "22113": {
       "name": "SHO-BI Mofusand Faci",
       "price": "$3.52",
@@ -6248,6 +6254,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-08T20:12:31",
-  "last_count": 1041
+  "last_run": "2026-09-08T20:13:32",
+  "last_count": 1042
 }
