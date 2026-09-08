@@ -5376,12 +5376,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15537&limit=100",
       "stock": "n/a"
     },
-    "15536": {
-      "name": "Frito-Lay Corn Stick",
-      "price": "$1.44",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15536&limit=100",
-      "stock": "n/a"
-    },
     "30490": {
       "name": "YBC Airreal Corn Puf",
       "price": "$1.45",
@@ -6224,6 +6218,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-08T13:58:34",
-  "last_count": 1037
+  "last_run": "2026-09-08T13:59:46",
+  "last_count": 1036
 }
