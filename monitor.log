@@ -18231,3 +18231,9 @@
 2026-09-08 21:34:53,987 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-08 21:34:54,155 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-08 21:34:54,162 INFO === Run finished ===
+2026-09-08 21:35:17,018 INFO === Run started ===
+2026-09-08 21:35:48,243 INFO NEW/RESTOCKED products detected: 1
+2026-09-08 21:35:48,244 INFO   NEW: Kissme Long & Curl M | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=333&limit=100
+2026-09-08 21:35:49,596 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-08 21:35:50,551 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-08 21:35:50,558 INFO === Run finished ===
