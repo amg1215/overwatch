@@ -17102,3 +17102,9 @@
 2026-09-08 15:45:14,612 INFO === Run started ===
 2026-09-08 15:45:31,810 INFO No new products (1037 tracked)
 2026-09-08 15:45:31,815 INFO === Run finished ===
+2026-09-08 15:46:14,523 INFO === Run started ===
+2026-09-08 15:46:50,054 INFO NEW/RESTOCKED products detected: 1
+2026-09-08 15:46:50,055 INFO   NEW: Cezanne Highlighter | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24253&limit=100
+2026-09-08 15:46:51,862 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-08 15:46:52,204 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-08 15:46:52,211 INFO === Run finished ===
