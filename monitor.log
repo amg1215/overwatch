@@ -18064,3 +18064,10 @@
 2026-09-08 20:53:10,910 INFO === Run started ===
 2026-09-08 20:53:42,236 INFO No new products (1054 tracked)
 2026-09-08 20:53:42,242 INFO === Run finished ===
+2026-09-08 20:54:14,807 INFO === Run started ===
+2026-09-08 20:54:47,474 INFO NEW/RESTOCKED products detected: 2
+2026-09-08 20:54:47,474 INFO   NEW: D-UP Perfect Extensi | $14.24 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7258&limit=100
+2026-09-08 20:54:47,474 INFO   NEW: Techxcel Okuchi Port | $2.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8102&limit=100
+2026-09-08 20:54:49,212 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-08 20:54:49,964 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-08 20:54:49,971 INFO === Run finished ===

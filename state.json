@@ -1980,6 +1980,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7256&limit=100",
       "stock": "n/a"
     },
+    "7258": {
+      "name": "D-UP Perfect Extensi",
+      "price": "$14.24",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7258&limit=100",
+      "stock": "n/a"
+    },
     "7259": {
       "name": "D-UP Perfect Extensi",
       "price": "$14.24",
@@ -2572,6 +2578,12 @@
       "name": "Sato ACESS Care Toot",
       "price": "$10.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5529&limit=100",
+      "stock": "n/a"
+    },
+    "8102": {
+      "name": "Techxcel Okuchi Port",
+      "price": "$2.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8102&limit=100",
       "stock": "n/a"
     },
     "18769": {
@@ -6326,6 +6338,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-08T20:53:42",
-  "last_count": 1054
+  "last_run": "2026-09-08T20:54:49",
+  "last_count": 1056
 }
