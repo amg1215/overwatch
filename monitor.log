@@ -16741,3 +16741,10 @@
 2026-09-08 13:45:15,927 INFO === Run started ===
 2026-09-08 13:45:37,254 INFO No new products (1037 tracked)
 2026-09-08 13:45:37,260 INFO === Run finished ===
+2026-09-08 13:46:15,621 INFO === Run started ===
+2026-09-08 13:46:39,646 INFO NEW/RESTOCKED products detected: 2
+2026-09-08 13:46:39,646 INFO   NEW: Kao Curel Body Wash | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5002&limit=100
+2026-09-08 13:46:39,646 INFO   NEW: Moetch Hello Kitty G | $8.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25669&limit=100
+2026-09-08 13:46:40,759 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-08 13:46:41,040 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-08 13:46:41,047 INFO === Run finished ===
