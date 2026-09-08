@@ -18164,3 +18164,10 @@
 2026-09-08 21:19:47,814 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-08 21:19:48,105 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-08 21:19:48,112 INFO === Run finished ===
+2026-09-08 21:20:15,701 INFO === Run started ===
+2026-09-08 21:20:47,960 INFO NEW/RESTOCKED products detected: 2
+2026-09-08 21:20:47,961 INFO   NEW: White Conc VC Body L | $9.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8929&limit=100
+2026-09-08 21:20:47,961 INFO   NEW: White Conc VC body G | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9692&limit=100
+2026-09-08 21:20:49,353 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-08 21:20:49,517 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-08 21:20:49,522 INFO === Run finished ===
