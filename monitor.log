@@ -18152,3 +18152,9 @@
 2026-09-08 21:16:46,059 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-08 21:16:46,375 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-08 21:16:46,381 INFO === Run finished ===
+2026-09-08 21:17:46,984 INFO === Run started ===
+2026-09-08 21:18:19,038 INFO NEW/RESTOCKED products detected: 1
+2026-09-08 21:18:19,038 INFO   NEW: SMISKI Incredible Li | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29936&limit=100
+2026-09-08 21:18:20,470 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-08 21:18:20,643 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-08 21:18:20,649 INFO === Run finished ===
