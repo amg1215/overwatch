@@ -2370,6 +2370,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15246&limit=100",
       "stock": "n/a"
     },
+    "14434": {
+      "name": "Unicharm Smooth Cosm",
+      "price": "$1.55",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14434&limit=100",
+      "stock": "n/a"
+    },
     "9906": {
       "name": "Unicharm Makeup cott",
       "price": "$2.05",
@@ -6446,6 +6452,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T15:13:36",
-  "last_count": 1074
+  "last_run": "2026-09-09T15:14:49",
+  "last_count": 1075
 }
