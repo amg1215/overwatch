@@ -5802,6 +5802,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30060&limit=100",
       "stock": "n/a"
     },
+    "30487": {
+      "name": "Morinaga Baked Choco",
+      "price": "$2.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30487&limit=100",
+      "stock": "n/a"
+    },
     "13693": {
       "name": "Lotte Koala Shape Ch",
       "price": "$3.53",
@@ -6812,6 +6818,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T20:29:33",
-  "last_count": 1135
+  "last_run": "2026-09-09T20:30:41",
+  "last_count": 1136
 }
