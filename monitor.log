@@ -19080,3 +19080,9 @@
 2026-09-09 14:10:45,491 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-09 14:10:45,548 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-09 14:10:45,555 INFO === Run finished ===
+2026-09-09 14:11:14,605 INFO === Run started ===
+2026-09-09 14:11:37,584 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 14:11:37,584 INFO   NEW: EAKI The Apothecary | $14.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31397&limit=100
+2026-09-09 14:11:39,290 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 14:11:39,573 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 14:11:39,580 INFO === Run finished ===
