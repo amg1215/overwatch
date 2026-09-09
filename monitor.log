@@ -19463,3 +19463,9 @@
 2026-09-09 15:50:16,329 INFO === Run started ===
 2026-09-09 15:50:47,386 INFO No new products (1084 tracked)
 2026-09-09 15:50:47,393 INFO === Run finished ===
+2026-09-09 15:51:11,445 INFO === Run started ===
+2026-09-09 15:51:41,126 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 15:51:41,126 INFO   NEW: Sega Rascal Does Not | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30473&limit=100
+2026-09-09 15:51:42,481 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 15:51:42,612 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 15:51:42,619 INFO === Run finished ===
