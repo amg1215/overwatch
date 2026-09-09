@@ -20221,3 +20221,9 @@
 2026-09-09 19:39:49,154 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-09 19:39:49,320 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-09 19:39:49,327 INFO === Run finished ===
+2026-09-09 19:40:19,826 INFO === Run started ===
+2026-09-09 19:40:39,173 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 19:40:39,173 INFO   NEW: COW Skin Life Foam S | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4219&limit=100
+2026-09-09 19:40:41,882 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 19:40:42,069 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 19:40:42,076 INFO === Run finished ===
