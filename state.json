@@ -3180,6 +3180,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22171&limit=100",
       "stock": "n/a"
     },
+    "9317": {
+      "name": "Kissyou Toothbrush M",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9317&limit=100",
+      "stock": "n/a"
+    },
     "9308": {
       "name": "Lion Max Toothpaste",
       "price": "$1.88",
@@ -7010,6 +7016,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T21:32:35",
-  "last_count": 1168
+  "last_run": "2026-09-09T21:33:38",
+  "last_count": 1169
 }
