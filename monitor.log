@@ -19293,3 +19293,10 @@
 2026-09-09 15:06:42,041 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-09 15:06:42,284 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-09 15:06:42,291 INFO === Run finished ===
+2026-09-09 15:07:13,853 INFO === Run started ===
+2026-09-09 15:07:41,499 INFO NEW/RESTOCKED products detected: 2
+2026-09-09 15:07:41,499 INFO   NEW: Kracie HIMAWARI Sunf | $8.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7802&limit=100
+2026-09-09 15:07:41,499 INFO   NEW: BANDAI SPIRITS SLO C | $0.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30498&limit=100
+2026-09-09 15:07:42,643 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-09 15:07:42,936 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-09 15:07:42,943 INFO === Run finished ===
