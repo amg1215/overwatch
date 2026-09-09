@@ -19164,3 +19164,10 @@
 2026-09-09 14:32:49,723 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-09 14:32:49,890 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-09 14:32:49,894 INFO === Run finished ===
+2026-09-09 14:33:13,405 INFO === Run started ===
+2026-09-09 14:33:36,938 INFO NEW/RESTOCKED products detected: 2
+2026-09-09 14:33:36,939 INFO   NEW: ROSY ROSA Make-up Co | $3.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22148&limit=100
+2026-09-09 14:33:36,939 INFO   NEW: Rosy Rosa Black Make | $4.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22157&limit=100
+2026-09-09 14:33:38,276 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-09 14:33:38,588 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-09 14:33:38,594 INFO === Run finished ===

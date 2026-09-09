@@ -2292,6 +2292,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22145&limit=100",
       "stock": "n/a"
     },
+    "22148": {
+      "name": "ROSY ROSA Make-up Co",
+      "price": "$3.29",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22148&limit=100",
+      "stock": "n/a"
+    },
     "22151": {
       "name": "ROSY ROSA Beauty Ble",
       "price": "$3.47",
@@ -2308,6 +2314,12 @@
       "name": "ROSY ROSA Eyebrow Ra",
       "price": "$8.03",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22154&limit=100",
+      "stock": "n/a"
+    },
+    "22157": {
+      "name": "Rosy Rosa Black Make",
+      "price": "$4.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22157&limit=100",
       "stock": "n/a"
     },
     "350": {
@@ -6392,6 +6404,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T14:32:49",
-  "last_count": 1065
+  "last_run": "2026-09-09T14:33:38",
+  "last_count": 1067
 }
