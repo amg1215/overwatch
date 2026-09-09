@@ -20540,3 +20540,10 @@
 2026-09-09 21:04:18,182 INFO === Run started ===
 2026-09-09 21:04:36,900 INFO No new products (1147 tracked)
 2026-09-09 21:04:36,907 INFO === Run finished ===
+2026-09-09 21:05:16,656 INFO === Run started ===
+2026-09-09 21:05:36,211 INFO NEW/RESTOCKED products detected: 2
+2026-09-09 21:05:36,211 INFO   NEW: Uyeki Mite Repelent | $10.23 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9870&limit=100
+2026-09-09 21:05:36,211 INFO   NEW: BANDAI SPIRITS Kinni | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30502&limit=100
+2026-09-09 21:05:37,969 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-09 21:05:38,660 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-09 21:05:38,667 INFO === Run finished ===
