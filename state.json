@@ -4266,6 +4266,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3224&limit=100",
       "stock": "n/a"
     },
+    "30210": {
+      "name": "K Company SLO Sunbur",
+      "price": "$11.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30210&limit=100",
+      "stock": "n/a"
+    },
     "30211": {
       "name": "K Company SLO Sunbur",
       "price": "$11.99",
@@ -6944,6 +6950,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T21:18:36",
-  "last_count": 1157
+  "last_run": "2026-09-09T21:19:36",
+  "last_count": 1158
 }

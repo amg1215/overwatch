@@ -20608,3 +20608,9 @@
 2026-09-09 21:18:36,352 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-09 21:18:36,846 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-09 21:18:36,854 INFO === Run finished ===
+2026-09-09 21:19:14,839 INFO === Run started ===
+2026-09-09 21:19:34,366 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 21:19:34,366 INFO   NEW: K Company SLO Sunbur | $11.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30210&limit=100
+2026-09-09 21:19:36,247 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 21:19:36,508 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 21:19:36,516 INFO === Run finished ===
