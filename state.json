@@ -2862,6 +2862,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5002&limit=100",
       "stock": "n/a"
     },
+    "5004": {
+      "name": "Kao Curel Foam Body",
+      "price": "$10.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5004&limit=100",
+      "stock": "n/a"
+    },
     "3850": {
       "name": "COW Bouncia Body Soa",
       "price": "$3.59",
@@ -6668,6 +6674,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T17:44:33",
-  "last_count": 1111
+  "last_run": "2026-09-09T17:45:39",
+  "last_count": 1112
 }
