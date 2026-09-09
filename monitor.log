@@ -20335,3 +20335,10 @@
 2026-09-09 20:13:12,610 INFO === Run started ===
 2026-09-09 20:13:35,389 INFO No new products (1131 tracked)
 2026-09-09 20:13:35,395 INFO === Run finished ===
+2026-09-09 20:14:13,981 INFO === Run started ===
+2026-09-09 20:14:33,305 INFO NEW/RESTOCKED products detected: 2
+2026-09-09 20:14:33,305 INFO   NEW: FuRyu Nachoneko Trio | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30472&limit=100
+2026-09-09 20:14:33,305 INFO   NEW: Heart Food Toys BT21 | $2.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30492&limit=100
+2026-09-09 20:14:35,958 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-09 20:14:36,198 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-09 20:14:36,208 INFO === Run finished ===

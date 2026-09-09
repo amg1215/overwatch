@@ -4536,6 +4536,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30113&limit=100",
       "stock": "n/a"
     },
+    "30472": {
+      "name": "FuRyu Nachoneko Trio",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30472&limit=100",
+      "stock": "n/a"
+    },
     "29528": {
       "name": "FuRyu Mononoke the M",
       "price": "$23.99",
@@ -6198,6 +6204,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30129&limit=100",
       "stock": "n/a"
     },
+    "30492": {
+      "name": "Heart Food Toys BT21",
+      "price": "$2.29",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30492&limit=100",
+      "stock": "n/a"
+    },
     "30877": {
       "name": "Itoen Nippon Ale Miy",
       "price": "$1.45",
@@ -6788,6 +6800,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T20:13:35",
-  "last_count": 1131
+  "last_run": "2026-09-09T20:14:36",
+  "last_count": 1133
 }
