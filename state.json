@@ -1722,6 +1722,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11034&limit=100",
       "stock": "n/a"
     },
+    "3459": {
+      "name": "Skater Hooded Cloak",
+      "price": "$19.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3459&limit=100",
+      "stock": "n/a"
+    },
     "3460": {
       "name": "Skater Hooded Cloak",
       "price": "$19.19",
@@ -6818,6 +6824,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T20:36:35",
-  "last_count": 1136
+  "last_run": "2026-09-09T20:37:36",
+  "last_count": 1137
 }
