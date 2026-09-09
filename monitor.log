@@ -19545,3 +19545,9 @@
 2026-09-09 16:13:10,789 INFO === Run started ===
 2026-09-09 16:13:41,820 INFO No new products (1094 tracked)
 2026-09-09 16:13:41,826 INFO === Run finished ===
+2026-09-09 16:14:26,034 INFO === Run started ===
+2026-09-09 16:14:59,130 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 16:14:59,130 INFO   NEW: COW Hand Soap Additi | $4.94 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9524&limit=100
+2026-09-09 16:15:00,574 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 16:15:00,785 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 16:15:00,789 INFO === Run finished ===

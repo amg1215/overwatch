@@ -2790,6 +2790,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23903&limit=100",
       "stock": "n/a"
     },
+    "9524": {
+      "name": "COW Hand Soap Additi",
+      "price": "$4.94",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9524&limit=100",
+      "stock": "n/a"
+    },
     "14117": {
       "name": "MARO Cooling Shower",
       "price": "$7.59",
@@ -6566,6 +6572,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T16:13:41",
-  "last_count": 1094
+  "last_run": "2026-09-09T16:15:00",
+  "last_count": 1095
 }
