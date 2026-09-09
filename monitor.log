@@ -19403,3 +19403,10 @@
 2026-09-09 15:35:47,765 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-09 15:35:48,020 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-09 15:35:48,027 INFO === Run finished ===
+2026-09-09 15:36:14,254 INFO === Run started ===
+2026-09-09 15:36:46,947 INFO NEW/RESTOCKED products detected: 2
+2026-09-09 15:36:46,948 INFO   NEW: Skater Children's To | $3.42 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13755&limit=100
+2026-09-09 15:36:46,948 INFO   NEW: SKATER SLO Kuromi x | $4.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19893&limit=100
+2026-09-09 15:36:47,819 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-09 15:36:47,867 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-09 15:36:47,873 INFO === Run finished ===

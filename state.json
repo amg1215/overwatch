@@ -78,6 +78,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16393&limit=100",
       "stock": "n/a"
     },
+    "13755": {
+      "name": "Skater Children's To",
+      "price": "$3.42",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13755&limit=100",
+      "stock": "n/a"
+    },
     "2280": {
       "name": "Sanyo Baby Cotton Sw",
       "price": "$2.25",
@@ -502,6 +508,12 @@
       "name": "Skater Acrylic Chops",
       "price": "$3.17",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10069&limit=100",
+      "stock": "n/a"
+    },
+    "19893": {
+      "name": "SKATER SLO Kuromi x",
+      "price": "$4.53",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19893&limit=100",
       "stock": "n/a"
     },
     "19896": {
@@ -6464,6 +6476,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T15:35:48",
-  "last_count": 1077
+  "last_run": "2026-09-09T15:36:47",
+  "last_count": 1079
 }
