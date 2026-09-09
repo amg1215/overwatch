@@ -4488,6 +4488,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30401&limit=100",
       "stock": "n/a"
     },
+    "30113": {
+      "name": "FuRyu Hatsune Miku T",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30113&limit=100",
+      "stock": "n/a"
+    },
     "29528": {
       "name": "FuRyu Mononoke the M",
       "price": "$23.99",
@@ -6692,6 +6698,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T19:17:28",
-  "last_count": 1115
+  "last_run": "2026-09-09T19:18:30",
+  "last_count": 1116
 }
