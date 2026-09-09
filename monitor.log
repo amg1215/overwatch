@@ -20439,3 +20439,10 @@
 2026-09-09 20:41:36,409 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-09 20:41:36,660 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-09 20:41:36,667 INFO === Run finished ===
+2026-09-09 20:42:12,721 INFO === Run started ===
+2026-09-09 20:42:31,737 INFO NEW/RESTOCKED products detected: 2
+2026-09-09 20:42:31,737 INFO   NEW: Wakacho Bamboo Chops | $0.58 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=254&limit=100
+2026-09-09 20:42:31,737 INFO   NEW: BANDAI HGBF Gundam B | $19.01 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30496&limit=100
+2026-09-09 20:42:32,776 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-09 20:42:33,012 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-09 20:42:33,019 INFO === Run finished ===
