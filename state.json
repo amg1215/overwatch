@@ -3318,12 +3318,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26515&limit=100",
       "stock": "n/a"
     },
-    "31391": {
-      "name": "EAKI Bocchi the Rock",
-      "price": "$2.34",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31391&limit=100",
-      "stock": "n/a"
-    },
     "31387": {
       "name": "EAKI Naruto Beast Pa",
       "price": "$14.29",
@@ -6446,6 +6440,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T15:29:43",
-  "last_count": 1074
+  "last_run": "2026-09-09T15:30:51",
+  "last_count": 1073
 }
