@@ -20632,3 +20632,9 @@
 2026-09-09 21:23:31,287 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-09 21:23:31,599 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-09 21:23:31,604 INFO === Run finished ===
+2026-09-09 21:24:12,133 INFO === Run started ===
+2026-09-09 21:24:28,994 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 21:24:28,994 INFO   NEW: T's Factory SLO Kuro | $10.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15171&limit=100
+2026-09-09 21:24:30,363 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 21:24:30,667 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 21:24:30,674 INFO === Run finished ===
