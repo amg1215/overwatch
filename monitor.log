@@ -19189,3 +19189,11 @@
 2026-09-09 14:38:12,188 INFO === Run started ===
 2026-09-09 14:39:08,268 INFO No new products (1068 tracked)
 2026-09-09 14:39:08,274 INFO === Run finished ===
+2026-09-09 14:40:20,289 INFO === Run started ===
+2026-09-09 14:40:47,672 INFO NEW/RESTOCKED products detected: 3
+2026-09-09 14:40:47,672 INFO   NEW: Nakaya Freille Colan | $1.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7409&limit=100
+2026-09-09 14:40:47,672 INFO   NEW: K Company SLO Sunbur | $11.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30211&limit=100
+2026-09-09 14:40:47,672 INFO   NEW: K Company SLO Sunbur | $11.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30212&limit=100
+2026-09-09 14:40:49,374 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-09 14:40:49,828 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-09 14:40:49,837 INFO === Run finished ===
