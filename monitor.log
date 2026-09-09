@@ -19041,3 +19041,9 @@
 2026-09-09 14:00:22,628 INFO === Run started ===
 2026-09-09 14:00:43,476 INFO No new products (1074 tracked)
 2026-09-09 14:00:43,480 INFO === Run finished ===
+2026-09-09 14:01:14,752 INFO === Run started ===
+2026-09-09 14:01:35,440 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 14:01:35,440 INFO   NEW: White Conc VC Body C | $7.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9335&limit=100
+2026-09-09 14:01:38,377 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 14:01:38,622 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 14:01:38,629 INFO === Run finished ===
