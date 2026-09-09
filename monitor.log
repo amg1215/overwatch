@@ -20601,3 +20601,10 @@
 2026-09-09 21:17:09,805 INFO === Run started ===
 2026-09-09 21:17:26,929 INFO No new products (1155 tracked)
 2026-09-09 21:17:26,935 INFO === Run finished ===
+2026-09-09 21:18:15,233 INFO === Run started ===
+2026-09-09 21:18:34,561 INFO NEW/RESTOCKED products detected: 2
+2026-09-09 21:18:34,561 INFO   NEW: John's Blend Fabric | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3635&limit=100
+2026-09-09 21:18:34,561 INFO   NEW: John's Blend Solid O | $6.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3639&limit=100
+2026-09-09 21:18:36,352 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-09 21:18:36,846 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-09 21:18:36,854 INFO === Run finished ===

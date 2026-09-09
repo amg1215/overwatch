@@ -1140,6 +1140,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15696&limit=100",
       "stock": "n/a"
     },
+    "3635": {
+      "name": "John's Blend Fabric",
+      "price": "$10.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3635&limit=100",
+      "stock": "n/a"
+    },
     "1222": {
       "name": "Lion Laundry Deterge",
       "price": "$2.88",
@@ -1234,6 +1240,12 @@
       "name": "John's Blend Solid O",
       "price": "$6.39",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3640&limit=100",
+      "stock": "n/a"
+    },
+    "3639": {
+      "name": "John's Blend Solid O",
+      "price": "$6.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3639&limit=100",
       "stock": "n/a"
     },
     "3643": {
@@ -6932,6 +6944,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T21:17:26",
-  "last_count": 1155
+  "last_run": "2026-09-09T21:18:36",
+  "last_count": 1157
 }
