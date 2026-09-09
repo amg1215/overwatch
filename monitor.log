@@ -20432,3 +20432,10 @@
 2026-09-09 20:40:19,181 INFO === Run started ===
 2026-09-09 20:40:38,219 INFO No new products (1137 tracked)
 2026-09-09 20:40:38,225 INFO === Run finished ===
+2026-09-09 20:41:12,319 INFO === Run started ===
+2026-09-09 20:41:34,612 INFO NEW/RESTOCKED products detected: 2
+2026-09-09 20:41:34,612 INFO   NEW: Kokubo Yolk Separato | $1.32 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7280&limit=100
+2026-09-09 20:41:34,612 INFO   NEW: BANDAI SPIRITS Jujut | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19762&limit=100
+2026-09-09 20:41:36,409 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-09 20:41:36,660 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-09 20:41:36,667 INFO === Run finished ===
