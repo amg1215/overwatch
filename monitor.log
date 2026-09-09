@@ -19116,3 +19116,9 @@
 2026-09-09 14:20:44,508 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-09 14:20:44,933 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-09 14:20:44,939 INFO === Run finished ===
+2026-09-09 14:21:12,286 INFO === Run started ===
+2026-09-09 14:21:34,988 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 14:21:34,988 INFO   NEW: Lovisia Kirby Hairba | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21298&limit=100
+2026-09-09 14:21:37,809 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 14:21:37,858 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 14:21:37,865 INFO === Run finished ===
