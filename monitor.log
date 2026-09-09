@@ -19528,3 +19528,11 @@
 2026-09-09 16:09:01,339 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-09 16:09:01,544 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-09 16:09:01,552 INFO === Run finished ===
+2026-09-09 16:10:20,035 INFO === Run started ===
+2026-09-09 16:10:53,661 INFO NEW/RESTOCKED products detected: 3
+2026-09-09 16:10:53,661 INFO   NEW: BANDAI SPIRITS Drago | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30500&limit=100
+2026-09-09 16:10:53,661 INFO   NEW: BANDAI SPIRITS DELTA | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30501&limit=100
+2026-09-09 16:10:53,661 INFO   NEW: FuRyu InuYasha Trio- | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29840&limit=100
+2026-09-09 16:10:56,276 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-09 16:10:56,459 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-09 16:10:56,467 INFO === Run finished ===
