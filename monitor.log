@@ -20746,3 +20746,10 @@
 2026-09-09 21:49:16,282 INFO === Run started ===
 2026-09-09 21:49:33,487 INFO No new products (1177 tracked)
 2026-09-09 21:49:33,491 INFO === Run finished ===
+2026-09-09 21:50:17,761 INFO === Run started ===
+2026-09-09 21:50:45,468 INFO NEW/RESTOCKED products detected: 2
+2026-09-09 21:50:45,468 INFO   NEW: EAKI Shinobi Assembl | $3.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31382&limit=100
+2026-09-09 21:50:45,468 INFO   NEW: SAN-EI Pokemon Mimik | $13.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21056&limit=100
+2026-09-09 21:50:47,407 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-09 21:50:47,669 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-09 21:50:47,677 INFO === Run finished ===
