@@ -20495,3 +20495,9 @@
 2026-09-09 20:55:21,622 INFO === Run started ===
 2026-09-09 20:55:42,631 INFO No new products (1146 tracked)
 2026-09-09 20:55:42,636 INFO === Run finished ===
+2026-09-09 20:56:16,053 INFO === Run started ===
+2026-09-09 20:56:33,800 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 20:56:33,800 INFO   NEW: Kracie Naive Cleansi | $3.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22601&limit=100
+2026-09-09 20:56:40,546 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 20:56:40,726 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 20:56:40,730 INFO === Run finished ===
