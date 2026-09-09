@@ -1,5 +1,11 @@
 {
   "products": {
+    "30178": {
+      "name": "BANDAI Surprise Egg",
+      "price": "$5.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30178&limit=100",
+      "stock": "n/a"
+    },
     "3845": {
       "name": "U-company Bounce Up",
       "price": "$3.17",
@@ -6428,6 +6434,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T14:40:49",
-  "last_count": 1071
+  "last_run": "2026-09-09T14:41:40",
+  "last_count": 1072
 }
