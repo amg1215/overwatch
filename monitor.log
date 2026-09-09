@@ -19506,3 +19506,10 @@
 2026-09-09 16:03:11,889 INFO === Run started ===
 2026-09-09 16:03:45,716 INFO No new products (1087 tracked)
 2026-09-09 16:03:45,722 INFO === Run finished ===
+2026-09-09 16:04:12,549 INFO === Run started ===
+2026-09-09 16:04:45,110 INFO NEW/RESTOCKED products detected: 2
+2026-09-09 16:04:45,110 INFO   NEW: Skater Training Chop | $7.17 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4077&limit=100
+2026-09-09 16:04:45,110 INFO   NEW: Kokubo deLijoy Spher | $1.44 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8288&limit=100
+2026-09-09 16:04:46,833 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-09 16:04:47,116 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-09 16:04:47,122 INFO === Run finished ===
