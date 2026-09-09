@@ -6000,12 +6000,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4109&limit=100",
       "stock": "n/a"
     },
-    "4108": {
-      "name": "Asahi Calpico Mango",
-      "price": "$1.79",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4108&limit=100",
-      "stock": "n/a"
-    },
     "2336": {
       "name": "Asahi Calpico Melon",
       "price": "$1.79",
@@ -6452,6 +6446,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T13:54:41",
-  "last_count": 1075
+  "last_run": "2026-09-09T13:55:35",
+  "last_count": 1074
 }
