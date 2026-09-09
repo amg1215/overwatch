@@ -20556,3 +20556,9 @@
 2026-09-09 21:07:15,607 INFO === Run started ===
 2026-09-09 21:07:37,967 INFO No new products (1150 tracked)
 2026-09-09 21:07:37,973 INFO === Run finished ===
+2026-09-09 21:08:21,430 INFO === Run started ===
+2026-09-09 21:08:38,528 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 21:08:38,528 INFO   NEW: Kracie ICHIKAMI Prem | $9.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7800&limit=100
+2026-09-09 21:08:41,008 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 21:08:41,175 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 21:08:41,180 INFO === Run finished ===
