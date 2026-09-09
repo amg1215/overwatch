@@ -20710,3 +20710,9 @@
 2026-09-09 21:42:14,219 INFO === Run started ===
 2026-09-09 21:42:32,978 INFO No new products (1170 tracked)
 2026-09-09 21:42:32,983 INFO === Run finished ===
+2026-09-09 21:43:13,330 INFO === Run started ===
+2026-09-09 21:43:31,107 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 21:43:31,107 INFO   NEW: Skater Bath Towel Po | $10.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10072&limit=100
+2026-09-09 21:43:32,963 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 21:43:33,224 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 21:43:33,232 INFO === Run finished ===
