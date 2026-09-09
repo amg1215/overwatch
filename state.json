@@ -1368,6 +1368,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7290&limit=100",
       "stock": "n/a"
     },
+    "7147": {
+      "name": "Kokubo Daily Hanger",
+      "price": "$3.15",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7147&limit=100",
+      "stock": "n/a"
+    },
     "5354": {
       "name": "Kokubo Earplugs 2pcs",
       "price": "$1.14",
@@ -6632,6 +6638,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T17:26:32",
-  "last_count": 1105
+  "last_run": "2026-09-09T17:27:58",
+  "last_count": 1106
 }
