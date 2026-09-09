@@ -19754,3 +19754,10 @@
 2026-09-09 17:19:50,044 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-09 17:19:50,231 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-09 17:19:50,238 INFO === Run finished ===
+2026-09-09 17:20:21,863 INFO === Run started ===
+2026-09-09 17:20:43,679 INFO NEW/RESTOCKED products detected: 2
+2026-09-09 17:20:43,679 INFO   NEW: SKATER SLO Kuromi x | $4.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19888&limit=100
+2026-09-09 17:20:43,679 INFO   NEW: SKATER SLO Hello Kit | $4.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19890&limit=100
+2026-09-09 17:21:12,523 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-09 17:21:12,751 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-09 17:21:12,758 INFO === Run finished ===
