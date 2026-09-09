@@ -19287,3 +19287,9 @@
 2026-09-09 15:05:13,805 INFO === Run started ===
 2026-09-09 15:05:39,733 INFO No new products (1076 tracked)
 2026-09-09 15:05:39,739 INFO === Run finished ===
+2026-09-09 15:06:13,681 INFO === Run started ===
+2026-09-09 15:06:40,322 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 15:06:40,322 INFO   NEW: Skater Childrens Too | $4.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16393&limit=100
+2026-09-09 15:06:42,041 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 15:06:42,284 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 15:06:42,291 INFO === Run finished ===

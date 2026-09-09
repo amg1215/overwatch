@@ -72,6 +72,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10020&limit=100",
       "stock": "n/a"
     },
+    "16393": {
+      "name": "Skater Childrens Too",
+      "price": "$4.25",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16393&limit=100",
+      "stock": "n/a"
+    },
     "2280": {
       "name": "Sanyo Baby Cotton Sw",
       "price": "$2.25",
@@ -6458,6 +6464,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T15:05:39",
-  "last_count": 1076
+  "last_run": "2026-09-09T15:06:42",
+  "last_count": 1077
 }
