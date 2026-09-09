@@ -19357,3 +19357,11 @@
 2026-09-09 15:24:14,899 INFO === Run started ===
 2026-09-09 15:24:54,032 INFO No new products (1073 tracked)
 2026-09-09 15:24:54,038 INFO === Run finished ===
+2026-09-09 15:25:17,127 INFO === Run started ===
+2026-09-09 15:25:50,980 INFO NEW/RESTOCKED products detected: 3
+2026-09-09 15:25:50,980 INFO   NEW: Mondelez Oreo Sandwi | $1.30 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17770&limit=100
+2026-09-09 15:25:50,980 INFO   NEW: Mondelez Oreo Sandwi | $1.30 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17771&limit=100
+2026-09-09 15:25:50,980 INFO   NEW: RE-MENT SLO Cinnamor | $10.17 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30200&limit=100
+2026-09-09 15:25:53,229 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-09 15:25:53,487 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-09 15:25:53,494 INFO === Run finished ===
