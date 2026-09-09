@@ -5316,6 +5316,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30058&limit=100",
       "stock": "n/a"
     },
+    "30485": {
+      "name": "Meiji Macadamia Nut",
+      "price": "$2.89",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30485&limit=100",
+      "stock": "n/a"
+    },
     "4988": {
       "name": "Lotte Almond Chocola",
       "price": "$2.72",
@@ -6800,6 +6806,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T20:25:32",
-  "last_count": 1133
+  "last_run": "2026-09-09T20:26:33",
+  "last_count": 1134
 }

@@ -20375,3 +20375,9 @@
 2026-09-09 20:25:13,784 INFO === Run started ===
 2026-09-09 20:25:32,498 INFO No new products (1133 tracked)
 2026-09-09 20:25:32,504 INFO === Run finished ===
+2026-09-09 20:26:12,233 INFO === Run started ===
+2026-09-09 20:26:30,694 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 20:26:30,695 INFO   NEW: Meiji Macadamia Nut | $2.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30485&limit=100
+2026-09-09 20:26:33,443 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 20:26:33,579 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 20:26:33,586 INFO === Run finished ===
