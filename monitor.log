@@ -20215,3 +20215,9 @@
 2026-09-09 19:38:23,240 INFO === Run started ===
 2026-09-09 19:38:40,843 INFO No new products (1119 tracked)
 2026-09-09 19:38:40,847 INFO === Run finished ===
+2026-09-09 19:39:10,555 INFO === Run started ===
+2026-09-09 19:39:29,319 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 19:39:29,319 INFO   NEW: Nakaya Freille Colan | $1.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7409&limit=100
+2026-09-09 19:39:49,154 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 19:39:49,320 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 19:39:49,327 INFO === Run finished ===
