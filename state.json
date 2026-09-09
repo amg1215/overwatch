@@ -6444,6 +6444,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24150&limit=100",
       "stock": "n/a"
     },
+    "17424": {
+      "name": "Kuki Black Sesame La",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17424&limit=100",
+      "stock": "n/a"
+    },
+    "17425": {
+      "name": "Kuki Sugar Free Blac",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17425&limit=100",
+      "stock": "n/a"
+    },
     "51322": {
       "name": "Takaokaya Doraemon F",
       "price": "$3.25",
@@ -6656,6 +6668,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T17:43:32",
-  "last_count": 1109
+  "last_run": "2026-09-09T17:44:33",
+  "last_count": 1111
 }
