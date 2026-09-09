@@ -20547,3 +20547,9 @@
 2026-09-09 21:05:37,969 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-09 21:05:38,660 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-09 21:05:38,667 INFO === Run finished ===
+2026-09-09 21:06:11,475 INFO === Run started ===
+2026-09-09 21:06:32,332 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 21:06:32,332 INFO   NEW: Elmie Ladies Laundry | $4.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5702&limit=100
+2026-09-09 21:06:33,441 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 21:06:33,524 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 21:06:33,531 INFO === Run finished ===
