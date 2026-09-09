@@ -2808,6 +2808,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7802&limit=100",
       "stock": "n/a"
     },
+    "7806": {
+      "name": "Kracie Ma&Me Latte C",
+      "price": "$7.09",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7806&limit=100",
+      "stock": "n/a"
+    },
     "30180": {
       "name": "Kracie ICHIKAMI Smoo",
       "price": "$6.59",
@@ -6752,6 +6758,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T19:53:37",
-  "last_count": 1125
+  "last_run": "2026-09-09T19:54:37",
+  "last_count": 1126
 }
