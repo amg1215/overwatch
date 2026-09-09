@@ -20663,3 +20663,11 @@
 2026-09-09 21:29:28,205 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-09 21:29:28,250 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-09 21:29:28,256 INFO === Run finished ===
+2026-09-09 21:30:19,749 INFO === Run started ===
+2026-09-09 21:30:38,500 INFO NEW/RESTOCKED products detected: 3
+2026-09-09 21:30:38,501 INFO   NEW: Skater Acrylic Chops | $3.17 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=374&limit=100
+2026-09-09 21:30:38,501 INFO   NEW: John's Blend Fragran | $12.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3652&limit=100
+2026-09-09 21:30:38,501 INFO   NEW: John's Blend Clip On | $6.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5910&limit=100
+2026-09-09 21:30:40,014 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-09 21:30:40,295 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-09 21:30:40,307 INFO === Run finished ===

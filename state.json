@@ -522,6 +522,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10069&limit=100",
       "stock": "n/a"
     },
+    "374": {
+      "name": "Skater Acrylic Chops",
+      "price": "$3.17",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=374&limit=100",
+      "stock": "n/a"
+    },
     "4072": {
       "name": "Skater Acrylic Chops",
       "price": "$3.17",
@@ -1266,6 +1272,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3643&limit=100",
       "stock": "n/a"
     },
+    "3652": {
+      "name": "John's Blend Fragran",
+      "price": "$12.60",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3652&limit=100",
+      "stock": "n/a"
+    },
     "3771": {
       "name": "John's Blend Fragran",
       "price": "$12.60",
@@ -1456,6 +1468,12 @@
       "name": "Seiwa-pro Egg Master",
       "price": "$1.74",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7136&limit=100",
+      "stock": "n/a"
+    },
+    "5910": {
+      "name": "John's Blend Clip On",
+      "price": "$6.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5910&limit=100",
       "stock": "n/a"
     },
     "5911": {
@@ -6992,6 +7010,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T21:29:28",
-  "last_count": 1165
+  "last_run": "2026-09-09T21:30:40",
+  "last_count": 1168
 }
