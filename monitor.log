@@ -20583,3 +20583,9 @@
 2026-09-09 21:13:11,172 INFO === Run started ===
 2026-09-09 21:13:30,689 INFO No new products (1153 tracked)
 2026-09-09 21:13:30,695 INFO === Run finished ===
+2026-09-09 21:14:12,423 INFO === Run started ===
+2026-09-09 21:14:31,735 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 21:14:31,735 INFO   NEW: KAI Hair Scraper Blu | $1.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7102&limit=100
+2026-09-09 21:14:33,801 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 21:14:33,989 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 21:14:34,016 INFO === Run finished ===

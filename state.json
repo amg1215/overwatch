@@ -2544,6 +2544,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5819&limit=100",
       "stock": "n/a"
     },
+    "7102": {
+      "name": "KAI Hair Scraper Blu",
+      "price": "$1.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7102&limit=100",
+      "stock": "n/a"
+    },
     "22135": {
       "name": "ROSY ROSA Powder Puf",
       "price": "$2.03",
@@ -6920,6 +6926,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T21:13:30",
-  "last_count": 1153
+  "last_run": "2026-09-09T21:14:33",
+  "last_count": 1154
 }
