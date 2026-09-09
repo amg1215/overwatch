@@ -1308,6 +1308,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7290&limit=100",
       "stock": "n/a"
     },
+    "5354": {
+      "name": "Kokubo Earplugs 2pcs",
+      "price": "$1.14",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5354&limit=100",
+      "stock": "n/a"
+    },
     "8050": {
       "name": "Yamada 7 Days Case",
       "price": "$1.46",
@@ -1648,6 +1654,12 @@
       "name": "Carari Dry Hair Cap",
       "price": "$11.89",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11034&limit=100",
+      "stock": "n/a"
+    },
+    "3460": {
+      "name": "Skater Hooded Cloak",
+      "price": "$19.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3460&limit=100",
       "stock": "n/a"
     },
     "8713": {
@@ -6476,6 +6488,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T15:41:45",
-  "last_count": 1079
+  "last_run": "2026-09-09T15:42:52",
+  "last_count": 1081
 }
