@@ -20065,3 +20065,11 @@
 2026-09-09 18:57:30,177 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-09 18:57:30,373 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-09 18:57:30,378 INFO === Run finished ===
+2026-09-09 18:58:13,440 INFO === Run started ===
+2026-09-09 18:58:31,778 INFO NEW/RESTOCKED products detected: 3
+2026-09-09 18:58:31,778 INFO   NEW: Taito Oshi no Ko Cor | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30403&limit=100
+2026-09-09 18:58:31,778 INFO   NEW: BANDAI SPIRITS SLO C | $0.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30497&limit=100
+2026-09-09 18:58:31,778 INFO   NEW: Banpresto Time I Got | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30409&limit=100
+2026-09-09 18:58:33,916 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-09 18:58:34,116 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-09 18:58:34,123 INFO === Run finished ===
