@@ -1884,6 +1884,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5344&limit=100",
       "stock": "n/a"
     },
+    "10267": {
+      "name": "BCL Saborino Mask Po",
+      "price": "$9.09",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10267&limit=100",
+      "stock": "n/a"
+    },
     "30897": {
       "name": "Spa Treatment HAS Fi",
       "price": "$2.39",
@@ -6926,6 +6932,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T21:14:33",
-  "last_count": 1154
+  "last_run": "2026-09-09T21:15:35",
+  "last_count": 1155
 }

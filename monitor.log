@@ -20589,3 +20589,9 @@
 2026-09-09 21:14:33,801 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-09 21:14:33,989 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-09 21:14:34,016 INFO === Run finished ===
+2026-09-09 21:15:15,995 INFO === Run started ===
+2026-09-09 21:15:33,652 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 21:15:33,652 INFO   NEW: BCL Saborino Mask Po | $9.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10267&limit=100
+2026-09-09 21:15:35,134 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 21:15:35,261 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 21:15:35,268 INFO === Run finished ===
