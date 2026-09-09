@@ -20446,3 +20446,9 @@
 2026-09-09 20:42:32,776 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-09 20:42:33,012 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-09 20:42:33,019 INFO === Run finished ===
+2026-09-09 20:43:13,335 INFO === Run started ===
+2026-09-09 20:43:34,153 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 20:43:34,154 INFO   NEW: Nakaya Round Drainin | $1.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10042&limit=100
+2026-09-09 20:43:35,805 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 20:43:36,239 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 20:43:36,246 INFO === Run finished ===
