@@ -19438,3 +19438,10 @@
 2026-09-09 15:43:46,308 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-09 15:43:46,441 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-09 15:43:46,448 INFO === Run finished ===
+2026-09-09 15:44:12,679 INFO === Run started ===
+2026-09-09 15:44:39,711 INFO NEW/RESTOCKED products detected: 2
+2026-09-09 15:44:39,711 INFO   NEW: SKATER SLO My Melody | $4.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19889&limit=100
+2026-09-09 15:44:39,711 INFO   NEW: BENLY YOU Hair Decom | $1.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=207&limit=100
+2026-09-09 15:44:40,638 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-09 15:44:40,762 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-09 15:44:40,769 INFO === Run finished ===

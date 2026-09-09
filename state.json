@@ -510,6 +510,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10069&limit=100",
       "stock": "n/a"
     },
+    "19889": {
+      "name": "SKATER SLO My Melody",
+      "price": "$4.53",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19889&limit=100",
+      "stock": "n/a"
+    },
     "19893": {
       "name": "SKATER SLO Kuromi x",
       "price": "$4.53",
@@ -1672,6 +1678,12 @@
       "name": "Kao Pipeline Cleaner",
       "price": "$2.39",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8713&limit=100",
+      "stock": "n/a"
+    },
+    "207": {
+      "name": "BENLY YOU Hair Decom",
+      "price": "$1.29",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=207&limit=100",
       "stock": "n/a"
     },
     "1522": {
@@ -6494,6 +6506,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T15:43:46",
-  "last_count": 1082
+  "last_run": "2026-09-09T15:44:40",
+  "last_count": 1084
 }
