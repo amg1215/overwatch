@@ -20384,3 +20384,9 @@
 2026-09-09 20:27:13,388 INFO === Run started ===
 2026-09-09 20:27:33,636 INFO No new products (1134 tracked)
 2026-09-09 20:27:33,642 INFO === Run finished ===
+2026-09-09 20:28:14,319 INFO === Run started ===
+2026-09-09 20:28:33,166 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 20:28:33,166 INFO   NEW: UHA Sour Pineapple G | $1.02 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30486&limit=100
+2026-09-09 20:28:34,960 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 20:28:35,266 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 20:28:35,273 INFO === Run finished ===
