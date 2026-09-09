@@ -4332,6 +4332,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29399&limit=100",
       "stock": "n/a"
     },
+    "29533": {
+      "name": "Banpresto Haikyu!! S",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29533&limit=100",
+      "stock": "n/a"
+    },
     "29565": {
       "name": "Banpresto Demon Slay",
       "price": "$23.99",
@@ -4714,6 +4720,12 @@
       "name": "BANDAI SPIRITS Jujut",
       "price": "$23.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19762&limit=100",
+      "stock": "n/a"
+    },
+    "30404": {
+      "name": "Banpresto Demon Slay",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30404&limit=100",
       "stock": "n/a"
     },
     "12814": {
@@ -6890,6 +6902,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T20:57:37",
-  "last_count": 1148
+  "last_run": "2026-09-09T20:58:39",
+  "last_count": 1150
 }
