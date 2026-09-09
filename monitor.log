@@ -19662,3 +19662,9 @@
 2026-09-09 16:51:46,704 INFO === Run started ===
 2026-09-09 16:52:07,380 INFO No new products (1098 tracked)
 2026-09-09 16:52:07,386 INFO === Run finished ===
+2026-09-09 16:53:13,315 INFO === Run started ===
+2026-09-09 16:53:32,853 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 16:53:32,853 INFO   NEW: Banpresto Date A Liv | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30398&limit=100
+2026-09-09 16:53:35,169 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 16:53:35,420 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 16:53:35,425 INFO === Run finished ===
