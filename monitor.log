@@ -20724,3 +20724,10 @@
 2026-09-09 21:44:38,664 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-09 21:44:38,820 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-09 21:44:38,825 INFO === Run finished ===
+2026-09-09 21:45:18,646 INFO === Run started ===
+2026-09-09 21:45:41,559 INFO NEW/RESTOCKED products detected: 2
+2026-09-09 21:45:41,560 INFO   NEW: Lion Children's Toot | $2.08 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10433&limit=100
+2026-09-09 21:45:41,560 INFO   NEW: Apagard Toothbrush & | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14283&limit=100
+2026-09-09 21:45:43,324 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-09 21:45:43,580 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-09 21:45:43,588 INFO === Run finished ===
