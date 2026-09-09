@@ -19203,3 +19203,9 @@
 2026-09-09 14:41:39,926 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-09 14:41:40,175 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-09 14:41:40,182 INFO === Run finished ===
+2026-09-09 14:42:14,987 INFO === Run started ===
+2026-09-09 14:42:38,956 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 14:42:38,956 INFO   NEW: BANDAI Surprise Egg | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30176&limit=100
+2026-09-09 14:42:40,419 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 14:42:40,646 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 14:42:40,759 INFO === Run finished ===
