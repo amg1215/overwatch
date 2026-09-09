@@ -2046,6 +2046,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=333&limit=100",
       "stock": "n/a"
     },
+    "4559": {
+      "name": "Kissme Liquid Eyelin",
+      "price": "$10.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4559&limit=100",
+      "stock": "n/a"
+    },
     "4561": {
       "name": "Kissme Liquid Eyelin",
       "price": "$10.99",
@@ -6374,6 +6380,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T14:21:37",
-  "last_count": 1062
+  "last_run": "2026-09-09T14:22:40",
+  "last_count": 1063
 }

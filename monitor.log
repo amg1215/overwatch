@@ -19122,3 +19122,9 @@
 2026-09-09 14:21:37,809 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-09 14:21:37,858 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-09 14:21:37,865 INFO === Run finished ===
+2026-09-09 14:22:15,718 INFO === Run started ===
+2026-09-09 14:22:38,786 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 14:22:38,786 INFO   NEW: Kissme Liquid Eyelin | $10.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4559&limit=100
+2026-09-09 14:22:40,546 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 14:22:40,720 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 14:22:40,727 INFO === Run finished ===
