@@ -19180,3 +19180,9 @@
 2026-09-09 14:36:15,406 INFO === Run started ===
 2026-09-09 14:36:38,267 INFO No new products (1067 tracked)
 2026-09-09 14:36:38,271 INFO === Run finished ===
+2026-09-09 14:37:14,252 INFO === Run started ===
+2026-09-09 14:37:36,732 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 14:37:36,732 INFO   NEW: Dariya Momori Moistu | $6.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7097&limit=100
+2026-09-09 14:37:38,053 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 14:37:38,218 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 14:37:38,223 INFO === Run finished ===
