@@ -19747,3 +19747,10 @@
 2026-09-09 17:18:36,529 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-09 17:18:36,601 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-09 17:18:36,608 INFO === Run finished ===
+2026-09-09 17:19:12,039 INFO === Run started ===
+2026-09-09 17:19:29,536 INFO NEW/RESTOCKED products detected: 2
+2026-09-09 17:19:29,536 INFO   NEW: Skater Acrylic Chops | $3.17 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4072&limit=100
+2026-09-09 17:19:29,536 INFO   NEW: SKATER Cinnamoroll × | $4.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20731&limit=100
+2026-09-09 17:19:50,044 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-09 17:19:50,231 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-09 17:19:50,238 INFO === Run finished ===
