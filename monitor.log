@@ -20501,3 +20501,9 @@
 2026-09-09 20:56:40,546 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-09 20:56:40,726 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-09 20:56:40,730 INFO === Run finished ===
+2026-09-09 20:57:09,563 INFO === Run started ===
+2026-09-09 20:57:29,376 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 20:57:29,376 INFO   NEW: Kracie Moisture Face | $9.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4201&limit=100
+2026-09-09 20:57:37,663 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 20:57:37,879 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 20:57:37,886 INFO === Run finished ===
