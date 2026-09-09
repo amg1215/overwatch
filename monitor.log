@@ -19432,3 +19432,9 @@
 2026-09-09 15:42:52,153 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-09 15:42:52,408 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-09 15:42:52,415 INFO === Run finished ===
+2026-09-09 15:43:13,553 INFO === Run started ===
+2026-09-09 15:43:44,995 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 15:43:44,995 INFO   NEW: Skater Hooded Cloak | $19.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3462&limit=100
+2026-09-09 15:43:46,308 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 15:43:46,441 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 15:43:46,448 INFO === Run finished ===
