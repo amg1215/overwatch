@@ -20303,3 +20303,10 @@
 2026-09-09 20:05:38,493 ERROR Email send failed: Connection unexpectedly closed: The read operation timed out
 2026-09-09 20:05:38,545 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-09 20:05:38,551 INFO === Run finished ===
+2026-09-09 20:06:25,749 INFO === Run started ===
+2026-09-09 20:06:45,053 INFO NEW/RESTOCKED products detected: 2
+2026-09-09 20:06:45,053 INFO   NEW: EIWA Mickey & Minnie | $0.11 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30045&limit=100
+2026-09-09 20:06:45,053 INFO   NEW: Hokkaido Hokkaido Pr | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30128&limit=100
+2026-09-09 20:06:48,743 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-09 20:06:48,933 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-09 20:06:48,941 INFO === Run finished ===

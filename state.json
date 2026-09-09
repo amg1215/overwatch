@@ -5388,6 +5388,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19392&limit=100",
       "stock": "n/a"
     },
+    "30045": {
+      "name": "EIWA Mickey & Minnie",
+      "price": "$0.11",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30045&limit=100",
+      "stock": "n/a"
+    },
     "28927": {
       "name": "Kabaya Shaved Ice Gu",
       "price": "$1.49",
@@ -5464,6 +5470,12 @@
       "name": "Orihiro Agar Jelly I",
       "price": "$2.68",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29524&limit=100",
+      "stock": "n/a"
+    },
+    "30128": {
+      "name": "Hokkaido Hokkaido Pr",
+      "price": "$8.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30128&limit=100",
       "stock": "n/a"
     },
     "30203": {
@@ -6764,6 +6776,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T20:05:38",
-  "last_count": 1127
+  "last_run": "2026-09-09T20:06:48",
+  "last_count": 1129
 }
