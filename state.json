@@ -6096,6 +6096,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29877&limit=100",
       "stock": "n/a"
     },
+    "30201": {
+      "name": "BANDAI Goddess Of Vi",
+      "price": "$1.53",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30201&limit=100",
+      "stock": "n/a"
+    },
     "29878": {
       "name": "BANDAI Galaxy Expres",
       "price": "$1.49",
@@ -6704,6 +6710,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T19:32:29",
-  "last_count": 1117
+  "last_run": "2026-09-09T19:33:30",
+  "last_count": 1118
 }
