@@ -20464,3 +20464,10 @@
 2026-09-09 20:47:46,236 INFO === Run started ===
 2026-09-09 20:48:04,880 INFO No new products (1142 tracked)
 2026-09-09 20:48:04,886 INFO === Run finished ===
+2026-09-09 20:49:09,886 INFO === Run started ===
+2026-09-09 20:49:29,208 INFO NEW/RESTOCKED products detected: 2
+2026-09-09 20:49:29,208 INFO   NEW: Nakaya Condiment Pre | $1.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7382&limit=100
+2026-09-09 20:49:29,208 INFO   NEW: FuRyu My Hero Academ | $20.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18823&limit=100
+2026-09-09 20:49:30,543 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-09 20:49:30,844 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-09 20:49:30,851 INFO === Run finished ===
