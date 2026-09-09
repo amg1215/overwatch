@@ -1224,6 +1224,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3638&limit=100",
       "stock": "n/a"
     },
+    "5907": {
+      "name": "John's Blend Room Fr",
+      "price": "$8.15",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5907&limit=100",
+      "stock": "n/a"
+    },
     "10278": {
       "name": "John's Blend Hanging",
       "price": "$2.10",
@@ -6974,6 +6980,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T21:27:31",
-  "last_count": 1162
+  "last_run": "2026-09-09T21:28:34",
+  "last_count": 1163
 }
