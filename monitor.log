@@ -19074,3 +19074,9 @@
 2026-09-09 14:09:13,214 INFO === Run started ===
 2026-09-09 14:09:32,966 INFO No new products (1076 tracked)
 2026-09-09 14:09:32,971 INFO === Run finished ===
+2026-09-09 14:10:17,632 INFO === Run started ===
+2026-09-09 14:10:42,667 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 14:10:42,667 INFO   NEW: D-UP Mascara Ruby Br | $14.24 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17440&limit=100
+2026-09-09 14:10:45,491 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 14:10:45,548 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 14:10:45,555 INFO === Run finished ===

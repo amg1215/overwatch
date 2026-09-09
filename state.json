@@ -2100,6 +2100,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7262&limit=100",
       "stock": "n/a"
     },
+    "17440": {
+      "name": "D-UP Mascara Ruby Br",
+      "price": "$14.24",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17440&limit=100",
+      "stock": "n/a"
+    },
     "4510": {
       "name": "Koji Spring Heart Li",
       "price": "$3.56",
@@ -6458,6 +6464,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T14:09:32",
-  "last_count": 1076
+  "last_run": "2026-09-09T14:10:45",
+  "last_count": 1077
 }
