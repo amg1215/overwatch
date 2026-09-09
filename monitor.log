@@ -20254,3 +20254,10 @@
 2026-09-09 19:51:10,999 INFO === Run started ===
 2026-09-09 19:51:28,427 INFO No new products (1122 tracked)
 2026-09-09 19:51:28,430 INFO === Run finished ===
+2026-09-09 19:52:16,963 INFO === Run started ===
+2026-09-09 19:52:35,960 INFO NEW/RESTOCKED products detected: 2
+2026-09-09 19:52:35,960 INFO   NEW: Kracie 3D Moisturizi | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10099&limit=100
+2026-09-09 19:52:35,960 INFO   NEW: DHC Multivitamins 60 | $5.76 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8911&limit=100
+2026-09-09 19:52:41,963 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-09 19:52:42,237 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-09 19:52:42,244 INFO === Run finished ===
