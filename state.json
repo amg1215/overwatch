@@ -1350,12 +1350,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29935&limit=100",
       "stock": "n/a"
     },
-    "29936": {
-      "name": "SMISKI Incredible Li",
-      "price": "$10.19",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29936&limit=100",
-      "stock": "n/a"
-    },
     "7422": {
       "name": "Sanada Partition Box",
       "price": "$1.69",
@@ -3522,12 +3516,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31379&limit=100",
       "stock": "n/a"
     },
-    "31382": {
-      "name": "EAKI Shinobi Assembl",
-      "price": "$3.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31382&limit=100",
-      "stock": "n/a"
-    },
     "31373": {
       "name": "EAKI SPY×FAMILY Sitt",
       "price": "$6.49",
@@ -3592,12 +3580,6 @@
       "name": "EAKI Naruto Cute Bea",
       "price": "$14.95",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26514&limit=100",
-      "stock": "n/a"
-    },
-    "31397": {
-      "name": "EAKI The Apothecary",
-      "price": "$14.95",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31397&limit=100",
       "stock": "n/a"
     },
     "31380": {
@@ -4200,6 +4182,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19886&limit=100",
       "stock": "n/a"
     },
+    "19887": {
+      "name": "Ost SLO Kuromi Doll",
+      "price": "$7.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19887&limit=100",
+      "stock": "n/a"
+    },
     "23069": {
       "name": "Ost GLOOMY Violent B",
       "price": "$8.39",
@@ -4710,6 +4698,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19762&limit=100",
       "stock": "n/a"
     },
+    "30405": {
+      "name": "Banpresto Demon Slay",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30405&limit=100",
+      "stock": "n/a"
+    },
     "30404": {
       "name": "Banpresto Demon Slay",
       "price": "$21.59",
@@ -4870,12 +4864,6 @@
       "name": "Kamio Japan SLO Hell",
       "price": "$5.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24406&limit=100",
-      "stock": "n/a"
-    },
-    "24407": {
-      "name": "Kamio Japan SLO Hell",
-      "price": "$5.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24407&limit=100",
       "stock": "n/a"
     },
     "24410": {
@@ -5398,6 +5386,12 @@
       "name": "Lotte Almond Chocola",
       "price": "$2.72",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4988&limit=100",
+      "stock": "n/a"
+    },
+    "31104": {
+      "name": "WantWant Seriously!",
+      "price": "$1.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31104&limit=100",
       "stock": "n/a"
     },
     "30888": {
@@ -6884,6 +6878,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T21:00:48",
-  "last_count": 1147
+  "last_run": "2026-09-09T21:01:41",
+  "last_count": 1146
 }
