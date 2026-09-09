@@ -2988,6 +2988,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7802&limit=100",
       "stock": "n/a"
     },
+    "7803": {
+      "name": "Kracie HIMAWARI Sunf",
+      "price": "$8.53",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7803&limit=100",
+      "stock": "n/a"
+    },
     "7804": {
       "name": "Kracie HIMAWARI Sunf",
       "price": "$8.53",
@@ -7058,6 +7064,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T21:47:28",
-  "last_count": 1176
+  "last_run": "2026-09-09T21:48:35",
+  "last_count": 1177
 }
