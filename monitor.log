@@ -19469,3 +19469,10 @@
 2026-09-09 15:51:42,481 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-09 15:51:42,612 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-09 15:51:42,619 INFO === Run finished ===
+2026-09-09 15:52:19,197 INFO === Run started ===
+2026-09-09 15:52:51,734 INFO NEW/RESTOCKED products detected: 2
+2026-09-09 15:52:51,734 INFO   NEW: BANDAI SPIRITS Drago | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30499&limit=100
+2026-09-09 15:52:51,734 INFO   NEW: FuRyu Lucky Star Tri | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29841&limit=100
+2026-09-09 15:52:53,570 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-09 15:52:53,833 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-09 15:52:53,840 INFO === Run finished ===
