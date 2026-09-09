@@ -19782,3 +19782,9 @@
 2026-09-09 17:27:58,647 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-09 17:27:58,717 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-09 17:27:58,724 INFO === Run finished ===
+2026-09-09 17:29:03,776 INFO === Run started ===
+2026-09-09 17:29:21,844 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 17:29:21,844 INFO   NEW: Kokubo RICH WHIP's B | $3.47 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10055&limit=100
+2026-09-09 17:29:32,767 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 17:29:33,000 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 17:29:33,008 INFO === Run finished ===
