@@ -20477,3 +20477,9 @@
 2026-09-09 20:51:10,663 INFO === Run started ===
 2026-09-09 20:51:32,603 INFO No new products (1144 tracked)
 2026-09-09 20:51:32,609 INFO === Run finished ===
+2026-09-09 20:52:11,742 INFO === Run started ===
+2026-09-09 20:52:31,102 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 20:52:31,102 INFO   NEW: Kincho Acarid Spray | $6.56 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12989&limit=100
+2026-09-09 20:52:33,868 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 20:52:33,940 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 20:52:33,947 INFO === Run finished ===
