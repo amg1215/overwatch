@@ -19312,3 +19312,9 @@
 2026-09-09 15:11:13,651 INFO === Run started ===
 2026-09-09 15:11:37,077 INFO No new products (1073 tracked)
 2026-09-09 15:11:37,080 INFO === Run finished ===
+2026-09-09 15:12:14,832 INFO === Run started ===
+2026-09-09 15:12:40,670 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 15:12:40,671 INFO   NEW: Unicharm Makeup Cott | $2.05 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15246&limit=100
+2026-09-09 15:12:42,381 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 15:12:42,734 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 15:12:42,741 INFO === Run finished ===

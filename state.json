@@ -2364,6 +2364,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=350&limit=100",
       "stock": "n/a"
     },
+    "15246": {
+      "name": "Unicharm Makeup Cott",
+      "price": "$2.05",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15246&limit=100",
+      "stock": "n/a"
+    },
     "9906": {
       "name": "Unicharm Makeup cott",
       "price": "$2.05",
@@ -6440,6 +6446,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T15:11:37",
-  "last_count": 1073
+  "last_run": "2026-09-09T15:12:42",
+  "last_count": 1074
 }
