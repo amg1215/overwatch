@@ -20297,3 +20297,9 @@
 2026-09-09 20:02:57,314 INFO === Run started ===
 2026-09-09 20:03:15,713 INFO No new products (1126 tracked)
 2026-09-09 20:03:15,719 INFO === Run finished ===
+2026-09-09 20:04:43,810 INFO === Run started ===
+2026-09-09 20:05:02,197 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 20:05:02,198 INFO   NEW: Hokkaido Matcha Pudd | $12.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30203&limit=100
+2026-09-09 20:05:38,493 ERROR Email send failed: Connection unexpectedly closed: The read operation timed out
+2026-09-09 20:05:38,545 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 20:05:38,551 INFO === Run finished ===
