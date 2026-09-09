@@ -20656,3 +20656,10 @@
 2026-09-09 21:28:34,333 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-09 21:28:34,556 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-09 21:28:34,571 INFO === Run finished ===
+2026-09-09 21:29:10,329 INFO === Run started ===
+2026-09-09 21:29:27,115 INFO NEW/RESTOCKED products detected: 2
+2026-09-09 21:29:27,115 INFO   NEW: Uyeki Mite Repellent | $12.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9899&limit=100
+2026-09-09 21:29:27,115 INFO   NEW: BCL Saborino Moistur | $3.85 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11011&limit=100
+2026-09-09 21:29:28,205 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-09 21:29:28,250 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-09 21:29:28,256 INFO === Run finished ===

@@ -1302,6 +1302,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9870&limit=100",
       "stock": "n/a"
     },
+    "9899": {
+      "name": "Uyeki Mite Repellent",
+      "price": "$12.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9899&limit=100",
+      "stock": "n/a"
+    },
     "9943": {
       "name": "Kobayashi Sawaday Fr",
       "price": "$3.40",
@@ -1924,6 +1930,12 @@
       "name": "BCL Saborino Mask Po",
       "price": "$9.09",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10267&limit=100",
+      "stock": "n/a"
+    },
+    "11011": {
+      "name": "BCL Saborino Moistur",
+      "price": "$3.85",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11011&limit=100",
       "stock": "n/a"
     },
     "30897": {
@@ -6980,6 +6992,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T21:28:34",
-  "last_count": 1163
+  "last_run": "2026-09-09T21:29:28",
+  "last_count": 1165
 }
