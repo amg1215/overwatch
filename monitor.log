@@ -20261,3 +20261,9 @@
 2026-09-09 19:52:41,963 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-09 19:52:42,237 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-09 19:52:42,244 INFO === Run finished ===
+2026-09-09 19:53:17,063 INFO === Run started ===
+2026-09-09 19:53:36,048 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 19:53:36,048 INFO   NEW: Kracie 3D Moisturizi | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10096&limit=100
+2026-09-09 19:53:37,143 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 19:53:37,397 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 19:53:37,404 INFO === Run finished ===
