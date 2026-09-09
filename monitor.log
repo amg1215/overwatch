@@ -20620,3 +20620,9 @@
 2026-09-09 21:21:10,120 INFO === Run started ===
 2026-09-09 21:21:27,258 INFO No new products (1158 tracked)
 2026-09-09 21:21:27,264 INFO === Run finished ===
+2026-09-09 21:22:11,832 INFO === Run started ===
+2026-09-09 21:22:29,378 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 21:22:29,378 INFO   NEW: T-Rays SLO Hello Kit | $11.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23906&limit=100
+2026-09-09 21:22:31,656 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 21:22:31,716 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 21:22:31,724 INFO === Run finished ===

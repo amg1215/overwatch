@@ -1446,6 +1446,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5911&limit=100",
       "stock": "n/a"
     },
+    "23906": {
+      "name": "T-Rays SLO Hello Kit",
+      "price": "$11.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23906&limit=100",
+      "stock": "n/a"
+    },
     "21288": {
       "name": "P&G Car Fragrance Di",
       "price": "$3.96",
@@ -6950,6 +6956,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T21:21:27",
-  "last_count": 1158
+  "last_run": "2026-09-09T21:22:31",
+  "last_count": 1159
 }
