@@ -4386,6 +4386,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30501&limit=100",
       "stock": "n/a"
     },
+    "30400": {
+      "name": "Banpresto My Hero Ac",
+      "price": "$27.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30400&limit=100",
+      "stock": "n/a"
+    },
     "30398": {
       "name": "Banpresto Date A Liv",
       "price": "$21.59",
@@ -6650,6 +6656,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T18:56:34",
-  "last_count": 1108
+  "last_run": "2026-09-09T18:57:30",
+  "last_count": 1109
 }
