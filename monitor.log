@@ -20716,3 +20716,11 @@
 2026-09-09 21:43:32,963 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-09 21:43:33,224 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-09 21:43:33,232 INFO === Run finished ===
+2026-09-09 21:44:19,214 INFO === Run started ===
+2026-09-09 21:44:36,439 INFO NEW/RESTOCKED products detected: 3
+2026-09-09 21:44:36,439 INFO   NEW: Lion Children's Toot | $1.11 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9791&limit=100
+2026-09-09 21:44:36,439 INFO   NEW: Kracie HIMAWARI Sunf | $8.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7804&limit=100
+2026-09-09 21:44:36,439 INFO   NEW: Lion Children's Toot | $1.11 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10018&limit=100
+2026-09-09 21:44:38,664 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-09 21:44:38,820 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-09 21:44:38,825 INFO === Run finished ===
