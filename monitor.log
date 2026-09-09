@@ -20073,3 +20073,9 @@
 2026-09-09 18:58:33,916 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-09 18:58:34,116 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-09 18:58:34,123 INFO === Run finished ===
+2026-09-09 18:59:12,950 INFO === Run started ===
+2026-09-09 18:59:29,995 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 18:59:29,996 INFO   NEW: Sega Hatsune Miku Se | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29793&limit=100
+2026-09-09 18:59:31,360 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 18:59:31,672 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 18:59:31,678 INFO === Run finished ===
