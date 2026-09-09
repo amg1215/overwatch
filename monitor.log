@@ -20325,3 +20325,10 @@
 2026-09-09 20:11:13,019 INFO === Run started ===
 2026-09-09 20:11:32,009 INFO No new products (1129 tracked)
 2026-09-09 20:11:32,015 INFO === Run finished ===
+2026-09-09 20:12:19,073 INFO === Run started ===
+2026-09-09 20:12:36,375 INFO NEW/RESTOCKED products detected: 2
+2026-09-09 20:12:36,376 INFO   NEW: Hokkaido Matcha Sand | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30202&limit=100
+2026-09-09 20:12:36,376 INFO   NEW: Hokkaido Smile Cooki | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30206&limit=100
+2026-09-09 20:12:41,704 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-09 20:12:41,913 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-09 20:12:41,919 INFO === Run finished ===
