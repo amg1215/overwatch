@@ -19158,3 +19158,9 @@
 2026-09-09 14:31:40,690 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-09 14:31:40,945 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-09 14:31:40,953 INFO === Run finished ===
+2026-09-09 14:32:25,739 INFO === Run started ===
+2026-09-09 14:32:48,203 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 14:32:48,203 INFO   NEW: ROSY ROSA Powder Puf | $2.03 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22135&limit=100
+2026-09-09 14:32:49,723 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 14:32:49,890 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 14:32:49,894 INFO === Run finished ===
