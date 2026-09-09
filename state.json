@@ -4680,6 +4680,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29989&limit=100",
       "stock": "n/a"
     },
+    "30208": {
+      "name": "BANDAI DEATH NOTE Ch",
+      "price": "$1.75",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30208&limit=100",
+      "stock": "n/a"
+    },
     "51125": {
       "name": "Bandai ONE PIECE Car",
       "price": "$6.29",
@@ -6710,6 +6716,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T19:34:34",
-  "last_count": 1118
+  "last_run": "2026-09-09T19:35:44",
+  "last_count": 1119
 }
