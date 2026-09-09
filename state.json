@@ -1848,6 +1848,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9265&limit=100",
       "stock": "n/a"
     },
+    "4196": {
+      "name": "Kracie Whitening Fac",
+      "price": "$8.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4196&limit=100",
+      "stock": "n/a"
+    },
     "26081": {
       "name": "KISSME Eyelash Makeu",
       "price": "$7.79",
@@ -6872,6 +6878,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T20:53:29",
-  "last_count": 1145
+  "last_run": "2026-09-09T20:54:34",
+  "last_count": 1146
 }
