@@ -19818,3 +19818,9 @@
 2026-09-09 17:39:10,966 INFO === Run started ===
 2026-09-09 17:39:29,787 INFO No new products (1107 tracked)
 2026-09-09 17:39:29,793 INFO === Run finished ===
+2026-09-09 17:40:25,915 INFO === Run started ===
+2026-09-09 17:40:42,901 INFO NEW/RESTOCKED products detected: 1
+2026-09-09 17:40:42,902 INFO   NEW: Hokkaido Assorted Fr | $14.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30205&limit=100
+2026-09-09 17:40:44,345 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-09 17:40:44,538 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-09 17:40:44,543 INFO === Run finished ===
