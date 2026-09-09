@@ -5070,12 +5070,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30734&limit=100",
       "stock": "n/a"
     },
-    "30963": {
-      "name": "Meiji Fruit Gummy Da",
-      "price": "$1.49",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30963&limit=100",
-      "stock": "n/a"
-    },
     "29022": {
       "name": "Morinaga Gummy Candy",
       "price": "$1.47",
@@ -5236,12 +5230,6 @@
       "name": "Red Sakura Kuromi B",
       "price": "$2.39",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20980&limit=100",
-      "stock": "n/a"
-    },
-    "23766": {
-      "name": "Lotte Black Chocolat",
-      "price": "$1.39",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23766&limit=100",
       "stock": "n/a"
     },
     "30874": {
@@ -6494,6 +6482,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-09T13:38:36",
-  "last_count": 1082
+  "last_run": "2026-09-09T13:39:28",
+  "last_count": 1080
 }
