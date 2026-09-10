@@ -21478,3 +21478,9 @@
 2026-09-10 13:48:12,926 INFO === Run started ===
 2026-09-10 13:48:49,298 INFO No new products (1177 tracked)
 2026-09-10 13:48:49,305 INFO === Run finished ===
+2026-09-10 13:49:11,765 INFO === Run started ===
+2026-09-10 13:49:38,176 INFO NEW/RESTOCKED products detected: 1
+2026-09-10 13:49:38,177 INFO   NEW: Kikkoman Soybean Dri | $1.16 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18798&limit=100
+2026-09-10 13:49:39,374 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-10 13:49:39,634 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-10 13:49:39,642 INFO === Run finished ===
