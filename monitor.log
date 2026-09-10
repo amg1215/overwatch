@@ -23006,3 +23006,9 @@
 2026-09-10 21:37:16,048 INFO === Run started ===
 2026-09-10 21:37:36,648 INFO No new products (1219 tracked)
 2026-09-10 21:37:36,655 INFO === Run finished ===
+2026-09-10 21:38:20,304 INFO === Run started ===
+2026-09-10 21:38:39,143 INFO NEW/RESTOCKED products detected: 1
+2026-09-10 21:38:39,144 INFO   NEW: Banpresto Hatsune Mi | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51427&limit=100
+2026-09-10 21:38:40,566 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-10 21:38:40,812 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-10 21:38:40,822 INFO === Run finished ===
