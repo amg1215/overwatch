@@ -22797,3 +22797,9 @@
 2026-09-10 20:31:32,582 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-10 20:31:32,705 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-10 20:31:32,712 INFO === Run finished ===
+2026-09-10 20:32:12,485 INFO === Run started ===
+2026-09-10 20:32:34,724 INFO NEW/RESTOCKED products detected: 1
+2026-09-10 20:32:34,724 INFO   NEW: Banpresto Chainsaw M | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51429&limit=100
+2026-09-10 20:32:35,756 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-10 20:32:35,887 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-10 20:32:35,897 INFO === Run finished ===
