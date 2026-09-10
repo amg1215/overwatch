@@ -21450,3 +21450,9 @@
 2026-09-10 13:42:14,624 INFO === Run started ===
 2026-09-10 13:42:35,274 INFO No new products (1174 tracked)
 2026-09-10 13:42:35,281 INFO === Run finished ===
+2026-09-10 13:43:09,956 INFO === Run started ===
+2026-09-10 13:43:29,213 INFO NEW/RESTOCKED products detected: 1
+2026-09-10 13:43:29,213 INFO   NEW: Lion Foam Hand Soap | $3.83 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8876&limit=100
+2026-09-10 13:43:30,724 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-10 13:43:30,993 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-10 13:43:31,001 INFO === Run finished ===

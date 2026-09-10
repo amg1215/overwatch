@@ -3066,6 +3066,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9524&limit=100",
       "stock": "n/a"
     },
+    "8876": {
+      "name": "Lion Foam Hand Soap",
+      "price": "$3.83",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8876&limit=100",
+      "stock": "n/a"
+    },
     "14117": {
       "name": "MARO Cooling Shower",
       "price": "$7.59",
@@ -7046,6 +7052,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-10T13:42:35",
-  "last_count": 1174
+  "last_run": "2026-09-10T13:43:30",
+  "last_count": 1175
 }
