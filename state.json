@@ -2694,12 +2694,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9906&limit=100",
       "stock": "n/a"
     },
-    "2267": {
-      "name": "Sanyo Selected Cotto",
-      "price": "$1.73",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2267&limit=100",
-      "stock": "n/a"
-    },
     "2266": {
       "name": "Sanyo Spiral Cotton",
       "price": "$2.43",
@@ -7190,6 +7184,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-10T23:16:31",
-  "last_count": 1198
+  "last_run": "2026-09-10T23:17:30",
+  "last_count": 1197
 }
