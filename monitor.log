@@ -23273,3 +23273,22 @@
 2026-09-10 23:07:15,631 INFO === Run started ===
 2026-09-10 23:07:48,627 INFO No new products (1198 tracked)
 2026-09-10 23:07:48,634 INFO === Run finished ===
+2026-09-10 23:08:13,460 INFO === Run started ===
+2026-09-10 23:08:32,262 INFO NEW/RESTOCKED products detected: 14
+2026-09-10 23:08:32,262 INFO   NEW: CANMAKE Perfect Mult | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19576&limit=100
+2026-09-10 23:08:32,262 INFO   NEW: Vicrea &honey EX Nou | $15.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16681&limit=100
+2026-09-10 23:08:32,262 INFO   NEW: Kao Curel Shampoo & | $4.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5009&limit=100
+2026-09-10 23:08:32,262 INFO   NEW: Kao Curel Shampoo 42 | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5010&limit=100
+2026-09-10 23:08:32,262 INFO   NEW: Kao Curel Conditione | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4996&limit=100
+2026-09-10 23:08:32,262 INFO   NEW: Kracie ICHIKAMI Prem | $9.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7800&limit=100
+2026-09-10 23:08:32,262 INFO   NEW: Kracie HIMAWARI Sunf | $8.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7802&limit=100
+2026-09-10 23:08:32,262 INFO   NEW: Kracie HIMAWARI Sunf | $8.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7803&limit=100
+2026-09-10 23:08:32,262 INFO   NEW: Kracie HIMAWARI Sunf | $8.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7804&limit=100
+2026-09-10 23:08:32,262 INFO   NEW: Kracie Ma&Me Latte C | $7.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7806&limit=100
+2026-09-10 23:08:32,262 INFO   NEW: Kracie ICHIKAMI Smoo | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30179&limit=100
+2026-09-10 23:08:32,262 INFO   NEW: Kracie ICHIKAMI Smoo | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30180&limit=100
+2026-09-10 23:08:32,262 INFO   NEW: Kracie ICHIKAMI Rich | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30181&limit=100
+2026-09-10 23:08:32,262 INFO   NEW: Shiseido Serum Noir | $21.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8160&limit=100
+2026-09-10 23:08:33,287 INFO Email sent: Ebisu: 14 new/restocked items!
+2026-09-10 23:08:33,400 INFO ntfy push sent: Ebisu: 14 new/restocked items!
+2026-09-10 23:08:33,408 INFO === Run finished ===
