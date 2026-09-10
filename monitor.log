@@ -21684,3 +21684,9 @@
 2026-09-10 14:29:33,650 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-10 14:29:33,851 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-10 14:29:33,856 INFO === Run finished ===
+2026-09-10 14:30:18,429 INFO === Run started ===
+2026-09-10 14:30:39,107 INFO NEW/RESTOCKED products detected: 1
+2026-09-10 14:30:39,108 INFO   NEW: Kokubo GO OUT Cutler | $3.81 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8301&limit=100
+2026-09-10 14:30:40,569 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-10 14:30:40,663 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-10 14:30:40,671 INFO === Run finished ===

@@ -528,6 +528,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8047&limit=100",
       "stock": "n/a"
     },
+    "8301": {
+      "name": "Kokubo GO OUT Cutler",
+      "price": "$3.81",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8301&limit=100",
+      "stock": "n/a"
+    },
     "8054": {
       "name": "Yamada Rice Spoon",
       "price": "$1.23",
@@ -7250,6 +7256,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-10T14:29:33",
-  "last_count": 1208
+  "last_run": "2026-09-10T14:30:40",
+  "last_count": 1209
 }
