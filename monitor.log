@@ -21623,3 +21623,10 @@
 2026-09-10 14:16:35,040 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-10 14:16:35,111 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-10 14:16:35,119 INFO === Run finished ===
+2026-09-10 14:17:13,564 INFO === Run started ===
+2026-09-10 14:17:31,952 INFO NEW/RESTOCKED products detected: 2
+2026-09-10 14:17:31,953 INFO   NEW: Bourbon Chocolate Sa | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29543&limit=100
+2026-09-10 14:17:31,953 INFO   NEW: YBC Mini Melon Sandw | $0.85 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30488&limit=100
+2026-09-10 14:17:32,926 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-10 14:17:33,158 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-10 14:17:33,164 INFO === Run finished ===
