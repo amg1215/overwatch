@@ -21560,3 +21560,11 @@
 2026-09-10 14:06:35,702 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-10 14:06:35,991 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-10 14:06:35,996 INFO === Run finished ===
+2026-09-10 14:07:23,783 INFO === Run started ===
+2026-09-10 14:07:43,716 INFO NEW/RESTOCKED products detected: 3
+2026-09-10 14:07:43,717 INFO   NEW: Fujiya Ice Cream Cho | $1.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30482&limit=100
+2026-09-10 14:07:43,717 INFO   NEW: Meiji Almond Chocola | $2.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30484&limit=100
+2026-09-10 14:07:43,717 INFO   NEW: Kracie Mentos Cola F | $1.21 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30479&limit=100
+2026-09-10 14:07:45,215 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-10 14:07:45,268 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-10 14:07:45,276 INFO === Run finished ===
