@@ -3492,6 +3492,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23775&limit=100",
       "stock": "n/a"
     },
+    "24820": {
+      "name": "Dreams SLO Hello Kit",
+      "price": "$11.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24820&limit=100",
+      "stock": "n/a"
+    },
     "22350": {
       "name": "One Piece Can Blind",
       "price": "$4.99",
@@ -7280,6 +7286,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-10T15:07:36",
-  "last_count": 1213
+  "last_run": "2026-09-10T15:08:42",
+  "last_count": 1214
 }
