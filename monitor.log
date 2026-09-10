@@ -21912,3 +21912,10 @@
 2026-09-10 15:37:11,976 INFO === Run started ===
 2026-09-10 15:37:36,812 INFO No new products (1215 tracked)
 2026-09-10 15:37:36,819 INFO === Run finished ===
+2026-09-10 15:38:12,066 INFO === Run started ===
+2026-09-10 15:38:41,885 INFO NEW/RESTOCKED products detected: 2
+2026-09-10 15:38:41,885 INFO   NEW: EAKI The Apothecary | $14.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31397&limit=100
+2026-09-10 15:38:41,885 INFO   NEW: Sega My Teen Romanti | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29845&limit=100
+2026-09-10 15:38:42,849 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-10 15:38:43,083 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-10 15:38:43,091 INFO === Run finished ===

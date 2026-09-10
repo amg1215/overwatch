@@ -3852,6 +3852,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26514&limit=100",
       "stock": "n/a"
     },
+    "31397": {
+      "name": "EAKI The Apothecary",
+      "price": "$14.95",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31397&limit=100",
+      "stock": "n/a"
+    },
     "31380": {
       "name": "EAKI Naruto Shippude",
       "price": "$2.34",
@@ -4722,12 +4728,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29530&limit=100",
       "stock": "n/a"
     },
-    "30498": {
-      "name": "BANDAI SPIRITS SLO C",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30498&limit=100",
-      "stock": "n/a"
-    },
     "51427": {
       "name": "Banpresto Hatsune Mi",
       "price": "$23.99",
@@ -4876,6 +4876,12 @@
       "name": "Sega My Teen Romanti",
       "price": "$23.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29844&limit=100",
+      "stock": "n/a"
+    },
+    "29845": {
+      "name": "Sega My Teen Romanti",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29845&limit=100",
       "stock": "n/a"
     },
     "18823": {
@@ -7292,6 +7298,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-10T15:37:36",
-  "last_count": 1215
+  "last_run": "2026-09-10T15:38:43",
+  "last_count": 1216
 }
