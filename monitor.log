@@ -21548,3 +21548,9 @@
 2026-09-10 14:04:46,839 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-10 14:04:47,031 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-10 14:04:47,036 INFO === Run finished ===
+2026-09-10 14:05:13,297 INFO === Run started ===
+2026-09-10 14:05:33,223 INFO NEW/RESTOCKED products detected: 1
+2026-09-10 14:05:33,223 INFO   NEW: RE-MENT SLO Kuromi T | $11.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30199&limit=100
+2026-09-10 14:05:35,498 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-10 14:05:35,638 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-10 14:05:35,646 INFO === Run finished ===
