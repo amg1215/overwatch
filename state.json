@@ -1164,6 +1164,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3635&limit=100",
       "stock": "n/a"
     },
+    "6102": {
+      "name": "Lion Laundry Deterge",
+      "price": "$4.75",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6102&limit=100",
+      "stock": "n/a"
+    },
+    "1224": {
+      "name": "Lion Laundry Deterge",
+      "price": "$2.88",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1224&limit=100",
+      "stock": "n/a"
+    },
     "1222": {
       "name": "Lion Laundry Deterge",
       "price": "$2.88",
@@ -7160,6 +7172,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-10T14:11:38",
-  "last_count": 1193
+  "last_run": "2026-09-10T14:12:35",
+  "last_count": 1195
 }

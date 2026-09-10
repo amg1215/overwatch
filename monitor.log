@@ -21595,3 +21595,10 @@
 2026-09-10 14:11:38,715 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-10 14:11:38,785 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-10 14:11:38,792 INFO === Run finished ===
+2026-09-10 14:12:13,157 INFO === Run started ===
+2026-09-10 14:12:33,124 INFO NEW/RESTOCKED products detected: 2
+2026-09-10 14:12:33,125 INFO   NEW: Lion Laundry Deterge | $4.75 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6102&limit=100
+2026-09-10 14:12:33,125 INFO   NEW: Lion Laundry Deterge | $2.88 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1224&limit=100
+2026-09-10 14:12:35,059 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-10 14:12:35,111 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-10 14:12:35,119 INFO === Run finished ===
