@@ -6,6 +6,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30176&limit=100",
       "stock": "n/a"
     },
+    "30177": {
+      "name": "BANDAI Surprise Egg",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30177&limit=100",
+      "stock": "n/a"
+    },
     "30178": {
       "name": "BANDAI Surprise Egg",
       "price": "$5.39",
@@ -5964,6 +5970,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30874&limit=100",
       "stock": "n/a"
     },
+    "14071": {
+      "name": "Hiyoshi Dorayaki Bea",
+      "price": "$5.11",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14071&limit=100",
+      "stock": "n/a"
+    },
     "19588": {
       "name": "Seiki Mikan Mochi 13",
       "price": "$2.69",
@@ -6196,6 +6208,12 @@
       "name": "Nomura Hello Kitty S",
       "price": "$1.69",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10080&limit=100",
+      "stock": "n/a"
+    },
+    "30182": {
+      "name": "Hokkaido Development",
+      "price": "$7.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30182&limit=100",
       "stock": "n/a"
     },
     "24902": {
@@ -7202,6 +7220,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-10T14:18:31",
-  "last_count": 1200
+  "last_run": "2026-09-10T14:19:38",
+  "last_count": 1203
 }
