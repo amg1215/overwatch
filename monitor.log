@@ -21588,3 +21588,10 @@
 2026-09-10 14:10:42,032 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-10 14:10:42,154 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-10 14:10:42,162 INFO === Run finished ===
+2026-09-10 14:11:16,940 INFO === Run started ===
+2026-09-10 14:11:36,914 INFO NEW/RESTOCKED products detected: 2
+2026-09-10 14:11:36,914 INFO   NEW: Meiji Peach Gummies | $1.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30483&limit=100
+2026-09-10 14:11:36,914 INFO   NEW: Asahi Cream Flavored | $1.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30491&limit=100
+2026-09-10 14:11:38,715 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-10 14:11:38,785 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-10 14:11:38,792 INFO === Run finished ===
