@@ -2580,6 +2580,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18993&limit=100",
       "stock": "n/a"
     },
+    "18995": {
+      "name": "2 Way World Juliet R",
+      "price": "$8.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18995&limit=100",
+      "stock": "n/a"
+    },
     "18997": {
       "name": "2 Way World Juliet R",
       "price": "$8.99",
@@ -7082,6 +7088,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-10T14:03:42",
-  "last_count": 1180
+  "last_run": "2026-09-10T14:04:47",
+  "last_count": 1181
 }

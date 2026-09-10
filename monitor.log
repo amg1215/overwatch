@@ -21542,3 +21542,9 @@
 2026-09-10 14:03:42,365 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-10 14:03:42,500 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-10 14:03:42,505 INFO === Run finished ===
+2026-09-10 14:04:24,410 INFO === Run started ===
+2026-09-10 14:04:43,835 INFO NEW/RESTOCKED products detected: 1
+2026-09-10 14:04:43,835 INFO   NEW: 2 Way World Juliet R | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18995&limit=100
+2026-09-10 14:04:46,839 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-10 14:04:47,031 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-10 14:04:47,036 INFO === Run finished ===
