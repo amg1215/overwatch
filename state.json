@@ -6312,6 +6312,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30481&limit=100",
       "stock": "n/a"
     },
+    "30055": {
+      "name": "Frito-Lay Cup Corn C",
+      "price": "$1.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30055&limit=100",
+      "stock": "n/a"
+    },
     "15537": {
       "name": "Frito-Lay Corn Stick",
       "price": "$1.44",
@@ -7076,6 +7082,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-10T14:02:40",
-  "last_count": 1179
+  "last_run": "2026-09-10T14:03:42",
+  "last_count": 1180
 }

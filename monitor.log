@@ -21536,3 +21536,9 @@
 2026-09-10 14:02:40,785 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-10 14:02:40,874 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-10 14:02:40,881 INFO === Run finished ===
+2026-09-10 14:03:21,762 INFO === Run started ===
+2026-09-10 14:03:40,547 INFO NEW/RESTOCKED products detected: 1
+2026-09-10 14:03:40,547 INFO   NEW: Frito-Lay Cup Corn C | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30055&limit=100
+2026-09-10 14:03:42,365 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-10 14:03:42,500 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-10 14:03:42,505 INFO === Run finished ===
