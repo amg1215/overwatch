@@ -21568,3 +21568,9 @@
 2026-09-10 14:07:45,215 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-10 14:07:45,268 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-10 14:07:45,276 INFO === Run finished ===
+2026-09-10 14:08:13,657 INFO === Run started ===
+2026-09-10 14:08:39,993 INFO NEW/RESTOCKED products detected: 1
+2026-09-10 14:08:39,993 INFO   NEW: 2 Way World BIBIDAY | $8.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21938&limit=100
+2026-09-10 14:08:41,624 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-10 14:08:41,863 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-10 14:08:41,870 INFO === Run finished ===
