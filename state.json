@@ -4602,6 +4602,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29535&limit=100",
       "stock": "n/a"
     },
+    "29536": {
+      "name": "Banpresto My Hero Ac",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29536&limit=100",
+      "stock": "n/a"
+    },
     "29531": {
       "name": "Banpresto Puella Mag",
       "price": "$23.99",
@@ -4810,6 +4816,12 @@
       "name": "Sega My Teen Romanti",
       "price": "$23.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29844&limit=100",
+      "stock": "n/a"
+    },
+    "18823": {
+      "name": "FuRyu My Hero Academ",
+      "price": "$20.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18823&limit=100",
       "stock": "n/a"
     },
     "30309": {
@@ -7058,6 +7070,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-10T13:45:37",
-  "last_count": 1176
+  "last_run": "2026-09-10T13:46:47",
+  "last_count": 1178
 }
