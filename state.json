@@ -2334,6 +2334,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25730&limit=100",
       "stock": "n/a"
     },
+    "5364": {
+      "name": "OMI Lipstick Moist S",
+      "price": "$3.84",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5364&limit=100",
+      "stock": "n/a"
+    },
     "17332": {
       "name": "MilleFée Meow Paws E",
       "price": "$11.69",
@@ -7244,6 +7250,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-10T14:28:39",
-  "last_count": 1207
+  "last_run": "2026-09-10T14:29:33",
+  "last_count": 1208
 }
