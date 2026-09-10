@@ -5622,6 +5622,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30482&limit=100",
       "stock": "n/a"
     },
+    "30057": {
+      "name": "Fujiya LOOK Chocolat",
+      "price": "$2.50",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30057&limit=100",
+      "stock": "n/a"
+    },
     "30058": {
       "name": "Fujiya Hello Kitty &",
       "price": "$1.37",
@@ -6178,6 +6184,12 @@
       "name": "YBC Mini Melon Sandw",
       "price": "$0.85",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30488&limit=100",
+      "stock": "n/a"
+    },
+    "30489": {
+      "name": "YBC Melon Sandwich C",
+      "price": "$2.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30489&limit=100",
       "stock": "n/a"
     },
     "13693": {
@@ -7232,6 +7244,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-10T14:27:43",
-  "last_count": 1205
+  "last_run": "2026-09-10T14:28:39",
+  "last_count": 1207
 }
