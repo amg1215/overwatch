@@ -21732,3 +21732,9 @@
 2026-09-10 14:43:00,493 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-10 14:43:00,763 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-10 14:43:00,771 INFO === Run finished ===
+2026-09-10 14:43:15,387 INFO === Run started ===
+2026-09-10 14:43:38,433 INFO NEW/RESTOCKED products detected: 1
+2026-09-10 14:43:38,434 INFO   NEW: Calbee Summer Exclus | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30477&limit=100
+2026-09-10 14:43:39,984 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-10 14:43:40,239 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-10 14:43:40,247 INFO === Run finished ===
