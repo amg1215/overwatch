@@ -4776,12 +4776,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29844&limit=100",
       "stock": "n/a"
     },
-    "29845": {
-      "name": "Sega My Teen Romanti",
-      "price": "$23.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29845&limit=100",
-      "stock": "n/a"
-    },
     "18823": {
       "name": "FuRyu My Hero Academ",
       "price": "$20.39",
@@ -7184,6 +7178,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-10T23:21:40",
-  "last_count": 1197
+  "last_run": "2026-09-10T23:22:31",
+  "last_count": 1196
 }
