@@ -21765,3 +21765,9 @@
 2026-09-10 14:52:12,178 INFO === Run started ===
 2026-09-10 14:52:33,331 INFO No new products (1213 tracked)
 2026-09-10 14:52:33,338 INFO === Run finished ===
+2026-09-10 14:53:10,777 INFO === Run started ===
+2026-09-10 14:53:32,367 INFO NEW/RESTOCKED products detected: 1
+2026-09-10 14:53:32,367 INFO   NEW: Tomomasu Durian Soda | $1.50 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4019&limit=100
+2026-09-10 14:53:33,373 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-10 14:53:33,519 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-10 14:53:33,527 INFO === Run finished ===
