@@ -21705,3 +21705,9 @@
 2026-09-10 14:34:34,318 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-10 14:34:34,388 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-10 14:34:34,396 INFO === Run finished ===
+2026-09-10 14:35:15,565 INFO === Run started ===
+2026-09-10 14:36:10,881 INFO NEW/RESTOCKED products detected: 1
+2026-09-10 14:36:10,882 INFO   NEW: TOHATO BBQ Flavored | $1.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30480&limit=100
+2026-09-10 14:36:12,519 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-10 14:36:12,801 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-10 14:36:12,809 INFO === Run finished ===
