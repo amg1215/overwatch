@@ -3030,10 +3030,22 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7806&limit=100",
       "stock": "n/a"
     },
+    "30179": {
+      "name": "Kracie ICHIKAMI Smoo",
+      "price": "$6.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30179&limit=100",
+      "stock": "n/a"
+    },
     "30180": {
       "name": "Kracie ICHIKAMI Smoo",
       "price": "$6.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30180&limit=100",
+      "stock": "n/a"
+    },
+    "30181": {
+      "name": "Kracie ICHIKAMI Rich",
+      "price": "$6.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30181&limit=100",
       "stock": "n/a"
     },
     "8160": {
@@ -7136,6 +7148,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-10T14:09:39",
-  "last_count": 1189
+  "last_run": "2026-09-10T14:10:42",
+  "last_count": 1191
 }
