@@ -6132,6 +6132,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23107&limit=100",
       "stock": "n/a"
     },
+    "30474": {
+      "name": "Ezaki Glico Pocky Ch",
+      "price": "$1.97",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30474&limit=100",
+      "stock": "n/a"
+    },
     "30475": {
       "name": "Ezaki Glico Mini Cho",
       "price": "$4.19",
@@ -7268,6 +7274,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-10T14:41:33",
-  "last_count": 1211
+  "last_run": "2026-09-10T14:43:00",
+  "last_count": 1212
 }
