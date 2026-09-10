@@ -6234,6 +6234,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22542&limit=100",
       "stock": "n/a"
     },
+    "30476": {
+      "name": "Calbee Summer Exclus",
+      "price": "$1.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30476&limit=100",
+      "stock": "n/a"
+    },
     "24036": {
       "name": "KOIKEYA Karamujyu Ch",
       "price": "$0.89",
@@ -7064,6 +7070,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-10T13:52:43",
-  "last_count": 1177
+  "last_run": "2026-09-10T13:53:38",
+  "last_count": 1178
 }
