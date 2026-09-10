@@ -21499,3 +21499,10 @@
 2026-09-10 13:53:38,512 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-10 13:53:38,584 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-10 13:53:38,592 INFO === Run finished ===
+2026-09-10 13:54:25,498 INFO === Run started ===
+2026-09-10 13:54:49,114 INFO NEW/RESTOCKED products detected: 2
+2026-09-10 13:54:49,114 INFO   NEW: Earth Drain Bubble C | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=228&limit=100
+2026-09-10 13:54:49,114 INFO   NEW: TOHATO Ring Shaped P | $1.24 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30481&limit=100
+2026-09-10 13:54:51,157 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-10 13:54:51,500 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-10 13:54:51,505 INFO === Run finished ===
