@@ -1692,6 +1692,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3776&limit=100",
       "stock": "n/a"
     },
+    "9767": {
+      "name": "Kao MegRhythm Gentle",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9767&limit=100",
+      "stock": "n/a"
+    },
     "9854": {
       "name": "Kao MegRhythm Gentle",
       "price": "$4.19",
@@ -3082,6 +3088,12 @@
       "name": "Kao Curel Foam Body",
       "price": "$10.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5004&limit=100",
+      "stock": "n/a"
+    },
+    "4768": {
+      "name": "COW Bubble Bath Agen",
+      "price": "$1.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4768&limit=100",
       "stock": "n/a"
     },
     "3850": {
@@ -7034,6 +7046,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-10T13:34:36",
-  "last_count": 1172
+  "last_run": "2026-09-10T13:35:34",
+  "last_count": 1174
 }

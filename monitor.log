@@ -21422,3 +21422,10 @@
 2026-09-10 13:34:36,484 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-10 13:34:36,750 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-10 13:34:36,758 INFO === Run finished ===
+2026-09-10 13:35:13,935 INFO === Run started ===
+2026-09-10 13:35:33,508 INFO NEW/RESTOCKED products detected: 2
+2026-09-10 13:35:33,508 INFO   NEW: Kao MegRhythm Gentle | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9767&limit=100
+2026-09-10 13:35:33,508 INFO   NEW: COW Bubble Bath Agen | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4768&limit=100
+2026-09-10 13:35:34,675 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-10 13:35:34,855 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-10 13:35:34,863 INFO === Run finished ===
