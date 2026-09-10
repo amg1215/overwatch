@@ -22900,3 +22900,10 @@
 2026-09-10 21:03:11,957 INFO === Run started ===
 2026-09-10 21:03:31,295 INFO No new products (1220 tracked)
 2026-09-10 21:03:31,301 INFO === Run finished ===
+2026-09-10 21:04:20,678 INFO === Run started ===
+2026-09-10 21:04:39,441 INFO NEW/RESTOCKED products detected: 2
+2026-09-10 21:04:39,441 INFO   NEW: SAN-EI Pokemon Mew P | $11.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21051&limit=100
+2026-09-10 21:04:39,441 INFO   NEW: SAN-EI Pokemon Snorl | $13.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21052&limit=100
+2026-09-10 21:04:41,283 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-10 21:04:41,495 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-10 21:04:41,502 INFO === Run finished ===
