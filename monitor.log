@@ -21602,3 +21602,9 @@
 2026-09-10 14:12:35,059 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-10 14:12:35,111 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-10 14:12:35,119 INFO === Run finished ===
+2026-09-10 14:13:10,456 INFO === Run started ===
+2026-09-10 14:13:31,169 INFO NEW/RESTOCKED products detected: 1
+2026-09-10 14:13:31,169 INFO   NEW: Earth Pirepara Wardr | $7.32 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7682&limit=100
+2026-09-10 14:13:32,993 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-10 14:13:33,103 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-10 14:13:33,111 INFO === Run finished ===
