@@ -24931,3 +24931,9 @@
 2026-09-11 20:15:15,604 INFO === Run started ===
 2026-09-11 20:15:33,847 INFO No new products (1172 tracked)
 2026-09-11 20:15:33,864 INFO === Run finished ===
+2026-09-11 20:16:14,075 INFO === Run started ===
+2026-09-11 20:16:31,474 INFO NEW/RESTOCKED products detected: 1
+2026-09-11 20:16:31,474 INFO   NEW: BANDAI DEATH NOTE Ch | $1.75 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30208&limit=100
+2026-09-11 20:16:33,133 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-11 20:16:33,316 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-11 20:16:33,322 INFO === Run finished ===

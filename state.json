@@ -4620,12 +4620,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29394&limit=100",
       "stock": "n/a"
     },
-    "29395": {
-      "name": "Sega Re ZERO Startin",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29395&limit=100",
-      "stock": "n/a"
-    },
     "51434": {
       "name": "Sega Jujutsu Kaisen",
       "price": "$21.59",
@@ -4798,6 +4792,12 @@
       "name": "CRUX Hatsune Miku Mo",
       "price": "$4.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29989&limit=100",
+      "stock": "n/a"
+    },
+    "30208": {
+      "name": "BANDAI DEATH NOTE Ch",
+      "price": "$1.75",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30208&limit=100",
       "stock": "n/a"
     },
     "51125": {
@@ -7034,6 +7034,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-11T20:15:33",
+  "last_run": "2026-09-11T20:16:33",
   "last_count": 1172
 }
