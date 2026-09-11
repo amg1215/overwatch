@@ -4440,12 +4440,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29565&limit=100",
       "stock": "n/a"
     },
-    "29566": {
-      "name": "Banpresto Mega Man B",
-      "price": "$23.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29566&limit=100",
-      "stock": "n/a"
-    },
     "29405": {
       "name": "Banpresto Dragon Bal",
       "price": "$21.59",
@@ -4594,12 +4588,6 @@
       "name": "Banpresto JoJo's Biz",
       "price": "$27.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51426&limit=100",
-      "stock": "n/a"
-    },
-    "50683": {
-      "name": "Banpresto NARUTO Shi",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50683&limit=100",
       "stock": "n/a"
     },
     "50798": {
@@ -7070,6 +7058,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-11T19:32:32",
-  "last_count": 1178
+  "last_run": "2026-09-11T19:33:35",
+  "last_count": 1176
 }
