@@ -2124,12 +2124,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9977&limit=100",
       "stock": "n/a"
     },
-    "13565": {
-      "name": "Ampule Shot Hydratin",
-      "price": "$11.39",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13565&limit=100",
-      "stock": "n/a"
-    },
     "8874": {
       "name": "Kao Biore UV Perfect",
       "price": "$7.48",
@@ -2278,12 +2272,6 @@
       "name": "MilleFée Under Eye G",
       "price": "$10.39",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21361&limit=100",
-      "stock": "n/a"
-    },
-    "7480": {
-      "name": "Canmake Perfect Mult",
-      "price": "$9.50",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7480&limit=100",
       "stock": "n/a"
     },
     "7947": {
@@ -7028,6 +7016,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-11T20:29:34",
-  "last_count": 1171
+  "last_run": "2026-09-11T20:30:39",
+  "last_count": 1169
 }
