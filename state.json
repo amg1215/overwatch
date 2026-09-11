@@ -4530,12 +4530,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29831&limit=100",
       "stock": "n/a"
     },
-    "29535": {
-      "name": "Banpresto My Hero Ac",
-      "price": "$23.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29535&limit=100",
-      "stock": "n/a"
-    },
     "29536": {
       "name": "Banpresto My Hero Ac",
       "price": "$23.99",
@@ -4600,12 +4594,6 @@
       "name": "Banpresto Time I Got",
       "price": "$23.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30409&limit=100",
-      "stock": "n/a"
-    },
-    "30501": {
-      "name": "BANDAI SPIRITS DELTA",
-      "price": "$23.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30501&limit=100",
       "stock": "n/a"
     },
     "30400": {
@@ -7148,6 +7136,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-11T17:35:30",
-  "last_count": 1191
+  "last_run": "2026-09-11T17:36:31",
+  "last_count": 1189
 }
