@@ -4506,12 +4506,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29831&limit=100",
       "stock": "n/a"
     },
-    "29536": {
-      "name": "Banpresto My Hero Ac",
-      "price": "$23.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29536&limit=100",
-      "stock": "n/a"
-    },
     "29531": {
       "name": "Banpresto Puella Mag",
       "price": "$23.99",
@@ -5398,6 +5392,12 @@
       "name": "Kuki Capybara Lipsti",
       "price": "$0.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19932&limit=100",
+      "stock": "n/a"
+    },
+    "15762": {
+      "name": "Ezaki Glico Strawber",
+      "price": "$1.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15762&limit=100",
       "stock": "n/a"
     },
     "24215": {
@@ -7076,6 +7076,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-11T19:07:32",
+  "last_run": "2026-09-11T19:08:33",
   "last_count": 1179
 }
