@@ -4710,6 +4710,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29529&limit=100",
       "stock": "n/a"
     },
+    "29416": {
+      "name": "Sega Frieren Beyond",
+      "price": "$17.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29416&limit=100",
+      "stock": "n/a"
+    },
     "29793": {
       "name": "Sega Hatsune Miku Se",
       "price": "$27.59",
@@ -7046,6 +7052,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-11T19:56:33",
-  "last_count": 1174
+  "last_run": "2026-09-11T19:57:31",
+  "last_count": 1175
 }

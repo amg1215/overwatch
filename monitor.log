@@ -24874,3 +24874,9 @@
 2026-09-11 19:56:14,705 INFO === Run started ===
 2026-09-11 19:56:33,721 INFO No new products (1174 tracked)
 2026-09-11 19:56:33,728 INFO === Run finished ===
+2026-09-11 19:57:11,332 INFO === Run started ===
+2026-09-11 19:57:29,735 INFO NEW/RESTOCKED products detected: 1
+2026-09-11 19:57:29,735 INFO   NEW: Sega Frieren Beyond | $17.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29416&limit=100
+2026-09-11 19:57:31,071 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-11 19:57:31,303 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-11 19:57:31,311 INFO === Run finished ===
