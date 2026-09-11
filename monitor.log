@@ -23814,3 +23814,9 @@
 2026-09-11 14:05:13,534 INFO === Run started ===
 2026-09-11 14:05:37,333 INFO No new products (1194 tracked)
 2026-09-11 14:05:37,339 INFO === Run finished ===
+2026-09-11 14:06:18,463 INFO === Run started ===
+2026-09-11 14:06:39,524 INFO NEW/RESTOCKED products detected: 1
+2026-09-11 14:06:39,525 INFO   NEW: Bandai Spirits Umamu | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50971&limit=100
+2026-09-11 14:06:41,020 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-11 14:06:41,093 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-11 14:06:41,101 INFO === Run finished ===
