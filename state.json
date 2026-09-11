@@ -1662,12 +1662,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29974&limit=100",
       "stock": "n/a"
     },
-    "3776": {
-      "name": "Bandai Band Aid Chii",
-      "price": "$2.75",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3776&limit=100",
-      "stock": "n/a"
-    },
     "9767": {
       "name": "Kao MegRhythm Gentle",
       "price": "$4.19",
@@ -7016,6 +7010,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-11T20:56:32",
-  "last_count": 1169
+  "last_run": "2026-09-11T20:57:31",
+  "last_count": 1168
 }
