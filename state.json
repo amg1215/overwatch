@@ -4572,12 +4572,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30502&limit=100",
       "stock": "n/a"
     },
-    "50971": {
-      "name": "Bandai Spirits Umamu",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50971&limit=100",
-      "stock": "n/a"
-    },
     "51426": {
       "name": "Banpresto JoJo's Biz",
       "price": "$27.59",
@@ -7052,6 +7046,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-11T20:12:32",
-  "last_count": 1175
+  "last_run": "2026-09-11T20:13:30",
+  "last_count": 1174
 }
