@@ -5400,12 +5400,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19941&limit=100",
       "stock": "n/a"
     },
-    "19931": {
-      "name": "Kuki Capybara Pencil",
-      "price": "$0.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19931&limit=100",
-      "stock": "n/a"
-    },
     "8490": {
       "name": "Dragonfly Eraser 6.7",
       "price": "$1.19",
@@ -7130,6 +7124,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-11T17:53:27",
-  "last_count": 1188
+  "last_run": "2026-09-11T17:54:32",
+  "last_count": 1187
 }
