@@ -5400,12 +5400,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19932&limit=100",
       "stock": "n/a"
     },
-    "15762": {
-      "name": "Ezaki Glico Strawber",
-      "price": "$1.79",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15762&limit=100",
-      "stock": "n/a"
-    },
     "24215": {
       "name": "Furuta Strawberry Sa",
       "price": "$3.28",
@@ -7082,6 +7076,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-11T19:06:35",
-  "last_count": 1180
+  "last_run": "2026-09-11T19:07:32",
+  "last_count": 1179
 }
