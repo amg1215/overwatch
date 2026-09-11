@@ -3360,12 +3360,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29985&limit=100",
       "stock": "n/a"
     },
-    "29937": {
-      "name": "SMISKI Incredible Li",
-      "price": "$10.19",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29937&limit=100",
-      "stock": "n/a"
-    },
     "23775": {
       "name": "SMISKI Birthday Seri",
       "price": "$9.59",
@@ -7172,6 +7166,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-11T15:30:37",
-  "last_count": 1195
+  "last_run": "2026-09-11T15:31:59",
+  "last_count": 1194
 }
