@@ -1320,12 +1320,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5394&limit=100",
       "stock": "n/a"
     },
-    "10295": {
-      "name": "Kobayashi Sawaday Ai",
-      "price": "$4.79",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10295&limit=100",
-      "stock": "n/a"
-    },
     "5404": {
       "name": "Kobayashi Sawaday Fr",
       "price": "$3.40",
@@ -2266,12 +2260,6 @@
       "name": "Canmake Melting Gel",
       "price": "$7.79",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7947&limit=100",
-      "stock": "n/a"
-    },
-    "6572": {
-      "name": "Canmake Melting gel",
-      "price": "$7.79",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6572&limit=100",
       "stock": "n/a"
     },
     "18772": {
@@ -3898,12 +3886,6 @@
       "name": "San-Ei Plush Doll Po",
       "price": "$15.25",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2151&limit=100",
-      "stock": "n/a"
-    },
-    "2150": {
-      "name": "San-Ei Plush Doll Po",
-      "price": "$15.25",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2150&limit=100",
       "stock": "n/a"
     },
     "1915": {
@@ -6956,6 +6938,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-12T14:36:26",
-  "last_count": 1159
+  "last_run": "2026-09-12T14:37:31",
+  "last_count": 1156
 }
