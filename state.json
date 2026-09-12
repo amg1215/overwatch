@@ -4782,12 +4782,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24695&limit=100",
       "stock": "n/a"
     },
-    "24406": {
-      "name": "Kamio Japan SLO Hell",
-      "price": "$5.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24406&limit=100",
-      "stock": "n/a"
-    },
     "24410": {
       "name": "Kamio Japan SLO Kuro",
       "price": "$5.99",
@@ -6600,6 +6594,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18836&limit=100",
       "stock": "n/a"
     },
+    "7926": {
+      "name": "AGF Blendy Mocha Au",
+      "price": "$2.88",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7926&limit=100",
+      "stock": "n/a"
+    },
     "3747": {
       "name": "AGF Coffee Liquid Su",
       "price": "$2.11",
@@ -6932,6 +6932,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-12T14:38:38",
+  "last_run": "2026-09-12T14:39:34",
   "last_count": 1155
 }
