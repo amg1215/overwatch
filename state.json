@@ -4356,12 +4356,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30496&limit=100",
       "stock": "n/a"
     },
-    "29567": {
-      "name": "Taito Oshi no Ko T-m",
-      "price": "$23.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29567&limit=100",
-      "stock": "n/a"
-    },
     "29417": {
       "name": "Taito The Angel Next",
       "price": "$23.39",
@@ -4416,12 +4410,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29532&limit=100",
       "stock": "n/a"
     },
-    "30307": {
-      "name": "BANDAI SPIRITS Hunte",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30307&limit=100",
-      "stock": "n/a"
-    },
     "29401": {
       "name": "Banprest Naruto 72 S",
       "price": "$23.99",
@@ -4462,18 +4450,6 @@
       "name": "Banpresto Dragon Bal",
       "price": "$21.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29831&limit=100",
-      "stock": "n/a"
-    },
-    "29531": {
-      "name": "Banpresto Puella Mag",
-      "price": "$23.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29531&limit=100",
-      "stock": "n/a"
-    },
-    "29406": {
-      "name": "Banpresto Uma Musume",
-      "price": "$23.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29406&limit=100",
       "stock": "n/a"
     },
     "29396": {
@@ -6980,6 +6956,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-12T14:22:30",
-  "last_count": 1163
+  "last_run": "2026-09-12T14:23:29",
+  "last_count": 1159
 }
