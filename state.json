@@ -7284,12 +7284,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18830&limit=100",
       "stock": "n/a"
     },
-    "18833": {
-      "name": "ITOEN Eco-friendly G",
-      "price": "$2.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18833&limit=100",
-      "stock": "n/a"
-    },
     "18836": {
       "name": "ITOEN Easy Brew Prem",
       "price": "$5.99",
@@ -7658,6 +7652,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-13T21:21:30",
-  "last_count": 1276
+  "last_run": "2026-09-13T21:23:06",
+  "last_count": 1275
 }
