@@ -31538,3 +31538,9 @@
 2026-09-14 20:46:59,173 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-14 20:46:59,259 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-14 20:46:59,267 INFO === Run finished ===
+2026-09-14 20:47:13,677 INFO === Run started ===
+2026-09-14 20:47:32,449 INFO NEW/RESTOCKED products detected: 1
+2026-09-14 20:47:32,450 INFO   NEW: Kojima Yuzu-Flavored | $2.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24875&limit=100
+2026-09-14 20:47:33,373 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-14 20:47:33,462 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-14 20:47:33,470 INFO === Run finished ===
