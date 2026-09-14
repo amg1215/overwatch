@@ -4434,6 +4434,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30472&limit=100",
       "stock": "n/a"
     },
+    "51720": {
+      "name": "FuRyu Jujutsu Kaisen",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51720&limit=100",
+      "stock": "n/a"
+    },
     "50684": {
       "name": "FuRyu Bad Girl Mucut",
       "price": "$23.99",
@@ -7274,6 +7280,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-14T20:59:55",
-  "last_count": 1212
+  "last_run": "2026-09-14T21:01:05",
+  "last_count": 1213
 }

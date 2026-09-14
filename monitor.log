@@ -31568,3 +31568,9 @@
 2026-09-14 20:55:15,999 INFO === Run started ===
 2026-09-14 20:59:55,141 INFO No new products (1212 tracked)
 2026-09-14 20:59:55,147 INFO === Run finished ===
+2026-09-14 21:00:43,153 INFO === Run started ===
+2026-09-14 21:01:03,708 INFO NEW/RESTOCKED products detected: 1
+2026-09-14 21:01:03,709 INFO   NEW: FuRyu Jujutsu Kaisen | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51720&limit=100
+2026-09-14 21:01:05,305 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-14 21:01:05,407 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-14 21:01:05,415 INFO === Run finished ===
