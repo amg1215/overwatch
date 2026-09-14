@@ -31818,3 +31818,9 @@
 2026-09-14 21:39:57,992 INFO Email sent: Ebisu: 113 new/restocked items!
 2026-09-14 21:39:58,444 INFO ntfy push sent: Ebisu: 113 new/restocked items!
 2026-09-14 21:39:58,448 INFO === Run finished ===
+2026-09-14 21:40:17,519 INFO === Run started ===
+2026-09-14 21:40:38,725 INFO NEW/RESTOCKED products detected: 1
+2026-09-14 21:40:38,725 INFO   NEW: Suntory Pepsi-Cola B | $1.56 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14950&limit=100
+2026-09-14 21:40:40,482 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-14 21:40:40,711 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-14 21:40:40,719 INFO === Run finished ===
