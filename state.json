@@ -4296,6 +4296,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30502&limit=100",
       "stock": "n/a"
     },
+    "50447": {
+      "name": "Banpresto ONE PIECE",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50447&limit=100",
+      "stock": "n/a"
+    },
     "51426": {
       "name": "Banpresto JoJo's Biz",
       "price": "$27.59",
@@ -7274,6 +7280,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-14T21:44:05",
-  "last_count": 1212
+  "last_run": "2026-09-14T21:45:43",
+  "last_count": 1213
 }
