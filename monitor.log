@@ -31613,3 +31613,9 @@
 2026-09-14 21:12:38,682 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-14 21:12:38,788 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-14 21:12:38,796 INFO === Run finished ===
+2026-09-14 21:13:11,343 INFO === Run started ===
+2026-09-14 21:13:33,727 INFO NEW/RESTOCKED products detected: 1
+2026-09-14 21:13:33,727 INFO   NEW: Sega Fave Demon Slay | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51724&limit=100
+2026-09-14 21:13:34,975 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-14 21:13:35,256 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-14 21:13:35,264 INFO === Run finished ===
