@@ -31839,3 +31839,9 @@
 2026-09-14 21:45:43,790 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-14 21:45:43,868 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-14 21:45:43,875 INFO === Run finished ===
+2026-09-14 21:46:14,165 INFO === Run started ===
+2026-09-14 21:46:38,630 INFO NEW/RESTOCKED products detected: 1
+2026-09-14 21:46:38,630 INFO   NEW: Banpresto Dandadan G | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51432&limit=100
+2026-09-14 21:46:40,230 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-14 21:46:40,429 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-14 21:46:40,435 INFO === Run finished ===
