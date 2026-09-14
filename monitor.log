@@ -29945,3 +29945,19 @@
 2026-09-14 00:59:10,007 INFO === Run started ===
 2026-09-14 00:59:29,254 INFO No new products (1275 tracked)
 2026-09-14 00:59:29,261 INFO === Run finished ===
+2026-09-14 13:00:28,405 INFO === Run started ===
+2026-09-14 13:00:48,981 INFO NEW/RESTOCKED products detected: 11
+2026-09-14 13:00:48,982 INFO   NEW: SUNNY FACE Cherry Bl | $0.75 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29185&limit=100
+2026-09-14 13:00:48,982 INFO   NEW: Techxcel Okuchi Port | $2.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18769&limit=100
+2026-09-14 13:00:48,982 INFO   NEW: EAKI Demon Slayer Sh | $3.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31393&limit=100
+2026-09-14 13:00:48,982 INFO   NEW: Guangbo Plush Doll P | $7.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29581&limit=100
+2026-09-14 13:00:48,982 INFO   NEW: BANDAI HGBF Gundam B | $19.01 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30496&limit=100
+2026-09-14 13:00:48,982 INFO   NEW: Taito Toradora Deskt | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50858&limit=100
+2026-09-14 13:00:48,982 INFO   NEW: Banpresto One Piece | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29838&limit=100
+2026-09-14 13:00:48,982 INFO   NEW: Sega Fave A Certain | $20.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50237&limit=100
+2026-09-14 13:00:48,982 INFO   NEW: Sega Frieren Beyond | $17.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29416&limit=100
+2026-09-14 13:00:48,982 INFO   NEW: Dragonfly Eraser 6.7 | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8490&limit=100
+2026-09-14 13:00:48,982 INFO   NEW: ITOEN Eco-friendly G | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18835&limit=100
+2026-09-14 13:00:50,899 INFO Email sent: Ebisu: 11 new/restocked items!
+2026-09-14 13:00:50,999 INFO ntfy push sent: Ebisu: 11 new/restocked items!
+2026-09-14 13:00:51,007 INFO === Run finished ===
