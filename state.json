@@ -4344,6 +4344,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51152&limit=100",
       "stock": "n/a"
     },
+    "51151": {
+      "name": "Banpresto UNDERTALE",
+      "price": "$20.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51151&limit=100",
+      "stock": "n/a"
+    },
     "50401": {
       "name": "BANDAI SPIRITS ONEpc",
       "price": "$27.59",
@@ -4372,6 +4378,12 @@
       "name": "Banpresto Chainsaw M",
       "price": "$27.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51429&limit=100",
+      "stock": "n/a"
+    },
+    "51437": {
+      "name": "Banpresto To LOVE-Ru",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51437&limit=100",
       "stock": "n/a"
     },
     "51716": {
@@ -7262,6 +7274,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-14T20:34:35",
-  "last_count": 1210
+  "last_run": "2026-09-14T20:35:41",
+  "last_count": 1212
 }

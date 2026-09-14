@@ -31495,3 +31495,10 @@
 2026-09-14 20:34:16,631 INFO === Run started ===
 2026-09-14 20:34:35,539 INFO No new products (1210 tracked)
 2026-09-14 20:34:35,543 INFO === Run finished ===
+2026-09-14 20:35:17,767 INFO === Run started ===
+2026-09-14 20:35:39,213 INFO NEW/RESTOCKED products detected: 2
+2026-09-14 20:35:39,213 INFO   NEW: Banpresto UNDERTALE | $20.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51151&limit=100
+2026-09-14 20:35:39,213 INFO   NEW: Banpresto To LOVE-Ru | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51437&limit=100
+2026-09-14 20:35:40,913 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-14 20:35:41,166 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-14 20:35:41,173 INFO === Run finished ===
