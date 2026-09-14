@@ -31845,3 +31845,9 @@
 2026-09-14 21:46:40,230 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-14 21:46:40,429 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-14 21:46:40,435 INFO === Run finished ===
+2026-09-14 21:47:11,894 INFO === Run started ===
+2026-09-14 21:47:35,828 INFO NEW/RESTOCKED products detected: 1
+2026-09-14 21:47:35,828 INFO   NEW: Banpresto The Apothe | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51424&limit=100
+2026-09-14 21:47:37,169 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-14 21:47:37,452 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-14 21:47:37,460 INFO === Run finished ===
