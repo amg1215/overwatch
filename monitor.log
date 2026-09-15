@@ -33229,3 +33229,9 @@
 2026-09-15 17:13:40,756 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-15 17:13:40,883 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-15 17:13:40,891 INFO === Run finished ===
+2026-09-15 17:14:11,830 INFO === Run started ===
+2026-09-15 17:14:39,758 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 17:14:39,758 INFO   NEW: Meiji Fruit Gummy Da | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30963&limit=100
+2026-09-15 17:14:40,800 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 17:14:40,987 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 17:14:40,994 INFO === Run finished ===

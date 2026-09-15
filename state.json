@@ -5268,6 +5268,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26861&limit=100",
       "stock": "n/a"
     },
+    "30963": {
+      "name": "Meiji Fruit Gummy Da",
+      "price": "$1.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30963&limit=100",
+      "stock": "n/a"
+    },
     "30964": {
       "name": "Meiji Essel Super Cu",
       "price": "$2.09",
@@ -7406,6 +7412,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T17:13:40",
-  "last_count": 1234
+  "last_run": "2026-09-15T17:14:40",
+  "last_count": 1235
 }
