@@ -32939,3 +32939,10 @@
 2026-09-15 16:01:40,521 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-15 16:01:41,020 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-15 16:01:41,155 INFO === Run finished ===
+2026-09-15 16:02:14,900 INFO === Run started ===
+2026-09-15 16:02:44,181 INFO NEW/RESTOCKED products detected: 2
+2026-09-15 16:02:44,182 INFO   NEW: STARBUCKS Concentrat | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28924&limit=100
+2026-09-15 16:02:44,182 INFO   NEW: STARBUCKS Concentrat | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28923&limit=100
+2026-09-15 16:02:45,873 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-15 16:02:46,142 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-15 16:02:46,150 INFO === Run finished ===
