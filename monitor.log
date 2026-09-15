@@ -33801,3 +33801,9 @@
 2026-09-15 20:01:13,387 INFO === Run started ===
 2026-09-15 20:01:40,303 INFO No new products (1261 tracked)
 2026-09-15 20:01:40,309 INFO === Run finished ===
+2026-09-15 20:02:12,714 INFO === Run started ===
+2026-09-15 20:02:39,331 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 20:02:39,331 INFO   NEW: Meiji Noumitsuka Fru | $3.24 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28465&limit=100
+2026-09-15 20:02:42,832 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 20:02:42,981 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 20:02:42,988 INFO === Run finished ===

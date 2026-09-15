@@ -5064,6 +5064,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10204&limit=100",
       "stock": "n/a"
     },
+    "28465": {
+      "name": "Meiji Noumitsuka Fru",
+      "price": "$3.24",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28465&limit=100",
+      "stock": "n/a"
+    },
     "30484": {
       "name": "Meiji Almond Chocola",
       "price": "$2.89",
@@ -7568,6 +7574,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T20:01:40",
-  "last_count": 1261
+  "last_run": "2026-09-15T20:02:42",
+  "last_count": 1262
 }
