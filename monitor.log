@@ -33013,3 +33013,9 @@
 2026-09-15 16:20:46,530 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-15 16:20:46,771 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-15 16:20:46,777 INFO === Run finished ===
+2026-09-15 16:21:14,342 INFO === Run started ===
+2026-09-15 16:21:40,652 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 16:21:40,653 INFO   NEW: Nissin Cup Noodles S | $2.27 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9619&limit=100
+2026-09-15 16:21:42,189 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 16:21:42,332 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 16:21:42,340 INFO === Run finished ===
