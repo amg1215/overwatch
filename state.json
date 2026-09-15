@@ -5292,6 +5292,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30486&limit=100",
       "stock": "n/a"
     },
+    "26759": {
+      "name": "UHA Ninja Energy Che",
+      "price": "$1.27",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26759&limit=100",
+      "stock": "n/a"
+    },
     "26860": {
       "name": "UHA Mikakuto Gugutta",
       "price": "$1.65",
@@ -7544,6 +7550,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T19:31:45",
-  "last_count": 1257
+  "last_run": "2026-09-15T19:32:42",
+  "last_count": 1258
 }
