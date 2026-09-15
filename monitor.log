@@ -33693,3 +33693,9 @@
 2026-09-15 19:30:50,330 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-15 19:30:50,583 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-15 19:30:50,591 INFO === Run finished ===
+2026-09-15 19:31:16,605 INFO === Run started ===
+2026-09-15 19:31:44,221 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 19:31:44,221 INFO   NEW: UHA Mikakuto Gugutta | $1.65 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26860&limit=100
+2026-09-15 19:31:45,295 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 19:31:45,565 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 19:31:45,573 INFO === Run finished ===

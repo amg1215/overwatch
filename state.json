@@ -5292,6 +5292,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30486&limit=100",
       "stock": "n/a"
     },
+    "26860": {
+      "name": "UHA Mikakuto Gugutta",
+      "price": "$1.65",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26860&limit=100",
+      "stock": "n/a"
+    },
     "26760": {
       "name": "UHA Disney Princess",
       "price": "$1.29",
@@ -7538,6 +7544,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T19:30:50",
-  "last_count": 1256
+  "last_run": "2026-09-15T19:31:45",
+  "last_count": 1257
 }
