@@ -32876,3 +32876,9 @@
 2026-09-15 15:47:15,788 INFO === Run started ===
 2026-09-15 15:47:47,798 INFO No new products (1199 tracked)
 2026-09-15 15:47:47,805 INFO === Run finished ===
+2026-09-15 15:48:12,827 INFO === Run started ===
+2026-09-15 15:48:53,420 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 15:48:53,420 INFO   NEW: Sanko Rice Crackers | $1.93 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28921&limit=100
+2026-09-15 15:48:54,592 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 15:48:55,021 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 15:48:55,029 INFO === Run finished ===

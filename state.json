@@ -6258,6 +6258,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31587&limit=100",
       "stock": "n/a"
     },
+    "28921": {
+      "name": "Sanko Rice Crackers",
+      "price": "$1.93",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28921&limit=100",
+      "stock": "n/a"
+    },
     "30051": {
       "name": "TOHATO Extra Thick C",
       "price": "$1.25",
@@ -7196,6 +7202,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T15:47:47",
-  "last_count": 1199
+  "last_run": "2026-09-15T15:48:55",
+  "last_count": 1200
 }
