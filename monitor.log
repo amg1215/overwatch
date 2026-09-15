@@ -33272,3 +33272,9 @@
 2026-09-15 17:23:39,449 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-15 17:23:39,659 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-15 17:23:39,664 INFO === Run finished ===
+2026-09-15 17:24:13,003 INFO === Run started ===
+2026-09-15 17:24:41,742 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 17:24:41,743 INFO   NEW: Lotte Crispy Addicti | $1.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27085&limit=100
+2026-09-15 17:24:43,258 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 17:24:43,567 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 17:24:43,575 INFO === Run finished ===
