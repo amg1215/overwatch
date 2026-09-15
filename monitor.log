@@ -33831,3 +33831,9 @@
 2026-09-15 20:09:38,381 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-15 20:09:38,628 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-15 20:09:38,637 INFO === Run finished ===
+2026-09-15 20:10:15,878 INFO === Run started ===
+2026-09-15 20:10:43,700 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 20:10:43,700 INFO   NEW: ITOEN Lemon Jelly 30 | $1.67 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28925&limit=100
+2026-09-15 20:10:44,916 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 20:10:44,966 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 20:10:44,974 INFO === Run finished ===
