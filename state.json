@@ -6948,6 +6948,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7033&limit=100",
       "stock": "n/a"
     },
+    "25070": {
+      "name": "Kewpie Bread Spread",
+      "price": "$2.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25070&limit=100",
+      "stock": "n/a"
+    },
     "321": {
       "name": "Nisshin Seifun Pasta",
       "price": "$2.60",
@@ -7160,6 +7166,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T15:35:50",
-  "last_count": 1193
+  "last_run": "2026-09-15T15:36:51",
+  "last_count": 1194
 }
