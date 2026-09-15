@@ -4434,12 +4434,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30405&limit=100",
       "stock": "n/a"
     },
-    "50445": {
-      "name": "Banpresto Hatsune Mi",
-      "price": "$23.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50445&limit=100",
-      "stock": "n/a"
-    },
     "12814": {
       "name": "Banpresto One Piece",
       "price": "$27.59",
@@ -7832,6 +7826,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T21:44:40",
-  "last_count": 1305
+  "last_run": "2026-09-15T21:45:47",
+  "last_count": 1304
 }
