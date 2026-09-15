@@ -32852,3 +32852,9 @@
 2026-09-15 15:41:24,417 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-15 15:41:24,570 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-15 15:41:24,577 INFO === Run finished ===
+2026-09-15 15:42:21,426 INFO === Run started ===
+2026-09-15 15:42:48,185 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 15:42:48,185 INFO   NEW: Kewpie Bread Spread | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25069&limit=100
+2026-09-15 15:42:49,559 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 15:42:49,816 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 15:42:49,823 INFO === Run finished ===
