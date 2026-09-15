@@ -5316,6 +5316,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17423&limit=100",
       "stock": "n/a"
     },
+    "30965": {
+      "name": "Morinaga Large-Grain",
+      "price": "$1.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30965&limit=100",
+      "stock": "n/a"
+    },
     "30966": {
       "name": "Morinaga & Co. Milk",
       "price": "$1.79",
@@ -7496,6 +7502,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T17:39:47",
-  "last_count": 1249
+  "last_run": "2026-09-15T17:40:46",
+  "last_count": 1250
 }
