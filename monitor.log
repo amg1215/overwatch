@@ -33195,3 +33195,10 @@
 2026-09-15 17:05:13,515 INFO === Run started ===
 2026-09-15 17:05:44,481 INFO No new products (1230 tracked)
 2026-09-15 17:05:44,488 INFO === Run finished ===
+2026-09-15 17:06:12,692 INFO === Run started ===
+2026-09-15 17:06:42,210 INFO NEW/RESTOCKED products detected: 2
+2026-09-15 17:06:42,210 INFO   NEW: Fujiya Looks And Tas | $2.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30960&limit=100
+2026-09-15 17:06:42,210 INFO   NEW: Frito-Lay Corn Stick | $1.44 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15536&limit=100
+2026-09-15 17:06:43,807 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-15 17:06:44,028 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-15 17:06:44,034 INFO === Run finished ===
