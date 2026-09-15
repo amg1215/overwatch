@@ -32514,3 +32514,9 @@
 2026-09-15 13:30:39,631 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-15 13:30:39,845 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-15 13:30:39,853 INFO === Run finished ===
+2026-09-15 13:31:12,422 INFO === Run started ===
+2026-09-15 13:31:30,861 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 13:31:30,861 INFO   NEW: Coca-Cola Classic Co | $1.31 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13513&limit=100
+2026-09-15 13:31:32,582 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 13:31:32,779 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 13:31:32,783 INFO === Run finished ===
