@@ -32846,3 +32846,9 @@
 2026-09-15 15:39:54,528 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-15 15:39:54,646 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-15 15:39:54,654 INFO === Run finished ===
+2026-09-15 15:40:48,385 INFO === Run started ===
+2026-09-15 15:41:23,162 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 15:41:23,162 INFO   NEW: Canned Autumn Knife | $2.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18806&limit=100
+2026-09-15 15:41:24,417 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 15:41:24,570 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 15:41:24,577 INFO === Run finished ===
