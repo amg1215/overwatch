@@ -33789,3 +33789,9 @@
 2026-09-15 19:58:42,514 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-15 19:58:42,707 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-15 19:58:42,714 INFO === Run finished ===
+2026-09-15 19:59:15,736 INFO === Run started ===
+2026-09-15 19:59:41,913 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 19:59:41,913 INFO   NEW: Mitsui Meicha Peach | $4.70 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8765&limit=100
+2026-09-15 19:59:42,767 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 19:59:43,028 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 19:59:43,036 INFO === Run finished ===

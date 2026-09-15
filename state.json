@@ -7164,6 +7164,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28930&limit=100",
       "stock": "n/a"
     },
+    "8765": {
+      "name": "Mitsui Meicha Peach",
+      "price": "$4.70",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8765&limit=100",
+      "stock": "n/a"
+    },
     "10702": {
       "name": "Nittoh Mitsui Instan",
       "price": "$3.48",
@@ -7562,6 +7568,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T19:58:42",
-  "last_count": 1260
+  "last_run": "2026-09-15T19:59:43",
+  "last_count": 1261
 }
