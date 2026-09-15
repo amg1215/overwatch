@@ -33235,3 +33235,9 @@
 2026-09-15 17:14:40,800 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-15 17:14:40,987 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-15 17:14:40,994 INFO === Run finished ===
+2026-09-15 17:15:19,647 INFO === Run started ===
+2026-09-15 17:15:47,339 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 17:15:47,340 INFO   NEW: Fujiya LOOK Chocolat | $1.66 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21335&limit=100
+2026-09-15 17:15:49,094 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 17:15:49,295 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 17:15:49,318 INFO === Run finished ===
