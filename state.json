@@ -5790,6 +5790,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23107&limit=100",
       "stock": "n/a"
     },
+    "29423": {
+      "name": "Ezaki Glico Chocolat",
+      "price": "$1.97",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29423&limit=100",
+      "stock": "n/a"
+    },
     "30474": {
       "name": "Ezaki Glico Pocky Ch",
       "price": "$1.97",
@@ -7532,6 +7538,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T19:29:21",
-  "last_count": 1255
+  "last_run": "2026-09-15T19:30:50",
+  "last_count": 1256
 }
