@@ -33309,3 +33309,9 @@
 2026-09-15 17:31:44,492 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-15 17:31:44,723 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-15 17:31:44,731 INFO === Run finished ===
+2026-09-15 17:32:14,314 INFO === Run started ===
+2026-09-15 17:32:42,766 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 17:32:42,766 INFO   NEW: Suntory Summer Limit | $1.11 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30954&limit=100
+2026-09-15 17:32:44,343 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 17:32:44,532 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 17:32:44,540 INFO === Run finished ===
