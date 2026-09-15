@@ -33163,3 +33163,9 @@
 2026-09-15 16:56:48,003 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-15 16:56:48,257 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-15 16:56:48,266 INFO === Run finished ===
+2026-09-15 16:57:10,536 INFO === Run started ===
+2026-09-15 16:57:40,400 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 16:57:40,400 INFO   NEW: UHA Mikakuto Gummy C | $1.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26861&limit=100
+2026-09-15 16:57:41,921 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 16:57:42,183 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 16:57:42,191 INFO === Run finished ===
