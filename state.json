@@ -5250,10 +5250,22 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30486&limit=100",
       "stock": "n/a"
     },
+    "26760": {
+      "name": "UHA Disney Princess",
+      "price": "$1.29",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26760&limit=100",
+      "stock": "n/a"
+    },
     "26861": {
       "name": "UHA Mikakuto Gummy C",
       "price": "$1.60",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26861&limit=100",
+      "stock": "n/a"
+    },
+    "17423": {
+      "name": "Morinaga Juice Fudge",
+      "price": "$1.32",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17423&limit=100",
       "stock": "n/a"
     },
     "30966": {
@@ -7370,6 +7382,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T17:03:46",
-  "last_count": 1228
+  "last_run": "2026-09-15T17:04:48",
+  "last_count": 1230
 }
