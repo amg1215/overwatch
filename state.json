@@ -6762,6 +6762,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13513&limit=100",
       "stock": "n/a"
     },
+    "15872": {
+      "name": "Coca-Cola Sparkling",
+      "price": "$1.61",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15872&limit=100",
+      "stock": "n/a"
+    },
     "15273": {
       "name": "Coca-Cola Fanta Gold",
       "price": "$1.63",
@@ -7472,6 +7478,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T17:32:44",
-  "last_count": 1245
+  "last_run": "2026-09-15T17:33:44",
+  "last_count": 1246
 }
