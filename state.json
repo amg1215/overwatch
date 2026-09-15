@@ -5856,6 +5856,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30475&limit=100",
       "stock": "n/a"
     },
+    "15515": {
+      "name": "Ito Sandwich Cookies",
+      "price": "$2.09",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15515&limit=100",
+      "stock": "n/a"
+    },
     "29543": {
       "name": "Bourbon Chocolate Sa",
       "price": "$2.99",
@@ -6706,6 +6712,12 @@
       "name": "BANDAI Galaxy Expres",
       "price": "$1.49",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29878&limit=100",
+      "stock": "n/a"
+    },
+    "10571": {
+      "name": "Kracie Popin Cookin",
+      "price": "$3.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10571&limit=100",
       "stock": "n/a"
     },
     "23275": {
@@ -7592,6 +7604,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T20:12:43",
-  "last_count": 1265
+  "last_run": "2026-09-15T20:13:41",
+  "last_count": 1267
 }

@@ -33846,3 +33846,10 @@
 2026-09-15 20:12:43,528 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-15 20:12:43,731 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-15 20:12:43,737 INFO === Run finished ===
+2026-09-15 20:13:12,034 INFO === Run started ===
+2026-09-15 20:13:40,278 INFO NEW/RESTOCKED products detected: 2
+2026-09-15 20:13:40,278 INFO   NEW: Ito Sandwich Cookies | $2.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15515&limit=100
+2026-09-15 20:13:40,278 INFO   NEW: Kracie Popin Cookin | $3.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10571&limit=100
+2026-09-15 20:13:41,519 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-15 20:13:41,568 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-15 20:13:41,576 INFO === Run finished ===
