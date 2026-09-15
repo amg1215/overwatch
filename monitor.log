@@ -33223,3 +33223,9 @@
 2026-09-15 17:12:12,451 INFO === Run started ===
 2026-09-15 17:12:42,733 INFO No new products (1233 tracked)
 2026-09-15 17:12:42,740 INFO === Run finished ===
+2026-09-15 17:13:10,062 INFO === Run started ===
+2026-09-15 17:13:39,485 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 17:13:39,485 INFO   NEW: Meiji Essel Super Cu | $2.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30964&limit=100
+2026-09-15 17:13:40,756 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 17:13:40,883 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 17:13:40,891 INFO === Run finished ===
