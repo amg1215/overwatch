@@ -33205,3 +33205,9 @@
 2026-09-15 17:07:13,666 INFO === Run started ===
 2026-09-15 17:07:44,565 INFO No new products (1232 tracked)
 2026-09-15 17:07:44,572 INFO === Run finished ===
+2026-09-15 17:08:12,049 INFO === Run started ===
+2026-09-15 17:08:41,807 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 17:08:41,807 INFO   NEW: Meiji Banana Shaped | $1.85 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10201&limit=100
+2026-09-15 17:08:44,397 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 17:08:44,612 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 17:08:44,621 INFO === Run finished ===
