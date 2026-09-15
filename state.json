@@ -6774,6 +6774,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14953&limit=100",
       "stock": "n/a"
     },
+    "14954": {
+      "name": "Coca-Cola Sprite Lim",
+      "price": "$1.63",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14954&limit=100",
+      "stock": "n/a"
+    },
     "49835": {
       "name": "Coca-Cola Minute Mai",
       "price": "$1.55",
@@ -7460,6 +7466,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T17:30:45",
-  "last_count": 1243
+  "last_run": "2026-09-15T17:31:44",
+  "last_count": 1244
 }
