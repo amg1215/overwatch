@@ -6864,6 +6864,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28501&limit=100",
       "stock": "n/a"
     },
+    "19587": {
+      "name": "Oigawa Shizuoka Matc",
+      "price": "$5.03",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19587&limit=100",
+      "stock": "n/a"
+    },
     "18829": {
       "name": "ITOEN Easy Brew Prem",
       "price": "$4.79",
@@ -7364,6 +7370,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T16:52:39",
-  "last_count": 1227
+  "last_run": "2026-09-15T16:53:44",
+  "last_count": 1228
 }
