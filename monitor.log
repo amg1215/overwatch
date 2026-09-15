@@ -33061,3 +33061,9 @@
 2026-09-15 16:31:39,229 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-15 16:31:39,304 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-15 16:31:39,312 INFO === Run finished ===
+2026-09-15 16:32:14,911 INFO === Run started ===
+2026-09-15 16:32:41,031 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 16:32:41,031 INFO   NEW: ITOEN Freezing Bever | $1.67 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28926&limit=100
+2026-09-15 16:32:42,450 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 16:32:42,596 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 16:32:42,604 INFO === Run finished ===
