@@ -7182,6 +7182,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9712&limit=100",
       "stock": "n/a"
     },
+    "29551": {
+      "name": "Oyatsu Pokemon Baby",
+      "price": "$1.09",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29551&limit=100",
+      "stock": "n/a"
+    },
+    "29552": {
+      "name": "Oyatsu Pokemon Baby",
+      "price": "$1.09",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29552&limit=100",
+      "stock": "n/a"
+    },
     "30887": {
       "name": "Myojo Ippei-chan Yak",
       "price": "$6.59",
@@ -7370,6 +7382,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T16:54:43",
-  "last_count": 1228
+  "last_run": "2026-09-15T16:55:46",
+  "last_count": 1230
 }

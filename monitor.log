@@ -33150,3 +33150,10 @@
 2026-09-15 16:54:16,112 INFO === Run started ===
 2026-09-15 16:54:43,001 INFO No new products (1228 tracked)
 2026-09-15 16:54:43,006 INFO === Run finished ===
+2026-09-15 16:55:15,207 INFO === Run started ===
+2026-09-15 16:55:44,864 INFO NEW/RESTOCKED products detected: 2
+2026-09-15 16:55:44,865 INFO   NEW: Oyatsu Pokemon Baby | $1.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29551&limit=100
+2026-09-15 16:55:44,865 INFO   NEW: Oyatsu Pokemon Baby | $1.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29552&limit=100
+2026-09-15 16:55:46,410 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-15 16:55:46,644 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-15 16:55:46,652 INFO === Run finished ===
