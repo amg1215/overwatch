@@ -32921,3 +32921,9 @@
 2026-09-15 15:57:03,242 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-15 15:57:03,412 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-15 15:57:03,419 INFO === Run finished ===
+2026-09-15 15:58:12,447 INFO === Run started ===
+2026-09-15 15:58:36,934 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 15:58:36,934 INFO   NEW: Koikeya Corn Crisp S | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23208&limit=100
+2026-09-15 15:58:38,064 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 15:58:38,361 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 15:58:38,368 INFO === Run finished ===
