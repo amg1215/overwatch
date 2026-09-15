@@ -33919,3 +33919,9 @@
 2026-09-15 20:30:18,469 INFO === Run started ===
 2026-09-15 20:30:47,462 INFO No new products (1270 tracked)
 2026-09-15 20:30:47,469 INFO === Run finished ===
+2026-09-15 20:31:10,385 INFO === Run started ===
+2026-09-15 20:31:39,785 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 20:31:39,785 INFO   NEW: Meiji Bamboo Shoot S | $2.76 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18847&limit=100
+2026-09-15 20:31:40,735 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 20:31:40,913 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 20:31:40,920 INFO === Run finished ===
