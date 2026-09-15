@@ -33943,3 +33943,9 @@
 2026-09-15 20:38:13,965 INFO === Run started ===
 2026-09-15 20:38:41,225 INFO No new products (1270 tracked)
 2026-09-15 20:38:41,232 INFO === Run finished ===
+2026-09-15 20:39:10,833 INFO === Run started ===
+2026-09-15 20:39:39,126 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 20:39:39,126 INFO   NEW: Banpresto JoJo's Biz | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51426&limit=100
+2026-09-15 20:39:41,136 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 20:39:41,342 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 20:39:41,351 INFO === Run finished ===
