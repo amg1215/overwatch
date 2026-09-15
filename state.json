@@ -5778,6 +5778,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30060&limit=100",
       "stock": "n/a"
     },
+    "23184": {
+      "name": "Meito Taiyaki Sandwi",
+      "price": "$0.75",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23184&limit=100",
+      "stock": "n/a"
+    },
     "30061": {
       "name": "Meiji Mushroom & Bam",
       "price": "$3.71",
@@ -7322,6 +7328,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T16:30:48",
-  "last_count": 1220
+  "last_run": "2026-09-15T16:31:39",
+  "last_count": 1221
 }
