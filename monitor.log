@@ -33287,3 +33287,10 @@
 2026-09-15 17:26:12,356 INFO === Run started ===
 2026-09-15 17:26:41,015 INFO No new products (1241 tracked)
 2026-09-15 17:26:41,022 INFO === Run finished ===
+2026-09-15 17:27:14,226 INFO === Run started ===
+2026-09-15 17:27:40,764 INFO NEW/RESTOCKED products detected: 2
+2026-09-15 17:27:40,764 INFO   NEW: Umios S Fruitier Lux | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30957&limit=100
+2026-09-15 17:27:40,764 INFO   NEW: YBS Ayane Sandwich C | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30968&limit=100
+2026-09-15 17:27:41,612 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-15 17:27:41,684 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-15 17:27:41,691 INFO === Run finished ===
