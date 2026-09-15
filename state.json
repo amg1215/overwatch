@@ -7104,6 +7104,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18785&limit=100",
       "stock": "n/a"
     },
+    "10395": {
+      "name": "Nissin Cheese Curry",
+      "price": "$2.27",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10395&limit=100",
+      "stock": "n/a"
+    },
     "23173": {
       "name": "Nissin BIG Noodles T",
       "price": "$2.58",
@@ -7292,6 +7298,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T16:19:38",
-  "last_count": 1215
+  "last_run": "2026-09-15T16:20:46",
+  "last_count": 1216
 }
