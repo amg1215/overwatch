@@ -32550,3 +32550,11 @@
 2026-09-15 13:40:18,051 INFO === Run started ===
 2026-09-15 13:40:38,444 INFO No new products (1211 tracked)
 2026-09-15 13:40:38,451 INFO === Run finished ===
+2026-09-15 13:41:11,874 INFO === Run started ===
+2026-09-15 13:41:31,271 INFO NEW/RESTOCKED products detected: 3
+2026-09-15 13:41:31,271 INFO   NEW: Oreo Sandwich Cookie | $1.61 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30838&limit=100
+2026-09-15 13:41:31,271 INFO   NEW: RE-MENT Hello Kitty | $10.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28766&limit=100
+2026-09-15 13:41:31,271 INFO   NEW: BANDAI SLO Series Fi | $3.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29866&limit=100
+2026-09-15 13:41:32,179 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-15 13:41:32,427 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-15 13:41:32,435 INFO === Run finished ===
