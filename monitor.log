@@ -33402,3 +33402,9 @@
 2026-09-15 17:55:17,390 INFO === Run started ===
 2026-09-15 17:55:44,438 INFO No new products (1251 tracked)
 2026-09-15 17:55:44,443 INFO === Run finished ===
+2026-09-15 17:56:14,434 INFO === Run started ===
+2026-09-15 17:56:41,151 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 17:56:41,152 INFO   NEW: Kataoka London After | $3.70 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18390&limit=100
+2026-09-15 17:56:42,651 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 17:56:42,937 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 17:56:42,942 INFO === Run finished ===
