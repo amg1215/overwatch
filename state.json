@@ -4992,6 +4992,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15762&limit=100",
       "stock": "n/a"
     },
+    "3994": {
+      "name": "Ezaki Glico Almond S",
+      "price": "$2.65",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3994&limit=100",
+      "stock": "n/a"
+    },
     "24215": {
       "name": "Furuta Strawberry Sa",
       "price": "$3.28",
@@ -7526,6 +7532,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T19:23:40",
-  "last_count": 1254
+  "last_run": "2026-09-15T19:24:42",
+  "last_count": 1255
 }

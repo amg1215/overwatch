@@ -33675,3 +33675,9 @@
 2026-09-15 19:23:12,330 INFO === Run started ===
 2026-09-15 19:23:40,244 INFO No new products (1254 tracked)
 2026-09-15 19:23:40,251 INFO === Run finished ===
+2026-09-15 19:24:13,431 INFO === Run started ===
+2026-09-15 19:24:41,475 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 19:24:41,476 INFO   NEW: Ezaki Glico Almond S | $2.65 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3994&limit=100
+2026-09-15 19:24:42,706 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 19:24:42,905 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 19:24:42,914 INFO === Run finished ===
