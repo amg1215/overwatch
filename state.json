@@ -4722,12 +4722,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19943&limit=100",
       "stock": "n/a"
     },
-    "19942": {
-      "name": "Kuki Cute Axoloti 10",
-      "price": "$0.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19942&limit=100",
-      "stock": "n/a"
-    },
     "24808": {
       "name": "KUKI Pen kk-3099",
       "price": "$0.99",
@@ -7832,6 +7826,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T20:54:43",
-  "last_count": 1305
+  "last_run": "2026-09-15T20:55:49",
+  "last_count": 1304
 }
