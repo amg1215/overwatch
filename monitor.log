@@ -32902,3 +32902,9 @@
 2026-09-15 15:52:44,136 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-15 15:52:44,382 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-15 15:52:44,390 INFO === Run finished ===
+2026-09-15 15:53:14,177 INFO === Run started ===
+2026-09-15 15:53:40,467 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 15:53:40,467 INFO   NEW: Canned Herring 100g | $2.33 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18807&limit=100
+2026-09-15 15:53:41,560 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 15:53:41,713 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 15:53:41,721 INFO === Run finished ===
