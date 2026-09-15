@@ -6708,6 +6708,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30883&limit=100",
       "stock": "n/a"
     },
+    "30955": {
+      "name": "Suntory Summer Limit",
+      "price": "$1.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30955&limit=100",
+      "stock": "n/a"
+    },
     "14950": {
       "name": "Suntory Pepsi-Cola B",
       "price": "$1.56",
@@ -7490,6 +7496,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T17:38:44",
-  "last_count": 1248
+  "last_run": "2026-09-15T17:39:47",
+  "last_count": 1249
 }
