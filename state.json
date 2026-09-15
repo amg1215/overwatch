@@ -7110,6 +7110,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12207&limit=100",
       "stock": "n/a"
     },
+    "28910": {
+      "name": "Nissin Meat Sauce Ba",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28910&limit=100",
+      "stock": "n/a"
+    },
     "8903": {
       "name": "Hikari Miso Chinese",
       "price": "$2.13",
@@ -7202,6 +7208,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T15:49:44",
-  "last_count": 1200
+  "last_run": "2026-09-15T15:50:49",
+  "last_count": 1201
 }

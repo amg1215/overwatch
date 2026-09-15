@@ -32885,3 +32885,9 @@
 2026-09-15 15:49:11,856 INFO === Run started ===
 2026-09-15 15:49:44,672 INFO No new products (1200 tracked)
 2026-09-15 15:49:44,678 INFO === Run finished ===
+2026-09-15 15:50:16,814 INFO === Run started ===
+2026-09-15 15:50:47,709 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 15:50:47,709 INFO   NEW: Nissin Meat Sauce Ba | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28910&limit=100
+2026-09-15 15:50:48,999 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 15:50:49,402 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 15:50:49,409 INFO === Run finished ===
