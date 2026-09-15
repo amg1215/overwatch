@@ -33880,3 +33880,12 @@
 2026-09-15 20:20:20,440 INFO === Run started ===
 2026-09-15 20:21:02,739 INFO No new products (1267 tracked)
 2026-09-15 20:21:02,746 INFO === Run finished ===
+2026-09-15 20:22:16,774 INFO === Run started ===
+2026-09-15 20:22:45,958 INFO NEW/RESTOCKED products detected: 4
+2026-09-15 20:22:45,958 INFO   NEW: Kao MegRhythm Gentle | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9767&limit=100
+2026-09-15 20:22:45,958 INFO   NEW: KUKI Vitality Meow S | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26996&limit=100
+2026-09-15 20:22:45,958 INFO   NEW: Starbucks  Summer Li | $2.57 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=49833&limit=100
+2026-09-15 20:22:45,958 INFO   NEW: Meito Milk Cocoa Pow | $3.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28930&limit=100
+2026-09-15 20:22:47,488 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-15 20:22:47,716 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-15 20:22:47,723 INFO === Run finished ===
