@@ -33648,3 +33648,9 @@
 2026-09-15 19:15:18,996 INFO === Run started ===
 2026-09-15 19:15:45,226 INFO No new products (1253 tracked)
 2026-09-15 19:15:45,251 INFO === Run finished ===
+2026-09-15 19:16:16,025 INFO === Run started ===
+2026-09-15 19:16:44,961 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 19:16:44,961 INFO   NEW: ITOEN Qi Qu Boy Colo | $1.65 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=49840&limit=100
+2026-09-15 19:16:46,551 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 19:16:46,822 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 19:16:46,830 INFO === Run finished ===
