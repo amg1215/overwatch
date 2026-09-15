@@ -6768,6 +6768,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28926&limit=100",
       "stock": "n/a"
     },
+    "49839": {
+      "name": "ITOEN MatchaLOVE Mat",
+      "price": "$1.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=49839&limit=100",
+      "stock": "n/a"
+    },
     "49840": {
       "name": "ITOEN Qi Qu Boy Colo",
       "price": "$1.65",
@@ -7610,6 +7616,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T20:15:49",
-  "last_count": 1268
+  "last_run": "2026-09-15T20:16:42",
+  "last_count": 1269
 }

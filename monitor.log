@@ -33862,3 +33862,9 @@
 2026-09-15 20:15:48,844 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-15 20:15:49,101 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-15 20:15:49,109 INFO === Run finished ===
+2026-09-15 20:16:13,245 INFO === Run started ===
+2026-09-15 20:16:41,267 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 20:16:41,267 INFO   NEW: ITOEN MatchaLOVE Mat | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=49839&limit=100
+2026-09-15 20:16:42,285 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 20:16:42,504 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 20:16:42,512 INFO === Run finished ===
