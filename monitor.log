@@ -34970,3 +34970,9 @@
 2026-09-15 21:04:50,351 INFO === Run started ===
 2026-09-15 21:05:21,344 INFO No new products (1304 tracked)
 2026-09-15 21:05:21,351 INFO === Run finished ===
+2026-09-15 21:06:13,907 INFO === Run started ===
+2026-09-15 21:06:43,143 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 21:06:43,143 INFO   NEW: Heart Chiikawa Chara | $2.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29024&limit=100
+2026-09-15 21:06:44,696 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 21:06:44,908 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 21:06:44,914 INFO === Run finished ===
