@@ -35202,3 +35202,9 @@
 2026-09-15 22:24:23,174 INFO === Run started ===
 2026-09-15 22:24:53,021 INFO No new products (1304 tracked)
 2026-09-15 22:24:53,028 INFO === Run finished ===
+2026-09-15 22:25:16,509 INFO === Run started ===
+2026-09-15 22:25:46,403 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 22:25:46,404 INFO   NEW: Taito Frieren Beyond | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51163&limit=100
+2026-09-15 22:25:48,116 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 22:25:48,333 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 22:25:48,340 INFO === Run finished ===
