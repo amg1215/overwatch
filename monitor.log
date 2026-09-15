@@ -33278,3 +33278,9 @@
 2026-09-15 17:24:43,258 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-15 17:24:43,567 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-15 17:24:43,575 INFO === Run finished ===
+2026-09-15 17:25:13,363 INFO === Run started ===
+2026-09-15 17:25:42,690 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 17:25:42,690 INFO   NEW: Starbucks Summer Lim | $2.57 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=49834&limit=100
+2026-09-15 17:25:45,757 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 17:25:45,911 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 17:25:45,919 INFO === Run finished ===
