@@ -33336,3 +33336,9 @@
 2026-09-15 17:37:41,841 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-15 17:37:42,060 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-15 17:37:42,068 INFO === Run finished ===
+2026-09-15 17:38:15,440 INFO === Run started ===
+2026-09-15 17:38:43,583 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 17:38:43,583 INFO   NEW: Kirin Milk Tea 185g | $1.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18796&limit=100
+2026-09-15 17:38:44,530 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 17:38:44,936 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 17:38:44,944 INFO === Run finished ===
