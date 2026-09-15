@@ -5862,6 +5862,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15515&limit=100",
       "stock": "n/a"
     },
+    "15516": {
+      "name": "Ito Sandwich Cookies",
+      "price": "$2.09",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15516&limit=100",
+      "stock": "n/a"
+    },
     "29543": {
       "name": "Bourbon Chocolate Sa",
       "price": "$2.99",
@@ -7604,6 +7610,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T20:14:38",
-  "last_count": 1267
+  "last_run": "2026-09-15T20:15:49",
+  "last_count": 1268
 }
