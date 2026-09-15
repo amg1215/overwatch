@@ -33949,3 +33949,42 @@
 2026-09-15 20:39:41,136 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-15 20:39:41,342 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-15 20:39:41,351 INFO === Run finished ===
+2026-09-15 20:40:20,768 INFO === Run started ===
+2026-09-15 20:40:55,526 INFO NEW/RESTOCKED products detected: 34
+2026-09-15 20:40:55,527 INFO   NEW: Banpresto Jujutsu Ka | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51879&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Banpresto Puella Mag | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30711&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: BANDAI SPIRITS ONEpc | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50402&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: FuRyu Hatsune Miku N | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50685&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: FuRyu Even a Replica | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51884&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: FuRyu I Became Frien | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51885&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: FuRyu Uma Musume Pre | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51886&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Banpresto Ultraman H | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51882&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Banpresto Ultraman A | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51881&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Oreo Cakesters Vanil | $2.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27015&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Oreo Cakesters Orang | $2.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27013&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Samyang Crispy Rings | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51852&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Samyang Crispy Rings | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51851&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Samyang Buldak Potat | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26880&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Lay's Potato Chips G | $1.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12402&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Orion Turtle Chip Sw | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28808&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Orion Turtle Chip Fl | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30545&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Orion Turtle Chips S | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51827&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Chi Forest SPARKLING | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51855&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Chi Forest SPARKLING | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19027&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Genki Forest Sparkli | $0.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19031&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Chi Forest SPARKLING | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19028&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Chi Forest SPARKLING | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51854&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Chi Forest Sparkling | $0.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23733&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Chi Forest Sparkling | $0.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19030&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Chi Forest SPARKLING | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51857&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Chi Forest SPARKLING | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51856&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: NongShim Shin Black | $2.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16640&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: NongShim Cup Noodle | $1.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51858&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Nongshim Bowl Noodle | $1.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16645&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: NongShim Bowl Noodle | $1.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16626&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: NongShim Bowl Noodle | $1.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16627&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Samyang Spicy Chicke | $5.85 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51853&limit=100
+2026-09-15 20:40:55,527 INFO   NEW: Samyang Buldak Topok | $3.61 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12206&limit=100
+2026-09-15 20:40:57,108 INFO Email sent: Ebisu: 34 new/restocked items!
+2026-09-15 20:40:57,391 INFO ntfy push sent: Ebisu: 34 new/restocked items!
+2026-09-15 20:40:57,398 INFO === Run finished ===
