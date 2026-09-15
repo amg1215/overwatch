@@ -7044,6 +7044,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3805&limit=100",
       "stock": "n/a"
     },
+    "17414": {
+      "name": "Otsuka Electrolyte D",
+      "price": "$1.44",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17414&limit=100",
+      "stock": "n/a"
+    },
     "29725": {
       "name": "SANGARIA Royal Milk",
       "price": "$1.49",
@@ -7616,6 +7622,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T20:28:40",
-  "last_count": 1269
+  "last_run": "2026-09-15T20:29:40",
+  "last_count": 1270
 }
