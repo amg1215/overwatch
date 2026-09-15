@@ -33169,3 +33169,10 @@
 2026-09-15 16:57:41,921 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-15 16:57:42,183 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-15 16:57:42,191 INFO === Run finished ===
+2026-09-15 16:58:13,991 INFO === Run started ===
+2026-09-15 16:59:01,219 INFO NEW/RESTOCKED products detected: 2
+2026-09-15 16:59:01,219 INFO   NEW: Morinaga & Co. Milk | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30966&limit=100
+2026-09-15 16:59:01,219 INFO   NEW: Morinaga Mixed Fruit | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27081&limit=100
+2026-09-15 16:59:02,223 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-15 16:59:02,650 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-15 16:59:02,658 INFO === Run finished ===
