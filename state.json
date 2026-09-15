@@ -4800,12 +4800,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26998&limit=100",
       "stock": "n/a"
     },
-    "26996": {
-      "name": "KUKI Vitality Meow S",
-      "price": "$0.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26996&limit=100",
-      "stock": "n/a"
-    },
     "26997": {
       "name": "KUKI Vitality Meow S",
       "price": "$0.99",
@@ -7206,12 +7200,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18392&limit=100",
       "stock": "n/a"
     },
-    "28930": {
-      "name": "Meito Milk Cocoa Pow",
-      "price": "$3.79",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28930&limit=100",
-      "stock": "n/a"
-    },
     "8765": {
       "name": "Mitsui Meicha Peach",
       "price": "$4.70",
@@ -7616,6 +7604,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T20:19:38",
-  "last_count": 1269
+  "last_run": "2026-09-15T20:21:02",
+  "last_count": 1267
 }
