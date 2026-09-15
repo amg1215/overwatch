@@ -33157,3 +33157,9 @@
 2026-09-15 16:55:46,410 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-15 16:55:46,644 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-15 16:55:46,652 INFO === Run finished ===
+2026-09-15 16:56:16,670 INFO === Run started ===
+2026-09-15 16:56:46,721 INFO NEW/RESTOCKED products detected: 1
+2026-09-15 16:56:46,721 INFO   NEW: YBS Mint Chocolate P | $2.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30967&limit=100
+2026-09-15 16:56:48,003 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-15 16:56:48,257 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-15 16:56:48,266 INFO === Run finished ===

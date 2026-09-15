@@ -5802,6 +5802,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30487&limit=100",
       "stock": "n/a"
     },
+    "30967": {
+      "name": "YBS Mint Chocolate P",
+      "price": "$2.89",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30967&limit=100",
+      "stock": "n/a"
+    },
     "30488": {
       "name": "YBC Mini Melon Sandw",
       "price": "$0.85",
@@ -7382,6 +7388,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-15T16:55:46",
-  "last_count": 1230
+  "last_run": "2026-09-15T16:56:48",
+  "last_count": 1231
 }
