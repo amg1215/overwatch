@@ -37779,3 +37779,9 @@
 2026-09-16 23:23:34,219 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 23:23:34,501 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 23:23:34,510 INFO === Run finished ===
+2026-09-16 23:24:12,811 INFO === Run started ===
+2026-09-16 23:24:37,242 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 23:24:37,243 INFO   NEW: Mandom GATSBY Moving | $6.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9363&limit=100
+2026-09-16 23:24:38,345 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 23:24:38,824 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 23:24:38,834 INFO === Run finished ===

@@ -3354,6 +3354,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9335&limit=100",
       "stock": "n/a"
     },
+    "9363": {
+      "name": "Mandom GATSBY Moving",
+      "price": "$6.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9363&limit=100",
+      "stock": "n/a"
+    },
     "17297": {
       "name": "Kao Foam Hair Dye Br",
       "price": "$7.79",
@@ -8642,6 +8648,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T23:23:34",
-  "last_count": 1440
+  "last_run": "2026-09-16T23:24:38",
+  "last_count": 1441
 }
