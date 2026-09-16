@@ -5664,6 +5664,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20980&limit=100",
       "stock": "n/a"
     },
+    "13229": {
+      "name": "Bourbon Chocolate Cr",
+      "price": "$2.87",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13229&limit=100",
+      "stock": "n/a"
+    },
     "30820": {
       "name": "Sanritsu Confectione",
       "price": "$1.92",
@@ -7934,6 +7940,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T17:37:13",
-  "last_count": 1322
+  "last_run": "2026-09-16T17:38:32",
+  "last_count": 1323
 }
