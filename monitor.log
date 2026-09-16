@@ -37583,3 +37583,9 @@
 2026-09-16 22:38:40,544 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 22:38:40,864 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 22:38:40,869 INFO === Run finished ===
+2026-09-16 22:39:12,321 INFO === Run started ===
+2026-09-16 22:39:40,326 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 22:39:40,326 INFO   NEW: SLO Face Hairband Ku | $7.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13430&limit=100
+2026-09-16 22:39:41,908 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 22:39:42,444 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 22:39:42,455 INFO === Run finished ===
