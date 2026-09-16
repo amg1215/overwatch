@@ -37137,3 +37137,9 @@
 2026-09-16 20:39:10,025 INFO === Run started ===
 2026-09-16 20:39:30,552 INFO No new products (1383 tracked)
 2026-09-16 20:39:30,557 INFO === Run finished ===
+2026-09-16 20:40:14,917 INFO === Run started ===
+2026-09-16 20:40:36,179 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 20:40:36,179 INFO   NEW: LEC Mould Removing F | $2.45 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13260&limit=100
+2026-09-16 20:40:38,440 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 20:40:38,572 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 20:40:38,582 INFO === Run finished ===
