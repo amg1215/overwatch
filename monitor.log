@@ -36304,3 +36304,11 @@
 2026-09-16 17:00:57,963 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 17:00:58,155 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 17:00:58,161 INFO === Run finished ===
+2026-09-16 17:06:15,254 INFO === Run started ===
+2026-09-16 17:06:35,861 INFO NEW/RESTOCKED products detected: 3
+2026-09-16 17:06:35,861 INFO   NEW: KANRO Pure Gummy Sal | $1.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30870&limit=100
+2026-09-16 17:06:35,861 INFO   NEW: Ezaki Glico Pocky Mi | $3.77 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5268&limit=100
+2026-09-16 17:06:35,861 INFO   NEW: Nestle KitKat Chocol | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17760&limit=100
+2026-09-16 17:06:37,792 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-16 17:06:37,997 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-16 17:06:38,003 INFO === Run finished ===
