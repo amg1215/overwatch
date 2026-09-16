@@ -7578,6 +7578,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10822&limit=100",
       "stock": "n/a"
     },
+    "18223": {
+      "name": "ForIchiran Ramen Noo",
+      "price": "$23.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18223&limit=100",
+      "stock": "n/a"
+    },
+    "18224": {
+      "name": "Ichiran Ramen Noodle",
+      "price": "$10.20",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18224&limit=100",
+      "stock": "n/a"
+    },
     "14067": {
       "name": "AJINOMOTO Pasta Soup",
       "price": "$1.66",
@@ -7832,6 +7844,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T17:13:32",
-  "last_count": 1305
+  "last_run": "2026-09-16T17:14:37",
+  "last_count": 1307
 }
