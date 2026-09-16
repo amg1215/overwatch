@@ -36400,3 +36400,9 @@
 2026-09-16 17:27:11,513 INFO === Run started ===
 2026-09-16 17:27:31,445 INFO No new products (1316 tracked)
 2026-09-16 17:27:31,449 INFO === Run finished ===
+2026-09-16 17:28:13,874 INFO === Run started ===
+2026-09-16 17:28:37,229 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 17:28:37,229 INFO   NEW: Myojo Soy Sauce Nood | $2.72 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18793&limit=100
+2026-09-16 17:28:38,857 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 17:28:39,116 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 17:28:39,124 INFO === Run finished ===
