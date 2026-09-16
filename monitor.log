@@ -36371,3 +36371,10 @@
 2026-09-16 17:22:11,176 INFO === Run started ===
 2026-09-16 17:22:33,119 INFO No new products (1310 tracked)
 2026-09-16 17:22:33,126 INFO === Run finished ===
+2026-09-16 17:23:12,298 INFO === Run started ===
+2026-09-16 17:23:34,734 INFO NEW/RESTOCKED products detected: 2
+2026-09-16 17:23:34,734 INFO   NEW: Morinaga DARS Premiu | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25643&limit=100
+2026-09-16 17:23:34,734 INFO   NEW: Fujiya Nectar Sherbe | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30822&limit=100
+2026-09-16 17:23:36,242 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-16 17:23:36,439 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-16 17:23:36,447 INFO === Run finished ===
