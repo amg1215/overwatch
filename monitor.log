@@ -36854,3 +36854,9 @@
 2026-09-16 19:28:36,544 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 19:28:36,783 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 19:28:36,790 INFO === Run finished ===
+2026-09-16 19:29:10,252 INFO === Run started ===
+2026-09-16 19:29:31,722 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 19:29:31,722 INFO   NEW: T-ARTS Pokémon Tradi | $1.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31016&limit=100
+2026-09-16 19:29:33,125 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 19:29:33,250 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 19:29:33,259 INFO === Run finished ===
