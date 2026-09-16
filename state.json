@@ -1680,6 +1680,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5348&limit=100",
       "stock": "n/a"
     },
+    "7863": {
+      "name": "Kinomegumi Foot Shee",
+      "price": "$14.27",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7863&limit=100",
+      "stock": "n/a"
+    },
     "8026": {
       "name": "Kinomegumi Foot Shee",
       "price": "$14.27",
@@ -8522,6 +8528,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T22:41:38",
-  "last_count": 1420
+  "last_run": "2026-09-16T22:42:40",
+  "last_count": 1421
 }
