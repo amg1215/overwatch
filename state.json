@@ -2106,6 +2106,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5001&limit=100",
       "stock": "n/a"
     },
+    "4990": {
+      "name": "Kao Curel Currel Agi",
+      "price": "$23.03",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4990&limit=100",
+      "stock": "n/a"
+    },
     "4201": {
       "name": "Kracie Moisture Face",
       "price": "$9.99",
@@ -8414,6 +8420,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T22:04:39",
-  "last_count": 1402
+  "last_run": "2026-09-16T22:05:36",
+  "last_count": 1403
 }
