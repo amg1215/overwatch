@@ -36495,3 +36495,11 @@
 2026-09-16 17:48:35,900 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 17:48:36,197 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 17:48:36,205 INFO === Run finished ===
+2026-09-16 17:49:15,838 INFO === Run started ===
+2026-09-16 17:49:38,380 INFO NEW/RESTOCKED products detected: 3
+2026-09-16 17:49:38,380 INFO   NEW: Kanro PUREGUMI Grape | $1.46 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9749&limit=100
+2026-09-16 17:49:38,380 INFO   NEW: Bourbon Cream Cake P | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21333&limit=100
+2026-09-16 17:49:38,380 INFO   NEW: Meiji Mushroom Choco | $2.76 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4063&limit=100
+2026-09-16 17:49:39,770 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-16 17:49:40,021 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-16 17:49:40,029 INFO === Run finished ===

@@ -5232,6 +5232,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30478&limit=100",
       "stock": "n/a"
     },
+    "9749": {
+      "name": "Kanro PUREGUMI Grape",
+      "price": "$1.46",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9749&limit=100",
+      "stock": "n/a"
+    },
     "28927": {
       "name": "Kabaya Shaved Ice Gu",
       "price": "$1.49",
@@ -5688,6 +5694,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13229&limit=100",
       "stock": "n/a"
     },
+    "21333": {
+      "name": "Bourbon Cream Cake P",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21333&limit=100",
+      "stock": "n/a"
+    },
     "30820": {
       "name": "Sanritsu Confectione",
       "price": "$1.92",
@@ -6052,6 +6064,12 @@
       "name": "Meito Taiyaki Sandwi",
       "price": "$0.75",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23184&limit=100",
+      "stock": "n/a"
+    },
+    "4063": {
+      "name": "Meiji Mushroom Choco",
+      "price": "$2.76",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4063&limit=100",
       "stock": "n/a"
     },
     "18847": {
@@ -7982,6 +8000,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T17:48:36",
-  "last_count": 1330
+  "last_run": "2026-09-16T17:49:40",
+  "last_count": 1333
 }
