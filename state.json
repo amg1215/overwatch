@@ -5682,6 +5682,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14071&limit=100",
       "stock": "n/a"
     },
+    "14072": {
+      "name": "Hiyoshi Dorayaki Mat",
+      "price": "$5.11",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14072&limit=100",
+      "stock": "n/a"
+    },
     "19588": {
       "name": "Seiki Mikan Mochi 13",
       "price": "$2.69",
@@ -5716,6 +5722,12 @@
       "name": "Seiki Chilled Melon",
       "price": "$2.69",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19599&limit=100",
+      "stock": "n/a"
+    },
+    "600": {
+      "name": "Seiki Glutinous Rice",
+      "price": "$2.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=600&limit=100",
       "stock": "n/a"
     },
     "31100": {
@@ -7886,6 +7898,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T17:25:37",
-  "last_count": 1314
+  "last_run": "2026-09-16T17:26:35",
+  "last_count": 1316
 }

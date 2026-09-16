@@ -36390,3 +36390,10 @@
 2026-09-16 17:25:37,579 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 17:25:37,844 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 17:25:37,852 INFO === Run finished ===
+2026-09-16 17:26:12,055 INFO === Run started ===
+2026-09-16 17:26:34,280 INFO NEW/RESTOCKED products detected: 2
+2026-09-16 17:26:34,280 INFO   NEW: Hiyoshi Dorayaki Mat | $5.11 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14072&limit=100
+2026-09-16 17:26:34,280 INFO   NEW: Seiki Glutinous Rice | $2.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=600&limit=100
+2026-09-16 17:26:35,269 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-16 17:26:35,505 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-16 17:26:35,513 INFO === Run finished ===
