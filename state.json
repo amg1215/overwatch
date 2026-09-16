@@ -2712,6 +2712,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2268&limit=100",
       "stock": "n/a"
     },
+    "2270": {
+      "name": "Sanyo 360 Degree Ear",
+      "price": "$1.42",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2270&limit=100",
+      "stock": "n/a"
+    },
     "2272": {
       "name": "Sanyo Adult Slender",
       "price": "$2.03",
@@ -8270,6 +8276,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T20:05:38",
-  "last_count": 1378
+  "last_run": "2026-09-16T20:06:59",
+  "last_count": 1379
 }

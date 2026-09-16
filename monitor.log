@@ -37022,3 +37022,9 @@
 2026-09-16 20:05:13,331 INFO === Run started ===
 2026-09-16 20:05:38,355 INFO No new products (1378 tracked)
 2026-09-16 20:05:38,362 INFO === Run finished ===
+2026-09-16 20:06:37,225 INFO === Run started ===
+2026-09-16 20:06:58,274 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 20:06:58,274 INFO   NEW: Sanyo 360 Degree Ear | $1.42 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2270&limit=100
+2026-09-16 20:06:59,761 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 20:06:59,985 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 20:06:59,990 INFO === Run finished ===
