@@ -36830,3 +36830,9 @@
 2026-09-16 19:24:35,382 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 19:24:35,641 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 19:24:35,655 INFO === Run finished ===
+2026-09-16 19:25:12,376 INFO === Run started ===
+2026-09-16 19:25:34,973 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 19:25:34,973 INFO   NEW: BANDAI Blue Archive | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31011&limit=100
+2026-09-16 19:25:36,031 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 19:25:36,077 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 19:25:36,086 INFO === Run finished ===
