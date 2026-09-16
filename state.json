@@ -2682,6 +2682,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10504&limit=100",
       "stock": "n/a"
     },
+    "2517": {
+      "name": "Sanrio Mirror & Comb",
+      "price": "$7.10",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2517&limit=100",
+      "stock": "n/a"
+    },
     "5816": {
       "name": "Wellness Beaute Fals",
       "price": "$9.50",
@@ -8480,6 +8486,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T22:35:33",
-  "last_count": 1413
+  "last_run": "2026-09-16T22:36:34",
+  "last_count": 1414
 }
