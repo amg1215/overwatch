@@ -37785,3 +37785,9 @@
 2026-09-16 23:24:38,345 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 23:24:38,824 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 23:24:38,834 INFO === Run finished ===
+2026-09-16 23:25:12,966 INFO === Run started ===
+2026-09-16 23:25:36,089 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 23:25:36,089 INFO   NEW: S.T. Indoor Aromathe | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=900&limit=100
+2026-09-16 23:25:37,976 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 23:25:38,026 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 23:25:38,034 INFO === Run finished ===
