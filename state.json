@@ -5268,6 +5268,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30479&limit=100",
       "stock": "n/a"
     },
+    "5266": {
+      "name": "Nobel SOURS Gummi Ca",
+      "price": "$1.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5266&limit=100",
+      "stock": "n/a"
+    },
     "30958": {
       "name": "Nobel Petagu Pinappl",
       "price": "$1.55",
@@ -8060,6 +8066,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T19:12:37",
-  "last_count": 1343
+  "last_run": "2026-09-16T19:13:37",
+  "last_count": 1344
 }
