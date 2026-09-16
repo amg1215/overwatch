@@ -3066,6 +3066,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8167&limit=100",
       "stock": "n/a"
     },
+    "8163": {
+      "name": "Aisei EverColor 1 Da",
+      "price": "$17.95",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8163&limit=100",
+      "stock": "n/a"
+    },
     "3": {
       "name": "Aisei EverColor 1 Da",
       "price": "$17.95",
@@ -8702,6 +8708,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T23:56:32",
-  "last_count": 1450
+  "last_run": "2026-09-16T23:57:36",
+  "last_count": 1451
 }
