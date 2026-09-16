@@ -36741,3 +36741,9 @@
 2026-09-16 19:03:12,277 INFO === Run started ===
 2026-09-16 19:03:36,955 INFO No new products (1341 tracked)
 2026-09-16 19:03:36,962 INFO === Run finished ===
+2026-09-16 19:04:16,101 INFO === Run started ===
+2026-09-16 19:04:39,595 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 19:04:39,595 INFO   NEW: Aoki Koetsudo Bottle | $4.96 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10255&limit=100
+2026-09-16 19:04:41,125 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 19:04:41,356 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 19:04:41,363 INFO === Run finished ===
