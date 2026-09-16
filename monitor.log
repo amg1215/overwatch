@@ -36944,3 +36944,11 @@
 2026-09-16 19:46:48,368 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 19:46:48,601 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 19:46:48,606 INFO === Run finished ===
+2026-09-16 19:47:11,709 INFO === Run started ===
+2026-09-16 19:47:33,042 INFO NEW/RESTOCKED products detected: 3
+2026-09-16 19:47:33,042 INFO   NEW: Pigeon Baby 2 In 1 F | $9.51 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5025&limit=100
+2026-09-16 19:47:33,042 INFO   NEW: Sanrio Hair Band Kur | $9.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1016&limit=100
+2026-09-16 19:47:33,042 INFO   NEW: Toyogami Confectione | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23094&limit=100
+2026-09-16 19:47:34,613 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-16 19:47:34,864 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-16 19:47:34,873 INFO === Run finished ===

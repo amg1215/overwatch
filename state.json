@@ -1,5 +1,11 @@
 {
   "products": {
+    "5025": {
+      "name": "Pigeon Baby 2 In 1 F",
+      "price": "$9.51",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5025&limit=100",
+      "stock": "n/a"
+    },
     "3845": {
       "name": "U-company Bounce Up",
       "price": "$3.17",
@@ -1702,6 +1708,12 @@
       "name": "Sanrio Hair Band Cin",
       "price": "$9.95",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1015&limit=100",
+      "stock": "n/a"
+    },
+    "1016": {
+      "name": "Sanrio Hair Band Kur",
+      "price": "$9.95",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1016&limit=100",
       "stock": "n/a"
     },
     "9364": {
@@ -6330,6 +6342,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22191&limit=100",
       "stock": "n/a"
     },
+    "23094": {
+      "name": "Toyogami Confectione",
+      "price": "$4.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23094&limit=100",
+      "stock": "n/a"
+    },
     "23095": {
       "name": "Toyogami Confectione",
       "price": "$5.39",
@@ -8216,6 +8234,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T19:46:48",
-  "last_count": 1369
+  "last_run": "2026-09-16T19:47:34",
+  "last_count": 1372
 }
