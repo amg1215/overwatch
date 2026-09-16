@@ -37707,3 +37707,9 @@
 2026-09-16 23:04:39,921 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-16 23:04:40,592 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-16 23:04:40,600 INFO === Run finished ===
+2026-09-16 23:05:13,955 INFO === Run started ===
+2026-09-16 23:05:37,809 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 23:05:37,810 INFO   NEW: F-Toys Confect Gakue | $2.01 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31015&limit=100
+2026-09-16 23:05:39,966 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 23:05:40,251 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 23:05:40,260 INFO === Run finished ===
