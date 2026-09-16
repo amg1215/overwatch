@@ -4482,6 +4482,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29843&limit=100",
       "stock": "n/a"
     },
+    "1017": {
+      "name": "Sanrio Sanrio Charac",
+      "price": "$3.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1017&limit=100",
+      "stock": "n/a"
+    },
     "23807": {
       "name": "Kamio Japan Powerpuf",
       "price": "$2.99",
@@ -8258,6 +8264,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T19:56:36",
-  "last_count": 1376
+  "last_run": "2026-09-16T19:57:34",
+  "last_count": 1377
 }
