@@ -37700,3 +37700,10 @@
 2026-09-16 23:03:09,786 INFO === Run started ===
 2026-09-16 23:03:33,109 INFO No new products (1433 tracked)
 2026-09-16 23:03:33,115 INFO === Run finished ===
+2026-09-16 23:04:14,142 INFO === Run started ===
+2026-09-16 23:04:38,285 INFO NEW/RESTOCKED products detected: 2
+2026-09-16 23:04:38,285 INFO   NEW: Ensky TV Anime Jujut | $2.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31014&limit=100
+2026-09-16 23:04:38,285 INFO   NEW: BANDAI Shadowverse 1 | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31012&limit=100
+2026-09-16 23:04:39,921 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-16 23:04:40,592 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-16 23:04:40,600 INFO === Run finished ===
