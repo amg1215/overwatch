@@ -2100,6 +2100,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4994&limit=100",
       "stock": "n/a"
     },
+    "5001": {
+      "name": "Kao Curel Aging Care",
+      "price": "$23.03",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5001&limit=100",
+      "stock": "n/a"
+    },
     "4201": {
       "name": "Kracie Moisture Face",
       "price": "$9.99",
@@ -8408,6 +8414,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T22:03:33",
-  "last_count": 1401
+  "last_run": "2026-09-16T22:04:39",
+  "last_count": 1402
 }
