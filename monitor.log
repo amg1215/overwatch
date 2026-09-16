@@ -37800,3 +37800,9 @@
 2026-09-16 23:27:41,008 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 23:27:41,388 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 23:27:41,395 INFO === Run finished ===
+2026-09-16 23:28:11,461 INFO === Run started ===
+2026-09-16 23:28:34,340 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 23:28:34,340 INFO   NEW: Mandom Deodorizing W | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4478&limit=100
+2026-09-16 23:28:35,298 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 23:28:35,365 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 23:28:35,374 INFO === Run finished ===
