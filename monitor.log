@@ -36955,3 +36955,10 @@
 2026-09-16 19:48:11,612 INFO === Run started ===
 2026-09-16 19:48:33,030 INFO No new products (1372 tracked)
 2026-09-16 19:48:33,037 INFO === Run finished ===
+2026-09-16 19:49:15,024 INFO === Run started ===
+2026-09-16 19:49:35,311 INFO NEW/RESTOCKED products detected: 2
+2026-09-16 19:49:35,312 INFO   NEW: SLO Cinnamoroll Band | $3.77 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18872&limit=100
+2026-09-16 19:49:35,312 INFO   NEW: SLO Kuromi Band-Aid | $3.77 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18873&limit=100
+2026-09-16 19:49:36,916 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-16 19:49:37,124 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-16 19:49:37,130 INFO === Run finished ===
