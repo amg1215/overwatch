@@ -5922,6 +5922,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31094&limit=100",
       "stock": "n/a"
     },
+    "26483": {
+      "name": "Fujiya Heart Shaped",
+      "price": "$2.14",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26483&limit=100",
+      "stock": "n/a"
+    },
     "30960": {
       "name": "Fujiya Looks And Tas",
       "price": "$2.15",
@@ -7832,6 +7838,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T16:18:08",
-  "last_count": 1305
+  "last_run": "2026-09-16T16:20:15",
+  "last_count": 1306
 }

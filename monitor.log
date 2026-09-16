@@ -36235,3 +36235,9 @@
 2026-09-16 16:17:23,037 INFO === Run started ===
 2026-09-16 16:18:08,206 INFO No new products (1305 tracked)
 2026-09-16 16:18:08,214 INFO === Run finished ===
+2026-09-16 16:19:29,113 INFO === Run started ===
+2026-09-16 16:20:13,793 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 16:20:13,793 INFO   NEW: Fujiya Heart Shaped | $2.14 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26483&limit=100
+2026-09-16 16:20:15,049 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 16:20:15,284 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 16:20:15,291 INFO === Run finished ===
