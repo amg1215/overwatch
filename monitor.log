@@ -36817,3 +36817,10 @@
 2026-09-16 19:22:36,947 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-16 19:22:37,167 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-16 19:22:37,176 INFO === Run finished ===
+2026-09-16 19:23:11,723 INFO === Run started ===
+2026-09-16 19:23:35,587 INFO NEW/RESTOCKED products detected: 2
+2026-09-16 19:23:35,587 INFO   NEW: RE-MENT Pokemon SWIN | $10.17 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24014&limit=100
+2026-09-16 19:23:35,587 INFO   NEW: Toyogami Confectione | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23091&limit=100
+2026-09-16 19:23:36,703 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-16 19:23:36,899 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-16 19:23:36,908 INFO === Run finished ===
