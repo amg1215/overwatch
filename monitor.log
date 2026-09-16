@@ -36525,3 +36525,9 @@
 2026-09-16 17:53:36,280 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 17:53:36,460 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 17:53:36,468 INFO === Run finished ===
+2026-09-16 17:54:12,946 INFO === Run started ===
+2026-09-16 17:54:35,954 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 17:54:35,954 INFO   NEW: UHA Juice Gummy Okin | $1.26 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30871&limit=100
+2026-09-16 17:54:37,424 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 17:54:37,658 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 17:54:37,667 INFO === Run finished ===

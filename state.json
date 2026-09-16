@@ -5310,6 +5310,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30483&limit=100",
       "stock": "n/a"
     },
+    "30871": {
+      "name": "UHA Juice Gummy Okin",
+      "price": "$1.26",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30871&limit=100",
+      "stock": "n/a"
+    },
     "30486": {
       "name": "UHA Sour Pineapple G",
       "price": "$1.02",
@@ -8024,6 +8030,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T17:53:36",
-  "last_count": 1337
+  "last_run": "2026-09-16T17:54:37",
+  "last_count": 1338
 }
