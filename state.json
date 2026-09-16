@@ -1968,6 +1968,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14705&limit=100",
       "stock": "n/a"
     },
+    "860": {
+      "name": "CICA DCure + Vitamin",
+      "price": "$1.15",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=860&limit=100",
+      "stock": "n/a"
+    },
     "10096": {
       "name": "Kracie 3D Moisturizi",
       "price": "$6.59",
@@ -8564,6 +8570,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T22:54:33",
-  "last_count": 1427
+  "last_run": "2026-09-16T22:55:35",
+  "last_count": 1428
 }
