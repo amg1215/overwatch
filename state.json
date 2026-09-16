@@ -1668,6 +1668,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29965&limit=100",
       "stock": "n/a"
     },
+    "29967": {
+      "name": "J's Planning SLO Pom",
+      "price": "$11.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29967&limit=100",
+      "stock": "n/a"
+    },
     "29968": {
       "name": "J's Planning SLO Cin",
       "price": "$11.99",
@@ -1678,6 +1684,12 @@
       "name": "J's Planning SLO Han",
       "price": "$11.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29969&limit=100",
+      "stock": "n/a"
+    },
+    "29970": {
+      "name": "J's Planning SLO Poc",
+      "price": "$11.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29970&limit=100",
       "stock": "n/a"
     },
     "29971": {
@@ -8690,6 +8702,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T23:43:32",
-  "last_count": 1448
+  "last_run": "2026-09-16T23:44:48",
+  "last_count": 1450
 }
