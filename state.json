@@ -7914,6 +7914,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28877&limit=100",
       "stock": "n/a"
     },
+    "31003": {
+      "name": "Nissin FOOD PRODUCTS",
+      "price": "$2.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31003&limit=100",
+      "stock": "n/a"
+    },
     "9712": {
       "name": "Hakubaku Salt-free T",
       "price": "$1.86",
@@ -8126,6 +8132,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T19:26:35",
-  "last_count": 1354
+  "last_run": "2026-09-16T19:27:35",
+  "last_count": 1355
 }
