@@ -5952,6 +5952,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5268&limit=100",
       "stock": "n/a"
     },
+    "272": {
+      "name": "Ezaki Glico Chocolat",
+      "price": "$8.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=272&limit=100",
+      "stock": "n/a"
+    },
     "15515": {
       "name": "Ito Sandwich Cookies",
       "price": "$2.09",
@@ -7970,6 +7976,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T17:46:39",
-  "last_count": 1328
+  "last_run": "2026-09-16T17:47:35",
+  "last_count": 1329
 }

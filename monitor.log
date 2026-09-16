@@ -36483,3 +36483,9 @@
 2026-09-16 17:46:39,476 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-16 17:46:39,748 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-16 17:46:39,757 INFO === Run finished ===
+2026-09-16 17:47:14,406 INFO === Run started ===
+2026-09-16 17:47:34,445 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 17:47:34,445 INFO   NEW: Ezaki Glico Chocolat | $8.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=272&limit=100
+2026-09-16 17:47:35,737 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 17:47:35,920 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 17:47:35,926 INFO === Run finished ===
