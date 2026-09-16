@@ -36848,3 +36848,9 @@
 2026-09-16 19:27:35,131 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 19:27:35,244 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 19:27:35,253 INFO === Run finished ===
+2026-09-16 19:28:13,751 INFO === Run started ===
+2026-09-16 19:28:35,189 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 19:28:35,189 INFO   NEW: Nissin FOOD PRODUCTS | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31005&limit=100
+2026-09-16 19:28:36,544 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 19:28:36,783 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 19:28:36,790 INFO === Run finished ===
