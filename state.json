@@ -5064,6 +5064,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23765&limit=100",
       "stock": "n/a"
     },
+    "3143": {
+      "name": "Lotte Doraemon Choco",
+      "price": "$1.43",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3143&limit=100",
+      "stock": "n/a"
+    },
     "27085": {
       "name": "Lotte Crispy Addicti",
       "price": "$1.89",
@@ -5362,6 +5368,12 @@
       "name": "Morinaga Juice Fudge",
       "price": "$1.32",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17423&limit=100",
+      "stock": "n/a"
+    },
+    "25642": {
+      "name": "Morinaga Premium Sou",
+      "price": "$1.47",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25642&limit=100",
       "stock": "n/a"
     },
     "30965": {
@@ -8000,6 +8012,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T17:49:40",
-  "last_count": 1333
+  "last_run": "2026-09-16T17:50:41",
+  "last_count": 1335
 }

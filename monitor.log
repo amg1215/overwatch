@@ -36503,3 +36503,10 @@
 2026-09-16 17:49:39,770 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-16 17:49:40,021 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-16 17:49:40,029 INFO === Run finished ===
+2026-09-16 17:50:17,139 INFO === Run started ===
+2026-09-16 17:50:39,249 INFO NEW/RESTOCKED products detected: 2
+2026-09-16 17:50:39,249 INFO   NEW: Lotte Doraemon Choco | $1.43 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3143&limit=100
+2026-09-16 17:50:39,249 INFO   NEW: Morinaga Premium Sou | $1.47 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25642&limit=100
+2026-09-16 17:50:41,115 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-16 17:50:41,376 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-16 17:50:41,385 INFO === Run finished ===
