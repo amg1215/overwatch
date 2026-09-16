@@ -90,6 +90,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13755&limit=100",
       "stock": "n/a"
     },
+    "9118": {
+      "name": "KAI Nail Clipper M K",
+      "price": "$4.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9118&limit=100",
+      "stock": "n/a"
+    },
     "2280": {
       "name": "Sanyo Baby Cotton Sw",
       "price": "$2.25",
@@ -8276,6 +8282,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T20:07:44",
-  "last_count": 1379
+  "last_run": "2026-09-16T20:08:37",
+  "last_count": 1380
 }
