@@ -6108,6 +6108,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18847&limit=100",
       "stock": "n/a"
     },
+    "18848": {
+      "name": "Meiji Mushroom Shape",
+      "price": "$2.76",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18848&limit=100",
+      "stock": "n/a"
+    },
     "30061": {
       "name": "Meiji Mushroom & Bam",
       "price": "$3.71",
@@ -8030,6 +8036,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T17:54:37",
-  "last_count": 1338
+  "last_run": "2026-09-16T17:56:46",
+  "last_count": 1339
 }

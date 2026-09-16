@@ -36531,3 +36531,9 @@
 2026-09-16 17:54:37,424 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 17:54:37,658 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 17:54:37,667 INFO === Run finished ===
+2026-09-16 17:56:22,055 INFO === Run started ===
+2026-09-16 17:56:44,794 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 17:56:44,794 INFO   NEW: Meiji Mushroom Shape | $2.76 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18848&limit=100
+2026-09-16 17:56:45,862 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 17:56:46,334 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 17:56:46,342 INFO === Run finished ===
