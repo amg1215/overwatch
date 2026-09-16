@@ -37625,3 +37625,9 @@
 2026-09-16 22:47:34,638 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 22:47:34,885 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 22:47:34,894 INFO === Run finished ===
+2026-09-16 22:48:12,953 INFO === Run started ===
+2026-09-16 22:48:36,662 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 22:48:36,662 INFO   NEW: Marutama Octopus & Q | $1.14 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9930&limit=100
+2026-09-16 22:48:38,252 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 22:48:38,523 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 22:48:38,532 INFO === Run finished ===

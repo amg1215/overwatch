@@ -7380,6 +7380,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9928&limit=100",
       "stock": "n/a"
     },
+    "9930": {
+      "name": "Marutama Octopus & Q",
+      "price": "$1.14",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9930&limit=100",
+      "stock": "n/a"
+    },
     "30817": {
       "name": "RE-MENT Kuji Pon San",
       "price": "$11.99",
@@ -8534,6 +8540,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T22:47:34",
-  "last_count": 1422
+  "last_run": "2026-09-16T22:48:38",
+  "last_count": 1423
 }
