@@ -5592,6 +5592,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30478&limit=100",
       "stock": "n/a"
     },
+    "31082": {
+      "name": "KANRO Hello Kitty Pi",
+      "price": "$1.61",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31082&limit=100",
+      "stock": "n/a"
+    },
     "9749": {
       "name": "Kanro PUREGUMI Grape",
       "price": "$1.46",
@@ -8552,6 +8558,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T22:51:32",
-  "last_count": 1425
+  "last_run": "2026-09-16T22:52:40",
+  "last_count": 1426
 }

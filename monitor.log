@@ -37644,3 +37644,9 @@
 2026-09-16 22:51:09,439 INFO === Run started ===
 2026-09-16 22:51:32,435 INFO No new products (1425 tracked)
 2026-09-16 22:51:32,443 INFO === Run finished ===
+2026-09-16 22:52:15,347 INFO === Run started ===
+2026-09-16 22:52:39,018 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 22:52:39,018 INFO   NEW: KANRO Hello Kitty Pi | $1.61 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31082&limit=100
+2026-09-16 22:52:40,627 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 22:52:40,874 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 22:52:40,882 INFO === Run finished ===
