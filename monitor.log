@@ -36875,3 +36875,11 @@
 2026-09-16 19:32:35,931 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 19:32:36,166 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 19:32:36,174 INFO === Run finished ===
+2026-09-16 19:33:21,522 INFO === Run started ===
+2026-09-16 19:33:43,863 INFO NEW/RESTOCKED products detected: 3
+2026-09-16 19:33:43,863 INFO   NEW: UHA Mikakuto Cororo | $1.26 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31087&limit=100
+2026-09-16 19:33:43,863 INFO   NEW: UHA Mikakuto Geki X | $1.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31088&limit=100
+2026-09-16 19:33:43,863 INFO   NEW: Nikko Sandwich Biscu | $16.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21598&limit=100
+2026-09-16 19:33:45,442 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-16 19:33:45,689 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-16 19:33:45,698 INFO === Run finished ===
