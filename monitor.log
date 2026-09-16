@@ -37848,3 +37848,9 @@
 2026-09-16 23:39:32,327 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 23:39:32,508 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 23:39:32,515 INFO === Run finished ===
+2026-09-16 23:40:15,369 INFO === Run started ===
+2026-09-16 23:40:38,123 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 23:40:38,123 INFO   NEW: J's Planning SLO Han | $11.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29969&limit=100
+2026-09-16 23:40:39,087 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 23:40:39,215 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 23:40:39,224 INFO === Run finished ===
