@@ -37650,3 +37650,9 @@
 2026-09-16 22:52:40,627 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 22:52:40,874 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 22:52:40,882 INFO === Run finished ===
+2026-09-16 22:53:12,189 INFO === Run started ===
+2026-09-16 22:53:34,406 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 22:53:34,406 INFO   NEW: Sanrio Key Chain Pom | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10642&limit=100
+2026-09-16 22:53:35,687 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 22:53:36,256 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 22:53:36,292 INFO === Run finished ===

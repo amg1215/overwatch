@@ -3924,6 +3924,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10841&limit=100",
       "stock": "n/a"
     },
+    "10642": {
+      "name": "Sanrio Key Chain Pom",
+      "price": "$7.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10642&limit=100",
+      "stock": "n/a"
+    },
     "10842": {
       "name": "SLO 3D Keychain Cinn",
       "price": "$6.89",
@@ -8558,6 +8564,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T22:52:40",
-  "last_count": 1426
+  "last_run": "2026-09-16T22:53:36",
+  "last_count": 1427
 }
