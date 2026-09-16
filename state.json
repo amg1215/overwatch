@@ -2652,6 +2652,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7102&limit=100",
       "stock": "n/a"
     },
+    "10694": {
+      "name": "KAI PC Eyelash Curle",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10694&limit=100",
+      "stock": "n/a"
+    },
     "22135": {
       "name": "ROSY ROSA Powder Puf",
       "price": "$2.03",
@@ -8318,6 +8324,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T20:52:34",
-  "last_count": 1386
+  "last_run": "2026-09-16T20:53:44",
+  "last_count": 1387
 }

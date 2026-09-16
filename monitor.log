@@ -37185,3 +37185,9 @@
 2026-09-16 20:52:11,239 INFO === Run started ===
 2026-09-16 20:52:34,798 INFO No new products (1386 tracked)
 2026-09-16 20:52:34,804 INFO === Run finished ===
+2026-09-16 20:53:23,232 INFO === Run started ===
+2026-09-16 20:53:43,173 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 20:53:43,173 INFO   NEW: KAI PC Eyelash Curle | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10694&limit=100
+2026-09-16 20:53:44,617 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 20:53:44,790 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 20:53:44,795 INFO === Run finished ===
