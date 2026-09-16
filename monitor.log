@@ -37488,3 +37488,10 @@
 2026-09-16 22:15:40,600 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 22:15:40,933 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 22:15:41,055 INFO === Run finished ===
+2026-09-16 22:16:20,073 INFO === Run started ===
+2026-09-16 22:16:41,583 INFO NEW/RESTOCKED products detected: 2
+2026-09-16 22:16:41,583 INFO   NEW: Kao Curel Moisture C | $17.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7001&limit=100
+2026-09-16 22:16:41,583 INFO   NEW: Ensky Puzzle NARUTO | $26.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1918&limit=100
+2026-09-16 22:16:44,755 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-16 22:16:44,968 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-16 22:16:44,974 INFO === Run finished ===
