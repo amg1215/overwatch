@@ -36475,3 +36475,11 @@
 2026-09-16 17:45:40,425 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-16 17:45:40,666 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-16 17:45:40,674 INFO === Run finished ===
+2026-09-16 17:46:13,758 INFO === Run started ===
+2026-09-16 17:46:34,563 INFO NEW/RESTOCKED products detected: 3
+2026-09-16 17:46:34,563 INFO   NEW: Lotte Matcha Chocola | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18541&limit=100
+2026-09-16 17:46:34,563 INFO   NEW: Ash Cake Milk Flavor | $3.32 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12354&limit=100
+2026-09-16 17:46:34,563 INFO   NEW: Ash Cake Strawberry | $3.32 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12357&limit=100
+2026-09-16 17:46:39,476 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-16 17:46:39,748 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-16 17:46:39,757 INFO === Run finished ===

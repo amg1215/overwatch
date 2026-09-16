@@ -5052,6 +5052,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30062&limit=100",
       "stock": "n/a"
     },
+    "18541": {
+      "name": "Lotte Matcha Chocola",
+      "price": "$1.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18541&limit=100",
+      "stock": "n/a"
+    },
     "23765": {
       "name": "Lotte Caramel Milk C",
       "price": "$3.55",
@@ -5650,6 +5656,18 @@
       "name": "Taisho Kids Jelly Po",
       "price": "$1.79",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4742&limit=100",
+      "stock": "n/a"
+    },
+    "12354": {
+      "name": "Ash Cake Milk Flavor",
+      "price": "$3.32",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12354&limit=100",
+      "stock": "n/a"
+    },
+    "12357": {
+      "name": "Ash Cake Strawberry",
+      "price": "$3.32",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12357&limit=100",
       "stock": "n/a"
     },
     "12358": {
@@ -7952,6 +7970,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T17:45:40",
-  "last_count": 1325
+  "last_run": "2026-09-16T17:46:39",
+  "last_count": 1328
 }
