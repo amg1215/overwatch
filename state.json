@@ -5310,6 +5310,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30963&limit=100",
       "stock": "n/a"
     },
+    "30872": {
+      "name": "Meiji Gummy Honey Le",
+      "price": "$1.75",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30872&limit=100",
+      "stock": "n/a"
+    },
     "30964": {
       "name": "Meiji Essel Super Cu",
       "price": "$2.09",
@@ -5374,6 +5380,12 @@
       "name": "Asahi Mintia Cold Sm",
       "price": "$1.21",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9728&limit=100",
+      "stock": "n/a"
+    },
+    "24249": {
+      "name": "Heart Devil Fruit 4D",
+      "price": "$1.65",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24249&limit=100",
       "stock": "n/a"
     },
     "30875": {
@@ -7850,6 +7862,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T17:19:32",
-  "last_count": 1308
+  "last_run": "2026-09-16T17:20:39",
+  "last_count": 1310
 }
