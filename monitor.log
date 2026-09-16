@@ -37773,3 +37773,9 @@
 2026-09-16 23:22:15,246 INFO === Run started ===
 2026-09-16 23:22:40,929 INFO No new products (1439 tracked)
 2026-09-16 23:22:40,936 INFO === Run finished ===
+2026-09-16 23:23:09,818 INFO === Run started ===
+2026-09-16 23:23:33,302 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 23:23:33,302 INFO   NEW: Sana Soymilk Wrinkle | $11.50 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10454&limit=100
+2026-09-16 23:23:34,219 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 23:23:34,501 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 23:23:34,510 INFO === Run finished ===
