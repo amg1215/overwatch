@@ -37570,3 +37570,10 @@
 2026-09-16 22:36:34,429 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 22:36:34,480 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 22:36:34,489 INFO === Run finished ===
+2026-09-16 22:37:11,166 INFO === Run started ===
+2026-09-16 22:37:35,064 INFO NEW/RESTOCKED products detected: 2
+2026-09-16 22:37:35,064 INFO   NEW: Sanrio Face Mirror & | $7.10 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10510&limit=100
+2026-09-16 22:37:35,064 INFO   NEW: Marutama Crab Flavor | $1.14 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9928&limit=100
+2026-09-16 22:37:36,692 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-16 22:37:36,950 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-16 22:37:36,959 INFO === Run finished ===
