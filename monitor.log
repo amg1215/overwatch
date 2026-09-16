@@ -36896,3 +36896,9 @@
 2026-09-16 19:35:47,619 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-16 19:35:47,846 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-16 19:35:47,889 INFO === Run finished ===
+2026-09-16 19:36:12,383 INFO === Run started ===
+2026-09-16 19:36:36,913 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 19:36:36,913 INFO   NEW: LEC Chiikawa Charact | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30867&limit=100
+2026-09-16 19:36:38,554 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 19:36:38,809 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 19:36:38,817 INFO === Run finished ===
