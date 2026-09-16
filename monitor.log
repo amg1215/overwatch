@@ -37519,3 +37519,9 @@
 2026-09-16 22:24:11,672 INFO === Run started ===
 2026-09-16 22:24:34,564 INFO No new products (1409 tracked)
 2026-09-16 22:24:34,572 INFO === Run finished ===
+2026-09-16 22:25:13,589 INFO === Run started ===
+2026-09-16 22:25:41,680 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 22:25:41,680 INFO   NEW: Showa Note Kirby Pat | $9.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30876&limit=100
+2026-09-16 22:25:44,885 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 22:25:45,081 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 22:25:45,088 INFO === Run finished ===
