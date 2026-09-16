@@ -6084,6 +6084,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4063&limit=100",
       "stock": "n/a"
     },
+    "12787": {
+      "name": "Meiji Sandwich Biscu",
+      "price": "$1.68",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12787&limit=100",
+      "stock": "n/a"
+    },
     "18847": {
       "name": "Meiji Bamboo Shoot S",
       "price": "$2.76",
@@ -8012,6 +8018,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T17:50:41",
-  "last_count": 1335
+  "last_run": "2026-09-16T17:51:33",
+  "last_count": 1336
 }

@@ -36510,3 +36510,9 @@
 2026-09-16 17:50:41,115 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-16 17:50:41,376 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-16 17:50:41,385 INFO === Run finished ===
+2026-09-16 17:51:10,537 INFO === Run started ===
+2026-09-16 17:51:32,411 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 17:51:32,411 INFO   NEW: Meiji Sandwich Biscu | $1.68 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12787&limit=100
+2026-09-16 17:51:33,359 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 17:51:33,585 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 17:51:33,594 INFO === Run finished ===
