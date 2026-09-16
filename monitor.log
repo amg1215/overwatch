@@ -36106,3 +36106,9 @@
 2026-09-16 15:30:23,937 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 15:30:24,204 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 15:30:24,212 INFO === Run finished ===
+2026-09-16 15:31:20,245 INFO === Run started ===
+2026-09-16 15:31:56,246 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 15:31:56,246 INFO   NEW: Pokka Sapporo Lemona | $1.28 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9388&limit=100
+2026-09-16 15:31:57,366 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 15:31:57,592 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 15:31:57,600 INFO === Run finished ===
