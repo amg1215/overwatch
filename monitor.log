@@ -36378,3 +36378,9 @@
 2026-09-16 17:23:36,242 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-16 17:23:36,439 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-16 17:23:36,447 INFO === Run finished ===
+2026-09-16 17:24:14,699 INFO === Run started ===
+2026-09-16 17:24:37,530 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 17:24:37,531 INFO   NEW: Lotte Chocolate-Fill | $3.76 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30873&limit=100
+2026-09-16 17:24:38,711 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 17:24:38,981 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 17:24:38,990 INFO === Run finished ===

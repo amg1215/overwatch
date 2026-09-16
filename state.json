@@ -6018,6 +6018,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13693&limit=100",
       "stock": "n/a"
     },
+    "30873": {
+      "name": "Lotte Chocolate-Fill",
+      "price": "$3.76",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30873&limit=100",
+      "stock": "n/a"
+    },
     "21677": {
       "name": "Asset Milk Biscuits",
       "price": "$8.99",
@@ -7874,6 +7880,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T17:23:36",
-  "last_count": 1312
+  "last_run": "2026-09-16T17:24:38",
+  "last_count": 1313
 }
