@@ -37300,3 +37300,11 @@
 2026-09-16 21:26:36,898 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 21:26:37,225 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 21:26:37,232 INFO === Run finished ===
+2026-09-16 21:27:13,748 INFO === Run started ===
+2026-09-16 21:27:36,770 INFO NEW/RESTOCKED products detected: 3
+2026-09-16 21:27:36,770 INFO   NEW: Shiseido Eyebrow Pen | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9442&limit=100
+2026-09-16 21:27:36,770 INFO   NEW: Aisei EverColor 1 Da | $17.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2&limit=100
+2026-09-16 21:27:36,770 INFO   NEW: Aisei EverColor 1 Da | $17.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3&limit=100
+2026-09-16 21:27:38,148 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-16 21:27:38,358 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-16 21:27:38,364 INFO === Run finished ===

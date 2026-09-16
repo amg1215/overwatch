@@ -2556,6 +2556,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13852&limit=100",
       "stock": "n/a"
     },
+    "9442": {
+      "name": "Shiseido Eyebrow Pen",
+      "price": "$2.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9442&limit=100",
+      "stock": "n/a"
+    },
     "24253": {
       "name": "Cezanne Highlighter",
       "price": "$5.99",
@@ -2880,10 +2886,22 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8161&limit=100",
       "stock": "n/a"
     },
+    "2": {
+      "name": "Aisei EverColor 1 Da",
+      "price": "$17.95",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2&limit=100",
+      "stock": "n/a"
+    },
     "8167": {
       "name": "Aisei EverColor 1 Da",
       "price": "$23.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8167&limit=100",
+      "stock": "n/a"
+    },
+    "3": {
+      "name": "Aisei EverColor 1 Da",
+      "price": "$17.95",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3&limit=100",
       "stock": "n/a"
     },
     "9559": {
@@ -8354,6 +8372,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T21:26:37",
-  "last_count": 1392
+  "last_run": "2026-09-16T21:27:38",
+  "last_count": 1395
 }
