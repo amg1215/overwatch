@@ -1,17 +1,5 @@
 {
   "products": {
-    "30175": {
-      "name": "BANDAI Surprise Egg",
-      "price": "$5.39",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30175&limit=100",
-      "stock": "n/a"
-    },
-    "30178": {
-      "name": "BANDAI Surprise Egg",
-      "price": "$5.39",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30178&limit=100",
-      "stock": "n/a"
-    },
     "3845": {
       "name": "U-company Bounce Up",
       "price": "$3.17",
@@ -4182,12 +4170,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50447&limit=100",
       "stock": "n/a"
     },
-    "51426": {
-      "name": "Banpresto JoJo's Biz",
-      "price": "$27.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51426&limit=100",
-      "stock": "n/a"
-    },
     "51714": {
       "name": "BANDAI SPIRITS Banpr",
       "price": "$21.59",
@@ -4228,12 +4210,6 @@
       "name": "BANDAI SPIRITS One P",
       "price": "$23.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51431&limit=100",
-      "stock": "n/a"
-    },
-    "51425": {
-      "name": "BANDAI SPIRITS My He",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51425&limit=100",
       "stock": "n/a"
     },
     "51429": {
@@ -4278,12 +4254,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51715&limit=100",
       "stock": "n/a"
     },
-    "51713": {
-      "name": "BANDAI SPIRITS BLEAC",
-      "price": "$27.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51713&limit=100",
-      "stock": "n/a"
-    },
     "50442": {
       "name": "Sega Demon Slayer Ki",
       "price": "$21.59",
@@ -4306,6 +4276,12 @@
       "name": "FuRyu Overlord BiCut",
       "price": "$23.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30401&limit=100",
+      "stock": "n/a"
+    },
+    "30113": {
+      "name": "FuRyu Hatsune Miku T",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30113&limit=100",
       "stock": "n/a"
     },
     "30472": {
@@ -7200,6 +7176,30 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19028&limit=100",
       "stock": "n/a"
     },
+    "51854": {
+      "name": "Chi Forest SPARKLING",
+      "price": "$1.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51854&limit=100",
+      "stock": "n/a"
+    },
+    "23733": {
+      "name": "Chi Forest Sparkling",
+      "price": "$0.89",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23733&limit=100",
+      "stock": "n/a"
+    },
+    "19030": {
+      "name": "Chi Forest Sparkling",
+      "price": "$0.89",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19030&limit=100",
+      "stock": "n/a"
+    },
+    "51857": {
+      "name": "Chi Forest SPARKLING",
+      "price": "$1.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51857&limit=100",
+      "stock": "n/a"
+    },
     "51856": {
       "name": "Chi Forest SPARKLING",
       "price": "$1.19",
@@ -7814,6 +7814,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T14:35:47",
+  "last_run": "2026-09-16T14:36:43",
   "last_count": 1302
 }
