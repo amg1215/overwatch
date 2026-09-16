@@ -2880,6 +2880,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8161&limit=100",
       "stock": "n/a"
     },
+    "8167": {
+      "name": "Aisei EverColor 1 Da",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8167&limit=100",
+      "stock": "n/a"
+    },
     "9559": {
       "name": "Kumano Horse Oil Con",
       "price": "$5.55",
@@ -8348,6 +8354,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T21:25:37",
-  "last_count": 1391
+  "last_run": "2026-09-16T21:26:37",
+  "last_count": 1392
 }
