@@ -37416,3 +37416,9 @@
 2026-09-16 21:58:38,560 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 21:58:38,819 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 21:58:38,828 INFO === Run finished ===
+2026-09-16 21:59:11,135 INFO === Run started ===
+2026-09-16 21:59:32,675 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 21:59:32,675 INFO   NEW: Kao Foam Hair Dye Br | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17295&limit=100
+2026-09-16 21:59:35,001 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 21:59:35,189 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 21:59:35,282 INFO === Run finished ===
