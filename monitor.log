@@ -36804,3 +36804,9 @@
 2026-09-16 19:20:40,546 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 19:20:40,843 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 19:20:40,851 INFO === Run finished ===
+2026-09-16 19:21:10,221 INFO === Run started ===
+2026-09-16 19:21:30,529 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 19:21:30,529 INFO   NEW: RE-MENT Petadoll Yu- | $11.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31009&limit=100
+2026-09-16 19:21:32,762 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 19:21:32,959 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 19:21:32,964 INFO === Run finished ===
