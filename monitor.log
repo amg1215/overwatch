@@ -36172,3 +36172,9 @@
 2026-09-16 15:49:15,100 INFO === Run started ===
 2026-09-16 15:49:53,546 INFO No new products (1309 tracked)
 2026-09-16 15:49:53,550 INFO === Run finished ===
+2026-09-16 15:50:22,491 INFO === Run started ===
+2026-09-16 15:51:01,944 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 15:51:01,945 INFO   NEW: Heart JoJo's Bizarre | $1.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30875&limit=100
+2026-09-16 15:51:03,008 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 15:51:03,273 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 15:51:03,281 INFO === Run finished ===
