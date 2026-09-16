@@ -37758,3 +37758,9 @@
 2026-09-16 23:18:12,082 INFO === Run started ===
 2026-09-16 23:18:35,146 INFO No new products (1438 tracked)
 2026-09-16 23:18:35,153 INFO === Run finished ===
+2026-09-16 23:19:10,262 INFO === Run started ===
+2026-09-16 23:19:33,757 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 23:19:33,757 INFO   NEW: Fine Today UNO Facia | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26828&limit=100
+2026-09-16 23:19:35,881 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 23:19:36,042 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 23:19:36,052 INFO === Run finished ===

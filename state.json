@@ -1902,6 +1902,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10138&limit=100",
       "stock": "n/a"
     },
+    "26828": {
+      "name": "Fine Today UNO Facia",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26828&limit=100",
+      "stock": "n/a"
+    },
     "10149": {
       "name": "Cure Exfoliating Gel",
       "price": "$22.01",
@@ -8630,6 +8636,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T23:18:35",
-  "last_count": 1438
+  "last_run": "2026-09-16T23:19:36",
+  "last_count": 1439
 }
