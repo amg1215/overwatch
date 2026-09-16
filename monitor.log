@@ -37634,3 +37634,10 @@
 2026-09-16 22:49:12,459 INFO === Run started ===
 2026-09-16 22:49:35,163 INFO No new products (1423 tracked)
 2026-09-16 22:49:35,269 INFO === Run finished ===
+2026-09-16 22:50:15,202 INFO === Run started ===
+2026-09-16 22:50:37,952 INFO NEW/RESTOCKED products detected: 2
+2026-09-16 22:50:37,953 INFO   NEW: Ensky Haikyuu!! Blin | $4.40 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15804&limit=100
+2026-09-16 22:50:37,953 INFO   NEW: SLO Keychain Cogimyu | $3.44 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10901&limit=100
+2026-09-16 22:50:41,082 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-16 22:50:41,371 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-16 22:50:41,379 INFO === Run finished ===

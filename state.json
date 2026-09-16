@@ -3564,6 +3564,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24820&limit=100",
       "stock": "n/a"
     },
+    "15804": {
+      "name": "Ensky Haikyuu!! Blin",
+      "price": "$4.40",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15804&limit=100",
+      "stock": "n/a"
+    },
     "22350": {
       "name": "One Piece Can Blind",
       "price": "$4.99",
@@ -3994,6 +4000,12 @@
       "name": "SLO Keychain Gudetam",
       "price": "$3.44",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10897&limit=100",
+      "stock": "n/a"
+    },
+    "10901": {
+      "name": "SLO Keychain Cogimyu",
+      "price": "$3.44",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10901&limit=100",
       "stock": "n/a"
     },
     "10902": {
@@ -8540,6 +8552,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T22:49:35",
-  "last_count": 1423
+  "last_run": "2026-09-16T22:50:41",
+  "last_count": 1425
 }
