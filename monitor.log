@@ -37749,3 +37749,9 @@
 2026-09-16 23:16:39,425 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 23:16:39,645 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 23:16:39,654 INFO === Run finished ===
+2026-09-16 23:17:11,218 INFO === Run started ===
+2026-09-16 23:17:35,783 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 23:17:35,783 INFO   NEW: S.T. Shoe Cabinet De | $5.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5170&limit=100
+2026-09-16 23:17:37,449 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 23:17:37,706 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 23:17:37,715 INFO === Run finished ===

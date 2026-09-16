@@ -1254,6 +1254,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15444&limit=100",
       "stock": "n/a"
     },
+    "5170": {
+      "name": "S.T. Shoe Cabinet De",
+      "price": "$5.15",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5170&limit=100",
+      "stock": "n/a"
+    },
     "7682": {
       "name": "Earth Pirepara Wardr",
       "price": "$7.32",
@@ -8624,6 +8630,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T23:16:39",
-  "last_count": 1437
+  "last_run": "2026-09-16T23:17:37",
+  "last_count": 1438
 }
