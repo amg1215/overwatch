@@ -36130,3 +36130,9 @@
 2026-09-16 15:36:50,759 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 15:36:51,000 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 15:36:51,008 INFO === Run finished ===
+2026-09-16 15:37:10,950 INFO === Run started ===
+2026-09-16 15:37:47,529 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 15:37:47,530 INFO   NEW: Asset Milk Tea Biscu | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21678&limit=100
+2026-09-16 15:37:48,778 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 15:37:48,864 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 15:37:48,873 INFO === Run finished ===
