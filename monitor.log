@@ -37665,3 +37665,9 @@
 2026-09-16 22:55:35,350 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 22:55:35,607 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 22:55:35,615 INFO === Run finished ===
+2026-09-16 22:56:12,426 INFO === Run started ===
+2026-09-16 22:56:36,536 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 22:56:36,536 INFO   NEW: SLO Scissors Hello K | $5.50 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10850&limit=100
+2026-09-16 22:56:37,607 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 22:56:37,889 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 22:56:37,898 INFO === Run finished ===
