@@ -36519,3 +36519,9 @@
 2026-09-16 17:52:18,177 INFO === Run started ===
 2026-09-16 17:52:38,583 INFO No new products (1336 tracked)
 2026-09-16 17:52:38,589 INFO === Run finished ===
+2026-09-16 17:53:13,157 INFO === Run started ===
+2026-09-16 17:53:34,918 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 17:53:34,919 INFO   NEW: Best Bros Soft Candy | $2.12 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12996&limit=100
+2026-09-16 17:53:36,280 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 17:53:36,460 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 17:53:36,468 INFO === Run finished ===
