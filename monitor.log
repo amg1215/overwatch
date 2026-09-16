@@ -37329,3 +37329,9 @@
 2026-09-16 21:34:11,235 INFO === Run started ===
 2026-09-16 21:34:35,419 INFO No new products (1395 tracked)
 2026-09-16 21:34:35,426 INFO === Run finished ===
+2026-09-16 21:35:15,048 INFO === Run started ===
+2026-09-16 21:35:36,903 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 21:35:36,903 INFO   NEW: Kao Liese Foam Hair | $8.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17198&limit=100
+2026-09-16 21:35:38,456 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 21:35:38,677 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 21:35:38,685 INFO === Run finished ===
