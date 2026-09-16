@@ -37595,3 +37595,9 @@
 2026-09-16 22:40:37,444 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 22:40:37,739 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 22:40:37,746 INFO === Run finished ===
+2026-09-16 22:41:11,087 INFO === Run started ===
+2026-09-16 22:41:35,938 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 22:41:35,938 INFO   NEW: Marutama Spicy Squid | $1.14 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10081&limit=100
+2026-09-16 22:41:37,950 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 22:41:38,221 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 22:41:38,229 INFO === Run finished ===
