@@ -36489,3 +36489,9 @@
 2026-09-16 17:47:35,737 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 17:47:35,920 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 17:47:35,926 INFO === Run finished ===
+2026-09-16 17:48:13,720 INFO === Run started ===
+2026-09-16 17:48:34,702 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 17:48:34,702 INFO   NEW: Lotte Chocolate Pie | $2.57 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10237&limit=100
+2026-09-16 17:48:35,900 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 17:48:36,197 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 17:48:36,205 INFO === Run finished ===
