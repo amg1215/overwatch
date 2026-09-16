@@ -5676,6 +5676,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20980&limit=100",
       "stock": "n/a"
     },
+    "7217": {
+      "name": "Fujiya Meisters Choc",
+      "price": "$2.15",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7217&limit=100",
+      "stock": "n/a"
+    },
     "30874": {
       "name": "Lotte Chocolate Pie",
       "price": "$4.09",
@@ -7814,6 +7820,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T14:56:48",
-  "last_count": 1302
+  "last_run": "2026-09-16T14:57:53",
+  "last_count": 1303
 }

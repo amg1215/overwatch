@@ -36001,3 +36001,9 @@
 2026-09-16 14:56:15,520 INFO === Run started ===
 2026-09-16 14:56:48,714 INFO No new products (1302 tracked)
 2026-09-16 14:56:48,721 INFO === Run finished ===
+2026-09-16 14:57:18,707 INFO === Run started ===
+2026-09-16 14:57:51,486 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 14:57:51,486 INFO   NEW: Fujiya Meisters Choc | $2.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7217&limit=100
+2026-09-16 14:57:52,843 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 14:57:53,077 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 14:57:53,084 INFO === Run finished ===
