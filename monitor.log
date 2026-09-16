@@ -37824,3 +37824,9 @@
 2026-09-16 23:33:13,375 INFO === Run started ===
 2026-09-16 23:33:36,611 INFO No new products (1445 tracked)
 2026-09-16 23:33:36,617 INFO === Run finished ===
+2026-09-16 23:34:14,200 INFO === Run started ===
+2026-09-16 23:34:38,021 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 23:34:38,022 INFO   NEW: S.T. Car Air Freshen | $6.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9592&limit=100
+2026-09-16 23:34:39,744 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 23:34:40,002 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 23:34:40,011 INFO === Run finished ===
