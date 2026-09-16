@@ -36929,3 +36929,9 @@
 2026-09-16 19:43:34,360 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 19:43:34,591 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 19:43:34,611 INFO === Run finished ===
+2026-09-16 19:44:10,834 INFO === Run started ===
+2026-09-16 19:44:32,994 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 19:44:32,994 INFO   NEW: RE-MENT Animal Cross | $11.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31006&limit=100
+2026-09-16 19:44:33,879 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 19:44:33,926 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 19:44:33,935 INFO === Run finished ===
