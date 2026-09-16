@@ -36459,3 +36459,9 @@
 2026-09-16 17:42:14,777 INFO === Run started ===
 2026-09-16 17:42:52,106 INFO No new products (1322 tracked)
 2026-09-16 17:42:52,113 INFO === Run finished ===
+2026-09-16 17:43:12,302 INFO === Run started ===
+2026-09-16 17:43:35,178 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 17:43:35,178 INFO   NEW: Ichiran Ramen Hakata | $21.56 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=471&limit=100
+2026-09-16 17:43:36,542 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 17:43:36,743 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 17:43:36,750 INFO === Run finished ===

@@ -7656,6 +7656,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22184&limit=100",
       "stock": "n/a"
     },
+    "471": {
+      "name": "Ichiran Ramen Hakata",
+      "price": "$21.56",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=471&limit=100",
+      "stock": "n/a"
+    },
     "10822": {
       "name": "Ichiran Pork Bone Fl",
       "price": "$5.99",
@@ -7934,6 +7940,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T17:42:52",
-  "last_count": 1322
+  "last_run": "2026-09-16T17:43:36",
+  "last_count": 1323
 }
