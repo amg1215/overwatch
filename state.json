@@ -3240,6 +3240,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15494&limit=100",
       "stock": "n/a"
     },
+    "21597": {
+      "name": "Re-Ment Pokemon Nigh",
+      "price": "$10.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21597&limit=100",
+      "stock": "n/a"
+    },
     "24014": {
       "name": "RE-MENT Pokemon SWIN",
       "price": "$10.17",
@@ -8120,6 +8126,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T19:25:36",
-  "last_count": 1353
+  "last_run": "2026-09-16T19:26:35",
+  "last_count": 1354
 }

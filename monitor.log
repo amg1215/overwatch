@@ -36836,3 +36836,9 @@
 2026-09-16 19:25:36,031 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 19:25:36,077 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 19:25:36,086 INFO === Run finished ===
+2026-09-16 19:26:11,711 INFO === Run started ===
+2026-09-16 19:26:34,392 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 19:26:34,393 INFO   NEW: Re-Ment Pokemon Nigh | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21597&limit=100
+2026-09-16 19:26:35,469 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 19:26:35,742 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 19:26:35,751 INFO === Run finished ===
