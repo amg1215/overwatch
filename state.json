@@ -5040,6 +5040,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25643&limit=100",
       "stock": "n/a"
     },
+    "25644": {
+      "name": "Morinaga DARS Premiu",
+      "price": "$2.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25644&limit=100",
+      "stock": "n/a"
+    },
     "30062": {
       "name": "Morinaga DARS Premiu",
       "price": "$2.39",
@@ -7880,6 +7886,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-16T17:24:38",
-  "last_count": 1313
+  "last_run": "2026-09-16T17:25:37",
+  "last_count": 1314
 }

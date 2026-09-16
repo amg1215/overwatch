@@ -36384,3 +36384,9 @@
 2026-09-16 17:24:38,711 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-16 17:24:38,981 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-16 17:24:38,990 INFO === Run finished ===
+2026-09-16 17:25:14,069 INFO === Run started ===
+2026-09-16 17:25:36,408 INFO NEW/RESTOCKED products detected: 1
+2026-09-16 17:25:36,408 INFO   NEW: Morinaga DARS Premiu | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25644&limit=100
+2026-09-16 17:25:37,579 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-16 17:25:37,844 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-16 17:25:37,852 INFO === Run finished ===
