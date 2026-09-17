@@ -41102,3 +41102,10 @@
 2026-09-17 20:14:11,322 INFO === Run started ===
 2026-09-17 20:14:36,206 INFO No new products (1512 tracked)
 2026-09-17 20:14:36,214 INFO === Run finished ===
+2026-09-17 20:15:18,970 INFO === Run started ===
+2026-09-17 20:15:45,820 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 20:15:45,820 INFO   NEW: SUNSTAR Refreshing C | $7.38 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30493&limit=100
+2026-09-17 20:15:45,820 INFO   NEW: Sanko Rice Cake Sala | $1.34 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23767&limit=100
+2026-09-17 20:15:47,262 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 20:15:47,448 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 20:15:47,456 INFO === Run finished ===
