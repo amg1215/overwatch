@@ -2946,6 +2946,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30832&limit=100",
       "stock": "n/a"
     },
+    "4505": {
+      "name": "Koji Spring Heart Li",
+      "price": "$3.56",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4505&limit=100",
+      "stock": "n/a"
+    },
     "23290": {
       "name": "Kamio Japan SLO Hell",
       "price": "$2.99",
@@ -9266,6 +9272,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T20:49:38",
-  "last_count": 1544
+  "last_run": "2026-09-17T20:50:48",
+  "last_count": 1545
 }

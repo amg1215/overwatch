@@ -41276,3 +41276,9 @@
 2026-09-17 20:49:11,397 INFO === Run started ===
 2026-09-17 20:49:38,870 INFO No new products (1544 tracked)
 2026-09-17 20:49:38,879 INFO === Run finished ===
+2026-09-17 20:50:19,297 INFO === Run started ===
+2026-09-17 20:50:46,498 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 20:50:46,498 INFO   NEW: Koji Spring Heart Li | $3.56 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4505&limit=100
+2026-09-17 20:50:48,097 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 20:50:48,356 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 20:50:48,366 INFO === Run finished ===
