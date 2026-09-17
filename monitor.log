@@ -41660,3 +41660,9 @@
 2026-09-17 22:18:14,033 INFO === Run started ===
 2026-09-17 22:18:41,675 INFO No new products (1593 tracked)
 2026-09-17 22:18:41,683 INFO === Run finished ===
+2026-09-17 22:19:12,433 INFO === Run started ===
+2026-09-17 22:19:39,968 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 22:19:39,968 INFO   NEW: SUNSTAR TONIC Refres | $7.38 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30494&limit=100
+2026-09-17 22:19:41,029 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 22:19:41,314 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 22:19:41,324 INFO === Run finished ===
