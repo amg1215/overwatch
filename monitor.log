@@ -38487,3 +38487,9 @@
 2026-09-17 14:58:40,001 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 14:58:40,667 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 14:58:40,676 INFO === Run finished ===
+2026-09-17 14:59:24,873 INFO === Run started ===
+2026-09-17 14:59:47,136 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 14:59:47,136 INFO   NEW: Kobayashi Toilet Deo | $2.88 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5423&limit=100
+2026-09-17 14:59:49,343 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 14:59:49,574 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 14:59:49,581 INFO === Run finished ===
