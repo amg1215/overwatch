@@ -40908,3 +40908,11 @@
 2026-09-17 19:29:36,294 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 19:29:36,412 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 19:29:36,420 INFO === Run finished ===
+2026-09-17 19:30:20,779 INFO === Run started ===
+2026-09-17 19:30:43,274 INFO NEW/RESTOCKED products detected: 3
+2026-09-17 19:30:43,274 INFO   NEW: Rosette Exfoliating | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12473&limit=100
+2026-09-17 19:30:43,274 INFO   NEW: Naturie Coix Seed Ge | $7.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8011&limit=100
+2026-09-17 19:30:43,274 INFO   NEW: FuRyu Hatsune Miku N | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50685&limit=100
+2026-09-17 19:30:46,365 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-17 19:30:46,553 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-17 19:30:46,661 INFO === Run finished ===
