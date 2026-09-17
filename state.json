@@ -1530,6 +1530,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16500&limit=100",
       "stock": "n/a"
     },
+    "6956": {
+      "name": "LEC Gekiochi-kun Car",
+      "price": "$4.78",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6956&limit=100",
+      "stock": "n/a"
+    },
     "7367": {
       "name": "Inomata Plastic Foot",
       "price": "$6.90",
@@ -8672,6 +8678,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T17:27:36",
-  "last_count": 1445
+  "last_run": "2026-09-17T17:28:38",
+  "last_count": 1446
 }
