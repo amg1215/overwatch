@@ -36,6 +36,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9669&limit=100",
       "stock": "n/a"
     },
+    "3774": {
+      "name": "Bandai Children's To",
+      "price": "$4.07",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3774&limit=100",
+      "stock": "n/a"
+    },
     "9453": {
       "name": "Earth Children's Mou",
       "price": "$3.83",
@@ -8660,6 +8666,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T17:22:37",
-  "last_count": 1443
+  "last_run": "2026-09-17T17:23:34",
+  "last_count": 1444
 }
