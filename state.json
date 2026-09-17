@@ -4116,6 +4116,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30230&limit=100",
       "stock": "n/a"
     },
+    "50832": {
+      "name": "Funism Mofusand Fort",
+      "price": "$7.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50832&limit=100",
+      "stock": "n/a"
+    },
     "24417": {
       "name": "EMMA Secret Forest S",
       "price": "$8.99",
@@ -8864,6 +8870,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T19:23:36",
-  "last_count": 1477
+  "last_run": "2026-09-17T19:24:34",
+  "last_count": 1478
 }
