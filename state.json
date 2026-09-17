@@ -3390,6 +3390,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20333&limit=100",
       "stock": "n/a"
     },
+    "26439": {
+      "name": "COW BRAND SOAP KYOSH",
+      "price": "$1.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26439&limit=100",
+      "stock": "n/a"
+    },
     "25407": {
       "name": "COW Premium Bath Pow",
       "price": "$1.79",
@@ -8774,6 +8780,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T14:57:40",
-  "last_count": 1462
+  "last_run": "2026-09-17T14:58:40",
+  "last_count": 1463
 }

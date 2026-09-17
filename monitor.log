@@ -38481,3 +38481,9 @@
 2026-09-17 14:57:39,942 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 14:57:40,215 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 14:57:40,224 INFO === Run finished ===
+2026-09-17 14:58:14,407 INFO === Run started ===
+2026-09-17 14:58:38,876 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 14:58:38,876 INFO   NEW: COW BRAND SOAP KYOSH | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26439&limit=100
+2026-09-17 14:58:40,001 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 14:58:40,667 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 14:58:40,676 INFO === Run finished ===
