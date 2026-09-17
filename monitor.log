@@ -41052,3 +41052,11 @@
 2026-09-17 19:59:42,912 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 19:59:43,166 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 19:59:43,175 INFO === Run finished ===
+2026-09-17 20:00:57,696 INFO === Run started ===
+2026-09-17 20:01:22,911 INFO NEW/RESTOCKED products detected: 3
+2026-09-17 20:01:22,911 INFO   NEW: Kracie Naive Moistur | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22483&limit=100
+2026-09-17 20:01:22,911 INFO   NEW: Kracie Naive Pore Pu | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22484&limit=100
+2026-09-17 20:01:22,911 INFO   NEW: SMISKI Blind Box Nig | $9.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20047&limit=100
+2026-09-17 20:01:25,086 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-17 20:01:25,141 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-17 20:01:25,150 INFO === Run finished ===
