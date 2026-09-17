@@ -41261,3 +41261,9 @@
 2026-09-17 20:45:43,554 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-17 20:45:43,771 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-17 20:45:43,778 INFO === Run finished ===
+2026-09-17 20:46:11,530 INFO === Run started ===
+2026-09-17 20:46:37,626 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 20:46:37,626 INFO   NEW: KUREHA Kichinto San | $1.55 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26438&limit=100
+2026-09-17 20:46:38,712 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 20:46:38,938 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 20:46:38,947 INFO === Run finished ===

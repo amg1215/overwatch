@@ -1560,6 +1560,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16500&limit=100",
       "stock": "n/a"
     },
+    "26438": {
+      "name": "KUREHA Kichinto San",
+      "price": "$1.55",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26438&limit=100",
+      "stock": "n/a"
+    },
     "6956": {
       "name": "LEC Gekiochi-kun Car",
       "price": "$4.78",
@@ -9260,6 +9266,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T20:45:43",
-  "last_count": 1543
+  "last_run": "2026-09-17T20:46:38",
+  "last_count": 1544
 }
