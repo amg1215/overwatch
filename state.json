@@ -1650,6 +1650,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7796&limit=100",
       "stock": "n/a"
     },
+    "5418": {
+      "name": "Kobayashi Sawaday Ca",
+      "price": "$5.89",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5418&limit=100",
+      "stock": "n/a"
+    },
     "12051": {
       "name": "P&G Febreze Car Clip",
       "price": "$3.75",
@@ -9152,6 +9158,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T20:28:38",
-  "last_count": 1525
+  "last_run": "2026-09-17T20:29:36",
+  "last_count": 1526
 }

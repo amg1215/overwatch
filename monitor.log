@@ -41173,3 +41173,9 @@
 2026-09-17 20:28:38,134 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 20:28:38,390 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 20:28:38,399 INFO === Run finished ===
+2026-09-17 20:29:10,670 INFO === Run started ===
+2026-09-17 20:29:35,049 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 20:29:35,050 INFO   NEW: Kobayashi Sawaday Ca | $5.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5418&limit=100
+2026-09-17 20:29:36,037 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 20:29:36,267 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 20:29:36,277 INFO === Run finished ===
