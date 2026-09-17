@@ -40020,3 +40020,10 @@
 2026-09-17 15:40:46,209 INFO Email sent: Ebisu: 5 new/restocked items!
 2026-09-17 15:40:46,427 INFO ntfy push sent: Ebisu: 5 new/restocked items!
 2026-09-17 15:40:46,433 INFO === Run finished ===
+2026-09-17 15:41:11,638 INFO === Run started ===
+2026-09-17 15:41:33,715 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 15:41:33,715 INFO   NEW: Fine Today Young Pal | $2.12 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26436&limit=100
+2026-09-17 15:41:33,715 INFO   NEW: Honeyque Deep Repair | $11.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13555&limit=100
+2026-09-17 15:41:34,757 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 15:41:35,037 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 15:41:35,041 INFO === Run finished ===
