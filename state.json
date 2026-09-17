@@ -4272,6 +4272,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22350&limit=100",
       "stock": "n/a"
     },
+    "26727": {
+      "name": "Funism Palmsize Wond",
+      "price": "$2.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26727&limit=100",
+      "stock": "n/a"
+    },
     "30230": {
       "name": "Funism Maltese PupSn",
       "price": "$5.42",
@@ -9188,6 +9194,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T20:32:37",
-  "last_count": 1531
+  "last_run": "2026-09-17T20:33:38",
+  "last_count": 1532
 }

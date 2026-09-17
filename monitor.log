@@ -41199,3 +41199,9 @@
 2026-09-17 20:32:37,793 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 20:32:37,871 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 20:32:37,880 INFO === Run finished ===
+2026-09-17 20:33:10,265 INFO === Run started ===
+2026-09-17 20:33:37,110 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 20:33:37,110 INFO   NEW: Funism Palmsize Wond | $2.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26727&limit=100
+2026-09-17 20:33:38,049 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 20:33:38,338 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 20:33:38,347 INFO === Run finished ===
