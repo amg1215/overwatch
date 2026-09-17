@@ -1626,6 +1626,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8605&limit=100",
       "stock": "n/a"
     },
+    "8606": {
+      "name": "Fumakilla Vape Skin",
+      "price": "$6.25",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8606&limit=100",
+      "stock": "n/a"
+    },
     "11338": {
       "name": "MUHI Rolling Ball An",
       "price": "$4.45",
@@ -9464,6 +9470,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T21:38:38",
-  "last_count": 1577
+  "last_run": "2026-09-17T21:39:40",
+  "last_count": 1578
 }
