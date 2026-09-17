@@ -40115,3 +40115,9 @@
 2026-09-17 16:03:15,367 INFO === Run started ===
 2026-09-17 16:03:40,341 INFO No new products (1413 tracked)
 2026-09-17 16:03:40,347 INFO === Run finished ===
+2026-09-17 16:04:14,744 INFO === Run started ===
+2026-09-17 16:04:39,499 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 16:04:39,499 INFO   NEW: Hoyu Men's Bigen One | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5296&limit=100
+2026-09-17 16:04:41,143 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 16:04:41,366 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 16:04:41,375 INFO === Run finished ===
