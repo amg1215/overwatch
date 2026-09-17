@@ -5496,12 +5496,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50685&limit=100",
       "stock": "n/a"
     },
-    "51721": {
-      "name": "FuRyu The Ring Sadak",
-      "price": "$23.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51721&limit=100",
-      "stock": "n/a"
-    },
     "51884": {
       "name": "FuRyu Even a Replica",
       "price": "$21.59",
@@ -9344,6 +9338,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T21:00:50",
-  "last_count": 1557
+  "last_run": "2026-09-17T21:01:35",
+  "last_count": 1556
 }
