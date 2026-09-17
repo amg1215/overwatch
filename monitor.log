@@ -40844,3 +40844,9 @@
 2026-09-17 19:15:50,454 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-17 19:15:50,691 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-17 19:15:50,696 INFO === Run finished ===
+2026-09-17 19:16:12,525 INFO === Run started ===
+2026-09-17 19:16:35,254 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 19:16:35,254 INFO   NEW: Toycity Mr.PA Flower | $7.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28835&limit=100
+2026-09-17 19:16:38,389 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 19:16:38,683 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 19:16:38,691 INFO === Run finished ===
