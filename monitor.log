@@ -41467,3 +41467,10 @@
 2026-09-17 21:31:37,550 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-17 21:31:37,791 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-17 21:31:37,800 INFO === Run finished ===
+2026-09-17 21:32:15,425 INFO === Run started ===
+2026-09-17 21:32:39,465 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 21:32:39,465 INFO   NEW: S.T. Indoor Air Fres | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=907&limit=100
+2026-09-17 21:32:39,465 INFO   NEW: S.T. Indoor Air Fres | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=893&limit=100
+2026-09-17 21:32:41,085 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 21:32:41,587 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 21:32:41,595 INFO === Run finished ===
