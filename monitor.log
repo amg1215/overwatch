@@ -40774,3 +40774,11 @@
 2026-09-17 19:02:13,857 INFO === Run started ===
 2026-09-17 19:02:36,769 INFO No new products (1456 tracked)
 2026-09-17 19:02:36,778 INFO === Run finished ===
+2026-09-17 19:03:45,752 INFO === Run started ===
+2026-09-17 19:04:09,545 INFO NEW/RESTOCKED products detected: 3
+2026-09-17 19:04:09,545 INFO   NEW: Kracie Eye Care Beau | $9.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1763&limit=100
+2026-09-17 19:04:09,545 INFO   NEW: Funism Pokemon Serie | $10.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23345&limit=100
+2026-09-17 19:04:09,545 INFO   NEW: BANDAI NARUTO Mobile | $1.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30616&limit=100
+2026-09-17 19:04:12,602 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-17 19:04:12,735 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-17 19:04:12,745 INFO === Run finished ===
