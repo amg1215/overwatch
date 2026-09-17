@@ -41435,3 +41435,9 @@
 2026-09-17 21:25:15,037 INFO === Run started ===
 2026-09-17 21:25:41,245 INFO No new products (1564 tracked)
 2026-09-17 21:25:41,254 INFO === Run finished ===
+2026-09-17 21:26:23,673 INFO === Run started ===
+2026-09-17 21:26:50,522 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 21:26:50,523 INFO   NEW: S.T. Room Deodorant | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5811&limit=100
+2026-09-17 21:26:51,708 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 21:26:52,090 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 21:26:52,099 INFO === Run finished ===
