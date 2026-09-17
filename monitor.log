@@ -38227,3 +38227,10 @@
 2026-09-17 13:45:15,355 INFO === Run started ===
 2026-09-17 13:45:39,201 INFO No new products (1448 tracked)
 2026-09-17 13:45:39,209 INFO === Run finished ===
+2026-09-17 13:46:11,563 INFO === Run started ===
+2026-09-17 13:46:34,073 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 13:46:34,073 INFO   NEW: Transformers TF-5 Q- | $7.02 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22346&limit=100
+2026-09-17 13:46:34,073 INFO   NEW: API Keychain Hachiwa | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13649&limit=100
+2026-09-17 13:46:35,165 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 13:46:35,418 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 13:46:35,426 INFO === Run finished ===
