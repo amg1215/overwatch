@@ -40790,3 +40790,9 @@
 2026-09-17 19:05:38,277 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-17 19:05:38,328 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-17 19:05:38,337 INFO === Run finished ===
+2026-09-17 19:06:19,653 INFO === Run started ===
+2026-09-17 19:06:42,641 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 19:06:42,641 INFO   NEW: Kracie Damage Repair | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27097&limit=100
+2026-09-17 19:06:45,013 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 19:06:45,129 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 19:06:45,138 INFO === Run finished ===
