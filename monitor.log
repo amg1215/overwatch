@@ -41528,3 +41528,10 @@
 2026-09-17 21:44:37,743 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 21:44:37,860 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 21:44:37,870 INFO === Run finished ===
+2026-09-17 21:45:16,402 INFO === Run started ===
+2026-09-17 21:45:41,798 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 21:45:41,799 INFO   NEW: Yamaka Hachiware Pla | $8.16 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18663&limit=100
+2026-09-17 21:45:41,799 INFO   NEW: Yamaka Usagi Plate 1 | $8.16 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18664&limit=100
+2026-09-17 21:45:43,984 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 21:45:44,194 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 21:45:44,204 INFO === Run finished ===

@@ -402,6 +402,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7610&limit=100",
       "stock": "n/a"
     },
+    "18663": {
+      "name": "Yamaka Hachiware Pla",
+      "price": "$8.16",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18663&limit=100",
+      "stock": "n/a"
+    },
+    "18664": {
+      "name": "Yamaka Usagi Plate 1",
+      "price": "$8.16",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18664&limit=100",
+      "stock": "n/a"
+    },
     "18665": {
       "name": "Yamaka Momonga Plate",
       "price": "$8.16",
@@ -9488,6 +9500,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T21:44:37",
-  "last_count": 1581
+  "last_run": "2026-09-17T21:45:44",
+  "last_count": 1583
 }
