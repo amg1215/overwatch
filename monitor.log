@@ -40230,3 +40230,9 @@
 2026-09-17 16:30:43,068 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 16:30:43,189 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 16:30:43,198 INFO === Run finished ===
+2026-09-17 16:31:18,467 INFO === Run started ===
+2026-09-17 16:31:40,232 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 16:31:40,232 INFO   NEW: Sunstar Ora2 Mouthwa | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10108&limit=100
+2026-09-17 16:31:41,938 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 16:31:42,522 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 16:31:42,528 INFO === Run finished ===
