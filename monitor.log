@@ -39977,3 +39977,10 @@
 2026-09-17 15:31:12,955 INFO === Run started ===
 2026-09-17 15:31:36,738 INFO No new products (1387 tracked)
 2026-09-17 15:31:36,746 INFO === Run finished ===
+2026-09-17 15:32:28,032 INFO === Run started ===
+2026-09-17 15:33:17,974 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 15:33:17,974 INFO   NEW: Uyeki Super Orange C | $6.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9593&limit=100
+2026-09-17 15:33:17,974 INFO   NEW: P&G Air Freshener Pe | $5.33 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15995&limit=100
+2026-09-17 15:33:19,426 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 15:33:19,863 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 15:33:19,870 INFO === Run finished ===
