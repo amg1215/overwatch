@@ -39872,3 +39872,9 @@
 2026-09-17 15:05:14,507 INFO === Run started ===
 2026-09-17 15:05:36,200 INFO No new products (1378 tracked)
 2026-09-17 15:05:36,208 INFO === Run finished ===
+2026-09-17 15:06:13,092 INFO === Run started ===
+2026-09-17 15:06:35,260 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 15:06:35,261 INFO   NEW: Fine Today UNO Men's | $6.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22626&limit=100
+2026-09-17 15:06:36,687 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 15:06:36,928 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 15:06:36,936 INFO === Run finished ===
