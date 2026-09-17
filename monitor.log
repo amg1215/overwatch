@@ -41232,3 +41232,9 @@
 2026-09-17 20:41:41,147 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 20:41:41,400 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 20:41:41,410 INFO === Run finished ===
+2026-09-17 20:42:12,613 INFO === Run started ===
+2026-09-17 20:42:36,981 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 20:42:36,981 INFO   NEW: Lion Clinica Advanta | $3.47 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9647&limit=100
+2026-09-17 20:42:38,494 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 20:42:38,736 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 20:42:38,744 INFO === Run finished ===
