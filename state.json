@@ -4962,10 +4962,22 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26724&limit=100",
       "stock": "n/a"
     },
+    "24738": {
+      "name": "Funism Pokemon Keych",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24738&limit=100",
+      "stock": "n/a"
+    },
     "23369": {
       "name": "Funism Pokemon Keych",
       "price": "$2.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23369&limit=100",
+      "stock": "n/a"
+    },
+    "26725": {
+      "name": "Funism Adventurous P",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26725&limit=100",
       "stock": "n/a"
     },
     "23368": {
@@ -9122,6 +9134,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T20:22:40",
-  "last_count": 1520
+  "last_run": "2026-09-17T20:23:37",
+  "last_count": 1522
 }
