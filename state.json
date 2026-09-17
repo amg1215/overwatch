@@ -8424,6 +8424,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=325&limit=100",
       "stock": "n/a"
     },
+    "82": {
+      "name": "Nittoh Matcha Milk T",
+      "price": "$3.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=82&limit=100",
+      "stock": "n/a"
+    },
     "29159": {
       "name": "Mitsui Norin Nittoh",
       "price": "$3.53",
@@ -8900,6 +8906,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T19:30:46",
-  "last_count": 1483
+  "last_run": "2026-09-17T19:31:36",
+  "last_count": 1484
 }
