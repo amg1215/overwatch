@@ -3444,6 +3444,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30181&limit=100",
       "stock": "n/a"
     },
+    "27096": {
+      "name": "Kracie Damage Repair",
+      "price": "$6.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27096&limit=100",
+      "stock": "n/a"
+    },
     "8160": {
       "name": "Shiseido Serum Noir",
       "price": "$21.99",
@@ -4104,6 +4110,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50834&limit=100",
       "stock": "n/a"
     },
+    "30231": {
+      "name": "Funism Care Bears Se",
+      "price": "$4.10",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30231&limit=100",
+      "stock": "n/a"
+    },
     "21710": {
       "name": "Here Dream Island ZI",
       "price": "$11.80",
@@ -4720,6 +4732,12 @@
       "name": "Asunarosha Japanese",
       "price": "$8.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22853&limit=100",
+      "stock": "n/a"
+    },
+    "26724": {
+      "name": "Funism Adventurous P",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26724&limit=100",
       "stock": "n/a"
     },
     "20020": {
@@ -8756,6 +8774,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T19:04:12",
-  "last_count": 1459
+  "last_run": "2026-09-17T19:05:38",
+  "last_count": 1462
 }

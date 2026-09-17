@@ -40782,3 +40782,11 @@
 2026-09-17 19:04:12,602 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-17 19:04:12,735 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-17 19:04:12,745 INFO === Run finished ===
+2026-09-17 19:05:12,887 INFO === Run started ===
+2026-09-17 19:05:36,882 INFO NEW/RESTOCKED products detected: 3
+2026-09-17 19:05:36,882 INFO   NEW: Kracie Damage Repair | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27096&limit=100
+2026-09-17 19:05:36,882 INFO   NEW: Funism Care Bears Se | $4.10 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30231&limit=100
+2026-09-17 19:05:36,882 INFO   NEW: Funism Adventurous P | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26724&limit=100
+2026-09-17 19:05:38,277 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-17 19:05:38,328 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-17 19:05:38,337 INFO === Run finished ===
