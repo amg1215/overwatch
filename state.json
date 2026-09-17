@@ -7512,6 +7512,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30878&limit=100",
       "stock": "n/a"
     },
+    "23206": {
+      "name": "Koikeya Potato Chips",
+      "price": "$1.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23206&limit=100",
+      "stock": "n/a"
+    },
     "23207": {
       "name": "Koikeya Corn Crisp S",
       "price": "$1.49",
@@ -9026,6 +9032,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T19:53:37",
-  "last_count": 1504
+  "last_run": "2026-09-17T19:54:41",
+  "last_count": 1505
 }
