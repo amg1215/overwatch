@@ -40893,3 +40893,9 @@
 2026-09-17 19:26:14,219 INFO === Run started ===
 2026-09-17 19:26:39,644 INFO No new products (1478 tracked)
 2026-09-17 19:26:39,652 INFO === Run finished ===
+2026-09-17 19:27:10,185 INFO === Run started ===
+2026-09-17 19:27:32,284 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 19:27:32,284 INFO   NEW: Masse molly Eau de T | $4.48 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21973&limit=100
+2026-09-17 19:27:33,918 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 19:27:34,094 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 19:27:34,101 INFO === Run finished ===
