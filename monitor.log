@@ -38463,3 +38463,9 @@
 2026-09-17 14:53:47,440 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 14:53:47,639 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 14:53:47,646 INFO === Run finished ===
+2026-09-17 14:54:11,953 INFO === Run started ===
+2026-09-17 14:54:35,146 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 14:54:35,146 INFO   NEW: S.T. Freezer Deodora | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5193&limit=100
+2026-09-17 14:54:36,602 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 14:54:36,847 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 14:54:36,856 INFO === Run finished ===
