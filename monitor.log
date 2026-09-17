@@ -40027,3 +40027,10 @@
 2026-09-17 15:41:34,757 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-17 15:41:35,037 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-17 15:41:35,041 INFO === Run finished ===
+2026-09-17 15:42:16,564 INFO === Run started ===
+2026-09-17 15:42:41,228 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 15:42:41,228 INFO   NEW: SMISKI Incredible Li | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29936&limit=100
+2026-09-17 15:42:41,228 INFO   NEW: SMISKI Incredible Li | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29937&limit=100
+2026-09-17 15:42:42,610 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 15:42:43,108 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 15:42:43,117 INFO === Run finished ===
