@@ -40254,3 +40254,12 @@
 2026-09-17 16:37:09,756 INFO === Run started ===
 2026-09-17 16:37:32,608 INFO No new products (1428 tracked)
 2026-09-17 16:37:32,616 INFO === Run finished ===
+2026-09-17 16:38:11,956 INFO === Run started ===
+2026-09-17 16:38:47,724 INFO NEW/RESTOCKED products detected: 4
+2026-09-17 16:38:47,724 INFO   NEW: S.T. Premium Aroma W | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5129&limit=100
+2026-09-17 16:38:47,724 INFO   NEW: S.T Mushuda Premium | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22471&limit=100
+2026-09-17 16:38:47,724 INFO   NEW: LEC Bathroom Mold Cl | $5.97 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11948&limit=100
+2026-09-17 16:38:47,724 INFO   NEW: Kracie Brightening F | $6.62 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9759&limit=100
+2026-09-17 16:38:48,843 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-17 16:38:49,008 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-17 16:38:49,018 INFO === Run finished ===
