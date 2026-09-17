@@ -1200,6 +1200,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8980&limit=100",
       "stock": "n/a"
     },
+    "25401": {
+      "name": "P&G Lenor Fabric Sof",
+      "price": "$6.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25401&limit=100",
+      "stock": "n/a"
+    },
     "7997": {
       "name": "Showa Nice Hand Ligh",
       "price": "$2.15",
@@ -9482,6 +9488,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T21:43:40",
-  "last_count": 1580
+  "last_run": "2026-09-17T21:44:37",
+  "last_count": 1581
 }
