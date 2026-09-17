@@ -3582,6 +3582,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8102&limit=100",
       "stock": "n/a"
     },
+    "9895": {
+      "name": "Sunstar Ora2 Mouth S",
+      "price": "$2.23",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9895&limit=100",
+      "stock": "n/a"
+    },
     "10024": {
       "name": "Lion Clinica Mouthwa",
       "price": "$3.99",
@@ -8762,6 +8768,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T14:54:36",
-  "last_count": 1460
+  "last_run": "2026-09-17T14:56:06",
+  "last_count": 1461
 }

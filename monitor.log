@@ -38469,3 +38469,9 @@
 2026-09-17 14:54:36,602 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 14:54:36,847 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 14:54:36,856 INFO === Run finished ===
+2026-09-17 14:55:16,929 INFO === Run started ===
+2026-09-17 14:56:04,713 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 14:56:04,713 INFO   NEW: Sunstar Ora2 Mouth S | $2.23 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9895&limit=100
+2026-09-17 14:56:06,336 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 14:56:06,593 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 14:56:06,602 INFO === Run finished ===
