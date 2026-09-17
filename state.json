@@ -2052,6 +2052,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5344&limit=100",
       "stock": "n/a"
     },
+    "10710": {
+      "name": "Kose Softymo Refresh",
+      "price": "$2.30",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10710&limit=100",
+      "stock": "n/a"
+    },
     "3744": {
       "name": "Kose Softymo Collage",
       "price": "$4.79",
@@ -8648,6 +8654,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T17:15:39",
-  "last_count": 1441
+  "last_run": "2026-09-17T17:16:38",
+  "last_count": 1442
 }
