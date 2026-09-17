@@ -876,6 +876,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9593&limit=100",
       "stock": "n/a"
     },
+    "8982": {
+      "name": "Kobayashi Freezer De",
+      "price": "$3.12",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8982&limit=100",
+      "stock": "n/a"
+    },
     "16098": {
       "name": "Shobido Chiikawa & H",
       "price": "$8.99",
@@ -1720,6 +1726,12 @@
       "name": "Kobayashi Eye Wash G",
       "price": "$8.95",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7928&limit=100",
+      "stock": "n/a"
+    },
+    "5710": {
+      "name": "Daiichi Sankyo Prote",
+      "price": "$5.75",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5710&limit=100",
       "stock": "n/a"
     },
     "8237": {
@@ -8492,6 +8504,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T16:05:37",
-  "last_count": 1415
+  "last_run": "2026-09-17T16:06:42",
+  "last_count": 1417
 }

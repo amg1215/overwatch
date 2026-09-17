@@ -40127,3 +40127,10 @@
 2026-09-17 16:05:37,580 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 16:05:37,799 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 16:05:37,808 INFO === Run finished ===
+2026-09-17 16:06:18,178 INFO === Run started ===
+2026-09-17 16:06:40,961 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 16:06:40,961 INFO   NEW: Kobayashi Freezer De | $3.12 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8982&limit=100
+2026-09-17 16:06:40,961 INFO   NEW: Daiichi Sankyo Prote | $5.75 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5710&limit=100
+2026-09-17 16:06:42,614 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 16:06:42,807 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 16:06:42,814 INFO === Run finished ===
