@@ -40434,3 +40434,9 @@
 2026-09-17 17:25:15,212 INFO === Run started ===
 2026-09-17 17:25:39,193 INFO No new products (1444 tracked)
 2026-09-17 17:25:39,201 INFO === Run finished ===
+2026-09-17 17:26:13,910 INFO === Run started ===
+2026-09-17 17:26:38,623 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 17:26:38,623 INFO   NEW: Kao Laundry Tub Clea | $2.94 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9742&limit=100
+2026-09-17 17:26:40,317 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 17:26:40,556 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 17:26:40,565 INFO === Run finished ===

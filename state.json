@@ -1908,6 +1908,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=228&limit=100",
       "stock": "n/a"
     },
+    "9742": {
+      "name": "Kao Laundry Tub Clea",
+      "price": "$2.94",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9742&limit=100",
+      "stock": "n/a"
+    },
     "8713": {
       "name": "Kao Pipeline Cleaner",
       "price": "$2.39",
@@ -8666,6 +8672,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T17:25:39",
-  "last_count": 1444
+  "last_run": "2026-09-17T17:26:40",
+  "last_count": 1445
 }
