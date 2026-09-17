@@ -41193,3 +41193,9 @@
 2026-09-17 20:31:42,021 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-17 20:31:42,293 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-17 20:31:42,302 INFO === Run finished ===
+2026-09-17 20:32:11,540 INFO === Run started ===
+2026-09-17 20:32:36,740 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 20:32:36,740 INFO   NEW: Kose Transparent Sun | $7.50 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11295&limit=100
+2026-09-17 20:32:37,793 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 20:32:37,871 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 20:32:37,880 INFO === Run finished ===
