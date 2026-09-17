@@ -5214,6 +5214,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=49804&limit=100",
       "stock": "n/a"
     },
+    "30660": {
+      "name": "Plex NARUTO Shippude",
+      "price": "$13.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30660&limit=100",
+      "stock": "n/a"
+    },
+    "30661": {
+      "name": "Plex NARUTO Shippude",
+      "price": "$13.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30661&limit=100",
+      "stock": "n/a"
+    },
     "30207": {
       "name": "BANDAI SPIRITS ONE P",
       "price": "$83.99",
@@ -9344,6 +9356,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T21:09:36",
-  "last_count": 1557
+  "last_run": "2026-09-17T21:10:43",
+  "last_count": 1559
 }

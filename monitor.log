@@ -41372,3 +41372,10 @@
 2026-09-17 21:09:11,497 INFO === Run started ===
 2026-09-17 21:09:36,842 INFO No new products (1557 tracked)
 2026-09-17 21:09:36,849 INFO === Run finished ===
+2026-09-17 21:10:17,737 INFO === Run started ===
+2026-09-17 21:10:42,151 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 21:10:42,151 INFO   NEW: Plex NARUTO Shippude | $13.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30660&limit=100
+2026-09-17 21:10:42,151 INFO   NEW: Plex NARUTO Shippude | $13.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30661&limit=100
+2026-09-17 21:10:43,209 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 21:10:43,496 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 21:10:43,505 INFO === Run finished ===
