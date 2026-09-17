@@ -39950,3 +39950,9 @@
 2026-09-17 15:24:36,128 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 15:24:36,300 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 15:24:36,308 INFO === Run finished ===
+2026-09-17 15:25:15,340 INFO === Run started ===
+2026-09-17 15:25:39,558 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 15:25:39,559 INFO   NEW: Kobayashi Sawaday Ai | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10295&limit=100
+2026-09-17 15:25:41,276 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 15:25:41,532 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 15:25:41,540 INFO === Run finished ===
