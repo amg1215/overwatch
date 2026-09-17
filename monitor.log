@@ -41253,3 +41253,11 @@
 2026-09-17 20:44:41,119 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-17 20:44:41,421 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-17 20:44:41,431 INFO === Run finished ===
+2026-09-17 20:45:17,385 INFO === Run started ===
+2026-09-17 20:45:42,231 INFO NEW/RESTOCKED products detected: 3
+2026-09-17 20:45:42,231 INFO   NEW: Kobayashi Drain Clea | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8979&limit=100
+2026-09-17 20:45:42,231 INFO   NEW: Kataoka 2x Extra Str | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17426&limit=100
+2026-09-17 20:45:42,231 INFO   NEW: Nestle Concentrated | $2.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28918&limit=100
+2026-09-17 20:45:43,554 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-17 20:45:43,771 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-17 20:45:43,778 INFO === Run finished ===
