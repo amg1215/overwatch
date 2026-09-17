@@ -39923,3 +39923,9 @@
 2026-09-17 15:18:31,478 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 15:18:31,710 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 15:18:31,717 INFO === Run finished ===
+2026-09-17 15:19:12,650 INFO === Run started ===
+2026-09-17 15:19:36,010 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 15:19:36,010 INFO   NEW: P&G Air Freshener Li | $5.33 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15996&limit=100
+2026-09-17 15:19:37,386 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 15:19:37,720 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 15:19:37,727 INFO === Run finished ===
