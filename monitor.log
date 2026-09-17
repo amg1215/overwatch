@@ -40056,3 +40056,9 @@
 2026-09-17 15:48:42,722 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-17 15:48:43,077 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-17 15:48:43,082 INFO === Run finished ===
+2026-09-17 15:49:11,819 INFO === Run started ===
+2026-09-17 15:49:36,485 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 15:49:36,485 INFO   NEW: GPP Days in Bloom Ba | $2.75 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8012&limit=100
+2026-09-17 15:49:37,923 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 15:49:38,189 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 15:49:38,198 INFO === Run finished ===

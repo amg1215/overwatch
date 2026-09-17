@@ -3312,6 +3312,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8013&limit=100",
       "stock": "n/a"
     },
+    "8012": {
+      "name": "GPP Days in Bloom Ba",
+      "price": "$2.75",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8012&limit=100",
+      "stock": "n/a"
+    },
     "14117": {
       "name": "MARO Cooling Shower",
       "price": "$7.59",
@@ -8444,6 +8450,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T15:48:43",
-  "last_count": 1407
+  "last_run": "2026-09-17T15:49:38",
+  "last_count": 1408
 }
