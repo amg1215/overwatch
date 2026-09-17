@@ -40080,3 +40080,10 @@
 2026-09-17 15:54:12,844 INFO === Run started ===
 2026-09-17 15:54:35,517 INFO No new products (1409 tracked)
 2026-09-17 15:54:35,525 INFO === Run finished ===
+2026-09-17 15:55:14,974 INFO === Run started ===
+2026-09-17 15:55:38,281 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 15:55:38,282 INFO   NEW: Kobayashi Multipurpo | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9811&limit=100
+2026-09-17 15:55:38,282 INFO   NEW: Dariya Momori Rich S | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2075&limit=100
+2026-09-17 15:55:39,514 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 15:55:39,711 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 15:55:39,719 INFO === Run finished ===
