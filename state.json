@@ -5118,6 +5118,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20334&limit=100",
       "stock": "n/a"
     },
+    "7435": {
+      "name": "LEMON Bubble Sticker",
+      "price": "$1.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7435&limit=100",
+      "stock": "n/a"
+    },
     "31014": {
       "name": "Ensky TV Anime Jujut",
       "price": "$2.35",
@@ -8618,6 +8624,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T16:52:34",
-  "last_count": 1436
+  "last_run": "2026-09-17T16:53:34",
+  "last_count": 1437
 }
