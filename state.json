@@ -3534,6 +3534,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22171&limit=100",
       "stock": "n/a"
     },
+    "29291": {
+      "name": "Ebisu Flexible Tongu",
+      "price": "$1.48",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29291&limit=100",
+      "stock": "n/a"
+    },
     "10018": {
       "name": "Lion Children's Toot",
       "price": "$1.11",
@@ -8750,6 +8756,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T14:52:37",
-  "last_count": 1458
+  "last_run": "2026-09-17T14:53:47",
+  "last_count": 1459
 }
