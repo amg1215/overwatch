@@ -40494,3 +40494,9 @@
 2026-09-17 17:38:36,701 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 17:38:36,872 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 17:38:36,881 INFO === Run finished ===
+2026-09-17 17:39:10,102 INFO === Run started ===
+2026-09-17 17:39:33,774 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 17:39:33,774 INFO   NEW: Dove Sensitive Mild | $4.47 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5373&limit=100
+2026-09-17 17:39:34,850 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 17:39:35,038 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 17:39:35,047 INFO === Run finished ===
