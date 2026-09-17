@@ -41021,3 +41021,9 @@
 2026-09-17 19:51:36,779 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-17 19:52:06,836 ERROR ntfy push failed: HTTPSConnectionPool(host='ntfy.sh', port=443): Max retries exceeded with url: /ebisu-arrivals-kx7v92qm (Caused by NewConnectionError("HTTPSConnection(host='ntfy.sh', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
 2026-09-17 19:52:06,845 INFO === Run finished ===
+2026-09-17 19:53:11,155 INFO === Run started ===
+2026-09-17 19:53:35,364 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 19:53:35,364 INFO   NEW: Nestle Concentrated | $2.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28914&limit=100
+2026-09-17 19:53:37,154 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 19:53:37,574 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 19:53:37,581 INFO === Run finished ===
