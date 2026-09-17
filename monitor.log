@@ -40087,3 +40087,10 @@
 2026-09-17 15:55:39,514 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-17 15:55:39,711 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-17 15:55:39,719 INFO === Run finished ===
+2026-09-17 15:56:15,363 INFO === Run started ===
+2026-09-17 15:56:38,691 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 15:56:38,691 INFO   NEW: Francfranc Rabbit Ri | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19608&limit=100
+2026-09-17 15:56:38,691 INFO   NEW: Kobayashi Trash Can | $2.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5705&limit=100
+2026-09-17 15:56:40,017 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 15:56:40,317 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 15:56:40,326 INFO === Run finished ===

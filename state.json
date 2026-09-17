@@ -486,6 +486,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19607&limit=100",
       "stock": "n/a"
     },
+    "19608": {
+      "name": "Francfranc Rabbit Ri",
+      "price": "$10.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19608&limit=100",
+      "stock": "n/a"
+    },
     "8047": {
       "name": "Bamboo Pick 9cm 50pc",
       "price": "$1.10",
@@ -1336,6 +1342,12 @@
       "name": "Kobayashi Sawaday Fr",
       "price": "$3.40",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5394&limit=100",
+      "stock": "n/a"
+    },
+    "5705": {
+      "name": "Kobayashi Trash Can",
+      "price": "$2.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5705&limit=100",
       "stock": "n/a"
     },
     "10295": {
@@ -8468,6 +8480,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T15:55:39",
-  "last_count": 1411
+  "last_run": "2026-09-17T15:56:40",
+  "last_count": 1413
 }
