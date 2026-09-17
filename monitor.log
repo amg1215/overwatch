@@ -41825,3 +41825,9 @@
 2026-09-17 23:10:20,604 INFO === Run started ===
 2026-09-17 23:10:46,595 INFO No new products (1599 tracked)
 2026-09-17 23:10:46,604 INFO === Run finished ===
+2026-09-17 23:11:09,620 INFO === Run started ===
+2026-09-17 23:11:35,051 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 23:11:35,051 INFO   NEW: P&G Japan Febreze Ca | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30495&limit=100
+2026-09-17 23:11:36,019 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 23:11:36,272 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 23:11:36,282 INFO === Run finished ===
