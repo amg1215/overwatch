@@ -39984,3 +39984,13 @@
 2026-09-17 15:33:19,426 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-17 15:33:19,863 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-17 15:33:19,870 INFO === Run finished ===
+2026-09-17 15:34:24,704 INFO === Run started ===
+2026-09-17 15:35:06,779 INFO NEW/RESTOCKED products detected: 5
+2026-09-17 15:35:06,779 INFO   NEW: Showa Nice Hand Ligh | $2.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7997&limit=100
+2026-09-17 15:35:06,779 INFO   NEW: Showa Nice Hand Ligh | $2.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7996&limit=100
+2026-09-17 15:35:06,779 INFO   NEW: Showa Nice Hand Ligh | $2.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7995&limit=100
+2026-09-17 15:35:06,779 INFO   NEW: Propolinse Mouth Was | $8.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9648&limit=100
+2026-09-17 15:35:06,779 INFO   NEW: Propolinse Mouthwash | $8.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5509&limit=100
+2026-09-17 15:35:08,375 INFO Email sent: Ebisu: 5 new/restocked items!
+2026-09-17 15:35:08,533 INFO ntfy push sent: Ebisu: 5 new/restocked items!
+2026-09-17 15:35:08,542 INFO === Run finished ===

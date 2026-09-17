@@ -1146,6 +1146,24 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5702&limit=100",
       "stock": "n/a"
     },
+    "7997": {
+      "name": "Showa Nice Hand Ligh",
+      "price": "$2.15",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7997&limit=100",
+      "stock": "n/a"
+    },
+    "7996": {
+      "name": "Showa Nice Hand Ligh",
+      "price": "$2.15",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7996&limit=100",
+      "stock": "n/a"
+    },
+    "7995": {
+      "name": "Showa Nice Hand Ligh",
+      "price": "$2.15",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7995&limit=100",
+      "stock": "n/a"
+    },
     "9935": {
       "name": "Seiwa-pro Kitchen Sp",
       "price": "$1.49",
@@ -3508,6 +3526,18 @@
       "name": "Lion Clinica Mouthwa",
       "price": "$3.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10024&limit=100",
+      "stock": "n/a"
+    },
+    "9648": {
+      "name": "Propolinse Mouth Was",
+      "price": "$8.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9648&limit=100",
+      "stock": "n/a"
+    },
+    "5509": {
+      "name": "Propolinse Mouthwash",
+      "price": "$8.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5509&limit=100",
       "stock": "n/a"
     },
     "21289": {
@@ -8336,6 +8366,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T15:33:19",
-  "last_count": 1389
+  "last_run": "2026-09-17T15:35:08",
+  "last_count": 1394
 }
