@@ -1272,6 +1272,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7682&limit=100",
       "stock": "n/a"
     },
+    "2005": {
+      "name": "Hakugen Earth Dehumi",
+      "price": "$4.29",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2005&limit=100",
+      "stock": "n/a"
+    },
     "13260": {
       "name": "LEC Mould Removing F",
       "price": "$2.45",
@@ -8714,6 +8720,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T14:38:42",
-  "last_count": 1452
+  "last_run": "2026-09-17T14:40:11",
+  "last_count": 1453
 }
