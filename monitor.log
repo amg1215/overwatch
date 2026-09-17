@@ -40530,3 +40530,9 @@
 2026-09-17 17:47:13,054 INFO === Run started ===
 2026-09-17 17:47:37,632 INFO No new products (1454 tracked)
 2026-09-17 17:47:37,640 INFO === Run finished ===
+2026-09-17 17:48:15,080 INFO === Run started ===
+2026-09-17 17:48:37,860 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 17:48:37,860 INFO   NEW: Funism Enjoy! Eevee | $13.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50833&limit=100
+2026-09-17 17:48:39,020 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 17:48:39,222 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 17:48:39,230 INFO === Run finished ===
