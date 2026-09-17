@@ -40010,3 +40010,13 @@
 2026-09-17 15:39:13,223 INFO === Run started ===
 2026-09-17 15:39:39,051 INFO No new products (1396 tracked)
 2026-09-17 15:39:39,059 INFO === Run finished ===
+2026-09-17 15:40:22,548 INFO === Run started ===
+2026-09-17 15:40:44,841 INFO NEW/RESTOCKED products detected: 5
+2026-09-17 15:40:44,841 INFO   NEW: Francfranc Rabbit Ri | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19607&limit=100
+2026-09-17 15:40:44,841 INFO   NEW: Honeyque Deep Repair | $11.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13553&limit=100
+2026-09-17 15:40:44,841 INFO   NEW: Honeyque Deep Repair | $11.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13556&limit=100
+2026-09-17 15:40:44,841 INFO   NEW: BaGPP Days in Bloom | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8013&limit=100
+2026-09-17 15:40:44,841 INFO   NEW: Beauty World SB Foot | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9693&limit=100
+2026-09-17 15:40:46,209 INFO Email sent: Ebisu: 5 new/restocked items!
+2026-09-17 15:40:46,427 INFO ntfy push sent: Ebisu: 5 new/restocked items!
+2026-09-17 15:40:46,433 INFO === Run finished ===

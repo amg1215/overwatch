@@ -480,6 +480,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=254&limit=100",
       "stock": "n/a"
     },
+    "19607": {
+      "name": "Francfranc Rabbit Ri",
+      "price": "$10.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19607&limit=100",
+      "stock": "n/a"
+    },
     "8047": {
       "name": "Bamboo Pick 9cm 50pc",
       "price": "$1.10",
@@ -3108,6 +3114,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3513&limit=100",
       "stock": "n/a"
     },
+    "13553": {
+      "name": "Honeyque Deep Repair",
+      "price": "$11.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13553&limit=100",
+      "stock": "n/a"
+    },
+    "13556": {
+      "name": "Honeyque Deep Repair",
+      "price": "$11.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13556&limit=100",
+      "stock": "n/a"
+    },
     "11250": {
       "name": "Botanist Moisturizin",
       "price": "$13.28",
@@ -3258,6 +3276,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10432&limit=100",
       "stock": "n/a"
     },
+    "8013": {
+      "name": "BaGPP Days in Bloom",
+      "price": "$2.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8013&limit=100",
+      "stock": "n/a"
+    },
     "14117": {
       "name": "MARO Cooling Shower",
       "price": "$7.59",
@@ -3322,6 +3346,12 @@
       "name": "COW Premium Bath Pow",
       "price": "$1.79",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25407&limit=100",
+      "stock": "n/a"
+    },
+    "9693": {
+      "name": "Beauty World SB Foot",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9693&limit=100",
       "stock": "n/a"
     },
     "14400": {
@@ -8378,6 +8408,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T15:39:39",
-  "last_count": 1396
+  "last_run": "2026-09-17T15:40:46",
+  "last_count": 1401
 }
