@@ -41756,3 +41756,9 @@
 2026-09-17 22:48:14,848 INFO === Run started ===
 2026-09-17 22:48:41,350 INFO No new products (1597 tracked)
 2026-09-17 22:48:41,359 INFO === Run finished ===
+2026-09-17 22:49:12,308 INFO === Run started ===
+2026-09-17 22:49:39,803 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 22:49:39,803 INFO   NEW: Kose Enzyme Makeup R | $10.13 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11289&limit=100
+2026-09-17 22:49:41,193 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 22:49:41,428 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 22:49:41,438 INFO === Run finished ===
