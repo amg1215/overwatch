@@ -2088,6 +2088,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12277&limit=100",
       "stock": "n/a"
     },
+    "22485": {
+      "name": "Kracie Naive Rich &",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22485&limit=100",
+      "stock": "n/a"
+    },
     "22601": {
       "name": "Kracie Naive Cleansi",
       "price": "$3.35",
@@ -9044,6 +9050,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T19:58:10",
-  "last_count": 1507
+  "last_run": "2026-09-17T19:59:43",
+  "last_count": 1508
 }
