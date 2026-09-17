@@ -3504,6 +3504,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9312&limit=100",
       "stock": "n/a"
     },
+    "9665": {
+      "name": "Lion Floss Stick 20p",
+      "price": "$2.93",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9665&limit=100",
+      "stock": "n/a"
+    },
     "14283": {
       "name": "Apagard Toothbrush &",
       "price": "$4.19",
@@ -8312,6 +8318,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T15:25:41",
-  "last_count": 1385
+  "last_run": "2026-09-17T15:26:34",
+  "last_count": 1386
 }

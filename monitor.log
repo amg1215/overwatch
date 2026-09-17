@@ -39956,3 +39956,9 @@
 2026-09-17 15:25:41,276 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 15:25:41,532 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 15:25:41,540 INFO === Run finished ===
+2026-09-17 15:26:11,729 INFO === Run started ===
+2026-09-17 15:26:33,127 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 15:26:33,127 INFO   NEW: Lion Floss Stick 20p | $2.93 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9665&limit=100
+2026-09-17 15:26:34,596 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 15:26:34,723 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 15:26:34,732 INFO === Run finished ===
