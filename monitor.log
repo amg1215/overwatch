@@ -39994,3 +39994,10 @@
 2026-09-17 15:35:08,375 INFO Email sent: Ebisu: 5 new/restocked items!
 2026-09-17 15:35:08,533 INFO ntfy push sent: Ebisu: 5 new/restocked items!
 2026-09-17 15:35:08,542 INFO === Run finished ===
+2026-09-17 15:36:15,886 INFO === Run started ===
+2026-09-17 15:36:39,576 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 15:36:39,576 INFO   NEW: Propolinse Mouthwash | $8.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9470&limit=100
+2026-09-17 15:36:39,576 INFO   NEW: Propolinse Mouth Was | $8.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9471&limit=100
+2026-09-17 15:36:41,061 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 15:36:41,549 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 15:36:41,558 INFO === Run finished ===
