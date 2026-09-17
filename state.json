@@ -3504,6 +3504,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8995&limit=100",
       "stock": "n/a"
     },
+    "8994": {
+      "name": "Mandom LUCIDO-L Hair",
+      "price": "$5.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8994&limit=100",
+      "stock": "n/a"
+    },
     "22167": {
       "name": "Dariya Salon de Pro",
       "price": "$5.99",
@@ -8744,6 +8750,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T14:51:40",
-  "last_count": 1457
+  "last_run": "2026-09-17T14:52:37",
+  "last_count": 1458
 }
