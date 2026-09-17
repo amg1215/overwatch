@@ -1164,6 +1164,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5702&limit=100",
       "stock": "n/a"
     },
+    "8980": {
+      "name": "Kobayashi Remove The",
+      "price": "$4.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8980&limit=100",
+      "stock": "n/a"
+    },
     "7997": {
       "name": "Showa Nice Hand Ligh",
       "price": "$2.15",
@@ -1870,6 +1876,12 @@
       "name": "Kao Pipeline Cleaner",
       "price": "$2.39",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8713&limit=100",
+      "stock": "n/a"
+    },
+    "10289": {
+      "name": "Kobayashi Hair Colle",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10289&limit=100",
       "stock": "n/a"
     },
     "9942": {
@@ -8534,6 +8546,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T16:26:38",
-  "last_count": 1422
+  "last_run": "2026-09-17T16:27:38",
+  "last_count": 1424
 }

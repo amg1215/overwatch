@@ -40207,3 +40207,10 @@
 2026-09-17 16:26:14,385 INFO === Run started ===
 2026-09-17 16:26:38,288 INFO No new products (1422 tracked)
 2026-09-17 16:26:38,295 INFO === Run finished ===
+2026-09-17 16:27:13,482 INFO === Run started ===
+2026-09-17 16:27:36,725 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 16:27:36,725 INFO   NEW: Kobayashi Remove The | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8980&limit=100
+2026-09-17 16:27:36,725 INFO   NEW: Kobayashi Hair Colle | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10289&limit=100
+2026-09-17 16:27:37,796 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 16:27:38,054 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 16:27:38,062 INFO === Run finished ===
