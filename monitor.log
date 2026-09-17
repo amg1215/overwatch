@@ -41474,3 +41474,9 @@
 2026-09-17 21:32:41,085 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-17 21:32:41,587 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-17 21:32:41,595 INFO === Run finished ===
+2026-09-17 21:33:11,250 INFO === Run started ===
+2026-09-17 21:33:36,337 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 21:33:36,337 INFO   NEW: Fumakilla Vape Skin | $6.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8605&limit=100
+2026-09-17 21:33:37,776 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 21:33:38,007 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 21:33:38,016 INFO === Run finished ===
