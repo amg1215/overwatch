@@ -38424,3 +38424,9 @@
 2026-09-17 14:45:46,656 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 14:45:46,922 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 14:45:46,931 INFO === Run finished ===
+2026-09-17 14:46:14,663 INFO === Run started ===
+2026-09-17 14:46:39,740 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 14:46:39,740 INFO   NEW: Mandom Gatsby Hair s | $6.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9605&limit=100
+2026-09-17 14:46:41,594 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 14:46:41,870 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 14:46:41,879 INFO === Run finished ===
