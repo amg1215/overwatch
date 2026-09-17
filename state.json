@@ -1344,6 +1344,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7682&limit=100",
       "stock": "n/a"
     },
+    "13008": {
+      "name": "Hakugen Dehumidifier",
+      "price": "$2.43",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13008&limit=100",
+      "stock": "n/a"
+    },
     "2005": {
       "name": "Hakugen Earth Dehumi",
       "price": "$4.29",
@@ -9380,6 +9386,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T21:23:35",
-  "last_count": 1563
+  "last_run": "2026-09-17T21:24:42",
+  "last_count": 1564
 }
