@@ -41186,3 +41186,10 @@
 2026-09-17 20:30:44,852 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-17 20:30:45,092 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-17 20:30:45,101 INFO === Run finished ===
+2026-09-17 20:31:12,204 INFO === Run started ===
+2026-09-17 20:31:39,679 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 20:31:39,679 INFO   NEW: Kiribai Waist Warmer | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1157&limit=100
+2026-09-17 20:31:39,680 INFO   NEW: Mandom GATSBY Mild W | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4476&limit=100
+2026-09-17 20:31:42,021 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 20:31:42,293 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 20:31:42,302 INFO === Run finished ===
