@@ -6720,6 +6720,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31100&limit=100",
       "stock": "n/a"
     },
+    "19600": {
+      "name": "Seiki Sakuramochi 13",
+      "price": "$2.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19600&limit=100",
+      "stock": "n/a"
+    },
     "31101": {
       "name": "Seiki Dried Sweet Po",
       "price": "$2.69",
@@ -9092,6 +9098,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T20:17:35",
-  "last_count": 1515
+  "last_run": "2026-09-17T20:18:39",
+  "last_count": 1516
 }
