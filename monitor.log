@@ -41179,3 +41179,10 @@
 2026-09-17 20:29:36,037 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 20:29:36,267 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 20:29:36,277 INFO === Run finished ===
+2026-09-17 20:30:17,995 INFO === Run started ===
+2026-09-17 20:30:42,925 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 20:30:42,925 INFO   NEW: Kobayashi Drain Foam | $2.46 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=58&limit=100
+2026-09-17 20:30:42,925 INFO   NEW: Kose CLEAR TURN BIHA | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8649&limit=100
+2026-09-17 20:30:44,852 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 20:30:45,092 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 20:30:45,101 INFO === Run finished ===
