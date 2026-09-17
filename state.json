@@ -1302,6 +1302,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10152&limit=100",
       "stock": "n/a"
     },
+    "5202": {
+      "name": "S.T. Room Deodorant",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5202&limit=100",
+      "stock": "n/a"
+    },
     "908": {
       "name": "S.T. Toilet Fragranc",
       "price": "$3.59",
@@ -5220,6 +5226,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=49804&limit=100",
       "stock": "n/a"
     },
+    "30659": {
+      "name": "Plex NARUTO Shippude",
+      "price": "$13.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30659&limit=100",
+      "stock": "n/a"
+    },
     "30660": {
       "name": "Plex NARUTO Shippude",
       "price": "$13.79",
@@ -5230,6 +5242,12 @@
       "name": "Plex NARUTO Shippude",
       "price": "$13.79",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30661&limit=100",
+      "stock": "n/a"
+    },
+    "30662": {
+      "name": "Plex NARUTO Shippude",
+      "price": "$13.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30662&limit=100",
       "stock": "n/a"
     },
     "30207": {
@@ -9362,6 +9380,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T21:21:38",
-  "last_count": 1560
+  "last_run": "2026-09-17T21:22:37",
+  "last_count": 1563
 }
