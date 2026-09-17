@@ -40134,3 +40134,9 @@
 2026-09-17 16:06:42,614 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-17 16:06:42,807 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-17 16:06:42,814 INFO === Run finished ===
+2026-09-17 16:07:10,836 INFO === Run started ===
+2026-09-17 16:07:34,488 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 16:07:34,488 INFO   NEW: Ensky TV Anime KILL | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30618&limit=100
+2026-09-17 16:07:35,836 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 16:07:36,070 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 16:07:36,079 INFO === Run finished ===
