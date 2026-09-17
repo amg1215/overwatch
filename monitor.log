@@ -41008,3 +41008,9 @@
 2026-09-17 19:49:35,679 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 19:49:36,085 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 19:49:36,093 INFO === Run finished ===
+2026-09-17 19:50:16,047 INFO === Run started ===
+2026-09-17 19:50:49,923 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 19:50:49,923 INFO   NEW: Taisho Oral Ulcer Pa | $7.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23322&limit=100
+2026-09-17 19:50:52,282 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 19:50:52,609 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 19:50:52,619 INFO === Run finished ===
