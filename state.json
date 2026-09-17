@@ -4182,6 +4182,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4847&limit=100",
       "stock": "n/a"
     },
+    "4852": {
+      "name": "Dariya Salon de Pro",
+      "price": "$8.81",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4852&limit=100",
+      "stock": "n/a"
+    },
     "22167": {
       "name": "Dariya Salon de Pro",
       "price": "$5.99",
@@ -4204,6 +4210,12 @@
       "name": "Dariya Salon de Pro",
       "price": "$5.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22171&limit=100",
+      "stock": "n/a"
+    },
+    "8396": {
+      "name": "Dariya Palty Colorin",
+      "price": "$5.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8396&limit=100",
       "stock": "n/a"
     },
     "5296": {
@@ -9518,6 +9530,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T21:49:38",
-  "last_count": 1586
+  "last_run": "2026-09-17T21:50:42",
+  "last_count": 1588
 }
