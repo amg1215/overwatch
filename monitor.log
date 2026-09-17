@@ -40121,3 +40121,9 @@
 2026-09-17 16:04:41,143 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 16:04:41,366 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 16:04:41,375 INFO === Run finished ===
+2026-09-17 16:05:12,547 INFO === Run started ===
+2026-09-17 16:05:35,953 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 16:05:35,953 INFO   NEW: Kao Curel Hand Cream | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10537&limit=100
+2026-09-17 16:05:37,580 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 16:05:37,799 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 16:05:37,808 INFO === Run finished ===

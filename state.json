@@ -3318,6 +3318,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23903&limit=100",
       "stock": "n/a"
     },
+    "10537": {
+      "name": "Kao Curel Hand Cream",
+      "price": "$8.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10537&limit=100",
+      "stock": "n/a"
+    },
     "9524": {
       "name": "COW Hand Soap Additi",
       "price": "$4.94",
@@ -8486,6 +8492,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T16:04:41",
-  "last_count": 1414
+  "last_run": "2026-09-17T16:05:37",
+  "last_count": 1415
 }
