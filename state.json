@@ -2496,6 +2496,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7999&limit=100",
       "stock": "n/a"
     },
+    "2011": {
+      "name": "Rohto Mentholatum Li",
+      "price": "$4.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2011&limit=100",
+      "stock": "n/a"
+    },
     "9266": {
       "name": "Kao Curel Lotion I 1",
       "price": "$16.79",
@@ -2590,6 +2596,12 @@
       "name": "Rohto Hada Labo Extr",
       "price": "$7.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10307&limit=100",
+      "stock": "n/a"
+    },
+    "12120": {
+      "name": "Rohto Firming Emulsi",
+      "price": "$8.35",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12120&limit=100",
       "stock": "n/a"
     },
     "51601": {
@@ -5290,6 +5302,12 @@
       "name": "Banpresto One Piece",
       "price": "$27.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12814&limit=100",
+      "stock": "n/a"
+    },
+    "26726": {
+      "name": "Funism Palmsize Wond",
+      "price": "$10.32",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26726&limit=100",
       "stock": "n/a"
     },
     "23345": {
@@ -8930,6 +8948,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T19:36:35",
-  "last_count": 1488
+  "last_run": "2026-09-17T19:37:35",
+  "last_count": 1491
 }

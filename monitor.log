@@ -40945,3 +40945,11 @@
 2026-09-17 19:36:12,315 INFO === Run started ===
 2026-09-17 19:36:35,756 INFO No new products (1488 tracked)
 2026-09-17 19:36:35,769 INFO === Run finished ===
+2026-09-17 19:37:11,395 INFO === Run started ===
+2026-09-17 19:37:33,478 INFO NEW/RESTOCKED products detected: 3
+2026-09-17 19:37:33,478 INFO   NEW: Rohto Mentholatum Li | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2011&limit=100
+2026-09-17 19:37:33,478 INFO   NEW: Rohto Firming Emulsi | $8.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12120&limit=100
+2026-09-17 19:37:33,478 INFO   NEW: Funism Palmsize Wond | $10.32 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26726&limit=100
+2026-09-17 19:37:34,953 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-17 19:37:35,315 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-17 19:37:35,381 INFO === Run finished ===
