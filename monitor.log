@@ -41238,3 +41238,11 @@
 2026-09-17 20:42:38,494 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 20:42:38,736 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 20:42:38,744 INFO === Run finished ===
+2026-09-17 20:43:10,272 INFO === Run started ===
+2026-09-17 20:43:35,686 INFO NEW/RESTOCKED products detected: 3
+2026-09-17 20:43:35,686 INFO   NEW: Otsuka Balance Jelly | $2.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28935&limit=100
+2026-09-17 20:43:35,686 INFO   NEW: Otsuka Balance Jelly | $2.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28934&limit=100
+2026-09-17 20:43:35,686 INFO   NEW: Otsuka Balance Jelly | $2.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28933&limit=100
+2026-09-17 20:43:37,931 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-17 20:43:38,050 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-17 20:43:38,060 INFO === Run finished ===
