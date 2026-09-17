@@ -40049,3 +40049,10 @@
 2026-09-17 15:47:13,027 INFO === Run started ===
 2026-09-17 15:47:36,842 INFO No new products (1405 tracked)
 2026-09-17 15:47:36,849 INFO === Run finished ===
+2026-09-17 15:48:18,823 INFO === Run started ===
+2026-09-17 15:48:41,352 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 15:48:41,353 INFO   NEW: K-Palette 1DAY TATTO | $10.65 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30832&limit=100
+2026-09-17 15:48:41,353 INFO   NEW: Beauty World BJ Mois | $2.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9868&limit=100
+2026-09-17 15:48:42,722 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 15:48:43,077 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 15:48:43,082 INFO === Run finished ===
