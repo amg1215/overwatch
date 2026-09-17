@@ -8400,6 +8400,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18392&limit=100",
       "stock": "n/a"
     },
+    "28916": {
+      "name": "Nestle Concentrated",
+      "price": "$2.29",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28916&limit=100",
+      "stock": "n/a"
+    },
     "28930": {
       "name": "Meito Milk Cocoa Pow",
       "price": "$3.79",
@@ -8422,6 +8428,12 @@
       "name": "Nittoh VC & Lemon Br",
       "price": "$3.53",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=325&limit=100",
+      "stock": "n/a"
+    },
+    "327": {
+      "name": "Nittoh Milk Tea 8pcs",
+      "price": "$3.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=327&limit=100",
       "stock": "n/a"
     },
     "82": {
@@ -8906,6 +8918,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T19:32:38",
-  "last_count": 1484
+  "last_run": "2026-09-17T19:33:44",
+  "last_count": 1486
 }
