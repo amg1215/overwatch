@@ -41666,3 +41666,9 @@
 2026-09-17 22:19:41,029 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 22:19:41,314 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 22:19:41,324 INFO === Run finished ===
+2026-09-17 22:20:16,356 INFO === Run started ===
+2026-09-17 22:20:42,337 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 22:20:42,337 INFO   NEW: Honeyque Deep Repair | $1.10 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13558&limit=100
+2026-09-17 22:20:43,931 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 22:20:44,135 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 22:20:44,145 INFO === Run finished ===
