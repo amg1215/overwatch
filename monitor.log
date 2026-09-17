@@ -41486,3 +41486,12 @@
 2026-09-17 21:35:15,189 INFO === Run started ===
 2026-09-17 21:36:33,708 INFO No new products (1573 tracked)
 2026-09-17 21:36:33,716 INFO === Run finished ===
+2026-09-17 21:37:27,033 INFO === Run started ===
+2026-09-17 21:37:50,237 INFO NEW/RESTOCKED products detected: 4
+2026-09-17 21:37:50,237 INFO   NEW: Fumakilla Shoes Clea | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8968&limit=100
+2026-09-17 21:37:50,237 INFO   NEW: S.T. Indoor Air Fres | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=904&limit=100
+2026-09-17 21:37:50,237 INFO   NEW: S.T. Toilet Fragranc | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=912&limit=100
+2026-09-17 21:37:50,237 INFO   NEW: S.T Premium Aroma De | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22470&limit=100
+2026-09-17 21:37:52,539 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-17 21:37:52,853 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-17 21:37:52,859 INFO === Run finished ===

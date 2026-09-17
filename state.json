@@ -1158,6 +1158,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3635&limit=100",
       "stock": "n/a"
     },
+    "8968": {
+      "name": "Fumakilla Shoes Clea",
+      "price": "$5.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8968&limit=100",
+      "stock": "n/a"
+    },
     "6102": {
       "name": "Lion Laundry Deterge",
       "price": "$4.75",
@@ -1290,6 +1296,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5193&limit=100",
       "stock": "n/a"
     },
+    "904": {
+      "name": "S.T. Indoor Air Fres",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=904&limit=100",
+      "stock": "n/a"
+    },
     "5170": {
       "name": "S.T. Shoe Cabinet De",
       "price": "$5.15",
@@ -1300,6 +1312,12 @@
       "name": "S.T. Room Deodorant",
       "price": "$3.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10152&limit=100",
+      "stock": "n/a"
+    },
+    "912": {
+      "name": "S.T. Toilet Fragranc",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=912&limit=100",
       "stock": "n/a"
     },
     "911": {
@@ -1372,6 +1390,12 @@
       "name": "S.T. Premium Aroma R",
       "price": "$6.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22627&limit=100",
+      "stock": "n/a"
+    },
+    "22470": {
+      "name": "S.T Premium Aroma De",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22470&limit=100",
       "stock": "n/a"
     },
     "5129": {
@@ -9440,6 +9464,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T21:36:33",
-  "last_count": 1573
+  "last_run": "2026-09-17T21:37:52",
+  "last_count": 1577
 }
