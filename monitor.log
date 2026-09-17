@@ -39944,3 +39944,9 @@
 2026-09-17 15:23:38,889 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 15:23:39,148 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 15:23:39,157 INFO === Run finished ===
+2026-09-17 15:24:12,354 INFO === Run started ===
+2026-09-17 15:24:34,669 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 15:24:34,669 INFO   NEW: Kobayashi Eye Wash G | $8.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7928&limit=100
+2026-09-17 15:24:36,128 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 15:24:36,300 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 15:24:36,308 INFO === Run finished ===
