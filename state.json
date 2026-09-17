@@ -1872,6 +1872,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4478&limit=100",
       "stock": "n/a"
     },
+    "14676": {
+      "name": "MANDOM Body Wipes Fl",
+      "price": "$3.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14676&limit=100",
+      "stock": "n/a"
+    },
     "13464": {
       "name": "Mandom Body Wipes Mi",
       "price": "$3.69",
@@ -3862,6 +3868,12 @@
       "name": "Mandom LUCIDO-L Hair",
       "price": "$5.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8994&limit=100",
+      "stock": "n/a"
+    },
+    "4844": {
+      "name": "Dariya Salon de Pro",
+      "price": "$8.81",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4844&limit=100",
       "stock": "n/a"
     },
     "22167": {
@@ -9134,6 +9146,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T20:26:40",
-  "last_count": 1522
+  "last_run": "2026-09-17T20:27:42",
+  "last_count": 1524
 }

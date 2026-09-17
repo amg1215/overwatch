@@ -41160,3 +41160,10 @@
 2026-09-17 20:26:15,283 INFO === Run started ===
 2026-09-17 20:26:40,263 INFO No new products (1522 tracked)
 2026-09-17 20:26:40,269 INFO === Run finished ===
+2026-09-17 20:27:14,532 INFO === Run started ===
+2026-09-17 20:27:41,146 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 20:27:41,147 INFO   NEW: MANDOM Body Wipes Fl | $3.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14676&limit=100
+2026-09-17 20:27:41,147 INFO   NEW: Dariya Salon de Pro | $8.81 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4844&limit=100
+2026-09-17 20:27:42,654 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 20:27:42,900 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 20:27:42,909 INFO === Run finished ===
