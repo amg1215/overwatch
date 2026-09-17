@@ -2076,6 +2076,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5373&limit=100",
       "stock": "n/a"
     },
+    "10398": {
+      "name": "Dove Deep Mild Washi",
+      "price": "$4.47",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10398&limit=100",
+      "stock": "n/a"
+    },
     "4901": {
       "name": "Mandom HappyDeo Face",
       "price": "$2.39",
@@ -8714,6 +8720,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T17:40:43",
-  "last_count": 1452
+  "last_run": "2026-09-17T17:41:40",
+  "last_count": 1453
 }
