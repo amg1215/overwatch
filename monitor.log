@@ -40299,3 +40299,9 @@
 2026-09-17 16:47:35,242 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 16:47:35,465 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 16:47:35,472 INFO === Run finished ===
+2026-09-17 16:48:12,507 INFO === Run started ===
+2026-09-17 16:48:35,725 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 16:48:35,725 INFO   NEW: S.T. Vehicle Fragran | $4.40 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7796&limit=100
+2026-09-17 16:48:36,807 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 16:48:37,087 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 16:48:37,094 INFO === Run finished ===
