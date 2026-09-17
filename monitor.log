@@ -41535,3 +41535,10 @@
 2026-09-17 21:45:43,984 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-17 21:45:44,194 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-17 21:45:44,204 INFO === Run finished ===
+2026-09-17 21:46:12,458 INFO === Run started ===
+2026-09-17 21:46:40,418 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 21:46:40,418 INFO   NEW: Asunarosha Mino Ware | $13.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22849&limit=100
+2026-09-17 21:46:40,418 INFO   NEW: Charley Bath Salt Ch | $1.45 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10284&limit=100
+2026-09-17 21:46:41,638 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 21:46:41,944 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 21:46:41,953 INFO === Run finished ===
