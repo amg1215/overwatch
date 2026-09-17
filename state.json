@@ -3828,6 +3828,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9648&limit=100",
       "stock": "n/a"
     },
+    "9649": {
+      "name": "Propolinse Mouthwash",
+      "price": "$8.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9649&limit=100",
+      "stock": "n/a"
+    },
     "9470": {
       "name": "Propolinse Mouthwash",
       "price": "$8.79",
@@ -8696,6 +8702,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T17:34:36",
-  "last_count": 1449
+  "last_run": "2026-09-17T17:35:37",
+  "last_count": 1450
 }
