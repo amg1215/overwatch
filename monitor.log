@@ -40749,3 +40749,10 @@
 2026-09-17 18:56:40,458 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 18:56:40,854 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 18:56:40,863 INFO === Run finished ===
+2026-09-17 18:57:10,423 INFO === Run started ===
+2026-09-17 18:57:33,512 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 18:57:33,512 INFO   NEW: Fine Today Prepear E | $1.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23152&limit=100
+2026-09-17 18:57:33,512 INFO   NEW: Lion Foam Hand Soap | $3.83 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10430&limit=100
+2026-09-17 18:57:34,530 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 18:57:34,830 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 18:57:34,839 INFO === Run finished ===
