@@ -3720,6 +3720,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5529&limit=100",
       "stock": "n/a"
     },
+    "1754": {
+      "name": "Apagard Premio Tooth",
+      "price": "$12.15",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1754&limit=100",
+      "stock": "n/a"
+    },
     "8102": {
       "name": "Techxcel Okuchi Port",
       "price": "$2.00",
@@ -8606,6 +8612,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T16:46:36",
-  "last_count": 1434
+  "last_run": "2026-09-17T16:47:35",
+  "last_count": 1435
 }
