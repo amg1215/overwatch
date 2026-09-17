@@ -1284,6 +1284,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2005&limit=100",
       "stock": "n/a"
     },
+    "4441": {
+      "name": "P&G Air Freshener Fl",
+      "price": "$5.30",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4441&limit=100",
+      "stock": "n/a"
+    },
     "13260": {
       "name": "LEC Mould Removing F",
       "price": "$2.45",
@@ -8786,6 +8792,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T15:00:54",
-  "last_count": 1464
+  "last_run": "2026-09-17T15:01:35",
+  "last_count": 1465
 }
