@@ -38318,3 +38318,9 @@
 2026-09-17 14:14:16,668 INFO === Run started ===
 2026-09-17 14:14:43,005 INFO No new products (1446 tracked)
 2026-09-17 14:14:43,010 INFO === Run finished ===
+2026-09-17 14:15:19,873 INFO === Run started ===
+2026-09-17 14:15:50,581 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 14:15:50,581 INFO   NEW: J's Planning SLO Kur | $11.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29966&limit=100
+2026-09-17 14:15:53,402 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 14:15:53,953 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 14:15:53,962 INFO === Run finished ===
