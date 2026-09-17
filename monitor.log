@@ -41310,3 +41310,12 @@
 2026-09-17 20:55:41,113 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 20:55:41,413 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 20:55:41,422 INFO === Run finished ===
+2026-09-17 20:56:12,334 INFO === Run started ===
+2026-09-17 20:56:38,459 INFO NEW/RESTOCKED products detected: 4
+2026-09-17 20:56:38,460 INFO   NEW: Lion Clinica Childre | $2.11 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10025&limit=100
+2026-09-17 20:56:38,460 INFO   NEW: KUREHA Bag Sealing C | $1.55 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26437&limit=100
+2026-09-17 20:56:38,460 INFO   NEW: Koji Spring Heart Li | $3.56 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10712&limit=100
+2026-09-17 20:56:38,460 INFO   NEW: Ebis Uruoito Premium | $15.45 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=479&limit=100
+2026-09-17 20:56:40,774 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-17 20:56:41,101 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-17 20:56:41,111 INFO === Run finished ===
