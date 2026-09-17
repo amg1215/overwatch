@@ -41460,3 +41460,10 @@
 2026-09-17 21:30:44,363 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 21:30:44,592 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 21:30:44,602 INFO === Run finished ===
+2026-09-17 21:31:11,601 INFO === Run started ===
+2026-09-17 21:31:36,563 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 21:31:36,563 INFO   NEW: S.T. Toilet Fragranc | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=911&limit=100
+2026-09-17 21:31:36,563 INFO   NEW: S.T. Toilet Fragranc | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=906&limit=100
+2026-09-17 21:31:37,550 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 21:31:37,791 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 21:31:37,800 INFO === Run finished ===
