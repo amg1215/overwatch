@@ -2952,6 +2952,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4505&limit=100",
       "stock": "n/a"
     },
+    "4510": {
+      "name": "Koji Spring Heart Li",
+      "price": "$3.56",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4510&limit=100",
+      "stock": "n/a"
+    },
     "23290": {
       "name": "Kamio Japan SLO Hell",
       "price": "$2.99",
@@ -3382,6 +3388,12 @@
       "name": "Koji False Eyelashe",
       "price": "$1.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9240&limit=100",
+      "stock": "n/a"
+    },
+    "10067": {
+      "name": "Koji Double Eyelid G",
+      "price": "$12.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10067&limit=100",
       "stock": "n/a"
     },
     "6739": {
@@ -9278,6 +9290,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T20:51:36",
-  "last_count": 1546
+  "last_run": "2026-09-17T20:52:41",
+  "last_count": 1548
 }

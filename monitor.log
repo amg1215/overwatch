@@ -41288,3 +41288,10 @@
 2026-09-17 20:51:36,337 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 20:51:36,527 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 20:51:36,535 INFO === Run finished ===
+2026-09-17 20:52:12,901 INFO === Run started ===
+2026-09-17 20:52:39,438 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 20:52:39,438 INFO   NEW: Koji Spring Heart Li | $3.56 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4510&limit=100
+2026-09-17 20:52:39,438 INFO   NEW: Koji Double Eyelid G | $12.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10067&limit=100
+2026-09-17 20:52:40,951 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 20:52:41,202 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 20:52:41,211 INFO === Run finished ===
