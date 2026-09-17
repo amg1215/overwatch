@@ -1584,6 +1584,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=57&limit=100",
       "stock": "n/a"
     },
+    "9903": {
+      "name": "Kobayashi Glasses Cl",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9903&limit=100",
+      "stock": "n/a"
+    },
     "5910": {
       "name": "John's Blend Clip On",
       "price": "$6.79",
@@ -8714,6 +8720,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T18:55:37",
-  "last_count": 1452
+  "last_run": "2026-09-17T18:56:40",
+  "last_count": 1453
 }
