@@ -41282,3 +41282,9 @@
 2026-09-17 20:50:48,097 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 20:50:48,356 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 20:50:48,366 INFO === Run finished ===
+2026-09-17 20:51:11,709 INFO === Run started ===
+2026-09-17 20:51:35,460 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 20:51:35,460 INFO   NEW: Koji Wide Angle Eyel | $12.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10711&limit=100
+2026-09-17 20:51:36,337 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 20:51:36,527 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 20:51:36,535 INFO === Run finished ===
