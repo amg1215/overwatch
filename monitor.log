@@ -41246,3 +41246,10 @@
 2026-09-17 20:43:37,931 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-17 20:43:38,050 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-17 20:43:38,060 INFO === Run finished ===
+2026-09-17 20:44:13,057 INFO === Run started ===
+2026-09-17 20:44:38,813 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 20:44:38,813 INFO   NEW: Kose Babyish Moistur | $2.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9183&limit=100
+2026-09-17 20:44:38,813 INFO   NEW: Koji Double Eyelid G | $7.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9177&limit=100
+2026-09-17 20:44:41,119 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 20:44:41,421 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 20:44:41,431 INFO === Run finished ===
