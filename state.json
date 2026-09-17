@@ -2502,12 +2502,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51618&limit=100",
       "stock": "n/a"
     },
-    "25732": {
-      "name": "Cezanne Lipliner 02",
-      "price": "$5.39",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25732&limit=100",
-      "stock": "n/a"
-    },
     "25728": {
       "name": "CEZANNE Lipstick 01",
       "price": "$5.99",
@@ -8684,6 +8678,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T14:07:52",
-  "last_count": 1447
+  "last_run": "2026-09-17T14:08:39",
+  "last_count": 1446
 }
