@@ -40214,3 +40214,10 @@
 2026-09-17 16:27:37,796 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-17 16:27:38,054 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-17 16:27:38,062 INFO === Run finished ===
+2026-09-17 16:28:20,440 INFO === Run started ===
+2026-09-17 16:28:42,810 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 16:28:42,810 INFO   NEW: Kobayashi Hair Colle | $2.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9814&limit=100
+2026-09-17 16:28:42,810 INFO   NEW: Kose Vitapuru Repair | $14.50 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1946&limit=100
+2026-09-17 16:28:44,360 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 16:28:44,563 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 16:28:44,569 INFO === Run finished ===
