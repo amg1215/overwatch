@@ -41548,3 +41548,9 @@
 2026-09-17 21:48:13,334 INFO === Run started ===
 2026-09-17 21:48:38,862 INFO No new products (1585 tracked)
 2026-09-17 21:48:38,870 INFO === Run finished ===
+2026-09-17 21:49:11,422 INFO === Run started ===
+2026-09-17 21:49:36,882 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 21:49:36,882 INFO   NEW: Dariya Salon de Pro | $8.81 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4847&limit=100
+2026-09-17 21:49:38,017 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 21:49:38,263 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 21:49:38,272 INFO === Run finished ===
