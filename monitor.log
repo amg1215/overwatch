@@ -40452,3 +40452,9 @@
 2026-09-17 17:29:10,167 INFO === Run started ===
 2026-09-17 17:29:34,455 INFO No new products (1446 tracked)
 2026-09-17 17:29:34,463 INFO === Run finished ===
+2026-09-17 17:30:20,234 INFO === Run started ===
+2026-09-17 17:30:43,873 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 17:30:43,874 INFO   NEW: Bandai Children's To | $4.07 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3775&limit=100
+2026-09-17 17:30:45,603 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 17:30:45,772 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 17:30:45,781 INFO === Run finished ===
