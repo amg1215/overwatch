@@ -4134,6 +4134,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23654&limit=100",
       "stock": "n/a"
     },
+    "30235": {
+      "name": "Funism DAN DA DAN Tu",
+      "price": "$11.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30235&limit=100",
+      "stock": "n/a"
+    },
     "30260": {
       "name": "Funism Luo Xiaohei P",
       "price": "$5.49",
@@ -5134,6 +5140,12 @@
       "name": "FuRyu I Became Frien",
       "price": "$23.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51885&limit=100",
+      "stock": "n/a"
+    },
+    "51156": {
+      "name": "FuRyu Frieren Beyond",
+      "price": "$20.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51156&limit=100",
       "stock": "n/a"
     },
     "51886": {
@@ -8840,6 +8852,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T19:17:37",
-  "last_count": 1473
+  "last_run": "2026-09-17T19:18:37",
+  "last_count": 1475
 }
