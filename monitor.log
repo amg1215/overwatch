@@ -41326,3 +41326,9 @@
 2026-09-17 20:57:40,528 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-17 20:57:40,716 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-17 20:57:40,725 INFO === Run finished ===
+2026-09-17 20:58:14,115 INFO === Run started ===
+2026-09-17 20:58:39,795 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 20:58:39,795 INFO   NEW: Kose CICA Acne Repai | $16.30 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11286&limit=100
+2026-09-17 20:58:40,855 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 20:58:40,987 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 20:58:40,997 INFO === Run finished ===

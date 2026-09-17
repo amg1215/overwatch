@@ -2328,6 +2328,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8649&limit=100",
       "stock": "n/a"
     },
+    "11286": {
+      "name": "Kose CICA Acne Repai",
+      "price": "$16.30",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11286&limit=100",
+      "stock": "n/a"
+    },
     "7519": {
       "name": "Seiwa-pro Compressed",
       "price": "$1.25",
@@ -9338,6 +9344,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T20:57:40",
-  "last_count": 1556
+  "last_run": "2026-09-17T20:58:40",
+  "last_count": 1557
 }
