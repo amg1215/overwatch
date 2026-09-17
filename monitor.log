@@ -40987,3 +40987,12 @@
 2026-09-17 19:45:44,346 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 19:45:44,616 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 19:45:44,625 INFO === Run finished ===
+2026-09-17 19:46:14,959 INFO === Run started ===
+2026-09-17 19:46:37,492 INFO NEW/RESTOCKED products detected: 4
+2026-09-17 19:46:37,493 INFO   NEW: Kurochiku Paper Soap | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8157&limit=100
+2026-09-17 19:46:37,493 INFO   NEW: Ensky NARUTO Snapmid | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30619&limit=100
+2026-09-17 19:46:37,493 INFO   NEW: Kanro Milk Candy Cof | $2.14 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15517&limit=100
+2026-09-17 19:46:37,493 INFO   NEW: Bourbon Cubee Cube-s | $1.52 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24241&limit=100
+2026-09-17 19:46:38,990 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-17 19:46:39,281 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-17 19:46:39,286 INFO === Run finished ===
