@@ -3786,6 +3786,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5529&limit=100",
       "stock": "n/a"
     },
+    "213": {
+      "name": "Apagard Premio Tooth",
+      "price": "$11.77",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=213&limit=100",
+      "stock": "n/a"
+    },
     "1754": {
       "name": "Apagard Premio Tooth",
       "price": "$12.15",
@@ -8702,6 +8708,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T17:37:41",
-  "last_count": 1450
+  "last_run": "2026-09-17T17:38:36",
+  "last_count": 1451
 }

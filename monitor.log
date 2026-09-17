@@ -40488,3 +40488,9 @@
 2026-09-17 17:37:14,425 INFO === Run started ===
 2026-09-17 17:37:41,496 INFO No new products (1450 tracked)
 2026-09-17 17:37:41,504 INFO === Run finished ===
+2026-09-17 17:38:11,866 INFO === Run started ===
+2026-09-17 17:38:35,229 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 17:38:35,230 INFO   NEW: Apagard Premio Tooth | $11.77 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=213&limit=100
+2026-09-17 17:38:36,701 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 17:38:36,872 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 17:38:36,881 INFO === Run finished ===
