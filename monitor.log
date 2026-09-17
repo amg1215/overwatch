@@ -38442,3 +38442,9 @@
 2026-09-17 14:49:14,795 INFO === Run started ===
 2026-09-17 14:49:37,069 INFO No new products (1456 tracked)
 2026-09-17 14:49:37,080 INFO === Run finished ===
+2026-09-17 14:50:15,971 INFO === Run started ===
+2026-09-17 14:50:38,884 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 14:50:38,884 INFO   NEW: Mandom Lip Scrub 10g | $7.64 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14453&limit=100
+2026-09-17 14:50:40,450 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 14:50:40,659 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 14:50:40,667 INFO === Run finished ===

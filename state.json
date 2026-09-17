@@ -2334,6 +2334,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23899&limit=100",
       "stock": "n/a"
     },
+    "14453": {
+      "name": "Mandom Lip Scrub 10g",
+      "price": "$7.64",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14453&limit=100",
+      "stock": "n/a"
+    },
     "9266": {
       "name": "Kao Curel Lotion I 1",
       "price": "$16.79",
@@ -8738,6 +8744,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T14:49:37",
-  "last_count": 1456
+  "last_run": "2026-09-17T14:50:40",
+  "last_count": 1457
 }
