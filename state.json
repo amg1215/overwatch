@@ -2796,6 +2796,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24253&limit=100",
       "stock": "n/a"
     },
+    "17117": {
+      "name": "Tokiwa BB Cream 30g",
+      "price": "$10.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17117&limit=100",
+      "stock": "n/a"
+    },
     "21938": {
       "name": "2 Way World BIBIDAY",
       "price": "$8.25",
@@ -8594,6 +8600,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T16:43:36",
-  "last_count": 1432
+  "last_run": "2026-09-17T16:44:38",
+  "last_count": 1433
 }
