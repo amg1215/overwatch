@@ -41124,3 +41124,10 @@
 2026-09-17 20:18:38,960 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 20:18:39,228 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 20:18:39,238 INFO === Run finished ===
+2026-09-17 20:19:12,144 INFO === Run started ===
+2026-09-17 20:19:35,933 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 20:19:35,933 INFO   NEW: Funism Adventurous P | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26722&limit=100
+2026-09-17 20:19:35,933 INFO   NEW: Funism Pokemon Keych | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23369&limit=100
+2026-09-17 20:19:37,398 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 20:19:37,579 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 20:19:37,586 INFO === Run finished ===
