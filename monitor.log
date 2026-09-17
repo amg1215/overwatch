@@ -41036,3 +41036,10 @@
 2026-09-17 19:55:13,843 INFO === Run started ===
 2026-09-17 19:55:37,754 INFO No new products (1505 tracked)
 2026-09-17 19:55:37,761 INFO === Run finished ===
+2026-09-17 19:56:13,565 INFO === Run started ===
+2026-09-17 19:56:40,319 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 19:56:40,319 INFO   NEW: Sunstar Ora2 Mouth S | $2.23 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9756&limit=100
+2026-09-17 19:56:40,319 INFO   NEW: SMISKI Birthday Seri | $9.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23775&limit=100
+2026-09-17 19:56:41,965 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 19:56:42,437 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 19:56:42,446 INFO === Run finished ===
