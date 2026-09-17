@@ -1494,6 +1494,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9592&limit=100",
       "stock": "n/a"
     },
+    "5295": {
+      "name": "S.T. Vehicle Fragran",
+      "price": "$4.40",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5295&limit=100",
+      "stock": "n/a"
+    },
     "21288": {
       "name": "P&G Car Fragrance Di",
       "price": "$3.96",
@@ -8708,6 +8714,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T14:33:38",
-  "last_count": 1451
+  "last_run": "2026-09-17T14:34:39",
+  "last_count": 1452
 }
