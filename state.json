@@ -4128,6 +4128,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50834&limit=100",
       "stock": "n/a"
     },
+    "23330": {
+      "name": "Funism Pokemon Serie",
+      "price": "$12.15",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23330&limit=100",
+      "stock": "n/a"
+    },
     "23654": {
       "name": "Funism Luo Xiaohei D",
       "price": "$9.05",
@@ -8858,6 +8864,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T19:21:36",
-  "last_count": 1476
+  "last_run": "2026-09-17T19:22:35",
+  "last_count": 1477
 }

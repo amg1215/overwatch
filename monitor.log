@@ -40872,3 +40872,9 @@
 2026-09-17 19:21:11,861 INFO === Run started ===
 2026-09-17 19:21:36,751 INFO No new products (1476 tracked)
 2026-09-17 19:21:36,759 INFO === Run finished ===
+2026-09-17 19:22:11,807 INFO === Run started ===
+2026-09-17 19:22:34,031 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 19:22:34,031 INFO   NEW: Funism Pokemon Serie | $12.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23330&limit=100
+2026-09-17 19:22:35,532 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 19:22:35,717 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 19:22:35,722 INFO === Run finished ===
