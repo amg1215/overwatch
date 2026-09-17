@@ -41319,3 +41319,10 @@
 2026-09-17 20:56:40,774 INFO Email sent: Ebisu: 4 new/restocked items!
 2026-09-17 20:56:41,101 INFO ntfy push sent: Ebisu: 4 new/restocked items!
 2026-09-17 20:56:41,111 INFO === Run finished ===
+2026-09-17 20:57:14,307 INFO === Run started ===
+2026-09-17 20:57:39,584 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 20:57:39,584 INFO   NEW: Koji Double Eyelid G | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9496&limit=100
+2026-09-17 20:57:39,584 INFO   NEW: Koji Double Eyelid G | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9495&limit=100
+2026-09-17 20:57:40,528 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 20:57:40,716 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 20:57:40,725 INFO === Run finished ===
