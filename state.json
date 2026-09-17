@@ -4974,6 +4974,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1993&limit=100",
       "stock": "n/a"
     },
+    "16101": {
+      "name": "T's Factory Pokemon",
+      "price": "$5.01",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16101&limit=100",
+      "stock": "n/a"
+    },
     "10841": {
       "name": "SLO 3D Keychain Hell",
       "price": "$6.89",
@@ -9578,6 +9584,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T22:40:42",
-  "last_count": 1596
+  "last_run": "2026-09-17T22:41:36",
+  "last_count": 1597
 }
