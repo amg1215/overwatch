@@ -40796,3 +40796,10 @@
 2026-09-17 19:06:45,013 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 19:06:45,129 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 19:06:45,138 INFO === Run finished ===
+2026-09-17 19:07:12,607 INFO === Run started ===
+2026-09-17 19:07:37,267 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 19:07:37,267 INFO   NEW: Funism Luo Xiaohei D | $9.05 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23654&limit=100
+2026-09-17 19:07:37,267 INFO   NEW: Sega Hatsune Miku Lu | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50443&limit=100
+2026-09-17 19:07:38,483 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 19:07:38,909 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-17 19:07:38,919 INFO === Run finished ===
