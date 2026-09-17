@@ -40803,3 +40803,9 @@
 2026-09-17 19:07:38,483 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-17 19:07:38,909 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-17 19:07:38,919 INFO === Run finished ===
+2026-09-17 19:08:12,415 INFO === Run started ===
+2026-09-17 19:08:37,879 INFO NEW/RESTOCKED products detected: 1
+2026-09-17 19:08:37,879 INFO   NEW: Pelican Medicated So | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9737&limit=100
+2026-09-17 19:08:39,501 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-17 19:08:39,833 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-17 19:08:39,842 INFO === Run finished ===
