@@ -4860,6 +4860,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22853&limit=100",
       "stock": "n/a"
     },
+    "50835": {
+      "name": "Funism Adventure Com",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50835&limit=100",
+      "stock": "n/a"
+    },
     "26724": {
       "name": "Funism Adventurous P",
       "price": "$2.99",
@@ -8960,6 +8966,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T19:41:40",
-  "last_count": 1493
+  "last_run": "2026-09-17T19:42:40",
+  "last_count": 1494
 }
