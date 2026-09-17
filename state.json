@@ -1302,6 +1302,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=900&limit=100",
       "stock": "n/a"
     },
+    "22627": {
+      "name": "S.T. Premium Aroma R",
+      "price": "$6.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22627&limit=100",
+      "stock": "n/a"
+    },
     "5129": {
       "name": "S.T. Premium Aroma W",
       "price": "$8.99",
@@ -4168,6 +4174,12 @@
       "name": "Funism Maltese PupSn",
       "price": "$5.42",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30230&limit=100",
+      "stock": "n/a"
+    },
+    "23651": {
+      "name": "Funism Care Bears On",
+      "price": "$9.05",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23651&limit=100",
       "stock": "n/a"
     },
     "50832": {
@@ -9008,6 +9020,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-17T19:50:52",
-  "last_count": 1501
+  "last_run": "2026-09-17T19:52:06",
+  "last_count": 1503
 }

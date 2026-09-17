@@ -41014,3 +41014,10 @@
 2026-09-17 19:50:52,282 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-17 19:50:52,609 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-17 19:50:52,619 INFO === Run finished ===
+2026-09-17 19:51:10,716 INFO === Run started ===
+2026-09-17 19:51:35,787 INFO NEW/RESTOCKED products detected: 2
+2026-09-17 19:51:35,787 INFO   NEW: S.T. Premium Aroma R | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22627&limit=100
+2026-09-17 19:51:35,787 INFO   NEW: Funism Care Bears On | $9.05 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23651&limit=100
+2026-09-17 19:51:36,779 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-17 19:52:06,836 ERROR ntfy push failed: HTTPSConnectionPool(host='ntfy.sh', port=443): Max retries exceeded with url: /ebisu-arrivals-kx7v92qm (Caused by NewConnectionError("HTTPSConnection(host='ntfy.sh', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+2026-09-17 19:52:06,845 INFO === Run finished ===
