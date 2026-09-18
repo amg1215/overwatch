@@ -3600,12 +3600,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30214&limit=100",
       "stock": "n/a"
     },
-    "30215": {
-      "name": "iPlanning SLO Kuromi",
-      "price": "$3.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30215&limit=100",
-      "stock": "n/a"
-    },
     "30216": {
       "name": "iPlanning SLO Cinnam",
       "price": "$3.59",
@@ -4204,12 +4198,6 @@
       "name": "Moist Diane Botanica",
       "price": "$8.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14400&limit=100",
-      "stock": "n/a"
-    },
-    "22119": {
-      "name": "FIANCEE  Body Mist W",
-      "price": "$11.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22119&limit=100",
       "stock": "n/a"
     },
     "22120": {
@@ -5922,6 +5910,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50685&limit=100",
       "stock": "n/a"
     },
+    "51161": {
+      "name": "FuRyu Hatsune Miku G",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51161&limit=100",
+      "stock": "n/a"
+    },
     "51884": {
       "name": "FuRyu Even a Replica",
       "price": "$21.59",
@@ -5998,12 +5992,6 @@
       "name": "BANDAI SPIRITS Banpr",
       "price": "$27.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51571&limit=100",
-      "stock": "n/a"
-    },
-    "51676": {
-      "name": "BANDAI SPIRITS Banpr",
-      "price": "$27.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51676&limit=100",
       "stock": "n/a"
     },
     "51882": {
@@ -10064,6 +10052,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T20:33:39",
-  "last_count": 1677
+  "last_run": "2026-09-18T20:34:44",
+  "last_count": 1675
 }

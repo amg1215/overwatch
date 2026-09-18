@@ -43719,3 +43719,9 @@
 2026-09-18 20:33:12,448 INFO === Run started ===
 2026-09-18 20:33:39,029 INFO No new products (1677 tracked)
 2026-09-18 20:33:39,038 INFO === Run finished ===
+2026-09-18 20:34:12,419 INFO === Run started ===
+2026-09-18 20:34:41,061 INFO NEW/RESTOCKED products detected: 1
+2026-09-18 20:34:41,061 INFO   NEW: FuRyu Hatsune Miku G | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51161&limit=100
+2026-09-18 20:34:44,047 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-18 20:34:44,299 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-18 20:34:44,309 INFO === Run finished ===
