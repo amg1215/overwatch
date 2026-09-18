@@ -2268,6 +2268,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9811&limit=100",
       "stock": "n/a"
     },
+    "9950": {
+      "name": "Kobayashi Toilet Bow",
+      "price": "$1.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9950&limit=100",
+      "stock": "n/a"
+    },
     "10297": {
       "name": "Kobayashi Toilet Bow",
       "price": "$1.79",
@@ -9788,6 +9794,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T16:06:40",
-  "last_count": 1631
+  "last_run": "2026-09-18T16:07:43",
+  "last_count": 1632
 }

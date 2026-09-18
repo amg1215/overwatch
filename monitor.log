@@ -42797,3 +42797,9 @@
 2026-09-18 16:06:39,812 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-18 16:06:40,103 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-18 16:06:40,111 INFO === Run finished ===
+2026-09-18 16:07:12,890 INFO === Run started ===
+2026-09-18 16:07:41,008 INFO NEW/RESTOCKED products detected: 1
+2026-09-18 16:07:41,008 INFO   NEW: Kobayashi Toilet Bow | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9950&limit=100
+2026-09-18 16:07:42,821 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-18 16:07:43,044 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-18 16:07:43,055 INFO === Run finished ===
