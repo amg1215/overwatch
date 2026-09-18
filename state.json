@@ -6660,6 +6660,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5263&limit=100",
       "stock": "n/a"
     },
+    "29912": {
+      "name": "Fujiya Milk Candy 37",
+      "price": "$1.92",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29912&limit=100",
+      "stock": "n/a"
+    },
     "30822": {
       "name": "Fujiya Nectar Sherbe",
       "price": "$1.49",
@@ -9768,6 +9774,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24197&limit=100",
       "stock": "n/a"
     },
+    "28912": {
+      "name": "allied Spicy Soup No",
+      "price": "$2.29",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28912&limit=100",
+      "stock": "n/a"
+    },
     "13520": {
       "name": "Sanyo Carbonara Buld",
       "price": "$1.79",
@@ -9902,6 +9914,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T17:27:41",
-  "last_count": 1650
+  "last_run": "2026-09-18T17:28:39",
+  "last_count": 1652
 }
