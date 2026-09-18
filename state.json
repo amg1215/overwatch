@@ -9450,6 +9450,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18793&limit=100",
       "stock": "n/a"
     },
+    "14429": {
+      "name": "Myojo Noodles Soy Sa",
+      "price": "$2.13",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14429&limit=100",
+      "stock": "n/a"
+    },
     "13405": {
       "name": "Myojo Noodles Salt 1",
       "price": "$2.13",
@@ -9644,6 +9650,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T14:43:40",
-  "last_count": 1607
+  "last_run": "2026-09-18T14:45:09",
+  "last_count": 1608
 }
