@@ -42803,3 +42803,9 @@
 2026-09-18 16:07:42,821 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-18 16:07:43,044 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-18 16:07:43,055 INFO === Run finished ===
+2026-09-18 16:08:15,251 INFO === Run started ===
+2026-09-18 16:08:42,457 INFO NEW/RESTOCKED products detected: 1
+2026-09-18 16:08:42,457 INFO   NEW: Tirol Chiikawa Choco | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30617&limit=100
+2026-09-18 16:08:43,574 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-18 16:08:43,872 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-18 16:08:43,882 INFO === Run finished ===

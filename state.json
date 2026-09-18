@@ -6372,6 +6372,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30485&limit=100",
       "stock": "n/a"
     },
+    "30617": {
+      "name": "Tirol Chiikawa Choco",
+      "price": "$7.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30617&limit=100",
+      "stock": "n/a"
+    },
     "25643": {
       "name": "Morinaga DARS Premiu",
       "price": "$2.39",
@@ -9794,6 +9800,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T16:07:43",
-  "last_count": 1632
+  "last_run": "2026-09-18T16:08:43",
+  "last_count": 1633
 }
