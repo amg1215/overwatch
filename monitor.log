@@ -43579,3 +43579,10 @@
 2026-09-18 20:02:12,159 INFO === Run started ===
 2026-09-18 20:02:38,046 INFO No new products (1657 tracked)
 2026-09-18 20:02:38,055 INFO === Run finished ===
+2026-09-18 20:03:11,814 INFO === Run started ===
+2026-09-18 20:03:37,930 INFO NEW/RESTOCKED products detected: 2
+2026-09-18 20:03:37,931 INFO   NEW: Taito Oshi no Ko Cor | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30403&limit=100
+2026-09-18 20:03:37,931 INFO   NEW: FuRyu Baka and Test | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30712&limit=100
+2026-09-18 20:03:39,356 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-18 20:03:39,572 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-18 20:03:39,580 INFO === Run finished ===
