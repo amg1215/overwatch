@@ -43843,3 +43843,9 @@
 2026-09-18 21:03:10,911 INFO === Run started ===
 2026-09-18 21:03:35,851 INFO No new products (1684 tracked)
 2026-09-18 21:03:35,858 INFO === Run finished ===
+2026-09-18 21:04:14,947 INFO === Run started ===
+2026-09-18 21:04:41,656 INFO NEW/RESTOCKED products detected: 1
+2026-09-18 21:04:41,656 INFO   NEW: Yamada Plastic Conta | $1.38 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8052&limit=100
+2026-09-18 21:04:42,689 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-18 21:04:42,919 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-18 21:04:42,929 INFO === Run finished ===
