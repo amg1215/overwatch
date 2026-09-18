@@ -9600,6 +9600,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10428&limit=100",
       "stock": "n/a"
     },
+    "10429": {
+      "name": "Myojo Cup Fried Nood",
+      "price": "$2.60",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10429&limit=100",
+      "stock": "n/a"
+    },
     "18793": {
       "name": "Myojo Soy Sauce Nood",
       "price": "$2.72",
@@ -9806,6 +9812,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T16:14:38",
-  "last_count": 1634
+  "last_run": "2026-09-18T16:15:47",
+  "last_count": 1635
 }

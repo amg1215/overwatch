@@ -42834,3 +42834,9 @@
 2026-09-18 16:14:12,608 INFO === Run started ===
 2026-09-18 16:14:38,397 INFO No new products (1634 tracked)
 2026-09-18 16:14:38,406 INFO === Run finished ===
+2026-09-18 16:15:19,851 INFO === Run started ===
+2026-09-18 16:15:46,183 INFO NEW/RESTOCKED products detected: 1
+2026-09-18 16:15:46,183 INFO   NEW: Myojo Cup Fried Nood | $2.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10429&limit=100
+2026-09-18 16:15:47,161 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-18 16:15:47,346 ERROR ntfy push failed: 429 Client Error: Too Many Requests for url: https://ntfy.sh/ebisu-arrivals-kx7v92qm
+2026-09-18 16:15:47,356 INFO === Run finished ===
