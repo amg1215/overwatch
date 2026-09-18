@@ -43970,3 +43970,9 @@
 2026-09-18 21:32:45,275 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-18 21:32:45,537 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-18 21:32:45,544 INFO === Run finished ===
+2026-09-18 21:33:16,780 INFO === Run started ===
+2026-09-18 21:33:43,705 INFO NEW/RESTOCKED products detected: 1
+2026-09-18 21:33:43,706 INFO   NEW: BeeCruise Chiikawa C | $1.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30663&limit=100
+2026-09-18 21:33:44,728 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-18 21:33:44,893 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-18 21:33:44,903 INFO === Run finished ===
