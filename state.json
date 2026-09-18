@@ -9474,6 +9474,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8812&limit=100",
       "stock": "n/a"
     },
+    "24194": {
+      "name": "Yamamoto Udon Noodle",
+      "price": "$1.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24194&limit=100",
+      "stock": "n/a"
+    },
     "24260": {
       "name": "YAMAMOTO Spicy Mixed",
       "price": "$2.39",
@@ -9626,6 +9632,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T13:41:47",
-  "last_count": 1604
+  "last_run": "2026-09-18T13:42:49",
+  "last_count": 1605
 }

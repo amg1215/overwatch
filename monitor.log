@@ -42289,3 +42289,9 @@
 2026-09-18 13:41:11,700 INFO === Run started ===
 2026-09-18 13:41:47,067 INFO No new products (1604 tracked)
 2026-09-18 13:41:47,076 INFO === Run finished ===
+2026-09-18 13:42:15,173 INFO === Run started ===
+2026-09-18 13:42:47,273 INFO NEW/RESTOCKED products detected: 1
+2026-09-18 13:42:47,273 INFO   NEW: Yamamoto Udon Noodle | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24194&limit=100
+2026-09-18 13:42:48,915 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-18 13:42:49,151 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-18 13:42:49,161 INFO === Run finished ===
