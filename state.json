@@ -5976,6 +5976,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51724&limit=100",
       "stock": "n/a"
     },
+    "30112": {
+      "name": "FuRyu Death Note Noo",
+      "price": "$20.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30112&limit=100",
+      "stock": "n/a"
+    },
     "30609": {
       "name": "FuRyu Lucky Star Tri",
       "price": "$23.99",
@@ -10160,6 +10166,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T21:24:41",
-  "last_count": 1693
+  "last_run": "2026-09-18T21:25:40",
+  "last_count": 1694
 }
