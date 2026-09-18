@@ -8154,6 +8154,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30052&limit=100",
       "stock": "n/a"
     },
+    "30733": {
+      "name": "TOHATO Caramel Corn",
+      "price": "$1.29",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30733&limit=100",
+      "stock": "n/a"
+    },
     "30480": {
       "name": "TOHATO BBQ Flavored",
       "price": "$1.15",
@@ -9668,6 +9674,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T14:55:43",
-  "last_count": 1611
+  "last_run": "2026-09-18T14:56:40",
+  "last_count": 1612
 }
