@@ -43861,3 +43861,10 @@
 2026-09-18 21:07:37,871 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-18 21:07:38,045 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-18 21:07:38,055 INFO === Run finished ===
+2026-09-18 21:08:49,007 INFO === Run started ===
+2026-09-18 21:09:15,798 INFO NEW/RESTOCKED products detected: 2
+2026-09-18 21:09:15,798 INFO   NEW: Banpresto Tokyo Ghou | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30719&limit=100
+2026-09-18 21:09:15,798 INFO   NEW: Banpresto Date A Liv | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30398&limit=100
+2026-09-18 21:09:16,852 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-18 21:09:17,069 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-18 21:09:17,079 INFO === Run finished ===
