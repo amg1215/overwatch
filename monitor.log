@@ -43674,3 +43674,10 @@
 2026-09-18 20:24:39,865 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-18 20:24:39,949 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-18 20:24:39,959 INFO === Run finished ===
+2026-09-18 20:25:13,087 INFO === Run started ===
+2026-09-18 20:25:39,741 INFO NEW/RESTOCKED products detected: 2
+2026-09-18 20:25:39,741 INFO   NEW: FuRyu Frieren Beyond | $20.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51156&limit=100
+2026-09-18 20:25:39,741 INFO   NEW: FuRyu Frieren Beyond | $20.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51155&limit=100
+2026-09-18 20:25:40,602 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-18 20:25:40,699 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-18 20:25:40,708 INFO === Run finished ===
