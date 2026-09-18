@@ -12,6 +12,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30664&limit=100",
       "stock": "n/a"
     },
+    "30665": {
+      "name": "BeeCruise Chiikawa C",
+      "price": "$1.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30665&limit=100",
+      "stock": "n/a"
+    },
     "30666": {
       "name": "BeeCruise Chiikawa C",
       "price": "$1.39",
@@ -10196,6 +10202,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T21:33:44",
-  "last_count": 1699
+  "last_run": "2026-09-18T21:34:41",
+  "last_count": 1700
 }
