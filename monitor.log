@@ -43725,3 +43725,11 @@
 2026-09-18 20:34:44,047 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-18 20:34:44,299 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-18 20:34:44,309 INFO === Run finished ===
+2026-09-18 20:35:14,663 INFO === Run started ===
+2026-09-18 20:35:42,838 INFO NEW/RESTOCKED products detected: 3
+2026-09-18 20:35:42,838 INFO   NEW: iPlanning SLO Kuromi | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30215&limit=100
+2026-09-18 20:35:42,838 INFO   NEW: FIANCEE  Body Mist W | $11.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22119&limit=100
+2026-09-18 20:35:42,838 INFO   NEW: Banpresto Digimon Ad | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51438&limit=100
+2026-09-18 20:35:45,656 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-18 20:35:45,933 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-18 20:35:45,943 INFO === Run finished ===

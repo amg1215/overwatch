@@ -192,12 +192,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22826&limit=100",
       "stock": "n/a"
     },
-    "23428": {
-      "name": "Asunarosha Kuromi Sa",
-      "price": "$4.19",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23428&limit=100",
-      "stock": "n/a"
-    },
     "22849": {
       "name": "Asunarosha Mino Ware",
       "price": "$13.79",
@@ -244,12 +238,6 @@
       "name": "SUNNY FACE Black Cat",
       "price": "$10.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29167&limit=100",
-      "stock": "n/a"
-    },
-    "29168": {
-      "name": "SUNNY FACE Peace & J",
-      "price": "$3.67",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29168&limit=100",
       "stock": "n/a"
     },
     "29169": {
@@ -3600,6 +3588,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30214&limit=100",
       "stock": "n/a"
     },
+    "30215": {
+      "name": "iPlanning SLO Kuromi",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30215&limit=100",
+      "stock": "n/a"
+    },
     "30216": {
       "name": "iPlanning SLO Cinnam",
       "price": "$3.59",
@@ -4198,6 +4192,12 @@
       "name": "Moist Diane Botanica",
       "price": "$8.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14400&limit=100",
+      "stock": "n/a"
+    },
+    "22119": {
+      "name": "FIANCEE  Body Mist W",
+      "price": "$11.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22119&limit=100",
       "stock": "n/a"
     },
     "22120": {
@@ -5764,6 +5764,12 @@
       "name": "Banpresto ONE PIECE",
       "price": "$21.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50447&limit=100",
+      "stock": "n/a"
+    },
+    "51438": {
+      "name": "Banpresto Digimon Ad",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51438&limit=100",
       "stock": "n/a"
     },
     "50970": {
@@ -10052,6 +10058,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T20:34:44",
-  "last_count": 1675
+  "last_run": "2026-09-18T20:35:45",
+  "last_count": 1676
 }
