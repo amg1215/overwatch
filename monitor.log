@@ -42310,3 +42310,10 @@
 2026-09-18 13:46:27,640 INFO === Run started ===
 2026-09-18 13:47:00,487 INFO No new products (1604 tracked)
 2026-09-18 13:47:00,496 INFO === Run finished ===
+2026-09-18 13:47:10,918 INFO === Run started ===
+2026-09-18 13:47:42,461 INFO NEW/RESTOCKED products detected: 2
+2026-09-18 13:47:42,461 INFO   NEW: Kao Foam Hair Dye Br | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17295&limit=100
+2026-09-18 13:47:42,461 INFO   NEW: YAMAMOTO Tonkotsu Ra | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24197&limit=100
+2026-09-18 13:47:43,674 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-18 13:47:43,820 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-18 13:47:43,830 INFO === Run finished ===
