@@ -43748,3 +43748,9 @@
 2026-09-18 20:39:11,095 INFO === Run started ===
 2026-09-18 20:39:37,984 INFO No new products (1677 tracked)
 2026-09-18 20:39:37,993 INFO === Run finished ===
+2026-09-18 20:40:18,799 INFO === Run started ===
+2026-09-18 20:40:44,914 INFO NEW/RESTOCKED products detected: 1
+2026-09-18 20:40:44,914 INFO   NEW: Kao Sanitary Pads Wi | $4.55 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8424&limit=100
+2026-09-18 20:40:48,514 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-18 20:40:48,708 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-18 20:40:48,716 INFO === Run finished ===
