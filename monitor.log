@@ -43008,3 +43008,11 @@
 2026-09-18 17:05:19,466 INFO === Run started ===
 2026-09-18 17:05:49,555 INFO No new products (1641 tracked)
 2026-09-18 17:05:49,565 INFO === Run finished ===
+2026-09-18 17:06:14,720 INFO === Run started ===
+2026-09-18 17:06:40,759 INFO NEW/RESTOCKED products detected: 3
+2026-09-18 17:06:40,759 INFO   NEW: TARAMI Fruit Jelly G | $1.68 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50217&limit=100
+2026-09-18 17:06:40,759 INFO   NEW: TARAMI Fruit Jelly C | $1.68 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50214&limit=100
+2026-09-18 17:06:40,759 INFO   NEW: TARAMI 0 Calories Je | $1.97 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50218&limit=100
+2026-09-18 17:06:42,437 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-18 17:06:42,656 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-18 17:06:42,665 INFO === Run finished ===

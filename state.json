@@ -7038,10 +7038,22 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8456&limit=100",
       "stock": "n/a"
     },
+    "50217": {
+      "name": "TARAMI Fruit Jelly G",
+      "price": "$1.68",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50217&limit=100",
+      "stock": "n/a"
+    },
     "8458": {
       "name": "Tarami Melon Jelly 1",
       "price": "$1.24",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8458&limit=100",
+      "stock": "n/a"
+    },
+    "50214": {
+      "name": "TARAMI Fruit Jelly C",
+      "price": "$1.68",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50214&limit=100",
       "stock": "n/a"
     },
     "50215": {
@@ -7066,6 +7078,12 @@
       "name": "Tarami Mixed Fruit J",
       "price": "$1.68",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10708&limit=100",
+      "stock": "n/a"
+    },
+    "50218": {
+      "name": "TARAMI 0 Calories Je",
+      "price": "$1.97",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50218&limit=100",
       "stock": "n/a"
     },
     "31592": {
@@ -9848,6 +9866,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T17:05:49",
-  "last_count": 1641
+  "last_run": "2026-09-18T17:06:42",
+  "last_count": 1644
 }
