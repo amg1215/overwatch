@@ -9402,6 +9402,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10392&limit=100",
       "stock": "n/a"
     },
+    "26756": {
+      "name": "Nissin Ramen Miso Fl",
+      "price": "$3.93",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26756&limit=100",
+      "stock": "n/a"
+    },
     "28462": {
       "name": "Nissin Nissin Raoh T",
       "price": "$3.93",
@@ -9412,6 +9418,12 @@
       "name": "Nissin Nissin Raoh R",
       "price": "$3.93",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28463&limit=100",
+      "stock": "n/a"
+    },
+    "28464": {
+      "name": "Nissin Nissin Rao Ra",
+      "price": "$3.93",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28464&limit=100",
       "stock": "n/a"
     },
     "10393": {
@@ -9710,6 +9722,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T15:33:36",
-  "last_count": 1618
+  "last_run": "2026-09-18T15:34:42",
+  "last_count": 1620
 }
