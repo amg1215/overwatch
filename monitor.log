@@ -42570,3 +42570,10 @@
 2026-09-18 15:04:12,348 INFO === Run started ===
 2026-09-18 15:04:40,551 INFO No new products (1613 tracked)
 2026-09-18 15:04:40,560 INFO === Run finished ===
+2026-09-18 15:05:12,660 INFO === Run started ===
+2026-09-18 15:05:38,657 INFO NEW/RESTOCKED products detected: 2
+2026-09-18 15:05:38,657 INFO   NEW: Nissin Nissin Raoh T | $3.93 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28462&limit=100
+2026-09-18 15:05:38,658 INFO   NEW: Nissin Nissin Raoh R | $3.93 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28463&limit=100
+2026-09-18 15:05:40,070 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-18 15:05:40,317 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-18 15:05:40,326 INFO === Run finished ===
