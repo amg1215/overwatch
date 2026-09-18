@@ -43889,3 +43889,10 @@
 2026-09-18 21:14:46,187 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-18 21:14:46,441 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-18 21:14:46,451 INFO === Run finished ===
+2026-09-18 21:15:15,390 INFO === Run started ===
+2026-09-18 21:15:41,195 INFO NEW/RESTOCKED products detected: 2
+2026-09-18 21:15:41,196 INFO   NEW: Kobayashi Cleaner fo | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9600&limit=100
+2026-09-18 21:15:41,196 INFO   NEW: S.T. Washing Shoe Cl | $2.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10530&limit=100
+2026-09-18 21:15:43,430 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-18 21:15:43,545 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-18 21:15:43,556 INFO === Run finished ===
