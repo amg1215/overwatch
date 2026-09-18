@@ -1524,6 +1524,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9702&limit=100",
       "stock": "n/a"
     },
+    "10293": {
+      "name": "Kobayashi Sawaday Ai",
+      "price": "$4.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10293&limit=100",
+      "stock": "n/a"
+    },
     "9943": {
       "name": "Kobayashi Sawaday Fr",
       "price": "$3.40",
@@ -9602,6 +9608,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T13:36:37",
-  "last_count": 1600
+  "last_run": "2026-09-18T13:37:37",
+  "last_count": 1601
 }
