@@ -8874,6 +8874,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3152&limit=100",
       "stock": "n/a"
     },
+    "31590": {
+      "name": "Sangaria White Grape",
+      "price": "$1.71",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31590&limit=100",
+      "stock": "n/a"
+    },
     "28924": {
       "name": "STARBUCKS Concentrat",
       "price": "$4.19",
@@ -9842,6 +9848,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T16:45:43",
-  "last_count": 1640
+  "last_run": "2026-09-18T16:46:40",
+  "last_count": 1641
 }
