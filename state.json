@@ -4200,12 +4200,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17297&limit=100",
       "stock": "n/a"
     },
-    "17295": {
-      "name": "Kao Foam Hair Dye Br",
-      "price": "$7.79",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17295&limit=100",
-      "stock": "n/a"
-    },
     "19111": {
       "name": "KAO Liese Foam Hair",
       "price": "$8.59",
@@ -9632,6 +9626,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T13:45:41",
-  "last_count": 1605
+  "last_run": "2026-09-18T13:47:00",
+  "last_count": 1604
 }
