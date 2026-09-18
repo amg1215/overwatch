@@ -9432,6 +9432,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29552&limit=100",
       "stock": "n/a"
     },
+    "8002": {
+      "name": "Myojo Ippei-Chan Yak",
+      "price": "$2.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8002&limit=100",
+      "stock": "n/a"
+    },
     "30887": {
       "name": "Myojo Ippei-chan Yak",
       "price": "$6.59",
@@ -9650,6 +9656,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T14:47:36",
-  "last_count": 1608
+  "last_run": "2026-09-18T14:48:40",
+  "last_count": 1609
 }
