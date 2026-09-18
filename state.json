@@ -8916,6 +8916,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18802&limit=100",
       "stock": "n/a"
     },
+    "5314": {
+      "name": "Surf Corn Tea 500ml",
+      "price": "$1.45",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5314&limit=100",
+      "stock": "n/a"
+    },
     "4019": {
       "name": "Tomomasu Durian Soda",
       "price": "$1.50",
@@ -9776,6 +9782,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T16:03:41",
-  "last_count": 1629
+  "last_run": "2026-09-18T16:04:47",
+  "last_count": 1630
 }
