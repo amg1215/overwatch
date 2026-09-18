@@ -43509,3 +43509,9 @@
 2026-09-18 19:44:36,647 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-18 19:44:36,823 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-18 19:44:36,828 INFO === Run finished ===
+2026-09-18 19:45:18,473 INFO === Run started ===
+2026-09-18 19:45:45,511 INFO NEW/RESTOCKED products detected: 1
+2026-09-18 19:45:45,511 INFO   NEW: ORIHIRO Freezable Je | $1.31 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23167&limit=100
+2026-09-18 19:45:47,136 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-18 19:45:47,386 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-18 19:45:47,396 INFO === Run finished ===
