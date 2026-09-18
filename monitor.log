@@ -44024,3 +44024,9 @@
 2026-09-18 21:45:59,702 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-18 21:45:59,962 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-18 21:45:59,972 INFO === Run finished ===
+2026-09-18 21:46:15,891 INFO === Run started ===
+2026-09-18 21:46:41,666 INFO NEW/RESTOCKED products detected: 1
+2026-09-18 21:46:41,667 INFO   NEW: Maruki Natural Warm | $1.84 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7548&limit=100
+2026-09-18 21:46:42,630 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-18 21:46:42,853 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-18 21:46:42,861 INFO === Run finished ===
