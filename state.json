@@ -8664,6 +8664,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=306&limit=100",
       "stock": "n/a"
     },
+    "31588": {
+      "name": "House Vitamin C1000",
+      "price": "$1.60",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31588&limit=100",
+      "stock": "n/a"
+    },
     "30877": {
       "name": "Itoen Nippon Ale Miy",
       "price": "$1.45",
@@ -9830,6 +9836,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T16:35:17",
-  "last_count": 1638
+  "last_run": "2026-09-18T16:36:46",
+  "last_count": 1639
 }
