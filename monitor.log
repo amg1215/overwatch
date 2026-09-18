@@ -42714,3 +42714,9 @@
 2026-09-18 15:43:40,067 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-18 15:43:40,312 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-18 15:43:40,322 INFO === Run finished ===
+2026-09-18 15:44:13,761 INFO === Run started ===
+2026-09-18 15:44:37,897 INFO NEW/RESTOCKED products detected: 1
+2026-09-18 15:44:37,897 INFO   NEW: Sanritsu Confectione | $1.92 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30726&limit=100
+2026-09-18 15:44:39,964 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-18 15:44:40,031 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-18 15:44:40,038 INFO === Run finished ===

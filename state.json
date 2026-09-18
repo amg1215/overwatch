@@ -7458,6 +7458,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23768&limit=100",
       "stock": "n/a"
     },
+    "30726": {
+      "name": "Sanritsu Confectione",
+      "price": "$1.92",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30726&limit=100",
+      "stock": "n/a"
+    },
     "30730": {
       "name": "Sanritsu Confectione",
       "price": "$5.55",
@@ -9734,6 +9740,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T15:43:40",
-  "last_count": 1622
+  "last_run": "2026-09-18T15:44:40",
+  "last_count": 1623
 }
