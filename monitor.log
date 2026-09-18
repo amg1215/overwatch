@@ -42870,3 +42870,12 @@
 2026-09-18 16:24:14,035 INFO === Run started ===
 2026-09-18 16:24:40,921 INFO No new products (1634 tracked)
 2026-09-18 16:24:40,928 INFO === Run finished ===
+2026-09-18 16:25:14,323 INFO === Run started ===
+2026-09-18 16:25:42,008 INFO NEW/RESTOCKED products detected: 4
+2026-09-18 16:25:42,009 INFO   NEW: Kumano Salon Link Ex | $6.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4736&limit=100
+2026-09-18 16:25:42,009 INFO   NEW: Kumano Salon Link Ex | $6.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4601&limit=100
+2026-09-18 16:25:42,009 INFO   NEW: Kumano Salon Link Os | $6.82 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4728&limit=100
+2026-09-18 16:25:42,009 INFO   NEW: Kumano Salon Link Co | $6.82 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4539&limit=100
+2026-09-18 16:25:43,283 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-18 16:25:43,468 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-18 16:25:43,476 INFO === Run finished ===
