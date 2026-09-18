@@ -5580,6 +5580,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29399&limit=100",
       "stock": "n/a"
     },
+    "30612": {
+      "name": "Banpresto Cardcaptor",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30612&limit=100",
+      "stock": "n/a"
+    },
     "29405": {
       "name": "Banpresto Dragon Bal",
       "price": "$21.59",
@@ -9914,6 +9920,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T19:49:41",
-  "last_count": 1652
+  "last_run": "2026-09-18T19:50:43",
+  "last_count": 1653
 }
