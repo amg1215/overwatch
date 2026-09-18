@@ -7542,6 +7542,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12787&limit=100",
       "stock": "n/a"
     },
+    "9882": {
+      "name": "Meiji Chocolate Bisc",
+      "price": "$2.18",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9882&limit=100",
+      "stock": "n/a"
+    },
     "18847": {
       "name": "Meiji Bamboo Shoot S",
       "price": "$2.76",
@@ -9704,6 +9710,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T15:25:45",
-  "last_count": 1617
+  "last_run": "2026-09-18T15:26:39",
+  "last_count": 1618
 }
