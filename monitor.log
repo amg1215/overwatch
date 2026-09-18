@@ -43634,3 +43634,9 @@
 2026-09-18 20:15:14,948 INFO === Run started ===
 2026-09-18 20:15:41,963 INFO No new products (1664 tracked)
 2026-09-18 20:15:41,972 INFO === Run finished ===
+2026-09-18 20:16:17,907 INFO === Run started ===
+2026-09-18 20:16:45,861 INFO NEW/RESTOCKED products detected: 1
+2026-09-18 20:16:45,861 INFO   NEW: FuRyu Lucky Star Tri | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30609&limit=100
+2026-09-18 20:16:47,213 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-18 20:16:47,494 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-18 20:16:47,505 INFO === Run finished ===
