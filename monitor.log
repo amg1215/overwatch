@@ -43708,3 +43708,11 @@
 2026-09-18 20:31:37,992 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-18 20:31:38,353 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-18 20:31:38,360 INFO === Run finished ===
+2026-09-18 20:32:15,403 INFO === Run started ===
+2026-09-18 20:32:41,724 INFO NEW/RESTOCKED products detected: 3
+2026-09-18 20:32:41,724 INFO   NEW: Banpresto Haikyu!! S | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29533&limit=100
+2026-09-18 20:32:41,724 INFO   NEW: Banpresto Gakuen Ido | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30399&limit=100
+2026-09-18 20:32:41,724 INFO   NEW: Banpresto The Apothe | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30611&limit=100
+2026-09-18 20:32:42,798 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-18 20:32:43,094 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-18 20:32:43,104 INFO === Run finished ===
