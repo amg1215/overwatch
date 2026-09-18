@@ -6360,12 +6360,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18541&limit=100",
       "stock": "n/a"
     },
-    "23765": {
-      "name": "Lotte Caramel Milk C",
-      "price": "$3.55",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23765&limit=100",
-      "stock": "n/a"
-    },
     "3143": {
       "name": "Lotte Doraemon Choco",
       "price": "$1.43",
@@ -9632,6 +9626,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T13:42:49",
-  "last_count": 1605
+  "last_run": "2026-09-18T13:43:37",
+  "last_count": 1604
 }
