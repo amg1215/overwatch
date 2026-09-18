@@ -5772,6 +5772,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30399&limit=100",
       "stock": "n/a"
     },
+    "30409": {
+      "name": "Banpresto Time I Got",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30409&limit=100",
+      "stock": "n/a"
+    },
     "30400": {
       "name": "Banpresto My Hero Ac",
       "price": "$27.59",
@@ -5896,6 +5902,12 @@
       "name": "Sega Fave Demon Slay",
       "price": "$27.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51724&limit=100",
+      "stock": "n/a"
+    },
+    "30112": {
+      "name": "FuRyu Death Note Noo",
+      "price": "$20.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30112&limit=100",
       "stock": "n/a"
     },
     "30609": {
@@ -10082,6 +10094,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T20:53:39",
-  "last_count": 1680
+  "last_run": "2026-09-18T20:54:46",
+  "last_count": 1682
 }
