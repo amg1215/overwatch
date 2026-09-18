@@ -43821,3 +43821,10 @@
 2026-09-18 20:57:39,522 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-18 20:57:39,938 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-18 20:57:39,945 INFO === Run finished ===
+2026-09-18 20:58:13,511 INFO === Run started ===
+2026-09-18 20:58:41,361 INFO NEW/RESTOCKED products detected: 2
+2026-09-18 20:58:41,361 INFO   NEW: Taito Hatsune Miku D | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30720&limit=100
+2026-09-18 20:58:41,361 INFO   NEW: BANDAI SPIRITS Pokém | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30722&limit=100
+2026-09-18 20:58:42,513 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-18 20:58:42,976 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-18 20:58:42,985 INFO === Run finished ===
