@@ -6000,12 +6000,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19519&limit=100",
       "stock": "n/a"
     },
-    "1701": {
-      "name": "Sunstar B5 Painting",
-      "price": "$2.39",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1701&limit=100",
-      "stock": "n/a"
-    },
     "13850": {
       "name": "Sunstar Coloring Boo",
       "price": "$2.08",
@@ -8940,6 +8934,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5314&limit=100",
       "stock": "n/a"
     },
+    "10246": {
+      "name": "Surf Muscat Green Te",
+      "price": "$1.45",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10246&limit=100",
+      "stock": "n/a"
+    },
     "4019": {
       "name": "Tomomasu Durian Soda",
       "price": "$1.50",
@@ -9800,6 +9800,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T16:11:38",
+  "last_run": "2026-09-18T16:12:43",
   "last_count": 1633
 }
