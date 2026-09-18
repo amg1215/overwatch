@@ -3366,6 +3366,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12637&limit=100",
       "stock": "n/a"
     },
+    "12638": {
+      "name": "2 Way World Tonari P",
+      "price": "$3.97",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12638&limit=100",
+      "stock": "n/a"
+    },
     "21973": {
       "name": "Masse molly Eau de T",
       "price": "$4.48",
@@ -10034,6 +10040,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T20:27:44",
-  "last_count": 1672
+  "last_run": "2026-09-18T20:28:42",
+  "last_count": 1673
 }
