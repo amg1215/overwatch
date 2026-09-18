@@ -8622,6 +8622,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14950&limit=100",
       "stock": "n/a"
     },
+    "29519": {
+      "name": "SUNTORY Dakara W Vit",
+      "price": "$1.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29519&limit=100",
+      "stock": "n/a"
+    },
     "29516": {
       "name": "SUNTORY Kyoto Lemona",
       "price": "$1.49",
@@ -9638,6 +9644,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T14:20:43",
-  "last_count": 1606
+  "last_run": "2026-09-18T14:21:41",
+  "last_count": 1607
 }
