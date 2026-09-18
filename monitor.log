@@ -42275,3 +42275,11 @@
 2026-09-18 13:38:39,234 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-18 13:38:39,417 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-18 13:38:39,427 INFO === Run finished ===
+2026-09-18 13:39:20,030 INFO === Run started ===
+2026-09-18 13:39:44,394 INFO NEW/RESTOCKED products detected: 3
+2026-09-18 13:39:44,394 INFO   NEW: S.T. Room Deodorant | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5804&limit=100
+2026-09-18 13:39:44,394 INFO   NEW: S.T. Indoor Aromathe | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=909&limit=100
+2026-09-18 13:39:44,394 INFO   NEW: Kobayashi Miss Foot | $5.12 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5229&limit=100
+2026-09-18 13:39:45,654 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-18 13:39:45,859 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-18 13:39:45,865 INFO === Run finished ===
