@@ -43022,3 +43022,9 @@
 2026-09-18 17:07:48,343 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-18 17:07:48,555 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-18 17:07:48,563 INFO === Run finished ===
+2026-09-18 17:08:17,675 INFO === Run started ===
+2026-09-18 17:08:43,581 INFO NEW/RESTOCKED products detected: 1
+2026-09-18 17:08:43,581 INFO   NEW: TARAMI Fruit Jelly B | $1.24 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50213&limit=100
+2026-09-18 17:08:44,535 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-18 17:08:44,653 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-18 17:08:44,663 INFO === Run finished ===
