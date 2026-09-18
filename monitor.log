@@ -42766,3 +42766,10 @@
 2026-09-18 16:00:28,174 INFO === Run started ===
 2026-09-18 16:00:53,792 INFO No new products (1626 tracked)
 2026-09-18 16:00:53,875 INFO === Run finished ===
+2026-09-18 16:01:18,549 INFO === Run started ===
+2026-09-18 16:01:44,928 INFO NEW/RESTOCKED products detected: 2
+2026-09-18 16:01:44,928 INFO   NEW: Kobayashi SAVON Toil | $3.82 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1954&limit=100
+2026-09-18 16:01:44,928 INFO   NEW: Kobayashi Toilet Fra | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29869&limit=100
+2026-09-18 16:01:46,882 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-18 16:01:47,102 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-18 16:01:47,109 INFO === Run finished ===
