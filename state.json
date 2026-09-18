@@ -5520,6 +5520,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20020&limit=100",
       "stock": "n/a"
     },
+    "30115": {
+      "name": "Taito To Love-Ru Dar",
+      "price": "$23.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30115&limit=100",
+      "stock": "n/a"
+    },
     "30114": {
       "name": "Taito Overlord Deskt",
       "price": "$23.99",
@@ -10100,6 +10106,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T20:56:42",
-  "last_count": 1683
+  "last_run": "2026-09-18T20:57:39",
+  "last_count": 1684
 }
