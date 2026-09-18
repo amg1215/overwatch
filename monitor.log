@@ -42756,3 +42756,10 @@
 2026-09-18 15:57:13,333 INFO === Run started ===
 2026-09-18 15:57:38,392 INFO No new products (1624 tracked)
 2026-09-18 15:57:38,440 INFO === Run finished ===
+2026-09-18 15:58:49,847 INFO === Run started ===
+2026-09-18 15:59:17,183 INFO NEW/RESTOCKED products detected: 2
+2026-09-18 15:59:17,183 INFO   NEW: Morinaga Condensed M | $2.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30736&limit=100
+2026-09-18 15:59:17,183 INFO   NEW: Meisei Soy Sauce Ram | $3.50 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13896&limit=100
+2026-09-18 15:59:18,337 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-18 15:59:18,537 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-18 15:59:18,546 INFO === Run finished ===
