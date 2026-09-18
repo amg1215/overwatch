@@ -43868,3 +43868,9 @@
 2026-09-18 21:09:16,852 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-18 21:09:17,069 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-18 21:09:17,079 INFO === Run finished ===
+2026-09-18 21:10:17,584 INFO === Run started ===
+2026-09-18 21:10:42,625 INFO NEW/RESTOCKED products detected: 1
+2026-09-18 21:10:42,625 INFO   NEW: Sega Jujutsu Kaisen | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30471&limit=100
+2026-09-18 21:10:44,133 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-18 21:10:44,330 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-18 21:10:44,335 INFO === Run finished ===
