@@ -42861,3 +42861,9 @@
 2026-09-18 16:22:13,757 INFO === Run started ===
 2026-09-18 16:22:42,830 INFO No new products (1633 tracked)
 2026-09-18 16:22:42,838 INFO === Run finished ===
+2026-09-18 16:23:10,696 INFO === Run started ===
+2026-09-18 16:23:37,813 INFO NEW/RESTOCKED products detected: 1
+2026-09-18 16:23:37,813 INFO   NEW: Calbee CRISP Potato | $1.05 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30725&limit=100
+2026-09-18 16:23:39,780 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-18 16:23:39,956 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-18 16:23:39,965 INFO === Run finished ===

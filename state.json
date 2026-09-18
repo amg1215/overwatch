@@ -8070,6 +8070,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30477&limit=100",
       "stock": "n/a"
     },
+    "30725": {
+      "name": "Calbee CRISP Potato",
+      "price": "$1.05",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30725&limit=100",
+      "stock": "n/a"
+    },
     "24036": {
       "name": "KOIKEYA Karamujyu Ch",
       "price": "$0.89",
@@ -9800,6 +9806,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T16:22:42",
-  "last_count": 1633
+  "last_run": "2026-09-18T16:23:39",
+  "last_count": 1634
 }
