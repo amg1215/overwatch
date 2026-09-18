@@ -43906,3 +43906,9 @@
 2026-09-18 21:17:45,662 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-18 21:17:45,885 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-18 21:17:45,895 INFO === Run finished ===
+2026-09-18 21:18:12,413 INFO === Run started ===
+2026-09-18 21:18:40,293 INFO NEW/RESTOCKED products detected: 1
+2026-09-18 21:18:40,294 INFO   NEW: S.T. Car Deodorizing | $5.03 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8949&limit=100
+2026-09-18 21:18:42,638 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-18 21:18:42,924 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-18 21:18:42,933 INFO === Run finished ===
