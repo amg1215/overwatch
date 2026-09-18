@@ -42378,3 +42378,9 @@
 2026-09-18 14:07:11,497 INFO === Run started ===
 2026-09-18 14:07:39,279 INFO No new products (1605 tracked)
 2026-09-18 14:07:39,288 INFO === Run finished ===
+2026-09-18 14:08:13,430 INFO === Run started ===
+2026-09-18 14:08:42,000 INFO NEW/RESTOCKED products detected: 1
+2026-09-18 14:08:42,000 INFO   NEW: SUNTORY Kyoto Lemona | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29516&limit=100
+2026-09-18 14:08:43,773 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-18 14:08:44,034 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-18 14:08:44,044 INFO === Run finished ===
