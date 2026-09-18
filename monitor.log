@@ -43702,3 +43702,9 @@
 2026-09-18 20:30:19,084 INFO === Run started ===
 2026-09-18 20:30:45,518 INFO No new products (1673 tracked)
 2026-09-18 20:30:45,527 INFO === Run finished ===
+2026-09-18 20:31:11,755 INFO === Run started ===
+2026-09-18 20:31:35,571 INFO NEW/RESTOCKED products detected: 1
+2026-09-18 20:31:35,571 INFO   NEW: BANDAI SPIRITS Banpr | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51571&limit=100
+2026-09-18 20:31:37,992 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-18 20:31:38,353 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-18 20:31:38,360 INFO === Run finished ===

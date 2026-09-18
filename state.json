@@ -5982,6 +5982,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51718&limit=100",
       "stock": "n/a"
     },
+    "51571": {
+      "name": "BANDAI SPIRITS Banpr",
+      "price": "$27.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51571&limit=100",
+      "stock": "n/a"
+    },
     "51676": {
       "name": "BANDAI SPIRITS Banpr",
       "price": "$27.59",
@@ -10040,6 +10046,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-18T20:30:45",
-  "last_count": 1673
+  "last_run": "2026-09-18T20:31:38",
+  "last_count": 1674
 }
