@@ -44030,3 +44030,10 @@
 2026-09-18 21:46:42,630 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-18 21:46:42,853 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-18 21:46:42,861 INFO === Run finished ===
+2026-09-18 21:47:47,722 INFO === Run started ===
+2026-09-18 21:48:16,211 INFO NEW/RESTOCKED products detected: 2
+2026-09-18 21:48:16,211 INFO   NEW: BeeCruise Lovisia Po | $1.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30671&limit=100
+2026-09-18 21:48:16,211 INFO   NEW: Ost Plush Doll Smile | $7.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15089&limit=100
+2026-09-18 21:48:17,237 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-18 21:48:17,328 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-18 21:48:17,338 INFO === Run finished ===
