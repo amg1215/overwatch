@@ -51016,3 +51016,9 @@
 2026-09-19 19:54:38,359 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-19 19:54:38,439 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-19 19:54:38,449 INFO === Run finished ===
+2026-09-19 19:55:12,283 INFO === Run started ===
+2026-09-19 19:55:36,950 INFO NEW/RESTOCKED products detected: 1
+2026-09-19 19:55:36,950 INFO   NEW: Koikeya Potato Chips | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27077&limit=100
+2026-09-19 19:55:38,829 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-19 19:55:38,895 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-19 19:55:38,903 INFO === Run finished ===
