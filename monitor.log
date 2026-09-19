@@ -51338,3 +51338,9 @@
 2026-09-19 21:10:51,122 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-19 21:10:51,418 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-19 21:10:51,428 INFO === Run finished ===
+2026-09-19 21:11:12,089 INFO === Run started ===
+2026-09-19 21:11:42,604 INFO NEW/RESTOCKED products detected: 1
+2026-09-19 21:11:42,604 INFO   NEW: Calbee Pizza Potato | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31081&limit=100
+2026-09-19 21:11:44,685 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-19 21:11:45,074 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-19 21:11:45,085 INFO === Run finished ===

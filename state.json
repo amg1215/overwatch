@@ -8646,6 +8646,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22542&limit=100",
       "stock": "n/a"
     },
+    "31081": {
+      "name": "Calbee Pizza Potato",
+      "price": "$1.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31081&limit=100",
+      "stock": "n/a"
+    },
     "30476": {
       "name": "Calbee Summer Exclus",
       "price": "$1.49",
@@ -10484,6 +10490,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-19T21:10:51",
-  "last_count": 1747
+  "last_run": "2026-09-19T21:11:45",
+  "last_count": 1748
 }
