@@ -51325,3 +51325,9 @@
 2026-09-19 21:08:11,166 INFO === Run started ===
 2026-09-19 21:08:38,938 INFO No new products (1744 tracked)
 2026-09-19 21:08:38,947 INFO === Run finished ===
+2026-09-19 21:09:09,523 INFO === Run started ===
+2026-09-19 21:09:37,620 INFO NEW/RESTOCKED products detected: 1
+2026-09-19 21:09:37,620 INFO   NEW: Yaokin Sour Paper Ca | $0.24 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28466&limit=100
+2026-09-19 21:09:38,605 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-19 21:09:38,821 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-19 21:09:38,831 INFO === Run finished ===
