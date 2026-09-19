@@ -51099,3 +51099,12 @@
 2026-09-19 20:10:50,104 INFO === Run started ===
 2026-09-19 20:11:17,271 INFO No new products (1715 tracked)
 2026-09-19 20:11:17,281 INFO === Run finished ===
+2026-09-19 20:12:42,801 INFO === Run started ===
+2026-09-19 20:13:11,990 INFO NEW/RESTOCKED products detected: 4
+2026-09-19 20:13:11,990 INFO   NEW: Samritsu Genji Mille | $2.32 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27078&limit=100
+2026-09-19 20:13:11,990 INFO   NEW: YBC Chip Star Potato | $2.77 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3870&limit=100
+2026-09-19 20:13:11,990 INFO   NEW: YBC Chip Star L Pota | $2.77 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27083&limit=100
+2026-09-19 20:13:11,990 INFO   NEW: Sanyo Samyang Ramen | $1.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26497&limit=100
+2026-09-19 20:13:13,684 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-19 20:13:13,948 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-19 20:13:13,959 INFO === Run finished ===
