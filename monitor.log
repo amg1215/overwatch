@@ -50956,3 +50956,9 @@
 2026-09-19 19:37:12,135 INFO === Run started ===
 2026-09-19 19:37:36,871 INFO No new products (1697 tracked)
 2026-09-19 19:37:36,876 INFO === Run finished ===
+2026-09-19 19:38:11,779 INFO === Run started ===
+2026-09-19 19:38:38,396 INFO NEW/RESTOCKED products detected: 1
+2026-09-19 19:38:38,396 INFO   NEW: I.P. SYSTEM Cloud-sh | $1.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4421&limit=100
+2026-09-19 19:38:41,708 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-19 19:38:41,842 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-19 19:38:41,852 INFO === Run finished ===
