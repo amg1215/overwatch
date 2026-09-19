@@ -51237,3 +51237,9 @@
 2026-09-19 20:47:41,403 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-19 20:47:41,531 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-19 20:47:41,542 INFO === Run finished ===
+2026-09-19 20:48:12,827 INFO === Run started ===
+2026-09-19 20:48:39,838 INFO NEW/RESTOCKED products detected: 1
+2026-09-19 20:48:39,838 INFO   NEW: Koikeya STRONG Potat | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31079&limit=100
+2026-09-19 20:48:41,277 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-19 20:48:41,487 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-19 20:48:41,495 INFO === Run finished ===
