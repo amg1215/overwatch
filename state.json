@@ -1848,6 +1848,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29936&limit=100",
       "stock": "n/a"
     },
+    "7712": {
+      "name": "Inomata Remote Contr",
+      "price": "$1.55",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7712&limit=100",
+      "stock": "n/a"
+    },
     "7714": {
       "name": "Inomata Remote Contr",
       "price": "$1.53",
@@ -10190,6 +10196,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-19T17:24:41",
-  "last_count": 1698
+  "last_run": "2026-09-19T17:25:39",
+  "last_count": 1699
 }
