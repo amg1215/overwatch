@@ -51108,3 +51108,11 @@
 2026-09-19 20:13:13,684 INFO Email sent: Ebisu: 4 new/restocked items!
 2026-09-19 20:13:13,948 INFO ntfy push sent: Ebisu: 4 new/restocked items!
 2026-09-19 20:13:13,959 INFO === Run finished ===
+2026-09-19 20:14:11,134 INFO === Run started ===
+2026-09-19 20:14:38,762 INFO NEW/RESTOCKED products detected: 3
+2026-09-19 20:14:38,762 INFO   NEW: Kao Nivea High Moist | $6.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2024&limit=100
+2026-09-19 20:14:38,762 INFO   NEW: Samritsu Matcha Butt | $1.98 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23116&limit=100
+2026-09-19 20:14:38,762 INFO   NEW: Furuta Confectionery | $1.12 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31086&limit=100
+2026-09-19 20:14:39,691 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-19 20:14:39,977 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-19 20:14:39,987 INFO === Run finished ===

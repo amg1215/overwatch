@@ -3024,6 +3024,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11854&limit=100",
       "stock": "n/a"
     },
+    "2024": {
+      "name": "Kao Nivea High Moist",
+      "price": "$6.53",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2024&limit=100",
+      "stock": "n/a"
+    },
     "14453": {
       "name": "Mandom Lip Scrub 10g",
       "price": "$7.64",
@@ -7956,6 +7962,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30726&limit=100",
       "stock": "n/a"
     },
+    "23116": {
+      "name": "Samritsu Matcha Butt",
+      "price": "$1.98",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23116&limit=100",
+      "stock": "n/a"
+    },
     "30729": {
       "name": "Sanritsu Confectione",
       "price": "$1.92",
@@ -9094,6 +9106,12 @@
       "name": "Kracie Popin’ Cookin",
       "price": "$3.00",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23275&limit=100",
+      "stock": "n/a"
+    },
+    "31086": {
+      "name": "Furuta Confectionery",
+      "price": "$1.12",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31086&limit=100",
       "stock": "n/a"
     },
     "31016": {
@@ -10316,6 +10334,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-19T20:13:13",
-  "last_count": 1719
+  "last_run": "2026-09-19T20:14:39",
+  "last_count": 1722
 }
