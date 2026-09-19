@@ -51214,3 +51214,11 @@
 2026-09-19 20:43:11,348 INFO === Run started ===
 2026-09-19 20:43:38,011 INFO No new products (1727 tracked)
 2026-09-19 20:43:38,019 INFO === Run finished ===
+2026-09-19 20:44:13,724 INFO === Run started ===
+2026-09-19 20:44:41,829 INFO NEW/RESTOCKED products detected: 3
+2026-09-19 20:44:41,829 INFO   NEW: Ito Confectionery Wh | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23109&limit=100
+2026-09-19 20:44:41,829 INFO   NEW: Ito Confectionery Co | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24099&limit=100
+2026-09-19 20:44:41,830 INFO   NEW: Ito Colorful Chocola | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27074&limit=100
+2026-09-19 20:44:43,402 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-19 20:44:43,603 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-19 20:44:43,616 INFO === Run finished ===

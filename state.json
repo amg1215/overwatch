@@ -7914,6 +7914,24 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22180&limit=100",
       "stock": "n/a"
     },
+    "23109": {
+      "name": "Ito Confectionery Wh",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23109&limit=100",
+      "stock": "n/a"
+    },
+    "24099": {
+      "name": "Ito Confectionery Co",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24099&limit=100",
+      "stock": "n/a"
+    },
+    "27074": {
+      "name": "Ito Colorful Chocola",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27074&limit=100",
+      "stock": "n/a"
+    },
     "15515": {
       "name": "Ito Sandwich Cookies",
       "price": "$2.09",
@@ -10364,6 +10382,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-19T20:43:38",
-  "last_count": 1727
+  "last_run": "2026-09-19T20:44:43",
+  "last_count": 1730
 }
