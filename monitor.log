@@ -51067,3 +51067,9 @@
 2026-09-19 20:04:11,446 INFO === Run started ===
 2026-09-19 20:04:40,151 INFO No new products (1709 tracked)
 2026-09-19 20:04:40,160 INFO === Run finished ===
+2026-09-19 20:05:14,162 INFO === Run started ===
+2026-09-19 20:05:39,261 INFO NEW/RESTOCKED products detected: 1
+2026-09-19 20:05:39,262 INFO   NEW: Sanyo High Protein P | $3.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26503&limit=100
+2026-09-19 20:05:42,350 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-19 20:05:42,538 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-19 20:05:42,621 INFO === Run finished ===

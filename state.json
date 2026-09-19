@@ -10134,6 +10134,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26502&limit=100",
       "stock": "n/a"
     },
+    "26503": {
+      "name": "Sanyo High Protein P",
+      "price": "$3.15",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26503&limit=100",
+      "stock": "n/a"
+    },
     "12206": {
       "name": "Samyang Buldak Topok",
       "price": "$3.61",
@@ -10256,6 +10262,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-19T20:04:40",
-  "last_count": 1709
+  "last_run": "2026-09-19T20:05:42",
+  "last_count": 1710
 }
