@@ -6246,6 +6246,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51156&limit=100",
       "stock": "n/a"
     },
+    "51155": {
+      "name": "FuRyu Frieren Beyond",
+      "price": "$20.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51155&limit=100",
+      "stock": "n/a"
+    },
     "50800": {
       "name": "FuRyu Frieren Beyond",
       "price": "$21.59",
@@ -6316,12 +6322,6 @@
       "name": "Banpresto Ultraman H",
       "price": "$21.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51882&limit=100",
-      "stock": "n/a"
-    },
-    "52031": {
-      "name": "Banpresto Godzilla-1",
-      "price": "$23.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=52031&limit=100",
       "stock": "n/a"
     },
     "52032": {
@@ -10166,6 +10166,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-19T16:55:41",
+  "last_run": "2026-09-19T16:56:47",
   "last_count": 1694
 }
