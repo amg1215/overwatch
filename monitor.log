@@ -51315,3 +51315,10 @@
 2026-09-19 21:06:41,738 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-19 21:06:42,046 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-19 21:06:42,055 INFO === Run finished ===
+2026-09-19 21:07:12,678 INFO === Run started ===
+2026-09-19 21:07:40,781 INFO NEW/RESTOCKED products detected: 2
+2026-09-19 21:07:40,781 INFO   NEW: Lotte Gum Bottle Min | $7.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15796&limit=100
+2026-09-19 21:07:40,782 INFO   NEW: Sanyo Turkey Stir-fr | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24829&limit=100
+2026-09-19 21:07:42,419 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-19 21:07:42,601 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-19 21:07:42,611 INFO === Run finished ===

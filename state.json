@@ -7296,6 +7296,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22182&limit=100",
       "stock": "n/a"
     },
+    "15796": {
+      "name": "Lotte Gum Bottle Min",
+      "price": "$7.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15796&limit=100",
+      "stock": "n/a"
+    },
     "243": {
       "name": "Sakuma Canned Candy",
       "price": "$2.00",
@@ -10302,6 +10308,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24830&limit=100",
       "stock": "n/a"
     },
+    "24829": {
+      "name": "Sanyo Turkey Stir-fr",
+      "price": "$1.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24829&limit=100",
+      "stock": "n/a"
+    },
     "24268": {
       "name": "Sanyo Spicy Chicken",
       "price": "$1.79",
@@ -10454,6 +10466,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-19T21:06:42",
-  "last_count": 1742
+  "last_run": "2026-09-19T21:07:42",
+  "last_count": 1744
 }
