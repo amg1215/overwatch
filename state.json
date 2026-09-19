@@ -10266,6 +10266,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24268&limit=100",
       "stock": "n/a"
     },
+    "26498": {
+      "name": "Sanyo Samyang Ramen",
+      "price": "$1.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26498&limit=100",
+      "stock": "n/a"
+    },
     "26502": {
       "name": "Sanyo Pasta Cup Garl",
       "price": "$3.15",
@@ -10400,6 +10406,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-19T20:48:41",
-  "last_count": 1733
+  "last_run": "2026-09-19T20:49:45",
+  "last_count": 1734
 }

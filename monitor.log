@@ -51243,3 +51243,9 @@
 2026-09-19 20:48:41,277 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-19 20:48:41,487 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-19 20:48:41,495 INFO === Run finished ===
+2026-09-19 20:49:14,996 INFO === Run started ===
+2026-09-19 20:49:43,650 INFO NEW/RESTOCKED products detected: 1
+2026-09-19 20:49:43,650 INFO   NEW: Sanyo Samyang Ramen | $1.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26498&limit=100
+2026-09-19 20:49:45,520 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-19 20:49:45,796 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-19 20:49:45,806 INFO === Run finished ===
