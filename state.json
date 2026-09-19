@@ -9162,6 +9162,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31086&limit=100",
       "stock": "n/a"
     },
+    "31091": {
+      "name": "Furuta Confectionery",
+      "price": "$2.89",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31091&limit=100",
+      "stock": "n/a"
+    },
     "31016": {
       "name": "T-ARTS Pokémon Tradi",
       "price": "$1.09",
@@ -10388,6 +10394,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-19T20:46:41",
-  "last_count": 1731
+  "last_run": "2026-09-19T20:47:41",
+  "last_count": 1732
 }

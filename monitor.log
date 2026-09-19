@@ -51231,3 +51231,9 @@
 2026-09-19 20:46:41,038 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-19 20:46:41,179 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-19 20:46:41,189 INFO === Run finished ===
+2026-09-19 20:47:10,466 INFO === Run started ===
+2026-09-19 20:47:38,402 INFO NEW/RESTOCKED products detected: 1
+2026-09-19 20:47:38,402 INFO   NEW: Furuta Confectionery | $2.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31091&limit=100
+2026-09-19 20:47:41,403 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-19 20:47:41,531 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-19 20:47:41,542 INFO === Run finished ===
