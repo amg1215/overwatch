@@ -51057,3 +51057,10 @@
 2026-09-19 20:02:11,604 INFO === Run started ===
 2026-09-19 20:02:39,041 INFO No new products (1707 tracked)
 2026-09-19 20:02:39,050 INFO === Run finished ===
+2026-09-19 20:03:10,415 INFO === Run started ===
+2026-09-19 20:03:40,078 INFO NEW/RESTOCKED products detected: 2
+2026-09-19 20:03:40,078 INFO   NEW: Pine Peaches Candy 8 | $1.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2410&limit=100
+2026-09-19 20:03:40,078 INFO   NEW: Ito High Calcium Mil | $1.97 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27075&limit=100
+2026-09-19 20:03:42,002 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-19 20:03:42,250 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-19 20:03:42,260 INFO === Run finished ===
