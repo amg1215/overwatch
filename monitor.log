@@ -50240,3 +50240,10 @@
 2026-09-19 15:44:40,630 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-19 15:44:40,855 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-19 15:44:40,865 INFO === Run finished ===
+2026-09-19 15:45:14,494 INFO === Run started ===
+2026-09-19 15:45:38,250 INFO NEW/RESTOCKED products detected: 2
+2026-09-19 15:45:38,250 INFO   NEW: BeeCruise Lovisia Po | $1.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30669&limit=100
+2026-09-19 15:45:38,250 INFO   NEW: BeeCruise Lovisia Po | $1.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30672&limit=100
+2026-09-19 15:45:41,156 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-19 15:45:41,299 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-19 15:45:41,304 INFO === Run finished ===
