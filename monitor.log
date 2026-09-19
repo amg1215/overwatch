@@ -51045,3 +51045,9 @@
 2026-09-19 19:59:44,641 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-19 19:59:45,132 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-19 19:59:45,142 INFO === Run finished ===
+2026-09-19 20:00:21,156 INFO === Run started ===
+2026-09-19 20:00:48,992 INFO NEW/RESTOCKED products detected: 1
+2026-09-19 20:00:48,992 INFO   NEW: Sanyo Pasta Cup Garl | $3.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26502&limit=100
+2026-09-19 20:00:50,574 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-19 20:00:50,815 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-19 20:00:50,826 INFO === Run finished ===
