@@ -51259,3 +51259,9 @@
 2026-09-19 20:52:16,711 INFO === Run started ===
 2026-09-19 20:52:45,167 INFO No new products (1736 tracked)
 2026-09-19 20:52:45,177 INFO === Run finished ===
+2026-09-19 20:53:09,619 INFO === Run started ===
+2026-09-19 20:53:34,569 INFO NEW/RESTOCKED products detected: 1
+2026-09-19 20:53:34,569 INFO   NEW: Sanyo Cheese Buldak | $2.03 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13526&limit=100
+2026-09-19 20:53:35,962 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-19 20:53:36,172 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-19 20:53:36,177 INFO === Run finished ===
