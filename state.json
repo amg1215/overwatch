@@ -2334,6 +2334,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3462&limit=100",
       "stock": "n/a"
     },
+    "4083": {
+      "name": "Skater Dry Hair Cap",
+      "price": "$8.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4083&limit=100",
+      "stock": "n/a"
+    },
     "228": {
       "name": "Earth Drain Bubble C",
       "price": "$6.59",
@@ -10160,6 +10166,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-19T16:33:35",
-  "last_count": 1693
+  "last_run": "2026-09-19T16:34:41",
+  "last_count": 1694
 }
