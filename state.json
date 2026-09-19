@@ -5646,12 +5646,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30403&limit=100",
       "stock": "n/a"
     },
-    "30720": {
-      "name": "Taito Hatsune Miku D",
-      "price": "$23.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30720&limit=100",
-      "stock": "n/a"
-    },
     "51433": {
       "name": "Taito To LOVE-Ru Dar",
       "price": "$21.59",
@@ -10004,6 +9998,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-19T14:47:36",
-  "last_count": 1667
+  "last_run": "2026-09-19T14:48:37",
+  "last_count": 1666
 }
