@@ -51287,3 +51287,10 @@
 2026-09-19 20:58:40,855 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-19 20:58:40,999 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-19 20:58:41,008 INFO === Run finished ===
+2026-09-19 20:59:10,836 INFO === Run started ===
+2026-09-19 20:59:37,568 INFO NEW/RESTOCKED products detected: 2
+2026-09-19 20:59:37,568 INFO   NEW: Bourbon Mini Strawbe | $0.78 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22656&limit=100
+2026-09-19 20:59:37,568 INFO   NEW: Bourbon Potato Chips | $0.78 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12225&limit=100
+2026-09-19 20:59:40,552 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-19 20:59:40,730 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-19 20:59:40,741 INFO === Run finished ===

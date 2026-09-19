@@ -7974,6 +7974,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24101&limit=100",
       "stock": "n/a"
     },
+    "22656": {
+      "name": "Bourbon Mini Strawbe",
+      "price": "$0.78",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22656&limit=100",
+      "stock": "n/a"
+    },
     "29543": {
       "name": "Bourbon Chocolate Sa",
       "price": "$2.99",
@@ -8758,6 +8764,12 @@
       "name": "Koikeya Polinky Shri",
       "price": "$1.38",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30881&limit=100",
+      "stock": "n/a"
+    },
+    "12225": {
+      "name": "Bourbon Potato Chips",
+      "price": "$0.78",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12225&limit=100",
       "stock": "n/a"
     },
     "31587": {
@@ -10442,6 +10454,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-19T20:58:41",
-  "last_count": 1740
+  "last_run": "2026-09-19T20:59:40",
+  "last_count": 1742
 }
