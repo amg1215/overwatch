@@ -7968,6 +7968,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2083&limit=100",
       "stock": "n/a"
     },
+    "2482": {
+      "name": "Bourbon Raisin Sandw",
+      "price": "$3.16",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2482&limit=100",
+      "stock": "n/a"
+    },
     "17551": {
       "name": "Bourbon Oreo Cookies",
       "price": "$0.78",
@@ -7984,6 +7990,12 @@
       "name": "Bourbon Mini Strawbe",
       "price": "$0.78",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22656&limit=100",
+      "stock": "n/a"
+    },
+    "26476": {
+      "name": "Bourbon Petit Mini S",
+      "price": "$0.78",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26476&limit=100",
       "stock": "n/a"
     },
     "29543": {
@@ -10472,6 +10484,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-19T21:09:38",
-  "last_count": 1745
+  "last_run": "2026-09-19T21:10:51",
+  "last_count": 1747
 }

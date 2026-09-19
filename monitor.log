@@ -51331,3 +51331,10 @@
 2026-09-19 21:09:38,605 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-19 21:09:38,821 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-19 21:09:38,831 INFO === Run finished ===
+2026-09-19 21:10:20,468 INFO === Run started ===
+2026-09-19 21:10:49,314 INFO NEW/RESTOCKED products detected: 2
+2026-09-19 21:10:49,315 INFO   NEW: Bourbon Raisin Sandw | $3.16 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2482&limit=100
+2026-09-19 21:10:49,315 INFO   NEW: Bourbon Petit Mini S | $0.78 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26476&limit=100
+2026-09-19 21:10:51,122 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-19 21:10:51,418 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-19 21:10:51,428 INFO === Run finished ===
