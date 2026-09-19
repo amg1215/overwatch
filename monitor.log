@@ -51249,3 +51249,10 @@
 2026-09-19 20:49:45,520 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-19 20:49:45,796 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-19 20:49:45,806 INFO === Run finished ===
+2026-09-19 20:50:51,513 INFO === Run started ===
+2026-09-19 20:51:19,651 INFO NEW/RESTOCKED products detected: 2
+2026-09-19 20:51:19,652 INFO   NEW: Bourbon Oreo Cookies | $0.78 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17551&limit=100
+2026-09-19 20:51:19,652 INFO   NEW: Frito-Lay Corn Stick | $1.44 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21895&limit=100
+2026-09-19 20:51:21,241 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-19 20:51:21,483 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-19 20:51:21,493 INFO === Run finished ===
