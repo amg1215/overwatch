@@ -51039,3 +51039,9 @@
 2026-09-19 19:58:43,862 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-19 19:58:44,175 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-19 19:58:44,181 INFO === Run finished ===
+2026-09-19 19:59:14,399 INFO === Run started ===
+2026-09-19 19:59:43,437 INFO NEW/RESTOCKED products detected: 1
+2026-09-19 19:59:43,438 INFO   NEW: Hokka Gudetama Biscu | $1.67 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3867&limit=100
+2026-09-19 19:59:44,641 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-19 19:59:45,132 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-19 19:59:45,142 INFO === Run finished ===
