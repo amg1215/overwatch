@@ -51225,3 +51225,9 @@
 2026-09-19 20:45:14,734 INFO === Run started ===
 2026-09-19 20:45:42,300 INFO No new products (1730 tracked)
 2026-09-19 20:45:42,309 INFO === Run finished ===
+2026-09-19 20:46:12,976 INFO === Run started ===
+2026-09-19 20:46:40,110 INFO NEW/RESTOCKED products detected: 1
+2026-09-19 20:46:40,111 INFO   NEW: Koikeya STRONG Potat | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31080&limit=100
+2026-09-19 20:46:41,038 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-19 20:46:41,179 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-19 20:46:41,189 INFO === Run finished ===
