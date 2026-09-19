@@ -7974,6 +7974,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30891&limit=100",
       "stock": "n/a"
     },
+    "5341": {
+      "name": "Nanao Mango Cream Cr",
+      "price": "$1.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5341&limit=100",
+      "stock": "n/a"
+    },
     "5343": {
       "name": "Nanao Strawberry Cre",
       "price": "$1.99",
@@ -8950,6 +8956,12 @@
       "name": "Marutama Octopus & Q",
       "price": "$1.14",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9930&limit=100",
+      "stock": "n/a"
+    },
+    "17271": {
+      "name": "Maruka Nori Tempura",
+      "price": "$2.65",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17271&limit=100",
       "stock": "n/a"
     },
     "30817": {
@@ -10262,6 +10274,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-19T20:05:42",
-  "last_count": 1710
+  "last_run": "2026-09-19T20:06:42",
+  "last_count": 1712
 }

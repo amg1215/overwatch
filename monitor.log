@@ -51073,3 +51073,10 @@
 2026-09-19 20:05:42,350 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-19 20:05:42,538 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-19 20:05:42,621 INFO === Run finished ===
+2026-09-19 20:06:12,062 INFO === Run started ===
+2026-09-19 20:06:40,413 INFO NEW/RESTOCKED products detected: 2
+2026-09-19 20:06:40,413 INFO   NEW: Nanao Mango Cream Cr | $1.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5341&limit=100
+2026-09-19 20:06:40,413 INFO   NEW: Maruka Nori Tempura | $2.65 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17271&limit=100
+2026-09-19 20:06:42,170 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-19 20:06:42,436 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-19 20:06:42,446 INFO === Run finished ===
