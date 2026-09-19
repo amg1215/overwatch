@@ -50481,3 +50481,10 @@
 2026-09-19 17:01:11,621 INFO === Run started ===
 2026-09-19 17:01:37,729 INFO No new products (1695 tracked)
 2026-09-19 17:01:37,738 INFO === Run finished ===
+2026-09-19 17:02:10,987 INFO === Run started ===
+2026-09-19 17:02:37,471 INFO NEW/RESTOCKED products detected: 2
+2026-09-19 17:02:37,472 INFO   NEW: Inomata Remote Contr | $1.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7715&limit=100
+2026-09-19 17:02:37,472 INFO   NEW: Skater Hair Drying T | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3659&limit=100
+2026-09-19 17:02:39,300 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-19 17:02:39,351 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-19 17:02:39,362 INFO === Run finished ===
