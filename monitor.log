@@ -50469,3 +50469,9 @@
 2026-09-19 16:58:10,942 INFO === Run started ===
 2026-09-19 16:58:37,715 INFO No new products (1694 tracked)
 2026-09-19 16:58:37,724 INFO === Run finished ===
+2026-09-19 16:59:09,465 INFO === Run started ===
+2026-09-19 16:59:35,460 INFO NEW/RESTOCKED products detected: 1
+2026-09-19 16:59:35,460 INFO   NEW: Inomata Remote Contr | $1.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7714&limit=100
+2026-09-19 16:59:36,459 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-19 16:59:36,626 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-19 16:59:36,636 INFO === Run finished ===
