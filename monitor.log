@@ -51022,3 +51022,10 @@
 2026-09-19 19:55:38,829 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-19 19:55:38,895 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-19 19:55:38,903 INFO === Run finished ===
+2026-09-19 19:56:12,414 INFO === Run started ===
+2026-09-19 19:56:39,221 INFO NEW/RESTOCKED products detected: 2
+2026-09-19 19:56:39,221 INFO   NEW: MARUKAWA Fruit Gum 8 | $0.90 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17574&limit=100
+2026-09-19 19:56:39,221 INFO   NEW: Nanao Strawberry Cre | $1.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5343&limit=100
+2026-09-19 19:56:42,529 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-19 19:56:42,876 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-19 19:56:42,887 INFO === Run finished ===

@@ -7140,6 +7140,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30483&limit=100",
       "stock": "n/a"
     },
+    "17574": {
+      "name": "MARUKAWA Fruit Gum 8",
+      "price": "$0.90",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17574&limit=100",
+      "stock": "n/a"
+    },
     "30871": {
       "name": "UHA Juice Gummy Okin",
       "price": "$1.26",
@@ -7954,6 +7960,12 @@
       "name": "Tohato SALTY Setouch",
       "price": "$1.75",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30891&limit=100",
+      "stock": "n/a"
+    },
+    "5343": {
+      "name": "Nanao Strawberry Cre",
+      "price": "$1.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5343&limit=100",
       "stock": "n/a"
     },
     "17760": {
@@ -10208,6 +10220,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-19T19:55:38",
-  "last_count": 1701
+  "last_run": "2026-09-19T19:56:42",
+  "last_count": 1703
 }
