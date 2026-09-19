@@ -8760,6 +8760,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30480&limit=100",
       "stock": "n/a"
     },
+    "31085": {
+      "name": "TOHATO Wild Poteco F",
+      "price": "$1.24",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31085&limit=100",
+      "stock": "n/a"
+    },
     "30481": {
       "name": "TOHATO Ring Shaped P",
       "price": "$1.24",
@@ -10352,6 +10358,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-19T20:16:39",
-  "last_count": 1725
+  "last_run": "2026-09-19T20:17:39",
+  "last_count": 1726
 }

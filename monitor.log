@@ -51127,3 +51127,9 @@
 2026-09-19 20:16:13,474 INFO === Run started ===
 2026-09-19 20:16:39,456 INFO No new products (1725 tracked)
 2026-09-19 20:16:39,463 INFO === Run finished ===
+2026-09-19 20:17:09,643 INFO === Run started ===
+2026-09-19 20:17:37,541 INFO NEW/RESTOCKED products detected: 1
+2026-09-19 20:17:37,541 INFO   NEW: TOHATO Wild Poteco F | $1.24 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31085&limit=100
+2026-09-19 20:17:39,421 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-19 20:17:39,631 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-19 20:17:39,641 INFO === Run finished ===
