@@ -6282,12 +6282,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51156&limit=100",
       "stock": "n/a"
     },
-    "51155": {
-      "name": "FuRyu Frieren Beyond",
-      "price": "$20.39",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51155&limit=100",
-      "stock": "n/a"
-    },
     "50800": {
       "name": "FuRyu Frieren Beyond",
       "price": "$21.59",
@@ -10490,6 +10484,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-20T16:47:39",
-  "last_count": 1748
+  "last_run": "2026-09-20T16:48:42",
+  "last_count": 1747
 }
