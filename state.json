@@ -3678,12 +3678,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=341&limit=100",
       "stock": "n/a"
     },
-    "22135": {
-      "name": "ROSY ROSA Powder Puf",
-      "price": "$2.03",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22135&limit=100",
-      "stock": "n/a"
-    },
     "22145": {
       "name": "ROSY ROSA White Powd",
       "price": "$2.39",
@@ -10508,6 +10502,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-20T16:24:41",
-  "last_count": 1751
+  "last_run": "2026-09-20T16:25:44",
+  "last_count": 1750
 }
