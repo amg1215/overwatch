@@ -54116,3 +54116,9 @@
 2026-09-21 13:45:17,119 INFO === Run started ===
 2026-09-21 13:45:43,209 INFO No new products (1734 tracked)
 2026-09-21 13:45:43,217 INFO === Run finished ===
+2026-09-21 13:46:18,605 INFO === Run started ===
+2026-09-21 13:46:43,952 INFO NEW/RESTOCKED products detected: 1
+2026-09-21 13:46:43,952 INFO   NEW: Kao Laurier Pantylin | $4.55 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8337&limit=100
+2026-09-21 13:46:45,259 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-21 13:46:45,392 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-21 13:46:45,398 INFO === Run finished ===
