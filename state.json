@@ -3972,12 +3972,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13218&limit=100",
       "stock": "n/a"
     },
-    "29941": {
-      "name": "Shiseido TSUBAKI Pre",
-      "price": "$14.39",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29941&limit=100",
-      "stock": "n/a"
-    },
     "13496": {
       "name": "Off & Relax Spa Sham",
       "price": "$14.39",
@@ -10154,6 +10148,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-21T15:42:45",
-  "last_count": 1692
+  "last_run": "2026-09-21T15:43:38",
+  "last_count": 1691
 }
