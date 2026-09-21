@@ -58535,3 +58535,9 @@
 2026-09-21 21:59:41,010 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-21 21:59:41,208 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-21 21:59:41,219 INFO === Run finished ===
+2026-09-21 22:00:36,455 INFO === Run started ===
+2026-09-21 22:01:02,562 INFO NEW/RESTOCKED products detected: 1
+2026-09-21 22:01:02,562 INFO   NEW: Shiseido Aqua Label | $14.40 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30008&limit=100
+2026-09-21 22:01:03,969 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-21 22:01:04,169 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-21 22:01:04,175 INFO === Run finished ===
