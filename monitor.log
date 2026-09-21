@@ -58361,3 +58361,9 @@
 2026-09-21 21:07:56,640 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-21 21:07:56,901 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-21 21:07:56,911 INFO === Run finished ===
+2026-09-21 21:08:12,846 INFO === Run started ===
+2026-09-21 21:08:42,436 INFO NEW/RESTOCKED products detected: 1
+2026-09-21 21:08:42,436 INFO   NEW: CLUB Plain Powder Fo | $11.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26846&limit=100
+2026-09-21 21:08:43,443 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-21 21:08:43,513 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-21 21:08:43,523 INFO === Run finished ===
