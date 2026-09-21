@@ -58487,3 +58487,9 @@
 2026-09-21 21:45:43,157 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-21 21:45:43,508 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-21 21:45:43,515 INFO === Run finished ===
+2026-09-21 21:46:12,944 INFO === Run started ===
+2026-09-21 21:46:40,219 INFO NEW/RESTOCKED products detected: 1
+2026-09-21 21:46:40,219 INFO   NEW: Kokuyo Cutter Knife | $3.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5029&limit=100
+2026-09-21 21:46:41,217 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-21 21:46:41,271 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-21 21:46:41,281 INFO === Run finished ===
