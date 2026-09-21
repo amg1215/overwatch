@@ -55177,3 +55177,9 @@
 2026-09-21 19:44:14,173 INFO === Run started ===
 2026-09-21 19:44:44,576 INFO No new products (1694 tracked)
 2026-09-21 19:44:44,584 INFO === Run finished ===
+2026-09-21 19:45:15,290 INFO === Run started ===
+2026-09-21 19:45:42,869 INFO NEW/RESTOCKED products detected: 1
+2026-09-21 19:45:42,869 INFO   NEW: Kawada Nanoblock Bli | $5.40 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1532&limit=100
+2026-09-21 19:45:43,892 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-21 19:45:44,130 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-21 19:45:44,143 INFO === Run finished ===
