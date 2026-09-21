@@ -55162,3 +55162,9 @@
 2026-09-21 19:40:44,437 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-21 19:40:44,882 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-21 19:40:44,888 INFO === Run finished ===
+2026-09-21 19:41:11,351 INFO === Run started ===
+2026-09-21 19:41:38,290 INFO NEW/RESTOCKED products detected: 1
+2026-09-21 19:41:38,291 INFO   NEW: Kawada Chiikawa Char | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30742&limit=100
+2026-09-21 19:41:39,278 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-21 19:41:39,526 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-21 19:41:39,536 INFO === Run finished ===
