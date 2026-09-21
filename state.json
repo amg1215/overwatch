@@ -2928,6 +2928,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8011&limit=100",
       "stock": "n/a"
     },
+    "30824": {
+      "name": "Shiseido AQUALABEL S",
+      "price": "$15.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30824&limit=100",
+      "stock": "n/a"
+    },
     "5149": {
       "name": "Sana Whitening Cream",
       "price": "$8.39",
@@ -8820,12 +8826,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30055&limit=100",
       "stock": "n/a"
     },
-    "15536": {
-      "name": "Frito-Lay Corn Stick",
-      "price": "$1.44",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15536&limit=100",
-      "stock": "n/a"
-    },
     "21895": {
       "name": "Frito-Lay Corn Stick",
       "price": "$1.44",
@@ -10346,6 +10346,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-21T21:58:40",
+  "last_run": "2026-09-21T21:59:41",
   "last_count": 1724
 }
