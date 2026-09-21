@@ -58210,3 +58210,9 @@
 2026-09-21 20:17:21,768 INFO === Run started ===
 2026-09-21 20:17:49,180 INFO No new products (1709 tracked)
 2026-09-21 20:17:49,186 INFO === Run finished ===
+2026-09-21 20:18:47,377 INFO === Run started ===
+2026-09-21 20:19:15,844 INFO NEW/RESTOCKED products detected: 1
+2026-09-21 20:19:15,844 INFO   NEW: Seiwa-pro 3D Makeup | $1.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6738&limit=100
+2026-09-21 20:19:17,096 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-21 20:19:17,381 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-21 20:19:17,391 INFO === Run finished ===
