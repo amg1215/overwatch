@@ -55149,3 +55149,10 @@
 2026-09-21 19:38:14,019 INFO === Run started ===
 2026-09-21 19:38:43,313 INFO No new products (1690 tracked)
 2026-09-21 19:38:43,322 INFO === Run finished ===
+2026-09-21 19:39:10,358 INFO === Run started ===
+2026-09-21 19:39:37,291 INFO NEW/RESTOCKED products detected: 2
+2026-09-21 19:39:37,291 INFO   NEW: Kawada Nanoblock Bli | $5.40 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1711&limit=100
+2026-09-21 19:39:37,291 INFO   NEW: Kawada Crayon Shin-c | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30738&limit=100
+2026-09-21 19:39:38,336 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-21 19:39:38,460 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-21 19:39:38,471 INFO === Run finished ===
