@@ -3900,6 +3900,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6739&limit=100",
       "stock": "n/a"
     },
+    "6740": {
+      "name": "Seiwa-pro 3D Makeup",
+      "price": "$0.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6740&limit=100",
+      "stock": "n/a"
+    },
     "8161": {
       "name": "Aisei EverColor 1 Da",
       "price": "$17.53",
@@ -5914,6 +5920,12 @@
       "name": "Banpresto Hell Teach",
       "price": "$23.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29399&limit=100",
+      "stock": "n/a"
+    },
+    "29533": {
+      "name": "Banpresto Haikyu!! S",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29533&limit=100",
       "stock": "n/a"
     },
     "30612": {
@@ -10268,6 +10280,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-21T20:54:38",
-  "last_count": 1711
+  "last_run": "2026-09-21T20:56:49",
+  "last_count": 1713
 }
