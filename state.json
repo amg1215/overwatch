@@ -5682,6 +5682,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15455&limit=100",
       "stock": "n/a"
     },
+    "20316": {
+      "name": "Ost Kirby Keychain F",
+      "price": "$9.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20316&limit=100",
+      "stock": "n/a"
+    },
+    "20317": {
+      "name": "Ost Kirby Keychain W",
+      "price": "$9.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20317&limit=100",
+      "stock": "n/a"
+    },
     "19884": {
       "name": "Ost SLO Hello Kitty",
       "price": "$7.79",
@@ -10298,6 +10310,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-21T21:12:43",
-  "last_count": 1716
+  "last_run": "2026-09-21T21:13:48",
+  "last_count": 1718
 }
