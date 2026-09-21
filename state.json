@@ -4872,6 +4872,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15804&limit=100",
       "stock": "n/a"
     },
+    "30744": {
+      "name": "Kawada Kyoto Mini Na",
+      "price": "$5.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30744&limit=100",
+      "stock": "n/a"
+    },
     "22350": {
       "name": "One Piece Can Blind",
       "price": "$4.99",
@@ -10136,6 +10142,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-21T19:34:39",
-  "last_count": 1689
+  "last_run": "2026-09-21T19:35:49",
+  "last_count": 1690
 }
