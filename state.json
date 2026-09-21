@@ -4746,6 +4746,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1532&limit=100",
       "stock": "n/a"
     },
+    "13752": {
+      "name": "Kawada Nanoblock Pok",
+      "price": "$8.55",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13752&limit=100",
+      "stock": "n/a"
+    },
     "1711": {
       "name": "Kawada Nanoblock Bli",
       "price": "$5.40",
@@ -10184,6 +10190,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-21T19:57:40",
-  "last_count": 1697
+  "last_run": "2026-09-21T19:58:47",
+  "last_count": 1698
 }
