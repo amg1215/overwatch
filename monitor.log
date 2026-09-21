@@ -58183,3 +58183,9 @@
 2026-09-21 20:10:54,175 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-21 20:10:54,332 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-21 20:10:54,338 INFO === Run finished ===
+2026-09-21 20:11:13,991 INFO === Run started ===
+2026-09-21 20:11:42,859 INFO NEW/RESTOCKED products detected: 1
+2026-09-21 20:11:42,859 INFO   NEW: Kawada Pokémon Elect | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30739&limit=100
+2026-09-21 20:11:44,498 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-21 20:11:44,754 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-21 20:11:44,764 INFO === Run finished ===
