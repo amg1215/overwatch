@@ -58386,3 +58386,10 @@
 2026-09-21 21:13:47,896 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-21 21:13:48,153 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-21 21:13:48,163 INFO === Run finished ===
+2026-09-21 21:14:12,064 INFO === Run started ===
+2026-09-21 21:14:43,678 INFO NEW/RESTOCKED products detected: 2
+2026-09-21 21:14:43,678 INFO   NEW: Ost Kirby Keychain S | $9.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20314&limit=100
+2026-09-21 21:14:43,678 INFO   NEW: Ost Kirby Keychain C | $9.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20315&limit=100
+2026-09-21 21:14:46,852 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-21 21:14:46,996 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-21 21:14:47,006 INFO === Run finished ===
