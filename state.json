@@ -1308,6 +1308,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7995&limit=100",
       "stock": "n/a"
     },
+    "9753": {
+      "name": "Seiwa-pro Kitchen Br",
+      "price": "$1.44",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9753&limit=100",
+      "stock": "n/a"
+    },
     "9935": {
       "name": "Seiwa-pro Kitchen Sp",
       "price": "$1.49",
@@ -10196,6 +10202,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-21T20:00:51",
-  "last_count": 1699
+  "last_run": "2026-09-21T20:01:47",
+  "last_count": 1700
 }
