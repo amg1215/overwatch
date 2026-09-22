@@ -2880,6 +2880,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51609&limit=100",
       "stock": "n/a"
     },
+    "30866": {
+      "name": "2 Way World Mother &",
+      "price": "$9.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30866&limit=100",
+      "stock": "n/a"
+    },
     "8874": {
       "name": "Kao Biore UV Perfect",
       "price": "$7.48",
@@ -5220,6 +5226,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30398&limit=100",
       "stock": "n/a"
     },
+    "51946": {
+      "name": "Banpresto Frieren Be",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51946&limit=100",
+      "stock": "n/a"
+    },
     "30502": {
       "name": "BANDAI SPIRITS Kinni",
       "price": "$27.59",
@@ -5698,12 +5710,6 @@
       "name": "Mitsubishi Uni Pen M",
       "price": "$7.48",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8494&limit=100",
-      "stock": "n/a"
-    },
-    "5027": {
-      "name": "Mitsubishi Uni-Ball",
-      "price": "$1.35",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5027&limit=100",
       "stock": "n/a"
     },
     "1746": {
@@ -9102,12 +9108,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8911&limit=100",
       "stock": "n/a"
     },
-    "8909": {
-      "name": "DHC Collagen Tablets",
-      "price": "$11.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8909&limit=100",
-      "stock": "n/a"
-    },
     "9654": {
       "name": "DHC Coix Seed Tablet",
       "price": "$9.80",
@@ -9158,6 +9158,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T15:22:38",
+  "last_run": "2026-09-22T15:24:06",
   "last_count": 1526
 }
