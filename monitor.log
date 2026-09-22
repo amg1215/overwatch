@@ -61423,3 +61423,10 @@
 2026-09-22 20:53:40,721 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 20:53:40,978 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 20:53:40,987 INFO === Run finished ===
+2026-09-22 20:54:13,825 INFO === Run started ===
+2026-09-22 20:54:39,625 INFO NEW/RESTOCKED products detected: 2
+2026-09-22 20:54:39,625 INFO   NEW: Kose Precious Garden | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9424&limit=100
+2026-09-22 20:54:39,625 INFO   NEW: Kao Nivea Angel Skin | $6.14 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5326&limit=100
+2026-09-22 20:54:40,910 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-22 20:54:41,203 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-22 20:54:41,213 INFO === Run finished ===
