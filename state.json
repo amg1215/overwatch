@@ -4926,6 +4926,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30212&limit=100",
       "stock": "n/a"
     },
+    "30825": {
+      "name": "Ensky Demon Slayer K",
+      "price": "$3.87",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30825&limit=100",
+      "stock": "n/a"
+    },
     "22821": {
       "name": "Asunarosha SLO Hello",
       "price": "$8.39",
@@ -9254,6 +9260,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T17:49:35",
-  "last_count": 1542
+  "last_run": "2026-09-22T17:50:41",
+  "last_count": 1543
 }
