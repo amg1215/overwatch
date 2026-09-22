@@ -1,5 +1,11 @@
 {
   "products": {
+    "15439": {
+      "name": "Bandai Bath Ball Bli",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15439&limit=100",
+      "stock": "n/a"
+    },
     "30663": {
       "name": "BeeCruise Chiikawa C",
       "price": "$1.39",
@@ -2548,6 +2554,12 @@
       "name": "Kose CLEAR TURN BIHA",
       "price": "$3.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8649&limit=100",
+      "stock": "n/a"
+    },
+    "10064": {
+      "name": "Kose Clear Turn Acne",
+      "price": "$5.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10064&limit=100",
       "stock": "n/a"
     },
     "3874": {
@@ -9536,6 +9548,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T21:13:39",
-  "last_count": 1589
+  "last_run": "2026-09-22T21:15:14",
+  "last_count": 1591
 }

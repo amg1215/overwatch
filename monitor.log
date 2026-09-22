@@ -61524,3 +61524,10 @@
 2026-09-22 21:13:39,624 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-22 21:13:39,823 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-22 21:13:39,832 INFO === Run finished ===
+2026-09-22 21:14:48,386 INFO === Run started ===
+2026-09-22 21:15:13,593 INFO NEW/RESTOCKED products detected: 2
+2026-09-22 21:15:13,593 INFO   NEW: Bandai Bath Ball Bli | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15439&limit=100
+2026-09-22 21:15:13,593 INFO   NEW: Kose Clear Turn Acne | $5.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10064&limit=100
+2026-09-22 21:15:14,639 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:15:14,726 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:15:14,736 INFO === Run finished ===
