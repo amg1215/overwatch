@@ -61332,3 +61332,10 @@
 2026-09-22 20:33:16,454 INFO === Run started ===
 2026-09-22 20:33:56,448 INFO No new products (1560 tracked)
 2026-09-22 20:33:56,457 INFO === Run finished ===
+2026-09-22 20:34:12,546 INFO === Run started ===
+2026-09-22 20:34:59,285 INFO NEW/RESTOCKED products detected: 2
+2026-09-22 20:34:59,285 INFO   NEW: YBS Ayane Sandwich C | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30968&limit=100
+2026-09-22 20:34:59,285 INFO   NEW: TOHATO Extra Thick C | $1.25 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30051&limit=100
+2026-09-22 20:35:00,347 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-22 20:35:00,412 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-22 20:35:00,421 INFO === Run finished ===
