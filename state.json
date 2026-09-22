@@ -4896,6 +4896,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23069&limit=100",
       "stock": "n/a"
     },
+    "17413": {
+      "name": "T-ARTS Haikyuu! Char",
+      "price": "$5.38",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17413&limit=100",
+      "stock": "n/a"
+    },
     "30209": {
       "name": "K Company SLO Sunbur",
       "price": "$11.99",
@@ -5722,6 +5728,12 @@
       "name": "Mitsubishi Uni Pen M",
       "price": "$7.48",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8494&limit=100",
+      "stock": "n/a"
+    },
+    "5027": {
+      "name": "Mitsubishi Uni-Ball",
+      "price": "$1.35",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5027&limit=100",
       "stock": "n/a"
     },
     "1746": {
@@ -9254,6 +9266,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T17:44:40",
-  "last_count": 1542
+  "last_run": "2026-09-22T17:45:40",
+  "last_count": 1544
 }
