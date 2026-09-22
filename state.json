@@ -8688,6 +8688,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17425&limit=100",
       "stock": "n/a"
     },
+    "4832": {
+      "name": "Ezaki Glico Curry Cr",
+      "price": "$1.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4832&limit=100",
+      "stock": "n/a"
+    },
     "25067": {
       "name": "Kewpie Bread Spread",
       "price": "$2.39",
@@ -9218,6 +9224,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T16:57:38",
-  "last_count": 1536
+  "last_run": "2026-09-22T16:58:37",
+  "last_count": 1537
 }
