@@ -60707,3 +60707,9 @@
 2026-09-22 17:24:12,598 INFO === Run started ===
 2026-09-22 17:24:41,028 INFO No new products (1539 tracked)
 2026-09-22 17:24:41,037 INFO === Run finished ===
+2026-09-22 17:25:18,864 INFO === Run started ===
+2026-09-22 17:25:58,049 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 17:25:58,049 INFO   NEW: Kracie Popin’ Cookin | $3.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23275&limit=100
+2026-09-22 17:25:59,558 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 17:25:59,917 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 17:25:59,927 INFO === Run finished ===

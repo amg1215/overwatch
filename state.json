@@ -8088,6 +8088,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10789&limit=100",
       "stock": "n/a"
     },
+    "23275": {
+      "name": "Kracie Popin’ Cookin",
+      "price": "$3.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23275&limit=100",
+      "stock": "n/a"
+    },
     "31086": {
       "name": "Furuta Confectionery",
       "price": "$1.12",
@@ -9236,6 +9242,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T17:24:41",
-  "last_count": 1539
+  "last_run": "2026-09-22T17:25:59",
+  "last_count": 1540
 }
