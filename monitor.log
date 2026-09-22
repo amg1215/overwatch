@@ -61448,3 +61448,9 @@
 2026-09-22 20:59:11,170 INFO === Run started ===
 2026-09-22 20:59:37,100 INFO No new products (1575 tracked)
 2026-09-22 20:59:37,109 INFO === Run finished ===
+2026-09-22 21:00:20,668 INFO === Run started ===
+2026-09-22 21:00:44,625 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 21:00:44,625 INFO   NEW: Kao Biore Face Wash | $8.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5067&limit=100
+2026-09-22 21:00:46,657 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 21:00:46,884 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 21:00:46,891 INFO === Run finished ===
