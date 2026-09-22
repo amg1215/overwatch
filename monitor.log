@@ -60158,3 +60158,9 @@
 2026-09-22 14:39:38,437 INFO Email sent: Ebisu: 758 new/restocked items!
 2026-09-22 14:39:38,520 INFO ntfy push sent: Ebisu: 758 new/restocked items!
 2026-09-22 14:39:38,530 INFO === Run finished ===
+2026-09-22 14:40:27,309 INFO === Run started ===
+2026-09-22 14:40:50,109 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 14:40:50,109 INFO   NEW: Ensky Chiikawa Chara | $3.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30826&limit=100
+2026-09-22 14:40:52,258 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 14:40:52,611 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 14:40:52,617 INFO === Run finished ===
