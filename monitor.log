@@ -59297,3 +59297,10 @@
 2026-09-22 14:09:40,776 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 14:09:40,849 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 14:09:40,859 INFO === Run finished ===
+2026-09-22 14:10:16,276 INFO === Run started ===
+2026-09-22 14:10:42,462 INFO NEW/RESTOCKED products detected: 2
+2026-09-22 14:10:42,462 INFO   NEW: Hokkaido Development | $17.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30809&limit=100
+2026-09-22 14:10:42,462 INFO   NEW: Hokkaido Development | $12.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30810&limit=100
+2026-09-22 14:10:44,014 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-22 14:10:44,132 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-22 14:10:44,218 INFO === Run finished ===
