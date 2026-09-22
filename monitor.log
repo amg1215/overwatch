@@ -61363,3 +61363,9 @@
 2026-09-22 20:40:41,676 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 20:40:41,814 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 20:40:41,823 INFO === Run finished ===
+2026-09-22 20:41:13,721 INFO === Run started ===
+2026-09-22 20:41:36,913 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 20:41:36,913 INFO   NEW: Kao Biore Moisturizi | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18406&limit=100
+2026-09-22 20:41:39,157 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 20:41:39,543 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 20:41:39,550 INFO === Run finished ===
