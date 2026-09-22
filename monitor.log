@@ -61047,3 +61047,9 @@
 2026-09-22 19:11:12,521 INFO === Run started ===
 2026-09-22 19:11:37,997 INFO No new products (1543 tracked)
 2026-09-22 19:11:38,005 INFO === Run finished ===
+2026-09-22 19:12:16,196 INFO === Run started ===
+2026-09-22 19:12:46,304 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 19:12:46,304 INFO   NEW: Nichiban Cooling Pla | $6.46 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8234&limit=100
+2026-09-22 19:12:47,684 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 19:12:47,943 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 19:12:47,952 INFO === Run finished ===

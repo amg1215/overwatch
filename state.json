@@ -1986,6 +1986,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5710&limit=100",
       "stock": "n/a"
     },
+    "8234": {
+      "name": "Nichiban Cooling Pla",
+      "price": "$6.46",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8234&limit=100",
+      "stock": "n/a"
+    },
     "5604": {
       "name": "Mentholatum Eczema C",
       "price": "$11.59",
@@ -9260,6 +9266,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T19:11:37",
-  "last_count": 1543
+  "last_run": "2026-09-22T19:12:47",
+  "last_count": 1544
 }
