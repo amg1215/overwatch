@@ -2448,6 +2448,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11289&limit=100",
       "stock": "n/a"
     },
+    "4348": {
+      "name": "Kose Softymo Hyaluro",
+      "price": "$4.77",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4348&limit=100",
+      "stock": "n/a"
+    },
     "51596": {
       "name": "Heimish All Clean Ba",
       "price": "$11.99",
@@ -5830,6 +5836,12 @@
       "name": "Sega Mushoku Tensei",
       "price": "$21.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=52038&limit=100",
+      "stock": "n/a"
+    },
+    "31273": {
+      "name": "AGATSUMA Sanrio Char",
+      "price": "$16.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31273&limit=100",
       "stock": "n/a"
     },
     "31274": {
@@ -9632,6 +9644,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T21:24:44",
-  "last_count": 1605
+  "last_run": "2026-09-22T21:25:41",
+  "last_count": 1607
 }

@@ -61586,3 +61586,10 @@
 2026-09-22 21:24:44,575 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:24:44,834 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:24:44,844 INFO === Run finished ===
+2026-09-22 21:25:14,046 INFO === Run started ===
+2026-09-22 21:25:39,145 INFO NEW/RESTOCKED products detected: 2
+2026-09-22 21:25:39,146 INFO   NEW: Kose Softymo Hyaluro | $4.77 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4348&limit=100
+2026-09-22 21:25:39,146 INFO   NEW: AGATSUMA Sanrio Char | $16.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31273&limit=100
+2026-09-22 21:25:41,393 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:25:41,563 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:25:41,571 INFO === Run finished ===
