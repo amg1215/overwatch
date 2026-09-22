@@ -2310,6 +2310,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4701&limit=100",
       "stock": "n/a"
     },
+    "11860": {
+      "name": "Kao Biore Makeup Rem",
+      "price": "$11.97",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11860&limit=100",
+      "stock": "n/a"
+    },
     "4196": {
       "name": "Kracie Whitening Fac",
       "price": "$8.99",
@@ -3850,6 +3856,12 @@
       "name": "Kao Curel Hand Cream",
       "price": "$8.39",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10537&limit=100",
+      "stock": "n/a"
+    },
+    "2782": {
+      "name": "Kao Biore Foam Hand",
+      "price": "$3.75",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2782&limit=100",
       "stock": "n/a"
     },
     "9524": {
@@ -9392,6 +9404,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T20:47:35",
-  "last_count": 1565
+  "last_run": "2026-09-22T20:48:38",
+  "last_count": 1567
 }

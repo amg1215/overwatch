@@ -61388,3 +61388,10 @@
 2026-09-22 20:47:35,212 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-22 20:47:35,266 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-22 20:47:35,275 INFO === Run finished ===
+2026-09-22 20:48:13,254 INFO === Run started ===
+2026-09-22 20:48:36,992 INFO NEW/RESTOCKED products detected: 2
+2026-09-22 20:48:36,992 INFO   NEW: Kao Biore Makeup Rem | $11.97 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11860&limit=100
+2026-09-22 20:48:36,992 INFO   NEW: Kao Biore Foam Hand | $3.75 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2782&limit=100
+2026-09-22 20:48:38,251 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-22 20:48:38,402 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-22 20:48:38,411 INFO === Run finished ===
