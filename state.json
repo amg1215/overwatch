@@ -78,6 +78,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3775&limit=100",
       "stock": "n/a"
     },
+    "9661": {
+      "name": "Kao Children's Tooth",
+      "price": "$1.95",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9661&limit=100",
+      "stock": "n/a"
+    },
     "9791": {
       "name": "Lion Children's Toot",
       "price": "$1.11",
@@ -5910,6 +5916,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31275&limit=100",
       "stock": "n/a"
     },
+    "31276": {
+      "name": "AGATSUMA Sanrio Char",
+      "price": "$16.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31276&limit=100",
+      "stock": "n/a"
+    },
     "30405": {
       "name": "Banpresto Demon Slay",
       "price": "$21.59",
@@ -9722,6 +9734,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T21:34:43",
-  "last_count": 1620
+  "last_run": "2026-09-22T21:35:50",
+  "last_count": 1622
 }

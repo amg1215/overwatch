@@ -61648,3 +61648,10 @@
 2026-09-22 21:34:43,070 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-22 21:34:43,217 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-22 21:34:43,226 INFO === Run finished ===
+2026-09-22 21:35:20,352 INFO === Run started ===
+2026-09-22 21:35:47,864 INFO NEW/RESTOCKED products detected: 2
+2026-09-22 21:35:47,864 INFO   NEW: Kao Children's Tooth | $1.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9661&limit=100
+2026-09-22 21:35:47,864 INFO   NEW: AGATSUMA Sanrio Char | $16.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31276&limit=100
+2026-09-22 21:35:50,066 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:35:50,323 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:35:50,333 INFO === Run finished ===
