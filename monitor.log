@@ -61292,3 +61292,9 @@
 2026-09-22 20:23:39,940 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 20:23:40,181 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 20:23:40,212 INFO === Run finished ===
+2026-09-22 20:24:16,757 INFO === Run started ===
+2026-09-22 20:24:43,370 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 20:24:43,370 INFO   NEW: Banpresto Puella Mag | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30711&limit=100
+2026-09-22 20:24:44,972 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 20:24:45,204 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 20:24:45,213 INFO === Run finished ===
