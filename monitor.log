@@ -61633,3 +61633,11 @@
 2026-09-22 21:32:12,043 INFO === Run started ===
 2026-09-22 21:32:38,862 INFO No new products (1616 tracked)
 2026-09-22 21:32:38,871 INFO === Run finished ===
+2026-09-22 21:33:12,421 INFO === Run started ===
+2026-09-22 21:33:40,129 INFO NEW/RESTOCKED products detected: 3
+2026-09-22 21:33:40,129 INFO   NEW: Kao Sanitary Tampon | $4.31 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6093&limit=100
+2026-09-22 21:33:40,129 INFO   NEW: KOSE CLEAR TURN Hyar | $11.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26869&limit=100
+2026-09-22 21:33:40,129 INFO   NEW: Sanyo Spicy Chicken | $2.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26501&limit=100
+2026-09-22 21:33:57,544 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-22 21:33:57,779 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-22 21:33:57,788 INFO === Run finished ===
