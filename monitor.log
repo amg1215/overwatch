@@ -61117,3 +61117,10 @@
 2026-09-22 19:31:01,690 INFO Email sent: Ebisu: 5 new/restocked items!
 2026-09-22 19:31:01,895 INFO ntfy push sent: Ebisu: 5 new/restocked items!
 2026-09-22 19:31:01,904 INFO === Run finished ===
+2026-09-22 19:32:13,119 INFO === Run started ===
+2026-09-22 19:32:42,025 INFO NEW/RESTOCKED products detected: 2
+2026-09-22 19:32:42,025 INFO   NEW: UCC Black Coffee Non | $1.65 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25725&limit=100
+2026-09-22 19:32:42,025 INFO   NEW: Sangaria Wheat Blend | $1.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10400&limit=100
+2026-09-22 19:32:43,309 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-22 19:32:43,806 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-22 19:32:43,816 INFO === Run finished ===
