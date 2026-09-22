@@ -804,6 +804,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6763&limit=100",
       "stock": "n/a"
     },
+    "12479": {
+      "name": "Kao Kitchen Foam Cle",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12479&limit=100",
+      "stock": "n/a"
+    },
     "9898": {
       "name": "Uyeki Microwave Clea",
       "price": "$3.99",
@@ -2208,6 +2214,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=228&limit=100",
       "stock": "n/a"
     },
+    "9700": {
+      "name": "Kao Bathroom Mold Re",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9700&limit=100",
+      "stock": "n/a"
+    },
     "9742": {
       "name": "Kao Laundry Tub Clea",
       "price": "$2.94",
@@ -2218,6 +2230,12 @@
       "name": "Kao Pipeline Cleaner",
       "price": "$2.39",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8713&limit=100",
+      "stock": "n/a"
+    },
+    "8962": {
+      "name": "Kao floor Cleaner Sp",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8962&limit=100",
       "stock": "n/a"
     },
     "11948": {
@@ -9662,6 +9680,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T21:27:39",
-  "last_count": 1610
+  "last_run": "2026-09-22T21:28:42",
+  "last_count": 1613
 }

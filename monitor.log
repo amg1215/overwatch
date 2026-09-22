@@ -61606,3 +61606,11 @@
 2026-09-22 21:27:39,515 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:27:39,749 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:27:39,758 INFO === Run finished ===
+2026-09-22 21:28:13,225 INFO === Run started ===
+2026-09-22 21:28:40,266 INFO NEW/RESTOCKED products detected: 3
+2026-09-22 21:28:40,266 INFO   NEW: Kao Kitchen Foam Cle | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12479&limit=100
+2026-09-22 21:28:40,266 INFO   NEW: Kao Bathroom Mold Re | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9700&limit=100
+2026-09-22 21:28:40,266 INFO   NEW: Kao floor Cleaner Sp | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8962&limit=100
+2026-09-22 21:28:41,831 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-22 21:28:42,059 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-22 21:28:42,068 INFO === Run finished ===
