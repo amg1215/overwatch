@@ -61454,3 +61454,9 @@
 2026-09-22 21:00:46,657 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:00:46,884 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:00:46,891 INFO === Run finished ===
+2026-09-22 21:01:12,556 INFO === Run started ===
+2026-09-22 21:01:36,795 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 21:01:36,795 INFO   NEW: Kao Men's Biore Medi | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31338&limit=100
+2026-09-22 21:01:38,482 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 21:01:38,644 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 21:01:38,653 INFO === Run finished ===

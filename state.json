@@ -3942,6 +3942,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5326&limit=100",
       "stock": "n/a"
     },
+    "31338": {
+      "name": "Kao Men's Biore Medi",
+      "price": "$5.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31338&limit=100",
+      "stock": "n/a"
+    },
     "10091": {
       "name": "Kracie Navie Body So",
       "price": "$4.19",
@@ -9458,6 +9464,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T21:00:46",
-  "last_count": 1576
+  "last_run": "2026-09-22T21:01:38",
+  "last_count": 1577
 }
