@@ -8724,6 +8724,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25068&limit=100",
       "stock": "n/a"
     },
+    "4305": {
+      "name": "Kewpie Mayonnaise Re",
+      "price": "$2.93",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4305&limit=100",
+      "stock": "n/a"
+    },
     "25069": {
       "name": "Kewpie Bread Spread",
       "price": "$2.39",
@@ -9236,6 +9242,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T17:09:38",
-  "last_count": 1539
+  "last_run": "2026-09-22T17:10:45",
+  "last_count": 1540
 }
