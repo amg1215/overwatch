@@ -61600,3 +61600,9 @@
 2026-09-22 21:26:38,236 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-22 21:26:38,393 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-22 21:26:38,400 INFO === Run finished ===
+2026-09-22 21:27:11,101 INFO === Run started ===
+2026-09-22 21:27:37,922 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 21:27:37,922 INFO   NEW: Kose Softymo Whiteni | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3102&limit=100
+2026-09-22 21:27:39,515 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 21:27:39,749 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 21:27:39,758 INFO === Run finished ===

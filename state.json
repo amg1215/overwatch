@@ -2448,6 +2448,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3744&limit=100",
       "stock": "n/a"
     },
+    "3102": {
+      "name": "Kose Softymo Whiteni",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3102&limit=100",
+      "stock": "n/a"
+    },
     "11289": {
       "name": "Kose Enzyme Makeup R",
       "price": "$10.13",
@@ -9656,6 +9662,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T21:26:38",
-  "last_count": 1609
+  "last_run": "2026-09-22T21:27:39",
+  "last_count": 1610
 }
