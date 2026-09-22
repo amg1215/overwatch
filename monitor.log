@@ -61565,3 +61565,9 @@
 2026-09-22 21:20:45,945 INFO Email sent: Ebisu: 4 new/restocked items!
 2026-09-22 21:20:46,205 INFO ntfy push sent: Ebisu: 4 new/restocked items!
 2026-09-22 21:20:46,215 INFO === Run finished ===
+2026-09-22 21:21:11,037 INFO === Run started ===
+2026-09-22 21:21:35,408 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 21:21:35,408 INFO   NEW: Kose Babyish White M | $2.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8652&limit=100
+2026-09-22 21:21:36,545 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 21:21:36,592 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 21:21:36,599 INFO === Run finished ===
