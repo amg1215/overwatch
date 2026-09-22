@@ -5802,6 +5802,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8490&limit=100",
       "stock": "n/a"
     },
+    "5954": {
+      "name": "Dragonfly Eraser ES-",
+      "price": "$1.41",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5954&limit=100",
+      "stock": "n/a"
+    },
     "7427": {
       "name": "LEMON Pencil Caps Er",
       "price": "$1.38",
@@ -9188,6 +9194,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T16:27:36",
-  "last_count": 1531
+  "last_run": "2026-09-22T16:28:45",
+  "last_count": 1532
 }
