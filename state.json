@@ -3744,12 +3744,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7887&limit=100",
       "stock": "n/a"
     },
-    "7097": {
-      "name": "Dariya Momori Moistu",
-      "price": "$6.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7097&limit=100",
-      "stock": "n/a"
-    },
     "2075": {
       "name": "Dariya Momori Rich S",
       "price": "$8.39",
@@ -6012,12 +6006,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25644&limit=100",
       "stock": "n/a"
     },
-    "30062": {
-      "name": "Morinaga DARS Premiu",
-      "price": "$2.39",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30062&limit=100",
-      "stock": "n/a"
-    },
     "18541": {
       "name": "Lotte Matcha Chocola",
       "price": "$1.79",
@@ -7198,6 +7186,18 @@
       "name": "Meiji Mushroom Shape",
       "price": "$2.76",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18848&limit=100",
+      "stock": "n/a"
+    },
+    "30487": {
+      "name": "Morinaga Baked Choco",
+      "price": "$2.69",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30487&limit=100",
+      "stock": "n/a"
+    },
+    "30967": {
+      "name": "YBS Mint Chocolate P",
+      "price": "$2.89",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30967&limit=100",
       "stock": "n/a"
     },
     "30968": {
@@ -9374,6 +9374,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T20:31:56",
+  "last_run": "2026-09-22T20:32:55",
   "last_count": 1562
 }
