@@ -61214,3 +61214,9 @@
 2026-09-22 20:00:22,111 INFO === Run started ===
 2026-09-22 20:00:52,242 INFO No new products (1556 tracked)
 2026-09-22 20:00:52,250 INFO === Run finished ===
+2026-09-22 20:01:16,123 INFO === Run started ===
+2026-09-22 20:01:41,986 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 20:01:41,986 INFO   NEW: BANDAI SPIRITS BLEAC | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51713&limit=100
+2026-09-22 20:01:44,767 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 20:01:45,009 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 20:01:45,018 INFO === Run finished ===
