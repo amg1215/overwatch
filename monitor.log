@@ -60533,3 +60533,9 @@
 2026-09-22 16:30:51,448 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 16:30:51,756 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 16:30:51,765 INFO === Run finished ===
+2026-09-22 16:31:17,558 INFO === Run started ===
+2026-09-22 16:31:43,490 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 16:31:43,491 INFO   NEW: ECHO Stainless Steel | $1.18 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6525&limit=100
+2026-09-22 16:31:44,791 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 16:31:45,064 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 16:31:45,073 INFO === Run finished ===
