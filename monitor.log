@@ -61699,3 +61699,11 @@
 2026-09-22 21:45:47,428 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:45:47,710 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:45:47,720 INFO === Run finished ===
+2026-09-22 21:46:13,681 INFO === Run started ===
+2026-09-22 21:46:40,028 INFO NEW/RESTOCKED products detected: 3
+2026-09-22 21:46:40,028 INFO   NEW: Kao Biore Foam Hand | $3.62 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2781&limit=100
+2026-09-22 21:46:40,028 INFO   NEW: AGF Blendy Cafe Lato | $2.88 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8794&limit=100
+2026-09-22 21:46:40,028 INFO   NEW: UCC Ueshima Coffee C | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22246&limit=100
+2026-09-22 21:46:41,030 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-22 21:46:41,679 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-22 21:46:41,689 INFO === Run finished ===

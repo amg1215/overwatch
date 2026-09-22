@@ -4092,6 +4092,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2782&limit=100",
       "stock": "n/a"
     },
+    "2781": {
+      "name": "Kao Biore Foam Hand",
+      "price": "$3.62",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2781&limit=100",
+      "stock": "n/a"
+    },
     "9105": {
       "name": "Kissme Hand Cream Tu",
       "price": "$4.43",
@@ -9036,6 +9042,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8796&limit=100",
       "stock": "n/a"
     },
+    "8794": {
+      "name": "AGF Blendy Cafe Lato",
+      "price": "$2.88",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8794&limit=100",
+      "stock": "n/a"
+    },
     "8798": {
       "name": "AGF Blendy Cafe Lato",
       "price": "$2.88",
@@ -9082,6 +9094,12 @@
       "name": "UCC Ueshima Coffee 1",
       "price": "$2.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24270&limit=100",
+      "stock": "n/a"
+    },
+    "22246": {
+      "name": "UCC Ueshima Coffee C",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22246&limit=100",
       "stock": "n/a"
     },
     "14246": {
@@ -9776,6 +9794,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T21:45:47",
-  "last_count": 1629
+  "last_run": "2026-09-22T21:46:41",
+  "last_count": 1632
 }
