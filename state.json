@@ -8592,6 +8592,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28916&limit=100",
       "stock": "n/a"
     },
+    "637": {
+      "name": "Lipton Flavored Tea",
+      "price": "$2.40",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=637&limit=100",
+      "stock": "n/a"
+    },
     "8765": {
       "name": "Mitsui Meicha Peach",
       "price": "$4.70",
@@ -9158,6 +9164,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T15:29:40",
-  "last_count": 1526
+  "last_run": "2026-09-22T15:31:00",
+  "last_count": 1527
 }

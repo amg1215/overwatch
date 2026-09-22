@@ -60323,3 +60323,9 @@
 2026-09-22 15:29:11,662 INFO === Run started ===
 2026-09-22 15:29:40,869 INFO No new products (1526 tracked)
 2026-09-22 15:29:40,876 INFO === Run finished ===
+2026-09-22 15:30:32,383 INFO === Run started ===
+2026-09-22 15:30:57,748 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 15:30:57,748 INFO   NEW: Lipton Flavored Tea | $2.40 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=637&limit=100
+2026-09-22 15:31:00,355 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 15:31:00,406 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 15:31:00,416 INFO === Run finished ===
