@@ -59322,3 +59322,9 @@
 2026-09-22 14:15:20,057 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 14:15:20,315 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 14:15:20,325 INFO === Run finished ===
+2026-09-22 14:16:16,388 INFO === Run started ===
+2026-09-22 14:16:46,152 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 14:16:46,152 INFO   NEW: TOHATO Caramel Corn | $1.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30732&limit=100
+2026-09-22 14:16:47,550 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 14:16:47,824 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 14:16:47,835 INFO === Run finished ===
