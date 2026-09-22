@@ -61107,3 +61107,13 @@
 2026-09-22 19:29:46,810 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 19:29:47,226 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 19:29:47,237 INFO === Run finished ===
+2026-09-22 19:30:20,902 INFO === Run started ===
+2026-09-22 19:30:59,064 INFO NEW/RESTOCKED products detected: 5
+2026-09-22 19:30:59,064 INFO   NEW: Otsuka Electrolyte W | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17417&limit=100
+2026-09-22 19:30:59,064 INFO   NEW: Suntory Iemon Specia | $1.92 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10122&limit=100
+2026-09-22 19:30:59,065 INFO   NEW: Sangaria Matcha Beve | $1.10 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=240&limit=100
+2026-09-22 19:30:59,065 INFO   NEW: Fujiya Juice Drinks | $1.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=94&limit=100
+2026-09-22 19:30:59,065 INFO   NEW: DYDO Jasmine Tea 525 | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16942&limit=100
+2026-09-22 19:31:01,690 INFO Email sent: Ebisu: 5 new/restocked items!
+2026-09-22 19:31:01,895 INFO ntfy push sent: Ebisu: 5 new/restocked items!
+2026-09-22 19:31:01,904 INFO === Run finished ===
