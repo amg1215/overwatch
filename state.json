@@ -3924,6 +3924,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8012&limit=100",
       "stock": "n/a"
     },
+    "10524": {
+      "name": "NICE＆QUICK Body Wash",
+      "price": "$6.43",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10524&limit=100",
+      "stock": "n/a"
+    },
+    "4703": {
+      "name": "Kao Biore u Moist Ba",
+      "price": "$7.17",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4703&limit=100",
+      "stock": "n/a"
+    },
     "4709": {
       "name": "Kao Biore u Moist Ba",
       "price": "$7.17",
@@ -9464,6 +9476,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T21:01:38",
-  "last_count": 1577
+  "last_run": "2026-09-22T21:02:39",
+  "last_count": 1579
 }
