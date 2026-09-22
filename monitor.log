@@ -60332,3 +60332,9 @@
 2026-09-22 15:31:14,466 INFO === Run started ===
 2026-09-22 15:31:39,311 INFO No new products (1527 tracked)
 2026-09-22 15:31:39,320 INFO === Run finished ===
+2026-09-22 15:32:15,755 INFO === Run started ===
+2026-09-22 15:32:40,165 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 15:32:40,165 INFO   NEW: Marumiya Chiikawa Co | $1.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26485&limit=100
+2026-09-22 15:32:41,483 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 15:32:41,824 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 15:32:41,832 INFO === Run finished ===
