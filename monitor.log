@@ -61693,3 +61693,9 @@
 2026-09-22 21:44:43,301 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:44:43,424 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:44:43,434 INFO === Run finished ===
+2026-09-22 21:45:15,720 INFO === Run started ===
+2026-09-22 21:45:43,844 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 21:45:43,844 INFO   NEW: TOHATO Poteco Finger | $1.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30821&limit=100
+2026-09-22 21:45:47,428 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 21:45:47,710 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 21:45:47,720 INFO === Run finished ===
