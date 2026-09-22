@@ -59237,3 +59237,9 @@
 2026-09-22 13:57:48,130 INFO Email sent: Ebisu: 4 new/restocked items!
 2026-09-22 13:57:48,456 INFO ntfy push sent: Ebisu: 4 new/restocked items!
 2026-09-22 13:57:48,463 INFO === Run finished ===
+2026-09-22 13:58:14,547 INFO === Run started ===
+2026-09-22 13:58:42,178 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 13:58:42,178 INFO   NEW: POKKA SAPPORO Chelat | $1.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23102&limit=100
+2026-09-22 13:58:43,142 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 13:58:43,290 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 13:58:43,300 INFO === Run finished ===
