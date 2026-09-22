@@ -59328,3 +59328,11 @@
 2026-09-22 14:16:47,550 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 14:16:47,824 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 14:16:47,835 INFO === Run finished ===
+2026-09-22 14:17:13,062 INFO === Run started ===
+2026-09-22 14:17:42,121 INFO NEW/RESTOCKED products detected: 3
+2026-09-22 14:17:42,121 INFO   NEW: Fujiya Meisters Chee | $2.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7218&limit=100
+2026-09-22 14:17:42,121 INFO   NEW: Itsuki Kyoto Miso To | $2.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5437&limit=100
+2026-09-22 14:17:42,121 INFO   NEW: Itsuki Sapporo Miso | $2.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=286&limit=100
+2026-09-22 14:17:43,937 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-22 14:17:44,168 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-22 14:17:44,179 INFO === Run finished ===

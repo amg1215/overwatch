@@ -7650,6 +7650,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7217&limit=100",
       "stock": "n/a"
     },
+    "7218": {
+      "name": "Fujiya Meisters Chee",
+      "price": "$2.15",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7218&limit=100",
+      "stock": "n/a"
+    },
     "30736": {
       "name": "Morinaga Condensed M",
       "price": "$2.95",
@@ -10002,6 +10008,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5435&limit=100",
       "stock": "n/a"
     },
+    "5437": {
+      "name": "Itsuki Kyoto Miso To",
+      "price": "$2.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5437&limit=100",
+      "stock": "n/a"
+    },
     "5438": {
       "name": "Itsuki Osaka Shoyo T",
       "price": "$2.79",
@@ -10012,6 +10024,12 @@
       "name": "Itsuki Ramen 174g",
       "price": "$2.79",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5439&limit=100",
+      "stock": "n/a"
+    },
+    "286": {
+      "name": "Itsuki Sapporo Miso",
+      "price": "$2.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=286&limit=100",
       "stock": "n/a"
     },
     "23773": {
@@ -10424,6 +10442,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T14:16:47",
-  "last_count": 1737
+  "last_run": "2026-09-22T14:17:44",
+  "last_count": 1740
 }
