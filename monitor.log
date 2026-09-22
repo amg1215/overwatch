@@ -59208,3 +59208,10 @@
 2026-09-22 13:52:14,051 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 13:52:14,304 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 13:52:14,314 INFO === Run finished ===
+2026-09-22 13:53:12,003 INFO === Run started ===
+2026-09-22 13:53:40,630 INFO NEW/RESTOCKED products detected: 2
+2026-09-22 13:53:40,630 INFO   NEW: AGF Coffee Liquid Ca | $2.11 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3745&limit=100
+2026-09-22 13:53:40,630 INFO   NEW: Starbucks Premium Mi | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4593&limit=100
+2026-09-22 13:53:42,030 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-22 13:53:42,292 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-22 13:53:42,302 INFO === Run finished ===
