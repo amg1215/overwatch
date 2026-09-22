@@ -60539,3 +60539,9 @@
 2026-09-22 16:31:44,791 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 16:31:45,064 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 16:31:45,073 INFO === Run finished ===
+2026-09-22 16:32:16,239 INFO === Run started ===
+2026-09-22 16:32:44,109 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 16:32:44,109 INFO   NEW: Skater Vegetable Cut | $3.24 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3539&limit=100
+2026-09-22 16:32:45,642 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 16:32:45,863 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 16:32:45,870 INFO === Run finished ===

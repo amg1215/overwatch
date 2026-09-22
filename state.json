@@ -738,6 +738,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3538&limit=100",
       "stock": "n/a"
     },
+    "3539": {
+      "name": "Skater Vegetable Cut",
+      "price": "$3.24",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3539&limit=100",
+      "stock": "n/a"
+    },
     "8036": {
       "name": "Maruki Rolling Pin 3",
       "price": "$1.50",
@@ -9206,6 +9212,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T16:31:45",
-  "last_count": 1534
+  "last_run": "2026-09-22T16:32:45",
+  "last_count": 1535
 }
