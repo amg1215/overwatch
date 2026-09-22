@@ -8394,12 +8394,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23101&limit=100",
       "stock": "n/a"
     },
-    "23102": {
-      "name": "POKKA SAPPORO Chelat",
-      "price": "$1.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23102&limit=100",
-      "stock": "n/a"
-    },
     "17414": {
       "name": "Otsuka Electrolyte D",
       "price": "$1.44",
@@ -9242,6 +9236,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T17:18:40",
-  "last_count": 1540
+  "last_run": "2026-09-22T17:19:36",
+  "last_count": 1539
 }
