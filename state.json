@@ -5646,12 +5646,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30615&limit=100",
       "stock": "n/a"
     },
-    "30613": {
-      "name": "Banpresto Dragon Bal",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30613&limit=100",
-      "stock": "n/a"
-    },
     "30399": {
       "name": "Banpresto Gakuen Ido",
       "price": "$23.99",
@@ -8946,12 +8940,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4341&limit=100",
       "stock": "n/a"
     },
-    "23101": {
-      "name": "POKKA SAPPORO Chelat",
-      "price": "$1.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23101&limit=100",
-      "stock": "n/a"
-    },
     "17414": {
       "name": "Otsuka Electrolyte D",
       "price": "$1.44",
@@ -9842,6 +9830,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T22:48:39",
-  "last_count": 1640
+  "last_run": "2026-09-22T22:49:39",
+  "last_count": 1638
 }
