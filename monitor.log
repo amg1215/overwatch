@@ -59316,3 +59316,9 @@
 2026-09-22 14:13:40,071 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 14:13:40,188 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 14:13:40,201 INFO === Run finished ===
+2026-09-22 14:14:49,316 INFO === Run started ===
+2026-09-22 14:15:18,288 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 14:15:18,288 INFO   NEW: Itsuki Ramen 174g | $2.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5439&limit=100
+2026-09-22 14:15:20,057 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 14:15:20,315 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 14:15:20,325 INFO === Run finished ===

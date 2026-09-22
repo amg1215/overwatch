@@ -10002,6 +10002,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5438&limit=100",
       "stock": "n/a"
     },
+    "5439": {
+      "name": "Itsuki Ramen 174g",
+      "price": "$2.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5439&limit=100",
+      "stock": "n/a"
+    },
     "23773": {
       "name": "ZUBAAAN Soy Sauce Fl",
       "price": "$2.72",
@@ -10412,6 +10418,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T14:13:40",
-  "last_count": 1735
+  "last_run": "2026-09-22T14:15:20",
+  "last_count": 1736
 }
