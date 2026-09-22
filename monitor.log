@@ -61139,3 +61139,9 @@
 2026-09-22 19:37:10,783 INFO === Run started ===
 2026-09-22 19:37:36,315 INFO No new products (1553 tracked)
 2026-09-22 19:37:36,324 INFO === Run finished ===
+2026-09-22 19:38:12,230 INFO === Run started ===
+2026-09-22 19:38:37,372 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 19:38:37,372 INFO   NEW: Sangaria Peach Juice | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25722&limit=100
+2026-09-22 19:38:38,438 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 19:38:38,815 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 19:38:38,824 INFO === Run finished ===
