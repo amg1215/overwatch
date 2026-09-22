@@ -61510,3 +61510,10 @@
 2026-09-22 21:11:40,400 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:11:40,621 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:11:40,630 INFO === Run finished ===
+2026-09-22 21:12:11,967 INFO === Run started ===
+2026-09-22 21:12:36,955 INFO NEW/RESTOCKED products detected: 2
+2026-09-22 21:12:36,955 INFO   NEW: Kose Men's Control O | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3874&limit=100
+2026-09-22 21:12:36,955 INFO   NEW: Canmake Melting gel | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6572&limit=100
+2026-09-22 21:12:40,180 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:12:40,346 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:12:40,356 INFO === Run finished ===
