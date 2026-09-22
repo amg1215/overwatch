@@ -59352,3 +59352,9 @@
 2026-09-22 14:21:14,240 INFO === Run started ===
 2026-09-22 14:21:39,446 INFO No new products (1742 tracked)
 2026-09-22 14:21:39,452 INFO === Run finished ===
+2026-09-22 14:22:12,755 INFO === Run started ===
+2026-09-22 14:24:42,998 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 14:24:42,999 INFO   NEW: AGF Premium Drip Cof | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5592&limit=100
+2026-09-22 14:24:44,988 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 14:24:45,192 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 14:24:45,201 INFO === Run finished ===

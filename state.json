@@ -9702,6 +9702,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3745&limit=100",
       "stock": "n/a"
     },
+    "5592": {
+      "name": "AGF Premium Drip Cof",
+      "price": "$8.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5592&limit=100",
+      "stock": "n/a"
+    },
     "3747": {
       "name": "AGF Coffee Liquid Su",
       "price": "$2.11",
@@ -10454,6 +10460,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T14:21:39",
-  "last_count": 1742
+  "last_run": "2026-09-22T14:24:45",
+  "last_count": 1743
 }
