@@ -61546,3 +61546,13 @@
 2026-09-22 21:18:39,080 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:18:39,308 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:18:39,316 INFO === Run finished ===
+2026-09-22 21:19:12,852 INFO === Run started ===
+2026-09-22 21:19:40,970 INFO NEW/RESTOCKED products detected: 5
+2026-09-22 21:19:40,970 INFO   NEW: Kao Bleaching Agents | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8704&limit=100
+2026-09-22 21:19:40,970 INFO   NEW: Kose Clear Turn Soft | $11.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5075&limit=100
+2026-09-22 21:19:40,970 INFO   NEW: Kose Elastic Moistur | $11.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11279&limit=100
+2026-09-22 21:19:40,970 INFO   NEW: Kose Moisturizing Ac | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3792&limit=100
+2026-09-22 21:19:40,970 INFO   NEW: Kissme Hand Cream Tu | $4.43 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9105&limit=100
+2026-09-22 21:19:42,708 INFO Email sent: Ebisu: 5 new/restocked items!
+2026-09-22 21:19:42,945 INFO ntfy push sent: Ebisu: 5 new/restocked items!
+2026-09-22 21:19:42,955 INFO === Run finished ===

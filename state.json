@@ -1050,6 +1050,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10530&limit=100",
       "stock": "n/a"
     },
+    "8704": {
+      "name": "Kao Bleaching Agents",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8704&limit=100",
+      "stock": "n/a"
+    },
     "5652": {
       "name": "Kao Laurier Women's",
       "price": "$4.42",
@@ -2544,6 +2550,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10454&limit=100",
       "stock": "n/a"
     },
+    "5075": {
+      "name": "Kose Clear Turn Soft",
+      "price": "$11.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5075&limit=100",
+      "stock": "n/a"
+    },
     "9183": {
       "name": "Kose Babyish Moistur",
       "price": "$2.69",
@@ -2560,6 +2572,12 @@
       "name": "Kose CLEAR TURN BIHA",
       "price": "$3.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8649&limit=100",
+      "stock": "n/a"
+    },
+    "11279": {
+      "name": "Kose Elastic Moistur",
+      "price": "$11.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11279&limit=100",
       "stock": "n/a"
     },
     "10064": {
@@ -2734,6 +2752,12 @@
       "name": "Sana Whitening Cream",
       "price": "$8.39",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5149&limit=100",
+      "stock": "n/a"
+    },
+    "3792": {
+      "name": "Kose Moisturizing Ac",
+      "price": "$6.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3792&limit=100",
       "stock": "n/a"
     },
     "1946": {
@@ -3958,6 +3982,12 @@
       "name": "Kao Biore Foam Hand",
       "price": "$3.75",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2782&limit=100",
+      "stock": "n/a"
+    },
+    "9105": {
+      "name": "Kissme Hand Cream Tu",
+      "price": "$4.43",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9105&limit=100",
       "stock": "n/a"
     },
     "9524": {
@@ -9560,6 +9590,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T21:18:39",
-  "last_count": 1593
+  "last_run": "2026-09-22T21:19:42",
+  "last_count": 1598
 }
