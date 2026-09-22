@@ -59221,3 +59221,10 @@
 2026-09-22 13:55:13,713 INFO === Run started ===
 2026-09-22 13:55:42,260 INFO No new products (1719 tracked)
 2026-09-22 13:55:42,270 INFO === Run finished ===
+2026-09-22 13:56:14,722 INFO === Run started ===
+2026-09-22 13:56:39,725 INFO NEW/RESTOCKED products detected: 2
+2026-09-22 13:56:39,725 INFO   NEW: BANDAI SPIRITS Demon | $114.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30818&limit=100
+2026-09-22 13:56:39,725 INFO   NEW: Samyang Carbonara Bu | $3.61 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12207&limit=100
+2026-09-22 13:56:40,903 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-22 13:56:41,083 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-22 13:56:41,089 INFO === Run finished ===
