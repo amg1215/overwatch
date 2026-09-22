@@ -6966,6 +6966,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24241&limit=100",
       "stock": "n/a"
     },
+    "13400": {
+      "name": "Senjaku SLO Candy Fr",
+      "price": "$1.67",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13400&limit=100",
+      "stock": "n/a"
+    },
     "5266": {
       "name": "Nobel SOURS Gummi Ca",
       "price": "$1.99",
@@ -9114,6 +9120,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30618&limit=100",
       "stock": "n/a"
     },
+    "30737": {
+      "name": "Heart Disney Charact",
+      "price": "$2.32",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30737&limit=100",
+      "stock": "n/a"
+    },
     "26494": {
       "name": "Heart Food Toys Touk",
       "price": "$2.30",
@@ -10322,6 +10334,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T14:31:27",
-  "last_count": 1720
+  "last_run": "2026-09-22T14:33:39",
+  "last_count": 1722
 }

@@ -59373,3 +59373,10 @@
 2026-09-22 14:31:01,861 INFO === Run started ===
 2026-09-22 14:31:27,822 INFO No new products (1720 tracked)
 2026-09-22 14:31:27,827 INFO === Run finished ===
+2026-09-22 14:33:07,529 INFO === Run started ===
+2026-09-22 14:33:36,520 INFO NEW/RESTOCKED products detected: 2
+2026-09-22 14:33:36,520 INFO   NEW: Senjaku SLO Candy Fr | $1.67 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13400&limit=100
+2026-09-22 14:33:36,520 INFO   NEW: Heart Disney Charact | $2.32 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30737&limit=100
+2026-09-22 14:33:39,315 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-22 14:33:39,588 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-22 14:33:39,598 INFO === Run finished ===
