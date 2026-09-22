@@ -61655,3 +61655,11 @@
 2026-09-22 21:35:50,066 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-22 21:35:50,323 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-22 21:35:50,333 INFO === Run finished ===
+2026-09-22 21:36:12,028 INFO === Run started ===
+2026-09-22 21:36:49,140 INFO NEW/RESTOCKED products detected: 3
+2026-09-22 21:36:49,140 INFO   NEW: Kao 8x4 Roll-on Anti | $5.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5647&limit=100
+2026-09-22 21:36:49,141 INFO   NEW: Kao 8x4 Roll-on Anti | $5.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5651&limit=100
+2026-09-22 21:36:49,141 INFO   NEW: Re-Ment Pokemon Char | $9.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18426&limit=100
+2026-09-22 21:36:50,139 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-22 21:36:50,396 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-22 21:36:50,406 INFO === Run finished ===

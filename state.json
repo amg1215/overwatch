@@ -4254,6 +4254,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22123&limit=100",
       "stock": "n/a"
     },
+    "5647": {
+      "name": "Kao 8x4 Roll-on Anti",
+      "price": "$5.35",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5647&limit=100",
+      "stock": "n/a"
+    },
+    "5651": {
+      "name": "Kao 8x4 Roll-on Anti",
+      "price": "$5.35",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5651&limit=100",
+      "stock": "n/a"
+    },
     "5229": {
       "name": "Kobayashi Miss Foot",
       "price": "$5.12",
@@ -4678,6 +4690,12 @@
       "name": "Re-Ment Kirby Series",
       "price": "$10.79",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15494&limit=100",
+      "stock": "n/a"
+    },
+    "18426": {
+      "name": "Re-Ment Pokemon Char",
+      "price": "$9.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18426&limit=100",
       "stock": "n/a"
     },
     "31006": {
@@ -9734,6 +9752,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T21:35:50",
-  "last_count": 1622
+  "last_run": "2026-09-22T21:36:50",
+  "last_count": 1625
 }
