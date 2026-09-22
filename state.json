@@ -5484,6 +5484,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51882&limit=100",
       "stock": "n/a"
     },
+    "52031": {
+      "name": "Banpresto Godzilla-1",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=52031&limit=100",
+      "stock": "n/a"
+    },
     "51881": {
       "name": "Banpresto Ultraman A",
       "price": "$21.59",
@@ -9332,6 +9338,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T19:58:36",
-  "last_count": 1555
+  "last_run": "2026-09-22T19:59:40",
+  "last_count": 1556
 }
