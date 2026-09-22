@@ -61556,3 +61556,12 @@
 2026-09-22 21:19:42,708 INFO Email sent: Ebisu: 5 new/restocked items!
 2026-09-22 21:19:42,945 INFO ntfy push sent: Ebisu: 5 new/restocked items!
 2026-09-22 21:19:42,955 INFO === Run finished ===
+2026-09-22 21:20:16,633 INFO === Run started ===
+2026-09-22 21:20:43,869 INFO NEW/RESTOCKED products detected: 4
+2026-09-22 21:20:43,869 INFO   NEW: Today's Cosme Zero S | $7.46 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=98&limit=100
+2026-09-22 21:20:43,869 INFO   NEW: Kose CLEAR TURN VC W | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8647&limit=100
+2026-09-22 21:20:43,869 INFO   NEW: Kose Moisturizing & | $5.30 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3875&limit=100
+2026-09-22 21:20:43,869 INFO   NEW: Kose Shrink Pores Ma | $5.21 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3789&limit=100
+2026-09-22 21:20:45,945 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-22 21:20:46,205 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-22 21:20:46,215 INFO === Run finished ===
