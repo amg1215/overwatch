@@ -61023,3 +61023,9 @@
 2026-09-22 19:03:14,983 INFO === Run started ===
 2026-09-22 19:03:43,101 INFO No new products (1542 tracked)
 2026-09-22 19:03:43,110 INFO === Run finished ===
+2026-09-22 19:04:13,221 INFO === Run started ===
+2026-09-22 19:04:38,312 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 19:04:38,312 INFO   NEW: Dragonfly Eraser PE0 | $0.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8491&limit=100
+2026-09-22 19:04:40,134 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 19:04:40,508 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 19:04:40,514 INFO === Run finished ===
