@@ -7164,6 +7164,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23094&limit=100",
       "stock": "n/a"
     },
+    "22931": {
+      "name": "Nanpudo Langue de Ch",
+      "price": "$5.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22931&limit=100",
+      "stock": "n/a"
+    },
     "22720": {
       "name": "Penguin Shizuoka Biy",
       "price": "$5.39",
@@ -9170,6 +9176,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T15:41:38",
-  "last_count": 1528
+  "last_run": "2026-09-22T15:42:44",
+  "last_count": 1529
 }

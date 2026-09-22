@@ -60365,3 +60365,9 @@
 2026-09-22 15:41:12,839 INFO === Run started ===
 2026-09-22 15:41:38,634 INFO No new products (1528 tracked)
 2026-09-22 15:41:38,643 INFO === Run finished ===
+2026-09-22 15:42:13,175 INFO === Run started ===
+2026-09-22 15:42:43,034 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 15:42:43,034 INFO   NEW: Nanpudo Langue de Ch | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22931&limit=100
+2026-09-22 15:42:44,544 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 15:42:44,750 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 15:42:44,759 INFO === Run finished ===
