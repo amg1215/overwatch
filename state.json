@@ -3714,6 +3714,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9868&limit=100",
       "stock": "n/a"
     },
+    "12631": {
+      "name": "BIBIDAY Hand Cream E",
+      "price": "$5.38",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12631&limit=100",
+      "stock": "n/a"
+    },
     "8157": {
       "name": "Kurochiku Paper Soap",
       "price": "$2.99",
@@ -9140,6 +9146,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T15:11:42",
-  "last_count": 1523
+  "last_run": "2026-09-22T15:12:36",
+  "last_count": 1524
 }
