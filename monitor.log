@@ -61687,3 +61687,9 @@
 2026-09-22 21:43:38,181 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:43:38,311 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:43:38,321 INFO === Run finished ===
+2026-09-22 21:44:15,141 INFO === Run started ===
+2026-09-22 21:44:42,125 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 21:44:42,126 INFO   NEW: UCC Ueshima Coffee 1 | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24270&limit=100
+2026-09-22 21:44:43,301 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 21:44:43,424 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 21:44:43,434 INFO === Run finished ===
