@@ -61717,3 +61717,10 @@
 2026-09-22 21:48:37,494 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-22 21:48:37,715 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-22 21:48:37,724 INFO === Run finished ===
+2026-09-22 21:49:12,276 INFO === Run started ===
+2026-09-22 21:49:40,033 INFO NEW/RESTOCKED products detected: 2
+2026-09-22 21:49:40,033 INFO   NEW: Kao Toilet Deodorant | $2.61 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8720&limit=100
+2026-09-22 21:49:40,033 INFO   NEW: Kose Firming & Brigh | $5.21 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11290&limit=100
+2026-09-22 21:49:41,109 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:49:41,375 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:49:41,385 INFO === Run finished ===
