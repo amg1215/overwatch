@@ -61485,3 +61485,10 @@
 2026-09-22 21:07:42,331 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:07:42,621 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:07:42,630 INFO === Run finished ===
+2026-09-22 21:08:15,615 INFO === Run started ===
+2026-09-22 21:08:42,882 INFO NEW/RESTOCKED products detected: 2
+2026-09-22 21:08:42,882 INFO   NEW: Canmake Lame Mania 0 | $7.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19571&limit=100
+2026-09-22 21:08:42,882 INFO   NEW: CANMAKE Powder Cheek | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19573&limit=100
+2026-09-22 21:08:44,247 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:08:44,465 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:08:44,475 INFO === Run finished ===
