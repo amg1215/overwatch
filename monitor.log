@@ -61517,3 +61517,10 @@
 2026-09-22 21:12:40,180 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-22 21:12:40,346 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-22 21:12:40,356 INFO === Run finished ===
+2026-09-22 21:13:11,454 INFO === Run started ===
+2026-09-22 21:13:37,483 INFO NEW/RESTOCKED products detected: 2
+2026-09-22 21:13:37,483 INFO   NEW: KAO Attack Highly Ac | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22600&limit=100
+2026-09-22 21:13:37,483 INFO   NEW: Kose Thick Moisturiz | $11.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11278&limit=100
+2026-09-22 21:13:39,624 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:13:39,823 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:13:39,832 INFO === Run finished ===
