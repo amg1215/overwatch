@@ -8472,6 +8472,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3745&limit=100",
       "stock": "n/a"
     },
+    "5557": {
+      "name": "AGF Blendy Instant C",
+      "price": "$8.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5557&limit=100",
+      "stock": "n/a"
+    },
     "5592": {
       "name": "AGF Premium Drip Cof",
       "price": "$8.39",
@@ -9134,6 +9140,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T14:49:51",
-  "last_count": 1522
+  "last_run": "2026-09-22T14:50:42",
+  "last_count": 1523
 }
