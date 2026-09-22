@@ -9714,6 +9714,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3747&limit=100",
       "stock": "n/a"
     },
+    "3746": {
+      "name": "AGF Coffee Liquid Mi",
+      "price": "$2.11",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3746&limit=100",
+      "stock": "n/a"
+    },
     "29157": {
       "name": "AJINOMOTO Marim Coff",
       "price": "$2.39",
@@ -10460,6 +10466,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T14:26:09",
-  "last_count": 1743
+  "last_run": "2026-09-22T14:27:41",
+  "last_count": 1744
 }
