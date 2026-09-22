@@ -61540,3 +61540,9 @@
 2026-09-22 21:17:42,154 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:17:42,398 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:17:42,410 INFO === Run finished ===
+2026-09-22 21:18:12,217 INFO === Run started ===
+2026-09-22 21:18:37,673 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 21:18:37,673 INFO   NEW: Kao Laurier Sanitary | $4.55 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5654&limit=100
+2026-09-22 21:18:39,080 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 21:18:39,308 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 21:18:39,316 INFO === Run finished ===
