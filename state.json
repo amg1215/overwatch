@@ -1938,6 +1938,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18873&limit=100",
       "stock": "n/a"
     },
+    "9074": {
+      "name": "Kao MegRhythm Gentle",
+      "price": "$12.15",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9074&limit=100",
+      "stock": "n/a"
+    },
     "1157": {
       "name": "Kiribai Waist Warmer",
       "price": "$4.19",
@@ -9350,6 +9356,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T20:19:14",
-  "last_count": 1558
+  "last_run": "2026-09-22T20:20:40",
+  "last_count": 1559
 }
