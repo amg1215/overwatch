@@ -4158,6 +4158,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9317&limit=100",
       "stock": "n/a"
     },
+    "14795": {
+      "name": "Kao Toothpaste Stron",
+      "price": "$3.98",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14795&limit=100",
+      "stock": "n/a"
+    },
     "9311": {
       "name": "Lion Clinica Advanta",
       "price": "$2.99",
@@ -4186,6 +4192,12 @@
       "name": "Techxcel Okuchi Port",
       "price": "$2.00",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8102&limit=100",
+      "stock": "n/a"
+    },
+    "9298": {
+      "name": "Kao Mouthwash Soft M",
+      "price": "$4.61",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9298&limit=100",
       "stock": "n/a"
     },
     "9732": {
@@ -9416,6 +9428,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T20:51:35",
-  "last_count": 1569
+  "last_run": "2026-09-22T20:52:37",
+  "last_count": 1571
 }
