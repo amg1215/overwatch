@@ -61593,3 +61593,10 @@
 2026-09-22 21:25:41,393 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-22 21:25:41,563 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-22 21:25:41,571 INFO === Run finished ===
+2026-09-22 21:26:11,626 INFO === Run started ===
+2026-09-22 21:26:36,982 INFO NEW/RESTOCKED products detected: 2
+2026-09-22 21:26:36,982 INFO   NEW: Kobayashi Eye Wash C | $8.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8305&limit=100
+2026-09-22 21:26:36,982 INFO   NEW: Kose CICA Acne Repai | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11287&limit=100
+2026-09-22 21:26:38,236 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:26:38,393 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:26:38,400 INFO === Run finished ===

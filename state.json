@@ -2028,6 +2028,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8244&limit=100",
       "stock": "n/a"
     },
+    "8305": {
+      "name": "Kobayashi Eye Wash C",
+      "price": "$8.95",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8305&limit=100",
+      "stock": "n/a"
+    },
     "7928": {
       "name": "Kobayashi Eye Wash G",
       "price": "$8.95",
@@ -2632,6 +2638,12 @@
       "name": "Kose CICA Acne Repai",
       "price": "$16.30",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11286&limit=100",
+      "stock": "n/a"
+    },
+    "11287": {
+      "name": "Kose CICA Acne Repai",
+      "price": "$4.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11287&limit=100",
       "stock": "n/a"
     },
     "7519": {
@@ -9644,6 +9656,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T21:25:41",
-  "last_count": 1607
+  "last_run": "2026-09-22T21:26:38",
+  "last_count": 1609
 }
