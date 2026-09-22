@@ -8526,6 +8526,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18834&limit=100",
       "stock": "n/a"
     },
+    "8796": {
+      "name": "AGF Blendy Cafe Lato",
+      "price": "$2.88",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8796&limit=100",
+      "stock": "n/a"
+    },
     "8798": {
       "name": "AGF Blendy Cafe Lato",
       "price": "$2.88",
@@ -9230,6 +9236,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T17:01:42",
-  "last_count": 1538
+  "last_run": "2026-09-22T17:02:45",
+  "last_count": 1539
 }
