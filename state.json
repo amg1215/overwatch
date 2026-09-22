@@ -7998,6 +7998,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26478&limit=100",
       "stock": "n/a"
     },
+    "30727": {
+      "name": "Sanritsu Confectione",
+      "price": "$1.92",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30727&limit=100",
+      "stock": "n/a"
+    },
+    "30728": {
+      "name": "Sanritsu Confectione",
+      "price": "$1.92",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30728&limit=100",
+      "stock": "n/a"
+    },
     "23116": {
       "name": "Samritsu Matcha Butt",
       "price": "$1.98",
@@ -10346,6 +10358,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T14:00:55",
-  "last_count": 1724
+  "last_run": "2026-09-22T14:01:43",
+  "last_count": 1726
 }
