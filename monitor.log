@@ -61101,3 +61101,9 @@
 2026-09-22 19:28:15,341 INFO === Run started ===
 2026-09-22 19:28:43,084 INFO No new products (1545 tracked)
 2026-09-22 19:28:43,091 INFO === Run finished ===
+2026-09-22 19:29:13,623 INFO === Run started ===
+2026-09-22 19:29:45,037 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 19:29:45,038 INFO   NEW: Suntory Iemon Specia | $1.92 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10121&limit=100
+2026-09-22 19:29:46,810 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 19:29:47,226 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 19:29:47,237 INFO === Run finished ===
