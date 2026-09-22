@@ -61641,3 +61641,10 @@
 2026-09-22 21:33:57,544 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-22 21:33:57,779 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-22 21:33:57,788 INFO === Run finished ===
+2026-09-22 21:34:13,313 INFO === Run started ===
+2026-09-22 21:34:41,005 INFO NEW/RESTOCKED products detected: 2
+2026-09-22 21:34:41,005 INFO   NEW: Kao Men's Biore Micr | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9564&limit=100
+2026-09-22 21:34:41,005 INFO   NEW: AGATSUMA Sanrio Char | $16.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31275&limit=100
+2026-09-22 21:34:43,070 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:34:43,217 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:34:43,226 INFO === Run finished ===
