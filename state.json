@@ -2280,6 +2280,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10149&limit=100",
       "stock": "n/a"
     },
+    "4701": {
+      "name": "Kao Biore Clear Wipi",
+      "price": "$7.46",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4701&limit=100",
+      "stock": "n/a"
+    },
     "4196": {
       "name": "Kracie Whitening Fac",
       "price": "$8.99",
@@ -9356,6 +9362,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T20:20:40",
-  "last_count": 1559
+  "last_run": "2026-09-22T20:21:41",
+  "last_count": 1560
 }
