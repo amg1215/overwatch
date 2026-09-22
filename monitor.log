@@ -59276,3 +59276,9 @@
 2026-09-22 14:05:51,530 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-22 14:05:51,745 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-22 14:05:51,817 INFO === Run finished ===
+2026-09-22 14:06:13,631 INFO === Run started ===
+2026-09-22 14:06:40,722 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 14:06:40,722 INFO   NEW: Heart Food Toys Touk | $2.30 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26494&limit=100
+2026-09-22 14:06:42,258 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 14:06:42,434 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 14:06:42,442 INFO === Run finished ===

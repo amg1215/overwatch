@@ -9228,6 +9228,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30618&limit=100",
       "stock": "n/a"
     },
+    "26494": {
+      "name": "Heart Food Toys Touk",
+      "price": "$2.30",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26494&limit=100",
+      "stock": "n/a"
+    },
     "29024": {
       "name": "Heart Chiikawa Chara",
       "price": "$2.29",
@@ -10382,6 +10388,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T14:05:51",
-  "last_count": 1730
+  "last_run": "2026-09-22T14:06:42",
+  "last_count": 1731
 }
