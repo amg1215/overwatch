@@ -59282,3 +59282,9 @@
 2026-09-22 14:06:42,258 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 14:06:42,434 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 14:06:42,442 INFO === Run finished ===
+2026-09-22 14:07:15,588 INFO === Run started ===
+2026-09-22 14:07:42,638 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 14:07:42,638 INFO   NEW: RE-MENT Kuji Pon San | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30816&limit=100
+2026-09-22 14:07:44,148 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 14:07:44,270 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 14:07:44,280 INFO === Run finished ===
