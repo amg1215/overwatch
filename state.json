@@ -7200,18 +7200,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18848&limit=100",
       "stock": "n/a"
     },
-    "30487": {
-      "name": "Morinaga Baked Choco",
-      "price": "$2.69",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30487&limit=100",
-      "stock": "n/a"
-    },
-    "30967": {
-      "name": "YBS Mint Chocolate P",
-      "price": "$2.89",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30967&limit=100",
-      "stock": "n/a"
-    },
     "30968": {
       "name": "YBS Ayane Sandwich C",
       "price": "$2.39",
@@ -9386,6 +9374,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T20:30:56",
-  "last_count": 1564
+  "last_run": "2026-09-22T20:31:56",
+  "last_count": 1562
 }
