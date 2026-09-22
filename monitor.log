@@ -61571,3 +61571,9 @@
 2026-09-22 21:21:36,545 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:21:36,592 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 21:21:36,599 INFO === Run finished ===
+2026-09-22 21:22:12,536 INFO === Run started ===
+2026-09-22 21:22:39,003 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 21:22:39,003 INFO   NEW: AGATSUMA Sanrio Char | $16.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31274&limit=100
+2026-09-22 21:22:41,508 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 21:22:41,722 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 21:22:41,728 INFO === Run finished ===

@@ -5826,6 +5826,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=52038&limit=100",
       "stock": "n/a"
     },
+    "31274": {
+      "name": "AGATSUMA Sanrio Char",
+      "price": "$16.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31274&limit=100",
+      "stock": "n/a"
+    },
     "30405": {
       "name": "Banpresto Demon Slay",
       "price": "$21.59",
@@ -9620,6 +9626,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T21:21:36",
-  "last_count": 1603
+  "last_run": "2026-09-22T21:22:41",
+  "last_count": 1604
 }
