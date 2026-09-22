@@ -3960,6 +3960,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17295&limit=100",
       "stock": "n/a"
     },
+    "19111": {
+      "name": "KAO Liese Foam Hair",
+      "price": "$8.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19111&limit=100",
+      "stock": "n/a"
+    },
     "20330": {
       "name": "KAO Liese Foam Hair",
       "price": "$7.79",
@@ -9198,12 +9204,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8910&limit=100",
       "stock": "n/a"
     },
-    "8911": {
-      "name": "DHC Multivitamins 60",
-      "price": "$5.76",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8911&limit=100",
-      "stock": "n/a"
-    },
     "9654": {
       "name": "DHC Coix Seed Tablet",
       "price": "$9.80",
@@ -9254,6 +9254,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T18:14:37",
+  "last_run": "2026-09-22T18:15:45",
   "last_count": 1542
 }
