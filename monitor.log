@@ -61220,3 +61220,9 @@
 2026-09-22 20:01:44,767 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 20:01:45,009 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 20:01:45,018 INFO === Run finished ===
+2026-09-22 20:02:14,354 INFO === Run started ===
+2026-09-22 20:02:43,061 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 20:02:43,061 INFO   NEW: BANDAI SPIRITS Banpr | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51676&limit=100
+2026-09-22 20:02:48,895 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 20:02:49,140 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 20:02:49,148 INFO === Run finished ===
