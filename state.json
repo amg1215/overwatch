@@ -1074,6 +1074,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5652&limit=100",
       "stock": "n/a"
     },
+    "20098": {
+      "name": "KAO Detergent Jasmin",
+      "price": "$4.37",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20098&limit=100",
+      "stock": "n/a"
+    },
     "22600": {
       "name": "KAO Attack Highly Ac",
       "price": "$4.19",
@@ -8556,6 +8562,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31091&limit=100",
       "stock": "n/a"
     },
+    "31271": {
+      "name": "T-ARTS Tomica Garage",
+      "price": "$11.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31271&limit=100",
+      "stock": "n/a"
+    },
     "31016": {
       "name": "T-ARTS Pokémon Tradi",
       "price": "$1.09",
@@ -9794,6 +9806,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T21:47:37",
-  "last_count": 1632
+  "last_run": "2026-09-22T21:48:37",
+  "last_count": 1634
 }
