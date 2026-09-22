@@ -61395,3 +61395,9 @@
 2026-09-22 20:48:38,251 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-22 20:48:38,402 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-22 20:48:38,411 INFO === Run finished ===
+2026-09-22 20:49:11,296 INFO === Run started ===
+2026-09-22 20:49:36,463 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 20:49:36,464 INFO   NEW: Kao Laurier Women's | $4.42 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5652&limit=100
+2026-09-22 20:49:37,554 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 20:49:37,775 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 20:49:37,784 INFO === Run finished ===
