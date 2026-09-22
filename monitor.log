@@ -61617,3 +61617,10 @@
 2026-09-22 21:29:12,052 INFO === Run started ===
 2026-09-22 21:29:38,849 INFO No new products (1613 tracked)
 2026-09-22 21:29:38,856 INFO === Run finished ===
+2026-09-22 21:30:21,007 INFO === Run started ===
+2026-09-22 21:30:48,730 INFO NEW/RESTOCKED products detected: 2
+2026-09-22 21:30:48,730 INFO   NEW: Kao Glass Cleaner Sp | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8961&limit=100
+2026-09-22 21:30:48,731 INFO   NEW: Sanko Snow Rice Cake | $2.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=317&limit=100
+2026-09-22 21:30:50,303 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:30:50,592 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:30:50,601 INFO === Run finished ===
