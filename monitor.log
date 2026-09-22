@@ -60267,3 +60267,10 @@
 2026-09-22 15:12:36,447 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 15:12:36,660 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 15:12:36,667 INFO === Run finished ===
+2026-09-22 15:13:10,783 INFO === Run started ===
+2026-09-22 15:13:34,015 INFO NEW/RESTOCKED products detected: 2
+2026-09-22 15:13:34,015 INFO   NEW: BIBIDAY Hand Cream M | $5.38 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12630&limit=100
+2026-09-22 15:13:34,015 INFO   NEW: BIBIDAY Hand Cream J | $5.38 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12632&limit=100
+2026-09-22 15:13:35,640 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-22 15:13:35,803 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-22 15:13:35,810 INFO === Run finished ===
