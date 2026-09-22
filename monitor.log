@@ -61724,3 +61724,10 @@
 2026-09-22 21:49:41,109 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-22 21:49:41,375 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-22 21:49:41,385 INFO === Run finished ===
+2026-09-22 21:50:18,400 INFO === Run started ===
+2026-09-22 21:50:46,741 INFO NEW/RESTOCKED products detected: 2
+2026-09-22 21:50:46,741 INFO   NEW: Kose Moisture Mask 7 | $5.30 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3910&limit=100
+2026-09-22 21:50:46,741 INFO   NEW: Kao Liese Foam Hair | $8.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17198&limit=100
+2026-09-22 21:50:49,010 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:50:49,286 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-22 21:50:49,296 INFO === Run finished ===
