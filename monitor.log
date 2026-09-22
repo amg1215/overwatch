@@ -60485,3 +60485,9 @@
 2026-09-22 16:18:47,602 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-22 16:18:47,827 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-22 16:18:47,836 INFO === Run finished ===
+2026-09-22 16:19:10,258 INFO === Run started ===
+2026-09-22 16:19:34,540 INFO NEW/RESTOCKED products detected: 1
+2026-09-22 16:19:34,540 INFO   NEW: Hamada Balance Power | $1.23 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8317&limit=100
+2026-09-22 16:19:36,431 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-22 16:19:36,721 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-22 16:19:36,731 INFO === Run finished ===
