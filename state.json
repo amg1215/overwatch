@@ -5610,6 +5610,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30616&limit=100",
       "stock": "n/a"
     },
+    "30819": {
+      "name": "BANDAI Shadowverse:",
+      "price": "$0.90",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30819&limit=100",
+      "stock": "n/a"
+    },
     "19519": {
       "name": "SUNSTAR Chiikawa Rak",
       "price": "$4.19",
@@ -9260,6 +9266,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T17:51:36",
-  "last_count": 1543
+  "last_run": "2026-09-22T17:52:38",
+  "last_count": 1544
 }
