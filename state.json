@@ -4164,6 +4164,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14795&limit=100",
       "stock": "n/a"
     },
+    "14796": {
+      "name": "Kao Whitening Toothp",
+      "price": "$4.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14796&limit=100",
+      "stock": "n/a"
+    },
     "9311": {
       "name": "Lion Clinica Advanta",
       "price": "$2.99",
@@ -9428,6 +9434,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-22T20:52:37",
-  "last_count": 1571
+  "last_run": "2026-09-22T20:53:40",
+  "last_count": 1572
 }
