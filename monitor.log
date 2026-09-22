@@ -59228,3 +59228,12 @@
 2026-09-22 13:56:40,903 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-22 13:56:41,083 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-22 13:56:41,089 INFO === Run finished ===
+2026-09-22 13:57:21,352 INFO === Run started ===
+2026-09-22 13:57:46,947 INFO NEW/RESTOCKED products detected: 4
+2026-09-22 13:57:46,947 INFO   NEW: Lotte Gummi Candy 80 | $2.03 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5250&limit=100
+2026-09-22 13:57:46,947 INFO   NEW: Bourbon French Thin | $1.75 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22654&limit=100
+2026-09-22 13:57:46,947 INFO   NEW: Morinaga French frie | $1.55 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9918&limit=100
+2026-09-22 13:57:46,947 INFO   NEW: Krasie enjoyable sus | $3.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10787&limit=100
+2026-09-22 13:57:48,130 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-22 13:57:48,456 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-22 13:57:48,463 INFO === Run finished ===
