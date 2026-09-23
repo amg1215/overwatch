@@ -62865,3 +62865,12 @@
 2026-09-23 16:02:52,899 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-23 16:02:53,150 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-23 16:02:53,160 INFO === Run finished ===
+2026-09-23 16:04:15,567 INFO === Run started ===
+2026-09-23 16:05:18,922 INFO NEW/RESTOCKED products detected: 4
+2026-09-23 16:05:18,922 INFO   NEW: Kao Men's Biore Acne | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9565&limit=100
+2026-09-23 16:05:18,922 INFO   NEW: iPlanning Sanrio Cha | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31128&limit=100
+2026-09-23 16:05:18,922 INFO   NEW: COW Milk Soap 85g*6p | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3851&limit=100
+2026-09-23 16:05:18,922 INFO   NEW: Charley Foaming Bath | $1.10 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8062&limit=100
+2026-09-23 16:05:20,944 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-23 16:05:21,154 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-23 16:05:21,165 INFO === Run finished ===

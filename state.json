@@ -3012,6 +3012,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9046&limit=100",
       "stock": "n/a"
     },
+    "9565": {
+      "name": "Kao Men's Biore Acne",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9565&limit=100",
+      "stock": "n/a"
+    },
     "5070": {
       "name": "Nivea Men's Face Was",
       "price": "$3.88",
@@ -3798,6 +3804,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30216&limit=100",
       "stock": "n/a"
     },
+    "31128": {
+      "name": "iPlanning Sanrio Cha",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31128&limit=100",
+      "stock": "n/a"
+    },
     "30217": {
       "name": "iPlanning SLO My Mel",
       "price": "$3.59",
@@ -4308,6 +4320,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10091&limit=100",
       "stock": "n/a"
     },
+    "3851": {
+      "name": "COW Milk Soap 85g*6p",
+      "price": "$4.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3851&limit=100",
+      "stock": "n/a"
+    },
     "336": {
       "name": "COW Body Soap Additi",
       "price": "$5.85",
@@ -4324,6 +4342,12 @@
       "name": "Cow Brand Soap Red B",
       "price": "$5.39",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26440&limit=100",
+      "stock": "n/a"
+    },
+    "8062": {
+      "name": "Charley Foaming Bath",
+      "price": "$1.10",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8062&limit=100",
       "stock": "n/a"
     },
     "8065": {
@@ -10100,6 +10124,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-23T16:02:53",
-  "last_count": 1683
+  "last_run": "2026-09-23T16:05:21",
+  "last_count": 1687
 }
