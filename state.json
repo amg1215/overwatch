@@ -6150,6 +6150,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29843&limit=100",
       "stock": "n/a"
     },
+    "31130": {
+      "name": "KONAMI Arcade Games",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31130&limit=100",
+      "stock": "n/a"
+    },
     "1017": {
       "name": "Sanrio Sanrio Charac",
       "price": "$3.00",
@@ -9962,6 +9968,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-23T14:53:52",
-  "last_count": 1660
+  "last_run": "2026-09-23T14:54:56",
+  "last_count": 1661
 }

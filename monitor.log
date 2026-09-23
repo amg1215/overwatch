@@ -62679,3 +62679,9 @@
 2026-09-23 14:53:14,444 INFO === Run started ===
 2026-09-23 14:53:52,424 INFO No new products (1660 tracked)
 2026-09-23 14:53:52,433 INFO === Run finished ===
+2026-09-23 14:54:16,693 INFO === Run started ===
+2026-09-23 14:54:53,969 INFO NEW/RESTOCKED products detected: 1
+2026-09-23 14:54:53,970 INFO   NEW: KONAMI Arcade Games | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31130&limit=100
+2026-09-23 14:54:56,038 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-23 14:54:56,179 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-23 14:54:56,189 INFO === Run finished ===
