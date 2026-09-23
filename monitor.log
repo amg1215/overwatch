@@ -62787,3 +62787,11 @@
 2026-09-23 15:33:41,908 INFO === Run started ===
 2026-09-23 15:34:26,558 INFO No new products (1673 tracked)
 2026-09-23 15:34:26,567 INFO === Run finished ===
+2026-09-23 15:35:42,372 INFO === Run started ===
+2026-09-23 15:36:25,160 INFO NEW/RESTOCKED products detected: 3
+2026-09-23 15:36:25,160 INFO   NEW: Kose Softymo Ceramid | $4.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3098&limit=100
+2026-09-23 15:36:25,160 INFO   NEW: Kao Blaune Foam Colo | $9.14 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4941&limit=100
+2026-09-23 15:36:25,160 INFO   NEW: Kao Blaune Foam Colo | $9.14 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4942&limit=100
+2026-09-23 15:36:26,665 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-23 15:36:26,876 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-23 15:36:26,881 INFO === Run finished ===
