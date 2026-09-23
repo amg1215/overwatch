@@ -62912,3 +62912,10 @@
 2026-09-23 16:21:28,574 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-23 16:21:28,828 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-23 16:21:28,839 INFO === Run finished ===
+2026-09-23 16:22:49,622 INFO === Run started ===
+2026-09-23 16:23:44,219 INFO NEW/RESTOCKED products detected: 2
+2026-09-23 16:23:44,219 INFO   NEW: Kao Biore Nose Clean | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9176&limit=100
+2026-09-23 16:23:44,219 INFO   NEW: Kao Biore Nose Clean | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9758&limit=100
+2026-09-23 16:23:46,380 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-23 16:23:46,450 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-23 16:23:46,460 INFO === Run finished ===
