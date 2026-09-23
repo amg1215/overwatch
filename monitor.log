@@ -62835,3 +62835,9 @@
 2026-09-23 15:49:42,955 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-23 15:49:43,159 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-23 15:49:43,167 INFO === Run finished ===
+2026-09-23 15:51:00,655 INFO === Run started ===
+2026-09-23 15:51:51,091 INFO NEW/RESTOCKED products detected: 1
+2026-09-23 15:51:51,091 INFO   NEW: Kose Q10 Night Repai | $5.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13740&limit=100
+2026-09-23 15:51:52,793 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-23 15:51:52,911 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-23 15:51:52,921 INFO === Run finished ===
