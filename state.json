@@ -2304,6 +2304,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8962&limit=100",
       "stock": "n/a"
     },
+    "1216": {
+      "name": "Kao Super Clean Bath",
+      "price": "$3.29",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1216&limit=100",
+      "stock": "n/a"
+    },
     "11948": {
       "name": "LEC Bathroom Mold Cl",
       "price": "$5.97",
@@ -10232,6 +10238,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-23T16:55:57",
-  "last_count": 1705
+  "last_run": "2026-09-23T16:58:32",
+  "last_count": 1706
 }
