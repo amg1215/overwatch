@@ -6666,12 +6666,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5263&limit=100",
       "stock": "n/a"
     },
-    "23188": {
-      "name": "Nobel SUPER Lemon Su",
-      "price": "$1.92",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23188&limit=100",
-      "stock": "n/a"
-    },
     "2410": {
       "name": "Pine Peaches Candy 8",
       "price": "$1.00",
@@ -9872,6 +9866,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-23T13:58:49",
-  "last_count": 1645
+  "last_run": "2026-09-23T13:59:45",
+  "last_count": 1644
 }
