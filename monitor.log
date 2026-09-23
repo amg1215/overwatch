@@ -62906,3 +62906,9 @@
 2026-09-23 16:18:09,737 INFO === Run started ===
 2026-09-23 16:19:08,848 INFO No new products (1690 tracked)
 2026-09-23 16:19:08,857 INFO === Run finished ===
+2026-09-23 16:20:33,269 INFO === Run started ===
+2026-09-23 16:21:27,072 INFO NEW/RESTOCKED products detected: 1
+2026-09-23 16:21:27,073 INFO   NEW: Kose Precious Garden | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9106&limit=100
+2026-09-23 16:21:28,574 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-23 16:21:28,828 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-23 16:21:28,839 INFO === Run finished ===
