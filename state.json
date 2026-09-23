@@ -5076,6 +5076,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19233&limit=100",
       "stock": "n/a"
     },
+    "19234": {
+      "name": "MK Race Car Race Tra",
+      "price": "$4.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19234&limit=100",
+      "stock": "n/a"
+    },
     "19235": {
       "name": "MK Doll House Make U",
       "price": "$3.99",
@@ -10412,6 +10418,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-23T21:02:43",
-  "last_count": 1735
+  "last_run": "2026-09-23T21:03:44",
+  "last_count": 1736
 }
