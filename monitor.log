@@ -63562,3 +63562,9 @@
 2026-09-23 20:39:42,969 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-23 20:39:43,208 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-23 20:39:43,220 INFO === Run finished ===
+2026-09-23 20:40:19,611 INFO === Run started ===
+2026-09-23 20:40:47,361 INFO NEW/RESTOCKED products detected: 1
+2026-09-23 20:40:47,361 INFO   NEW: MK Princess Castle B | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17064&limit=100
+2026-09-23 20:40:48,917 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-23 20:40:49,143 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-23 20:40:49,150 INFO === Run finished ===
