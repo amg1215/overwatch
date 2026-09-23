@@ -5796,6 +5796,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30916&limit=100",
       "stock": "n/a"
     },
+    "30915": {
+      "name": "Banpresto Mobile Sui",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30915&limit=100",
+      "stock": "n/a"
+    },
     "30716": {
       "name": "Banpresto BLEACH GLI",
       "price": "$23.99",
@@ -6066,6 +6072,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30712&limit=100",
       "stock": "n/a"
     },
+    "30997": {
+      "name": "FuRyu Playing Death",
+      "price": "$25.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30997&limit=100",
+      "stock": "n/a"
+    },
     "30472": {
       "name": "FuRyu Nachoneko Trio",
       "price": "$23.99",
@@ -6238,6 +6250,12 @@
       "name": "Sega Umamusume Prett",
       "price": "$21.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30715&limit=100",
+      "stock": "n/a"
+    },
+    "31000": {
+      "name": "Sega Umamusume Prett",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31000&limit=100",
       "stock": "n/a"
     },
     "29529": {
@@ -10202,6 +10220,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-23T16:51:04",
-  "last_count": 1700
+  "last_run": "2026-09-23T16:53:36",
+  "last_count": 1703
 }

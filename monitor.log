@@ -62974,3 +62974,11 @@
 2026-09-23 16:50:13,373 INFO === Run started ===
 2026-09-23 16:51:04,998 INFO No new products (1700 tracked)
 2026-09-23 16:51:05,004 INFO === Run finished ===
+2026-09-23 16:52:26,112 INFO === Run started ===
+2026-09-23 16:53:35,945 INFO NEW/RESTOCKED products detected: 3
+2026-09-23 16:53:35,945 INFO   NEW: Banpresto Mobile Sui | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30915&limit=100
+2026-09-23 16:53:35,945 INFO   NEW: FuRyu Playing Death | $25.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30997&limit=100
+2026-09-23 16:53:35,945 INFO   NEW: Sega Umamusume Prett | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31000&limit=100
+2026-09-23 16:53:36,916 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-23 16:53:36,998 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-23 16:53:37,007 INFO === Run finished ===
