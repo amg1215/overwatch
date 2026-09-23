@@ -62847,3 +62847,9 @@
 2026-09-23 15:54:05,079 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-23 15:54:05,343 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-23 15:54:05,353 INFO === Run finished ===
+2026-09-23 15:55:23,783 INFO === Run started ===
+2026-09-23 15:56:15,013 INFO NEW/RESTOCKED products detected: 1
+2026-09-23 15:56:15,013 INFO   NEW: BANDAI Terastal Poké | $3.98 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31270&limit=100
+2026-09-23 15:56:17,320 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-23 15:56:17,679 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-23 15:56:17,689 INFO === Run finished ===
