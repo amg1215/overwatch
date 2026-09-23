@@ -62486,3 +62486,10 @@
 2026-09-23 14:02:50,847 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-23 14:02:51,098 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-23 14:02:51,108 INFO === Run finished ===
+2026-09-23 14:03:13,269 INFO === Run started ===
+2026-09-23 14:03:43,783 INFO NEW/RESTOCKED products detected: 2
+2026-09-23 14:03:43,784 INFO   NEW: BANDAI SPIRITS holol | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31117&limit=100
+2026-09-23 14:03:43,784 INFO   NEW: Oreo Cakesters Orang | $2.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27013&limit=100
+2026-09-23 14:03:44,846 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-23 14:03:45,095 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-23 14:03:45,105 INFO === Run finished ===
