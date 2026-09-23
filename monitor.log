@@ -63014,3 +63014,9 @@
 2026-09-23 17:05:48,199 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-23 17:05:48,435 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-23 17:05:48,446 INFO === Run finished ===
+2026-09-23 17:07:24,475 INFO === Run started ===
+2026-09-23 17:08:17,090 INFO NEW/RESTOCKED products detected: 1
+2026-09-23 17:08:17,090 INFO   NEW: KAO Laundry Detergen | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20436&limit=100
+2026-09-23 17:08:18,379 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-23 17:08:18,604 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-23 17:08:18,610 INFO === Run finished ===
