@@ -63055,3 +63055,9 @@
 2026-09-23 17:25:40,771 INFO === Run started ===
 2026-09-23 17:26:37,852 INFO No new products (1715 tracked)
 2026-09-23 17:26:37,861 INFO === Run finished ===
+2026-09-23 17:27:58,439 INFO === Run started ===
+2026-09-23 17:28:58,031 INFO NEW/RESTOCKED products detected: 1
+2026-09-23 17:28:58,031 INFO   NEW: COW Milk Body Soap R | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10774&limit=100
+2026-09-23 17:28:59,637 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-23 17:28:59,856 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-23 17:28:59,863 INFO === Run finished ===
