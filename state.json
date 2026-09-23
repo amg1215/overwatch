@@ -4386,6 +4386,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8990&limit=100",
       "stock": "n/a"
     },
+    "4944": {
+      "name": "Kao Blaune Foam Colo",
+      "price": "$9.14",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4944&limit=100",
+      "stock": "n/a"
+    },
     "17297": {
       "name": "Kao Foam Hair Dye Br",
       "price": "$7.79",
@@ -10022,6 +10028,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-23T15:26:58",
-  "last_count": 1670
+  "last_run": "2026-09-23T15:28:03",
+  "last_count": 1671
 }
