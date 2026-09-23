@@ -62806,3 +62806,12 @@
 2026-09-23 15:40:23,698 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-23 15:40:24,129 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-23 15:40:24,139 INFO === Run finished ===
+2026-09-23 15:41:37,356 INFO === Run started ===
+2026-09-23 15:42:24,298 INFO NEW/RESTOCKED products detected: 4
+2026-09-23 15:42:24,298 INFO   NEW: Kose Softymo Blackhe | $3.55 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2104&limit=100
+2026-09-23 15:42:24,298 INFO   NEW: Banpresto Jujutsu Ka | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30914&limit=100
+2026-09-23 15:42:24,298 INFO   NEW: Sega Hatsune Miku × | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30999&limit=100
+2026-09-23 15:42:24,298 INFO   NEW: Banpresto The Apothe | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30611&limit=100
+2026-09-23 15:42:25,951 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-23 15:42:26,207 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-23 15:42:26,217 INFO === Run finished ===
