@@ -63020,3 +63020,9 @@
 2026-09-23 17:08:18,379 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-23 17:08:18,604 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-23 17:08:18,610 INFO === Run finished ===
+2026-09-23 17:09:56,913 INFO === Run started ===
+2026-09-23 17:10:56,822 INFO NEW/RESTOCKED products detected: 1
+2026-09-23 17:10:56,822 INFO   NEW: Shiseido Rosarium Sh | $9.90 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8364&limit=100
+2026-09-23 17:10:58,337 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-23 17:10:58,599 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-23 17:10:58,610 INFO === Run finished ===
