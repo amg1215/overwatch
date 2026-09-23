@@ -63046,3 +63046,9 @@
 2026-09-23 17:21:19,957 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-23 17:21:20,138 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-23 17:21:20,144 INFO === Run finished ===
+2026-09-23 17:22:47,524 INFO === Run started ===
+2026-09-23 17:23:55,005 INFO NEW/RESTOCKED products detected: 1
+2026-09-23 17:23:55,005 INFO   NEW: Kose Suncut Perfect | $7.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11038&limit=100
+2026-09-23 17:23:56,393 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-23 17:23:56,557 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-23 17:23:56,563 INFO === Run finished ===
