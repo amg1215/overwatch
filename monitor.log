@@ -63039,3 +63039,10 @@
 2026-09-23 17:18:44,302 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-23 17:18:44,474 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-23 17:18:44,482 INFO === Run finished ===
+2026-09-23 17:20:22,949 INFO === Run started ===
+2026-09-23 17:21:18,782 INFO NEW/RESTOCKED products detected: 2
+2026-09-23 17:21:18,782 INFO   NEW: Kose Softymo Ceramid | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3097&limit=100
+2026-09-23 17:21:18,782 INFO   NEW: Kose Suncut Sunscree | $7.50 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11855&limit=100
+2026-09-23 17:21:19,957 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-23 17:21:20,138 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-23 17:21:20,144 INFO === Run finished ===

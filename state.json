@@ -2598,6 +2598,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3098&limit=100",
       "stock": "n/a"
     },
+    "3097": {
+      "name": "Kose Softymo Ceramid",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3097&limit=100",
+      "stock": "n/a"
+    },
     "3096": {
       "name": "Kose Softymo Ceramid",
       "price": "$4.79",
@@ -3340,6 +3346,12 @@
       "name": "Shiseido ANESSA Perf",
       "price": "$18.00",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30007&limit=100",
+      "stock": "n/a"
+    },
+    "11855": {
+      "name": "Kose Suncut Sunscree",
+      "price": "$7.50",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11855&limit=100",
       "stock": "n/a"
     },
     "11039": {
@@ -10274,6 +10286,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-23T17:18:44",
-  "last_count": 1712
+  "last_run": "2026-09-23T17:21:20",
+  "last_count": 1714
 }
