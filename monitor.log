@@ -63775,3 +63775,9 @@
 2026-09-23 21:33:43,946 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-23 21:33:44,430 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-23 21:33:44,441 INFO === Run finished ===
+2026-09-23 21:34:14,735 INFO === Run started ===
+2026-09-23 21:34:41,784 INFO NEW/RESTOCKED products detected: 1
+2026-09-23 21:34:41,784 INFO   NEW: MK Track Racing Gori | $3.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19238&limit=100
+2026-09-23 21:34:43,387 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-23 21:34:43,702 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-23 21:34:43,711 INFO === Run finished ===
