@@ -62919,3 +62919,9 @@
 2026-09-23 16:23:46,380 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-23 16:23:46,450 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-23 16:23:46,460 INFO === Run finished ===
+2026-09-23 16:25:14,726 INFO === Run started ===
+2026-09-23 16:26:05,256 INFO NEW/RESTOCKED products detected: 1
+2026-09-23 16:26:05,256 INFO   NEW: Kawada Nanoblock Pok | $8.55 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11167&limit=100
+2026-09-23 16:26:06,771 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-23 16:26:06,975 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-23 16:26:06,981 INFO === Run finished ===
