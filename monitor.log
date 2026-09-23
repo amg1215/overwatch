@@ -62959,3 +62959,12 @@
 2026-09-23 16:43:13,316 INFO === Run started ===
 2026-09-23 16:44:09,201 INFO No new products (1696 tracked)
 2026-09-23 16:44:09,209 INFO === Run finished ===
+2026-09-23 16:45:29,853 INFO === Run started ===
+2026-09-23 16:46:27,897 INFO NEW/RESTOCKED products detected: 4
+2026-09-23 16:46:27,897 INFO   NEW: John's Blend Hanging | $2.10 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3637&limit=100
+2026-09-23 16:46:27,898 INFO   NEW: Charley Bath Salt Ro | $1.45 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8064&limit=100
+2026-09-23 16:46:27,898 INFO   NEW: Sega Fave Yumemirize | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31125&limit=100
+2026-09-23 16:46:27,898 INFO   NEW: KONAMI OVERLORD Masq | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30998&limit=100
+2026-09-23 16:46:29,025 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-23 16:46:29,077 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-23 16:46:29,087 INFO === Run finished ===

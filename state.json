@@ -1212,6 +1212,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5907&limit=100",
       "stock": "n/a"
     },
+    "3637": {
+      "name": "John's Blend Hanging",
+      "price": "$2.10",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3637&limit=100",
+      "stock": "n/a"
+    },
     "3639": {
       "name": "John's Blend Solid O",
       "price": "$6.39",
@@ -4380,6 +4386,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8062&limit=100",
       "stock": "n/a"
     },
+    "8064": {
+      "name": "Charley Bath Salt Ro",
+      "price": "$1.45",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8064&limit=100",
+      "stock": "n/a"
+    },
     "8065": {
       "name": "Charley Bath Salt Le",
       "price": "$1.45",
@@ -6240,6 +6252,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31124&limit=100",
       "stock": "n/a"
     },
+    "31125": {
+      "name": "Sega Fave Yumemirize",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31125&limit=100",
+      "stock": "n/a"
+    },
     "31126": {
       "name": "Sega Fave Frieren Be",
       "price": "$21.59",
@@ -6352,6 +6370,12 @@
       "name": "KONAMI Arcade Games",
       "price": "$23.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31132&limit=100",
+      "stock": "n/a"
+    },
+    "30998": {
+      "name": "KONAMI OVERLORD Masq",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30998&limit=100",
       "stock": "n/a"
     },
     "1017": {
@@ -10178,6 +10202,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-23T16:44:09",
-  "last_count": 1696
+  "last_run": "2026-09-23T16:46:29",
+  "last_count": 1700
 }
