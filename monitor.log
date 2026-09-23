@@ -63706,3 +63706,9 @@
 2026-09-23 21:14:14,505 INFO === Run started ===
 2026-09-23 21:14:41,256 INFO No new products (1738 tracked)
 2026-09-23 21:14:41,264 INFO === Run finished ===
+2026-09-23 21:15:15,587 INFO === Run started ===
+2026-09-23 21:15:43,988 INFO NEW/RESTOCKED products detected: 1
+2026-09-23 21:15:43,988 INFO   NEW: MK Cartoon Mini Cart | $2.40 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3386&limit=100
+2026-09-23 21:15:45,048 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-23 21:15:45,101 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-23 21:15:45,111 INFO === Run finished ===
