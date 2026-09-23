@@ -62828,3 +62828,10 @@
 2026-09-23 15:47:12,716 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-23 15:47:12,899 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-23 15:47:12,909 INFO === Run finished ===
+2026-09-23 15:48:32,200 INFO === Run started ===
+2026-09-23 15:49:39,902 INFO NEW/RESTOCKED products detected: 2
+2026-09-23 15:49:39,902 INFO   NEW: Kao Children's Tooth | $3.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9640&limit=100
+2026-09-23 15:49:39,902 INFO   NEW: T-ARTS Sanrio Charac | $3.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31272&limit=100
+2026-09-23 15:49:42,955 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-23 15:49:43,159 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-23 15:49:43,167 INFO === Run finished ===
