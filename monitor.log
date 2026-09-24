@@ -67849,3 +67849,9 @@
 2026-09-24 21:32:39,411 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 21:32:39,714 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 21:32:39,723 INFO === Run finished ===
+2026-09-24 21:33:14,736 INFO === Run started ===
+2026-09-24 21:33:39,547 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 21:33:39,547 INFO   NEW: MK Chinoiserie Mecha | $32.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10910&limit=100
+2026-09-24 21:33:40,987 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 21:33:41,346 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 21:33:41,356 INFO === Run finished ===
