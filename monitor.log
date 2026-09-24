@@ -67573,3 +67573,9 @@
 2026-09-24 20:19:39,433 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 20:19:39,668 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 20:19:39,677 INFO === Run finished ===
+2026-09-24 20:20:17,954 INFO === Run started ===
+2026-09-24 20:20:39,312 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 20:20:39,312 INFO   NEW: Kao Merit Shampoo Pu | $7.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18892&limit=100
+2026-09-24 20:20:41,348 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 20:20:41,799 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 20:20:41,804 INFO === Run finished ===
