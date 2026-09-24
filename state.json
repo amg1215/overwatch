@@ -3696,12 +3696,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6724&limit=100",
       "stock": "n/a"
     },
-    "9605": {
-      "name": "Mandom Gatsby Hair s",
-      "price": "$6.49",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9605&limit=100",
-      "stock": "n/a"
-    },
     "9363": {
       "name": "Mandom GATSBY Moving",
       "price": "$6.49",
@@ -8660,6 +8654,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T18:12:39",
-  "last_count": 1443
+  "last_run": "2026-09-24T18:13:43",
+  "last_count": 1442
 }
