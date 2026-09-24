@@ -64992,3 +64992,9 @@
 2026-09-24 16:24:13,572 INFO === Run started ===
 2026-09-24 16:24:41,915 INFO No new products (1740 tracked)
 2026-09-24 16:24:41,924 INFO === Run finished ===
+2026-09-24 16:25:15,936 INFO === Run started ===
+2026-09-24 16:25:53,274 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 16:25:53,274 INFO   NEW: DHC Q10 Quick Gray H | $10.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6724&limit=100
+2026-09-24 16:25:54,871 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 16:25:55,169 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 16:25:55,179 INFO === Run finished ===
