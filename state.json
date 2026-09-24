@@ -4392,6 +4392,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17044&limit=100",
       "stock": "n/a"
     },
+    "17045": {
+      "name": "Ice Voyage Century B",
+      "price": "$27.90",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17045&limit=100",
+      "stock": "n/a"
+    },
     "17046": {
       "name": "MK Building Block 22",
       "price": "$19.00",
@@ -9038,6 +9044,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T21:19:36",
-  "last_count": 1506
+  "last_run": "2026-09-24T21:20:41",
+  "last_count": 1507
 }
