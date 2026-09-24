@@ -67316,3 +67316,9 @@
 2026-09-24 19:18:45,341 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 19:18:45,683 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 19:18:45,689 INFO === Run finished ===
+2026-09-24 19:19:13,161 INFO === Run started ===
+2026-09-24 19:19:36,251 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 19:19:36,251 INFO   NEW: Sana Soymilk Cream R | $7.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2784&limit=100
+2026-09-24 19:19:37,635 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 19:19:37,825 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 19:19:37,834 INFO === Run finished ===
