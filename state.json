@@ -1338,6 +1338,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8341&limit=100",
       "stock": "n/a"
     },
+    "4763": {
+      "name": "Kao Laurier Sanitary",
+      "price": "$4.02",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4763&limit=100",
+      "stock": "n/a"
+    },
     "6092": {
       "name": "Kao Sanitary Tampon",
       "price": "$4.31",
@@ -8780,6 +8786,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T19:41:38",
-  "last_count": 1463
+  "last_run": "2026-09-24T19:42:36",
+  "last_count": 1464
 }
