@@ -7872,6 +7872,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31090&limit=100",
       "stock": "n/a"
     },
+    "31614": {
+      "name": "Heart LOVELETS Ensem",
+      "price": "$2.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31614&limit=100",
+      "stock": "n/a"
+    },
     "30492": {
       "name": "Heart Food Toys BT21",
       "price": "$2.29",
@@ -8984,6 +8990,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T20:35:42",
-  "last_count": 1497
+  "last_run": "2026-09-24T20:36:41",
+  "last_count": 1498
 }
