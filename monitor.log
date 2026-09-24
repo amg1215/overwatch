@@ -67322,3 +67322,9 @@
 2026-09-24 19:19:37,635 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 19:19:37,825 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 19:19:37,834 INFO === Run finished ===
+2026-09-24 19:20:17,315 INFO === Run started ===
+2026-09-24 19:20:40,738 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 19:20:40,738 INFO   NEW: PDC Sake Brightening | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4718&limit=100
+2026-09-24 19:20:42,266 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 19:20:42,498 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 19:20:42,507 INFO === Run finished ===
