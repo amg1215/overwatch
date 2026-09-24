@@ -3732,6 +3732,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21973&limit=100",
       "stock": "n/a"
     },
+    "25030": {
+      "name": "Cosme Style Prima Ma",
+      "price": "$8.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25030&limit=100",
+      "stock": "n/a"
+    },
     "2517": {
       "name": "Sanrio Mirror & Comb",
       "price": "$7.10",
@@ -10430,6 +10436,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T16:04:39",
-  "last_count": 1738
+  "last_run": "2026-09-24T16:05:46",
+  "last_count": 1739
 }
