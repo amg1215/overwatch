@@ -66874,3 +66874,9 @@
 2026-09-24 17:09:12,620 INFO === Run started ===
 2026-09-24 17:09:39,790 INFO No new products (1436 tracked)
 2026-09-24 17:09:39,798 INFO === Run finished ===
+2026-09-24 17:10:18,388 INFO === Run started ===
+2026-09-24 17:10:43,620 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 17:10:43,621 INFO   NEW: Charley Rosy Rosa Ve | $4.11 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5112&limit=100
+2026-09-24 17:10:45,155 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 17:10:45,342 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 17:10:45,351 INFO === Run finished ===
