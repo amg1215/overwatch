@@ -67697,3 +67697,11 @@
 2026-09-24 20:48:13,126 INFO === Run started ===
 2026-09-24 20:48:36,326 INFO No new products (1500 tracked)
 2026-09-24 20:48:36,334 INFO === Run finished ===
+2026-09-24 20:49:15,497 INFO === Run started ===
+2026-09-24 20:49:41,410 INFO NEW/RESTOCKED products detected: 3
+2026-09-24 20:49:41,410 INFO   NEW: Kumano Salon Link Ex | $6.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4779&limit=100
+2026-09-24 20:49:41,410 INFO   NEW: Kumano Salon Link Am | $6.82 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4690&limit=100
+2026-09-24 20:49:41,410 INFO   NEW: Kao Biore Foam Hand | $3.62 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2074&limit=100
+2026-09-24 20:49:43,619 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-24 20:49:44,054 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-24 20:49:44,064 INFO === Run finished ===

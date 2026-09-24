@@ -3294,10 +3294,22 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4601&limit=100",
       "stock": "n/a"
     },
+    "4779": {
+      "name": "Kumano Salon Link Ex",
+      "price": "$6.15",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4779&limit=100",
+      "stock": "n/a"
+    },
     "4689": {
       "name": "Kumano Salon Link Am",
       "price": "$6.82",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4689&limit=100",
+      "stock": "n/a"
+    },
+    "4690": {
+      "name": "Kumano Salon Link Am",
+      "price": "$6.82",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4690&limit=100",
       "stock": "n/a"
     },
     "4732": {
@@ -3562,6 +3574,12 @@
       "name": "Kao Biore Foam Hand",
       "price": "$3.75",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12044&limit=100",
+      "stock": "n/a"
+    },
+    "2074": {
+      "name": "Kao Biore Foam Hand",
+      "price": "$3.62",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2074&limit=100",
       "stock": "n/a"
     },
     "2071": {
@@ -9002,6 +9020,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T20:48:36",
-  "last_count": 1500
+  "last_run": "2026-09-24T20:49:44",
+  "last_count": 1503
 }
