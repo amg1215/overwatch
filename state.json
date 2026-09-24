@@ -2382,6 +2382,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9564&limit=100",
       "stock": "n/a"
     },
+    "9405": {
+      "name": "Kao Men's Biore Deep",
+      "price": "$3.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9405&limit=100",
+      "stock": "n/a"
+    },
     "9406": {
       "name": "Kao Men's Biore Foam",
       "price": "$4.19",
@@ -8684,6 +8690,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T19:06:37",
-  "last_count": 1447
+  "last_run": "2026-09-24T19:07:45",
+  "last_count": 1448
 }
