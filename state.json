@@ -4632,6 +4632,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4852&limit=100",
       "stock": "n/a"
     },
+    "4858": {
+      "name": "Dariya Salon de Pro",
+      "price": "$8.81",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4858&limit=100",
+      "stock": "n/a"
+    },
     "4840": {
       "name": "Dariya Salon de Pro",
       "price": "$8.81",
@@ -10406,6 +10412,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T15:28:41",
-  "last_count": 1734
+  "last_run": "2026-09-24T15:29:44",
+  "last_count": 1735
 }
