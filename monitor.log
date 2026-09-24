@@ -67367,3 +67367,9 @@
 2026-09-24 19:29:43,311 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 19:29:43,550 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 19:29:43,560 INFO === Run finished ===
+2026-09-24 19:30:20,177 INFO === Run started ===
+2026-09-24 19:30:45,119 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 19:30:45,119 INFO   NEW: Zebra SLO Kuromi Gel | $2.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19880&limit=100
+2026-09-24 19:30:46,780 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 19:30:47,805 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 19:30:47,814 INFO === Run finished ===
