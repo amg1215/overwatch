@@ -888,6 +888,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7682&limit=100",
       "stock": "n/a"
     },
+    "13748": {
+      "name": "Kao Toilet Deodorizi",
+      "price": "$3.29",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13748&limit=100",
+      "stock": "n/a"
+    },
     "13008": {
       "name": "Hakugen Dehumidifier",
       "price": "$2.43",
@@ -8588,6 +8594,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T16:55:38",
-  "last_count": 1431
+  "last_run": "2026-09-24T16:56:35",
+  "last_count": 1432
 }

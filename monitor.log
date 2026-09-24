@@ -66821,3 +66821,9 @@
 2026-09-24 16:55:38,553 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 16:55:38,643 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 16:55:38,653 INFO === Run finished ===
+2026-09-24 16:56:12,248 INFO === Run started ===
+2026-09-24 16:56:34,309 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 16:56:34,309 INFO   NEW: Kao Toilet Deodorizi | $3.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13748&limit=100
+2026-09-24 16:56:35,534 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 16:56:35,710 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 16:56:35,718 INFO === Run finished ===
