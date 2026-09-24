@@ -67601,3 +67601,17 @@
 2026-09-24 20:25:37,963 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 20:25:38,135 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 20:25:38,140 INFO === Run finished ===
+2026-09-24 20:26:14,396 INFO === Run started ===
+2026-09-24 20:26:39,443 INFO NEW/RESTOCKED products detected: 9
+2026-09-24 20:26:39,444 INFO   NEW: Dariya Momori Moistu | $6.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7097&limit=100
+2026-09-24 20:26:39,444 INFO   NEW: Royal Family Tiramis | $1.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22028&limit=100
+2026-09-24 20:26:39,444 INFO   NEW: Royal Family Strawbe | $1.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22029&limit=100
+2026-09-24 20:26:39,444 INFO   NEW: Royal Family Creamy | $1.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22030&limit=100
+2026-09-24 20:26:39,444 INFO   NEW: Royal Family Vanilla | $1.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22031&limit=100
+2026-09-24 20:26:39,444 INFO   NEW: Royal Family Creamy | $1.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22032&limit=100
+2026-09-24 20:26:39,444 INFO   NEW: Royal Family Chocola | $1.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22034&limit=100
+2026-09-24 20:26:39,444 INFO   NEW: Hwa Yuan Potato Chip | $1.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26647&limit=100
+2026-09-24 20:26:39,444 INFO   NEW: Lay's Potato Chips K | $2.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15082&limit=100
+2026-09-24 20:26:41,256 INFO Email sent: Ebisu: 9 new/restocked items!
+2026-09-24 20:26:41,478 INFO ntfy push sent: Ebisu: 9 new/restocked items!
+2026-09-24 20:26:41,487 INFO === Run finished ===
