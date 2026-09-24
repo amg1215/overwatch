@@ -2172,12 +2172,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14676&limit=100",
       "stock": "n/a"
     },
-    "13464": {
-      "name": "Mandom Body Wipes Mi",
-      "price": "$3.69",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13464&limit=100",
-      "stock": "n/a"
-    },
     "10072": {
       "name": "Skater Bath Towel Po",
       "price": "$10.59",
@@ -7800,6 +7794,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20655&limit=100",
       "stock": "n/a"
     },
+    "23999": {
+      "name": "Meiji Hello Panda St",
+      "price": "$3.58",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23999&limit=100",
+      "stock": "n/a"
+    },
     "21598": {
       "name": "Nikko Sandwich Biscu",
       "price": "$16.19",
@@ -10436,6 +10436,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T14:06:41",
+  "last_run": "2026-09-24T14:07:41",
   "last_count": 1739
 }
