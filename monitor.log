@@ -66727,3 +66727,9 @@
 2026-09-24 16:31:38,068 INFO Email sent: Ebisu: 162 new/restocked items!
 2026-09-24 16:31:38,236 INFO ntfy push sent: Ebisu: 162 new/restocked items!
 2026-09-24 16:31:38,344 INFO === Run finished ===
+2026-09-24 16:32:12,650 INFO === Run started ===
+2026-09-24 16:32:37,466 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 16:32:37,466 INFO   NEW: BANDAI Dragon Ball C | $1.50 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31603&limit=100
+2026-09-24 16:32:39,010 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 16:32:39,238 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 16:32:39,246 INFO === Run finished ===
