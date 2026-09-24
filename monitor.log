@@ -67540,3 +67540,9 @@
 2026-09-24 20:13:14,824 INFO === Run started ===
 2026-09-24 20:13:38,319 INFO No new products (1476 tracked)
 2026-09-24 20:13:38,327 INFO === Run finished ===
+2026-09-24 20:14:15,226 INFO === Run started ===
+2026-09-24 20:14:39,111 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 20:14:39,111 INFO   NEW: Sana Smooth Whitenin | $10.45 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10056&limit=100
+2026-09-24 20:14:40,835 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 20:14:41,088 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 20:14:41,097 INFO === Run finished ===

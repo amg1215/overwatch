@@ -2340,6 +2340,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5149&limit=100",
       "stock": "n/a"
     },
+    "10056": {
+      "name": "Sana Smooth Whitenin",
+      "price": "$10.45",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10056&limit=100",
+      "stock": "n/a"
+    },
     "2784": {
       "name": "Sana Soymilk Cream R",
       "price": "$7.19",
@@ -8858,6 +8864,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T20:13:38",
-  "last_count": 1476
+  "last_run": "2026-09-24T20:14:41",
+  "last_count": 1477
 }
