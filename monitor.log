@@ -67472,3 +67472,9 @@
 2026-09-24 19:56:11,475 INFO === Run started ===
 2026-09-24 19:56:34,174 INFO No new products (1469 tracked)
 2026-09-24 19:56:34,182 INFO === Run finished ===
+2026-09-24 19:57:13,778 INFO === Run started ===
+2026-09-24 19:57:38,428 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 19:57:38,429 INFO   NEW: Max Limited Jujutsu | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31605&limit=100
+2026-09-24 19:57:40,046 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 19:57:40,257 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 19:57:40,267 INFO === Run finished ===
