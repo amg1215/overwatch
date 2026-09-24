@@ -2448,6 +2448,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10010&limit=100",
       "stock": "n/a"
     },
+    "4467": {
+      "name": "Mandom GATSBY Oil Co",
+      "price": "$2.70",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4467&limit=100",
+      "stock": "n/a"
+    },
+    "10012": {
+      "name": "Mandom GATSBY Men's",
+      "price": "$2.70",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10012&limit=100",
+      "stock": "n/a"
+    },
     "11854": {
       "name": "KAO Curel Lip Care S",
       "price": "$10.19",
@@ -8834,6 +8846,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T20:04:40",
-  "last_count": 1472
+  "last_run": "2026-09-24T20:05:50",
+  "last_count": 1474
 }
