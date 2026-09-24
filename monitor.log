@@ -67882,3 +67882,9 @@
 2026-09-24 21:40:42,601 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 21:40:42,744 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 21:40:42,754 INFO === Run finished ===
+2026-09-24 21:41:12,474 INFO === Run started ===
+2026-09-24 21:41:36,130 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 21:41:36,130 INFO   NEW: MK Building Block 22 | $19.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17047&limit=100
+2026-09-24 21:41:37,629 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 21:41:37,836 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 21:41:37,843 INFO === Run finished ===

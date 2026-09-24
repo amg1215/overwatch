@@ -4422,6 +4422,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17046&limit=100",
       "stock": "n/a"
     },
+    "17047": {
+      "name": "MK Building Block 22",
+      "price": "$19.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17047&limit=100",
+      "stock": "n/a"
+    },
     "17051": {
       "name": "MK DIY Building Bloc",
       "price": "$1.99",
@@ -8394,12 +8400,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8794&limit=100",
       "stock": "n/a"
     },
-    "8798": {
-      "name": "AGF Blendy Cafe Lato",
-      "price": "$2.88",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8798&limit=100",
-      "stock": "n/a"
-    },
     "8792": {
       "name": "AGF Blendy Cafe Lato",
       "price": "$2.88",
@@ -9086,6 +9086,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T21:40:42",
+  "last_run": "2026-09-24T21:41:37",
   "last_count": 1514
 }
