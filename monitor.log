@@ -67310,3 +67310,9 @@
 2026-09-24 19:17:38,985 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-24 19:17:39,075 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-24 19:17:39,083 INFO === Run finished ===
+2026-09-24 19:18:21,703 INFO === Run started ===
+2026-09-24 19:18:42,906 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 19:18:42,906 INFO   NEW: PDC Sake Lees Mask P | $11.43 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9846&limit=100
+2026-09-24 19:18:45,341 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 19:18:45,683 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 19:18:45,689 INFO === Run finished ===

@@ -2064,6 +2064,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10099&limit=100",
       "stock": "n/a"
     },
+    "9846": {
+      "name": "PDC Sake Lees Mask P",
+      "price": "$11.43",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9846&limit=100",
+      "stock": "n/a"
+    },
     "10454": {
       "name": "Sana Soymilk Wrinkle",
       "price": "$11.50",
@@ -8714,6 +8720,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T19:17:39",
-  "last_count": 1452
+  "last_run": "2026-09-24T19:18:45",
+  "last_count": 1453
 }
