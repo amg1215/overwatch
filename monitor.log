@@ -67567,3 +67567,9 @@
 2026-09-24 20:18:39,836 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 20:18:40,327 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 20:18:40,336 INFO === Run finished ===
+2026-09-24 20:19:14,074 INFO === Run started ===
+2026-09-24 20:19:37,655 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 20:19:37,655 INFO   NEW: Kao Biore u Foam Han | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2071&limit=100
+2026-09-24 20:19:39,433 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 20:19:39,668 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 20:19:39,677 INFO === Run finished ===
