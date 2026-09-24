@@ -3036,12 +3036,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22154&limit=100",
       "stock": "n/a"
     },
-    "22157": {
-      "name": "Rosy Rosa Black Make",
-      "price": "$4.49",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22157&limit=100",
-      "stock": "n/a"
-    },
     "348": {
       "name": "Sanrio Air Cushion C",
       "price": "$7.19",
@@ -8400,6 +8394,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28877&limit=100",
       "stock": "n/a"
     },
+    "31003": {
+      "name": "Nissin FOOD PRODUCTS",
+      "price": "$2.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31003&limit=100",
+      "stock": "n/a"
+    },
     "31004": {
       "name": "Nissin FOOD PRODUCTS",
       "price": "$2.39",
@@ -8648,6 +8648,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T17:33:01",
+  "last_run": "2026-09-24T17:34:18",
   "last_count": 1441
 }
