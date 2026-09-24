@@ -4506,6 +4506,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17068&limit=100",
       "stock": "n/a"
     },
+    "19228": {
+      "name": "Chinoiserie Mecha Ne",
+      "price": "$32.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19228&limit=100",
+      "stock": "n/a"
+    },
     "19229": {
       "name": "MK Chinoiserie Mecha",
       "price": "$32.00",
@@ -9062,6 +9068,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T21:31:35",
-  "last_count": 1510
+  "last_run": "2026-09-24T21:32:39",
+  "last_count": 1511
 }
