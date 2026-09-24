@@ -67679,3 +67679,9 @@
 2026-09-24 20:43:38,513 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 20:43:38,815 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 20:43:38,824 INFO === Run finished ===
+2026-09-24 20:44:11,393 INFO === Run started ===
+2026-09-24 20:44:34,537 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 20:44:34,537 INFO   NEW: Kao Detergent 220ml | $1.64 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16684&limit=100
+2026-09-24 20:44:35,628 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 20:44:35,756 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 20:44:35,765 INFO === Run finished ===

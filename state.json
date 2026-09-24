@@ -510,6 +510,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16388&limit=100",
       "stock": "n/a"
     },
+    "16684": {
+      "name": "Kao Detergent 220ml",
+      "price": "$1.64",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16684&limit=100",
+      "stock": "n/a"
+    },
     "12479": {
       "name": "Kao Kitchen Foam Cle",
       "price": "$3.59",
@@ -8996,6 +9002,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T20:43:38",
-  "last_count": 1499
+  "last_run": "2026-09-24T20:44:35",
+  "last_count": 1500
 }
