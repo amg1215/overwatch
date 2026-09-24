@@ -2022,12 +2022,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23032&limit=100",
       "stock": "n/a"
     },
-    "10267": {
-      "name": "BCL Saborino Mask Po",
-      "price": "$9.09",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10267&limit=100",
-      "stock": "n/a"
-    },
     "919": {
       "name": "RISM Moisturizing An",
       "price": "$5.40",
@@ -4198,6 +4192,12 @@
       "name": "Sunstar Ora2 Mouth S",
       "price": "$2.23",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9895&limit=100",
+      "stock": "n/a"
+    },
+    "10108": {
+      "name": "Sunstar Ora2 Mouthwa",
+      "price": "$4.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10108&limit=100",
       "stock": "n/a"
     },
     "9648": {
@@ -9080,6 +9080,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T22:03:41",
+  "last_run": "2026-09-24T22:04:40",
   "last_count": 1513
 }

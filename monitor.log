@@ -67957,3 +67957,9 @@
 2026-09-24 22:03:14,134 INFO === Run started ===
 2026-09-24 22:03:41,695 INFO No new products (1513 tracked)
 2026-09-24 22:03:41,703 INFO === Run finished ===
+2026-09-24 22:04:14,948 INFO === Run started ===
+2026-09-24 22:04:38,630 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 22:04:38,630 INFO   NEW: Sunstar Ora2 Mouthwa | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10108&limit=100
+2026-09-24 22:04:39,930 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 22:04:40,123 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 22:04:40,135 INFO === Run finished ===
