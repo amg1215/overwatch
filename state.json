@@ -4410,6 +4410,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10774&limit=100",
       "stock": "n/a"
     },
+    "24781": {
+      "name": "BISON Sweat Bath Add",
+      "price": "$2.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24781&limit=100",
+      "stock": "n/a"
+    },
     "26439": {
       "name": "COW BRAND SOAP KYOSH",
       "price": "$1.79",
@@ -10424,6 +10430,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T15:50:52",
-  "last_count": 1737
+  "last_run": "2026-09-24T15:52:20",
+  "last_count": 1738
 }

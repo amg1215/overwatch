@@ -64887,3 +64887,9 @@
 2026-09-24 15:50:52,445 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 15:50:52,635 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 15:50:52,642 INFO === Run finished ===
+2026-09-24 15:51:49,365 INFO === Run started ===
+2026-09-24 15:52:18,828 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 15:52:18,828 INFO   NEW: BISON Sweat Bath Add | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24781&limit=100
+2026-09-24 15:52:20,043 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 15:52:20,321 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 15:52:20,331 INFO === Run finished ===
