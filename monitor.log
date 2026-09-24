@@ -67343,3 +67343,9 @@
 2026-09-24 19:24:41,647 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 19:24:41,996 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 19:24:42,005 INFO === Run finished ===
+2026-09-24 19:25:14,269 INFO === Run started ===
+2026-09-24 19:25:37,989 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 19:25:37,989 INFO   NEW: Kao Premium Whitenin | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9458&limit=100
+2026-09-24 19:25:38,955 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 19:25:39,183 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 19:25:39,191 INFO === Run finished ===
