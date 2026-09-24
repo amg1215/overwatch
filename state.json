@@ -1620,6 +1620,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1216&limit=100",
       "stock": "n/a"
     },
+    "15992": {
+      "name": "Kao Drain Cleaner St",
+      "price": "$3.57",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15992&limit=100",
+      "stock": "n/a"
+    },
     "11948": {
       "name": "LEC Bathroom Mold Cl",
       "price": "$5.97",
@@ -2656,6 +2662,12 @@
       "name": "SKIN1004 Madagascar",
       "price": "$11.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51618&limit=100",
+      "stock": "n/a"
+    },
+    "4910": {
+      "name": "DHC Color Lipstick B",
+      "price": "$5.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4910&limit=100",
       "stock": "n/a"
     },
     "25729": {
@@ -8606,6 +8618,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T17:02:36",
-  "last_count": 1434
+  "last_run": "2026-09-24T17:03:37",
+  "last_count": 1436
 }

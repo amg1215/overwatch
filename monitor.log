@@ -66849,3 +66849,10 @@
 2026-09-24 17:02:36,512 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-24 17:02:36,771 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-24 17:02:36,779 INFO === Run finished ===
+2026-09-24 17:03:12,743 INFO === Run started ===
+2026-09-24 17:03:35,530 INFO NEW/RESTOCKED products detected: 2
+2026-09-24 17:03:35,530 INFO   NEW: Kao Drain Cleaner St | $3.57 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15992&limit=100
+2026-09-24 17:03:35,530 INFO   NEW: DHC Color Lipstick B | $5.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4910&limit=100
+2026-09-24 17:03:36,973 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-24 17:03:37,156 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-24 17:03:37,206 INFO === Run finished ===
