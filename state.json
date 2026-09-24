@@ -1686,6 +1686,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=58&limit=100",
       "stock": "n/a"
     },
+    "5113": {
+      "name": "MAPEPE Shower Cap He",
+      "price": "$2.91",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5113&limit=100",
+      "stock": "n/a"
+    },
     "10055": {
       "name": "Kokubo RICH WHIP's B",
       "price": "$3.47",
@@ -8636,6 +8642,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T17:19:39",
-  "last_count": 1439
+  "last_run": "2026-09-24T17:20:49",
+  "last_count": 1440
 }
