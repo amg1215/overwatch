@@ -498,6 +498,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6525&limit=100",
       "stock": "n/a"
     },
+    "16387": {
+      "name": "Kao Sterilization Di",
+      "price": "$1.64",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16387&limit=100",
+      "stock": "n/a"
+    },
     "16388": {
       "name": "Kao Sterilization Di",
       "price": "$1.64",
@@ -8990,6 +8996,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T20:42:38",
-  "last_count": 1498
+  "last_run": "2026-09-24T20:43:38",
+  "last_count": 1499
 }
