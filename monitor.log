@@ -67458,3 +67458,11 @@
 2026-09-24 19:53:38,131 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-24 19:53:38,330 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-24 19:53:38,337 INFO === Run finished ===
+2026-09-24 19:54:16,152 INFO === Run started ===
+2026-09-24 19:54:38,431 INFO NEW/RESTOCKED products detected: 3
+2026-09-24 19:54:38,431 INFO   NEW: Canmake Marshmallow | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19582&limit=100
+2026-09-24 19:54:38,431 INFO   NEW: Canmake Marshmallow | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19584&limit=100
+2026-09-24 19:54:38,431 INFO   NEW: TOHATO Caramel Corn | $1.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31084&limit=100
+2026-09-24 19:54:39,612 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-24 19:54:39,963 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-24 19:54:39,997 INFO === Run finished ===
