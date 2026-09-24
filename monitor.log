@@ -66974,3 +66974,9 @@
 2026-09-24 17:38:12,505 INFO === Run started ===
 2026-09-24 17:38:35,409 INFO No new products (1441 tracked)
 2026-09-24 17:38:35,417 INFO === Run finished ===
+2026-09-24 17:39:13,000 INFO === Run started ===
+2026-09-24 17:39:35,863 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 17:39:35,863 INFO   NEW: Pure Smile Maiko Art | $7.50 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10274&limit=100
+2026-09-24 17:39:36,944 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 17:39:36,993 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 17:39:37,002 INFO === Run finished ===
