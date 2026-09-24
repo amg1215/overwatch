@@ -67582,3 +67582,10 @@
 2026-09-24 20:21:15,375 INFO === Run started ===
 2026-09-24 20:21:38,065 INFO No new products (1482 tracked)
 2026-09-24 20:21:38,078 INFO === Run finished ===
+2026-09-24 20:22:12,888 INFO === Run started ===
+2026-09-24 20:22:35,691 INFO NEW/RESTOCKED products detected: 2
+2026-09-24 20:22:35,691 INFO   NEW: Kao Biore Skin Care | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9588&limit=100
+2026-09-24 20:22:35,691 INFO   NEW: MANDOM Ice Type Faci | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28769&limit=100
+2026-09-24 20:22:37,479 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-24 20:22:37,598 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-24 20:22:37,607 INFO === Run finished ===
