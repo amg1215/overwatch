@@ -67281,3 +67281,10 @@
 2026-09-24 19:10:15,923 INFO === Run started ===
 2026-09-24 19:10:37,754 INFO No new products (1448 tracked)
 2026-09-24 19:10:37,762 INFO === Run finished ===
+2026-09-24 19:11:18,567 INFO === Run started ===
+2026-09-24 19:11:41,557 INFO NEW/RESTOCKED products detected: 2
+2026-09-24 19:11:41,557 INFO   NEW: Sana Whitening Beaut | $11.05 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5208&limit=100
+2026-09-24 19:11:41,557 INFO   NEW: Dariya Palty Colorin | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8394&limit=100
+2026-09-24 19:11:42,537 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-24 19:11:42,588 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-24 19:11:42,597 INFO === Run finished ===

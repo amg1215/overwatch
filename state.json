@@ -2484,6 +2484,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4998&limit=100",
       "stock": "n/a"
     },
+    "5208": {
+      "name": "Sana Whitening Beaut",
+      "price": "$11.05",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5208&limit=100",
+      "stock": "n/a"
+    },
     "4600": {
       "name": "Sana Soymilk Lotion",
       "price": "$7.47",
@@ -3892,6 +3898,12 @@
       "name": "Dariya Salon de Pro",
       "price": "$5.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22171&limit=100",
+      "stock": "n/a"
+    },
+    "8394": {
+      "name": "Dariya Palty Colorin",
+      "price": "$5.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8394&limit=100",
       "stock": "n/a"
     },
     "8396": {
@@ -8690,6 +8702,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T19:10:37",
-  "last_count": 1448
+  "last_run": "2026-09-24T19:11:42",
+  "last_count": 1450
 }
