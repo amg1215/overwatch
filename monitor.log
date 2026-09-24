@@ -67876,3 +67876,9 @@
 2026-09-24 21:39:12,166 INFO === Run started ===
 2026-09-24 21:39:36,505 INFO No new products (1513 tracked)
 2026-09-24 21:39:36,513 INFO === Run finished ===
+2026-09-24 21:40:17,615 INFO === Run started ===
+2026-09-24 21:40:41,602 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 21:40:41,602 INFO   NEW: MK Building Block Ca | $7.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12918&limit=100
+2026-09-24 21:40:42,601 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 21:40:42,744 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 21:40:42,754 INFO === Run finished ===
