@@ -66560,3 +66560,170 @@
 2026-09-24 16:30:21,755 INFO === Run started ===
 2026-09-24 16:30:47,733 INFO No new products (1500 tracked)
 2026-09-24 16:30:47,741 INFO === Run finished ===
+2026-09-24 16:31:12,755 INFO === Run started ===
+2026-09-24 16:31:36,272 INFO NEW/RESTOCKED products detected: 162
+2026-09-24 16:31:36,273 INFO   NEW: RE-MENT Bread Thief | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31601&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Coca-Cola Qoo Apple | $1.66 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=355&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Coca-Cola Fanta Whit | $1.63 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14953&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Coca-Cola Sprite Lim | $1.63 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14954&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Coca-Cola Minute Mai | $1.55 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=49835&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Sangaria Wheat Blend | $1.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10400&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Sangaria Matcha Beve | $1.10 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=240&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Sangaria Peach Juice | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25722&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: STARBUCKS Concentrat | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28924&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: STARBUCKS Concentrat | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28923&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Fujiya Juice Drinks | $1.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=94&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: DYDO Jasmine Tea 525 | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16942&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Kirin Milk Tea 185g | $1.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18796&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Kirin Natural Minera | $1.13 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12039&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Surf Corn Tea 500ml | $1.45 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5314&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Surf Muscat Green Te | $1.45 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10246&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Tomomasu Durian Soda | $1.50 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4019&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Kimura Hami Melon So | $2.52 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4341&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Otsuka Electrolyte D | $1.44 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17414&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Chi Forest SPARKLING | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19027&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Genki Forest Sparkli | $0.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19031&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Chi Forest SPARKLING | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19028&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Chi Forest SPARKLING | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51854&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Chi Forest Sparkling | $0.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23733&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Chi Forest Sparkling | $0.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19030&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Chi Forest SPARKLING | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51856&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: SANGARIA Royal Milk | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29725&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: SANGARIA Strawberry | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29724&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: SANGARIA Milk Coffee | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27024&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: ITOEN Sweetened Matc | $1.37 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26463&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: UCC Assam Milk Tea 3 | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15705&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: UCC Original Blend C | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28622&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Hokkaido Development | $17.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30809&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Hokkaido Development | $12.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30810&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Oigawa Shizuoka Matc | $5.03 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19587&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: ITOEN Instant Green | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18827&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: ITOEN Instant Roaste | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18828&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: ITOEN Easy Brew Prem | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18829&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: ITOEN Premium Matcha | $4.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18830&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: ITOEN Smooth and Ric | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18832&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: ITOEN Eco-friendly R | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18834&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: AGF Blendy Cafe Lato | $2.88 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8796&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: AGF Blendy Cafe Lato | $2.88 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8794&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: AGF Blendy Cafe Lato | $2.88 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8798&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: AGF Blendy Cafe Lato | $2.88 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8792&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: AGF Blendy Cafe Lato | $2.88 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8793&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: AGF Coffee Liquid Ca | $2.11 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3745&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: AGF Blendy Instant C | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5557&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: AGF Premium Drip Cof | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5592&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: AGF Coffee Liquid Mi | $2.11 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3746&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: UCC Ueshima Coffee 1 | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24270&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: UCC Ueshima Coffee C | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22246&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Twinings Fruit Tea S | $4.33 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14246&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Kataoka London After | $3.70 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18390&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Kataoka 2x Extra Str | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17426&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Kataoka Matcha Milk | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23178&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Kataoka Matcha Latte | $7.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23176&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Kataoka Matcha Milk | $7.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23177&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Kataoka Milk Coffee | $2.41 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18391&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Kataoka Bitter Coffe | $2.41 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18392&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Starbucks Premium Mi | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4593&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Nestle Concentrated | $2.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28914&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Nestle Concentrated | $2.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28918&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Nestle Concentrated | $2.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28917&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Nestle Concentrated | $2.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28916&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Lipton Flavored Tea | $2.40 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=637&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Mitsui Meicha Peach | $4.70 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8765&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Nittoh Mitsui Instan | $3.48 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10702&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Nittoh Milk Tea 8pcs | $3.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=327&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Nittoh Matcha Milk T | $3.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=82&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Nitto Milk Tea 8pcs | $3.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23179&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Yamashiro Domestic M | $14.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24150&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Kuki Black Sesame La | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17424&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Kuki Sugar Free Blac | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17425&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Ezaki Glico Curry Cr | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4832&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Kewpie Bread Spread | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25067&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Kewpie Deep Roasted | $5.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7457&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Kewpie Bread Spread | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25068&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Kewpie Mayonnaise Re | $2.93 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4305&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Kewpie Bread Spread | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25069&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Kewpie Bread Spread | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25070&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Kewpie Bread Spread | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25071&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Morinaga Condensed M | $2.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8802&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Marumiya Chiikawa Co | $1.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26485&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Canned Autumn Knife | $2.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18806&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Canned Herring 100g | $2.33 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18807&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Nihonkaisui Kumamon | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16507&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: NongShim Shin Black | $2.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16640&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: NongShim Cup Noodle | $1.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51858&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Nongshim Bowl Noodle | $1.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16645&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: NongShim Bowl Noodle | $1.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16626&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: NongShim Bowl Noodle | $1.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16627&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: NISSIN FOODS Cup Noo | $1.61 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27031&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: NISSIN FOODS Cup Noo | $1.61 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=27029&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Samyang Spicy Chicke | $5.85 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51853&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Samyang Spicy Chicke | $1.85 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51828&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Ongane Ramen Noodles | $1.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22183&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Ongane Ramen Noodles | $1.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22184&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Ichiran Ramen Hakata | $21.56 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=471&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Ichiran Pork Bone Fl | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10822&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: ForIchiran Ramen Noo | $23.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18223&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Ichiran Ramen Noodle | $10.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18224&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Itsuki Tokyo Yuzusho | $2.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5435&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Itsuki Kyoto Miso To | $2.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5437&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Itsuki Ramen 174g | $2.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5439&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: Itsuki Sapporo Miso | $2.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=286&limit=100
+2026-09-24 16:31:36,273 INFO   NEW: ZUBAAAN Soy Sauce Fl | $2.72 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23773&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Nissin U.F.O.Cup Fri | $2.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10392&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Nissin Ramen Miso Fl | $3.93 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26756&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Nissin Nissin Raoh T | $3.93 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28462&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Nissin Nissin Raoh R | $3.93 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28463&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Nissin Nissin Rao Ra | $3.93 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28464&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Nissin Cup Noodles C | $2.27 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10393&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Nissin Cup Sauce Fri | $1.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9926&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Nissin Cheese Curry | $2.27 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10395&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Nissin U.F.O. Chow M | $2.96 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18786&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Nissin BIG Noodles T | $2.58 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23173&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Nissin UFO Ramen 93g | $2.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28877&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Nissin FOOD PRODUCTS | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31003&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Nissin FOOD PRODUCTS | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31004&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Nissin FOOD PRODUCTS | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31005&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Oyatsu Pokemon Baby | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29551&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Oyatsu Pokemon Baby | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=29552&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Oyatsu Company Baby | $1.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31092&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Myojo Ippei-Chan Yak | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8002&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Myojo Ippei-chan Yak | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30887&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Meisei Soy Sauce Ram | $3.50 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13896&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Myojo Cup Fried Nood | $2.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10429&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Myojo Soy Sauce Nood | $2.72 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18793&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Myojo Noodles Soy Sa | $2.13 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14429&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Myojo Noodles Salt 1 | $2.13 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13405&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Myojo Soy Sauce Poll | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10016&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Nissin Cup Noodles O | $2.27 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9823&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Nissin Cup Noodles S | $2.27 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9619&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Nissin Cup Noodles C | $2.27 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8812&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Yamamoto Udon Noodle | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24194&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: YAMAMOTO Spicy Mixed | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24260&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: YAMAMOTO Curry Udon | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24261&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: YAMAMOTO Tonkotsu Ra | $2.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24263&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: YAMAMOTO Tonkotsu Ra | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24197&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: allied Spicy Soup No | $2.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28912&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Sanyo Carbonara Buld | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13520&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Sanyo Samyang Ramen | $1.53 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26497&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Sanyo Spicy Chicken | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24830&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Sanyo Turkey Stir-fr | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24829&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Sanyo Spicy Chicken | $1.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24268&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Sanyo Samyang Ramen | $1.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26498&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Sanyo Cheese Buldak | $2.03 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13526&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Sanyo Spicy Chicken | $2.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26501&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Sanyo Four Layer Che | $3.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26487&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Sanyo Pasta Cup Garl | $3.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26502&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Sanyo High Protein P | $3.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26503&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Samyang Buldak Topok | $3.61 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12206&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Samyang Carbonara Bu | $3.61 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12207&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Nissin Meat Sauce Ba | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28910&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Pokka Sapporo Brown | $1.75 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10935&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Shinshuichi Miso - D | $1.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30961&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Shinshuichi Miso - D | $1.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30962&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Maruman Collagen Cap | $15.36 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3066&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Wakamoto Gastrointes | $22.74 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1051&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Morinaga Fluffy Panc | $3.73 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=329&limit=100
+2026-09-24 16:31:36,274 INFO   NEW: Shiseido Collagen Or | $24.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12100&limit=100
+2026-09-24 16:31:38,068 INFO Email sent: Ebisu: 162 new/restocked items!
+2026-09-24 16:31:38,236 INFO ntfy push sent: Ebisu: 162 new/restocked items!
+2026-09-24 16:31:38,344 INFO === Run finished ===
