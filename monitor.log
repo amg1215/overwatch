@@ -67595,3 +67595,9 @@
 2026-09-24 20:24:11,719 INFO === Run started ===
 2026-09-24 20:24:33,765 INFO No new products (1484 tracked)
 2026-09-24 20:24:33,773 INFO === Run finished ===
+2026-09-24 20:25:15,281 INFO === Run started ===
+2026-09-24 20:25:35,785 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 20:25:35,786 INFO   NEW: Kao Laurier Night Us | $5.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22124&limit=100
+2026-09-24 20:25:37,963 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 20:25:38,135 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 20:25:38,140 INFO === Run finished ===
