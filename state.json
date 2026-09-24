@@ -1338,6 +1338,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8341&limit=100",
       "stock": "n/a"
     },
+    "4759": {
+      "name": "Kao Laurier Sanitary",
+      "price": "$4.02",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4759&limit=100",
+      "stock": "n/a"
+    },
     "4763": {
       "name": "Kao Laurier Sanitary",
       "price": "$4.02",
@@ -8876,6 +8882,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T20:17:36",
-  "last_count": 1479
+  "last_run": "2026-09-24T20:18:40",
+  "last_count": 1480
 }
