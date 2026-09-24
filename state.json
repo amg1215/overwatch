@@ -4662,6 +4662,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31606&limit=100",
       "stock": "n/a"
     },
+    "31607": {
+      "name": "Max Limited Jujutsu",
+      "price": "$5.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31607&limit=100",
+      "stock": "n/a"
+    },
     "14934": {
       "name": "Ost Plush Doll Penda",
       "price": "$8.39",
@@ -8750,6 +8756,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T19:28:35",
-  "last_count": 1458
+  "last_run": "2026-09-24T19:29:43",
+  "last_count": 1459
 }
