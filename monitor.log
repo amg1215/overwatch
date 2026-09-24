@@ -67546,3 +67546,9 @@
 2026-09-24 20:14:40,835 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 20:14:41,088 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 20:14:41,097 INFO === Run finished ===
+2026-09-24 20:15:16,561 INFO === Run started ===
+2026-09-24 20:15:39,548 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 20:15:39,549 INFO   NEW: Sana Soymilk 6 in 1 | $9.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9809&limit=100
+2026-09-24 20:15:40,520 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 20:15:40,826 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 20:15:40,835 INFO === Run finished ===

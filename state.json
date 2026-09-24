@@ -2334,6 +2334,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30824&limit=100",
       "stock": "n/a"
     },
+    "9809": {
+      "name": "Sana Soymilk 6 in 1",
+      "price": "$9.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9809&limit=100",
+      "stock": "n/a"
+    },
     "5149": {
       "name": "Sana Whitening Cream",
       "price": "$8.39",
@@ -8864,6 +8870,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T20:14:41",
-  "last_count": 1477
+  "last_run": "2026-09-24T20:15:40",
+  "last_count": 1478
 }
