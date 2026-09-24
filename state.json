@@ -2958,6 +2958,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26436&limit=100",
       "stock": "n/a"
     },
+    "25634": {
+      "name": "Ost SLO Hello Kitty",
+      "price": "$7.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25634&limit=100",
+      "stock": "n/a"
+    },
     "25635": {
       "name": "Ost SLO Cinnamoroll",
       "price": "$7.79",
@@ -4492,6 +4498,12 @@
       "name": "Ost Plush Doll Penda",
       "price": "$8.39",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14934&limit=100",
+      "stock": "n/a"
+    },
+    "20573": {
+      "name": "Ost Violent Bear Cha",
+      "price": "$7.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20573&limit=100",
       "stock": "n/a"
     },
     "20314": {
@@ -8564,6 +8576,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T16:51:42",
-  "last_count": 1427
+  "last_run": "2026-09-24T16:52:36",
+  "last_count": 1429
 }

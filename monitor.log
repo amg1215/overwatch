@@ -66799,3 +66799,10 @@
 2026-09-24 16:51:41,710 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 16:51:42,048 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 16:51:42,057 INFO === Run finished ===
+2026-09-24 16:52:12,745 INFO === Run started ===
+2026-09-24 16:52:35,812 INFO NEW/RESTOCKED products detected: 2
+2026-09-24 16:52:35,813 INFO   NEW: Ost SLO Hello Kitty | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25634&limit=100
+2026-09-24 16:52:35,813 INFO   NEW: Ost Violent Bear Cha | $7.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20573&limit=100
+2026-09-24 16:52:36,847 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-24 16:52:36,966 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-24 16:52:36,974 INFO === Run finished ===
