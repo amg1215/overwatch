@@ -67512,3 +67512,6 @@
 2026-09-24 20:05:50,368 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-24 20:05:50,652 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-24 20:05:50,661 INFO === Run finished ===
+2026-09-24 20:06:13,417 INFO === Run started ===
+2026-09-24 20:06:40,225 INFO No new products (1474 tracked)
+2026-09-24 20:06:40,233 INFO === Run finished ===
