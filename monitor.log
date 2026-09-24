@@ -64881,3 +64881,9 @@
 2026-09-24 15:48:54,617 INFO === Run started ===
 2026-09-24 15:49:20,981 INFO No new products (1736 tracked)
 2026-09-24 15:49:20,987 INFO === Run finished ===
+2026-09-24 15:50:24,599 INFO === Run started ===
+2026-09-24 15:50:50,156 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 15:50:50,156 INFO   NEW: RISM Moisturizing An | $5.40 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=917&limit=100
+2026-09-24 15:50:52,445 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 15:50:52,635 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 15:50:52,642 INFO === Run finished ===

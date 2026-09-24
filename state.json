@@ -2646,6 +2646,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=919&limit=100",
       "stock": "n/a"
     },
+    "917": {
+      "name": "RISM Moisturizing An",
+      "price": "$5.40",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=917&limit=100",
+      "stock": "n/a"
+    },
     "14705": {
       "name": "Kamio Japan Facial M",
       "price": "$2.26",
@@ -10418,6 +10424,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T15:49:20",
-  "last_count": 1736
+  "last_run": "2026-09-24T15:50:52",
+  "last_count": 1737
 }
