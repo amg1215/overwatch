@@ -4500,6 +4500,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14934&limit=100",
       "stock": "n/a"
     },
+    "20570": {
+      "name": "Ost Violent Bear Cha",
+      "price": "$7.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20570&limit=100",
+      "stock": "n/a"
+    },
     "20573": {
       "name": "Ost Violent Bear Cha",
       "price": "$7.19",
@@ -8576,6 +8582,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T16:52:36",
-  "last_count": 1429
+  "last_run": "2026-09-24T16:53:36",
+  "last_count": 1430
 }
