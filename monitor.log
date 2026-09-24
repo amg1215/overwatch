@@ -66793,3 +66793,9 @@
 2026-09-24 16:50:40,002 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 16:50:40,347 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 16:50:40,355 INFO === Run finished ===
+2026-09-24 16:51:13,570 INFO === Run started ===
+2026-09-24 16:51:40,505 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 16:51:40,505 INFO   NEW: Ernest Rice Mould | $8.38 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4334&limit=100
+2026-09-24 16:51:41,710 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 16:51:42,048 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 16:51:42,057 INFO === Run finished ===

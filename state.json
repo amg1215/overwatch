@@ -480,6 +480,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3539&limit=100",
       "stock": "n/a"
     },
+    "4334": {
+      "name": "Ernest Rice Mould",
+      "price": "$8.38",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4334&limit=100",
+      "stock": "n/a"
+    },
     "6525": {
       "name": "ECHO Stainless Steel",
       "price": "$1.18",
@@ -8558,6 +8564,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T16:50:40",
-  "last_count": 1426
+  "last_run": "2026-09-24T16:51:42",
+  "last_count": 1427
 }
