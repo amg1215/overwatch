@@ -4386,6 +4386,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12924&limit=100",
       "stock": "n/a"
     },
+    "17044": {
+      "name": "MK Building Block 21",
+      "price": "$27.90",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17044&limit=100",
+      "stock": "n/a"
+    },
     "17051": {
       "name": "MK DIY Building Bloc",
       "price": "$1.99",
@@ -9020,6 +9026,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T21:13:35",
-  "last_count": 1503
+  "last_run": "2026-09-24T21:14:41",
+  "last_count": 1504
 }
