@@ -1494,6 +1494,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5606&limit=100",
       "stock": "n/a"
     },
+    "12276": {
+      "name": "Kao Biore Men's Faci",
+      "price": "$3.35",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12276&limit=100",
+      "stock": "n/a"
+    },
     "4476": {
       "name": "Mandom GATSBY Mild W",
       "price": "$4.19",
@@ -8666,6 +8672,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T17:51:39",
-  "last_count": 1444
+  "last_run": "2026-09-24T17:52:33",
+  "last_count": 1445
 }
