@@ -2730,12 +2730,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12622&limit=100",
       "stock": "n/a"
     },
-    "7483": {
-      "name": "Canmake Creamy Touch",
-      "price": "$7.79",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7483&limit=100",
-      "stock": "n/a"
-    },
     "333": {
       "name": "Kissme Long & Curl M",
       "price": "$10.19",
@@ -2824,18 +2818,6 @@
       "name": "Koji Manicure sandpa",
       "price": "$3.07",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4710&limit=100",
-      "stock": "n/a"
-    },
-    "19582": {
-      "name": "Canmake Marshmallow",
-      "price": "$8.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19582&limit=100",
-      "stock": "n/a"
-    },
-    "19584": {
-      "name": "Canmake Marshmallow",
-      "price": "$8.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19584&limit=100",
       "stock": "n/a"
     },
     "26845": {
@@ -5296,12 +5278,6 @@
       "name": "Sega Jujutsu Kaisen",
       "price": "$21.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=52036&limit=100",
-      "stock": "n/a"
-    },
-    "31127": {
-      "name": "Sega Fave Rent A Gir",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31127&limit=100",
       "stock": "n/a"
     },
     "51942": {
@@ -8684,6 +8660,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T18:09:34",
-  "last_count": 1447
+  "last_run": "2026-09-24T18:10:40",
+  "last_count": 1443
 }
