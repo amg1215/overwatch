@@ -4524,6 +4524,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19231&limit=100",
       "stock": "n/a"
     },
+    "19232": {
+      "name": "Chinoiserie Mecha Ro",
+      "price": "$32.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19232&limit=100",
+      "stock": "n/a"
+    },
     "19233": {
       "name": "MK Fire Station Play",
       "price": "$4.49",
@@ -9050,6 +9056,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T21:23:36",
-  "last_count": 1508
+  "last_run": "2026-09-24T21:24:41",
+  "last_count": 1509
 }
