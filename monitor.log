@@ -66842,3 +66842,10 @@
 2026-09-24 17:01:12,646 INFO === Run started ===
 2026-09-24 17:01:36,759 INFO No new products (1432 tracked)
 2026-09-24 17:01:36,767 INFO === Run finished ===
+2026-09-24 17:02:12,472 INFO === Run started ===
+2026-09-24 17:02:35,362 INFO NEW/RESTOCKED products detected: 2
+2026-09-24 17:02:35,362 INFO   NEW: Kao Merit Conditione | $7.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18893&limit=100
+2026-09-24 17:02:35,362 INFO   NEW: KAO Biore u Shower G | $5.21 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22476&limit=100
+2026-09-24 17:02:36,512 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-24 17:02:36,771 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-24 17:02:36,779 INFO === Run finished ===
