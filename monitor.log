@@ -64496,3 +64496,10 @@
 2026-09-24 13:40:04,673 INFO === Run started ===
 2026-09-24 13:40:31,669 INFO No new products (1741 tracked)
 2026-09-24 13:40:31,679 INFO === Run finished ===
+2026-09-24 13:41:23,675 INFO === Run started ===
+2026-09-24 13:41:50,628 INFO NEW/RESTOCKED products detected: 2
+2026-09-24 13:41:50,628 INFO   NEW: Rohto Mentholatum Sc | $15.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4861&limit=100
+2026-09-24 13:41:50,628 INFO   NEW: Propolinse Mouth Was | $8.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9648&limit=100
+2026-09-24 13:41:51,873 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-24 13:41:52,195 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-24 13:41:52,206 INFO === Run finished ===
