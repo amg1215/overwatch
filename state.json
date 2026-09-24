@@ -3702,6 +3702,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5651&limit=100",
       "stock": "n/a"
     },
+    "5752": {
+      "name": "Deonatulle Antipersp",
+      "price": "$9.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5752&limit=100",
+      "stock": "n/a"
+    },
     "5229": {
       "name": "Kobayashi Miss Foot",
       "price": "$5.12",
@@ -5500,6 +5506,12 @@
       "name": "Kokuyo Cutter Knife",
       "price": "$3.95",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5029&limit=100",
+      "stock": "n/a"
+    },
+    "31612": {
+      "name": "Ensky Chiikawa mitam",
+      "price": "$2.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31612&limit=100",
       "stock": "n/a"
     },
     "28958": {
@@ -8702,6 +8714,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T19:16:36",
-  "last_count": 1450
+  "last_run": "2026-09-24T19:17:39",
+  "last_count": 1452
 }

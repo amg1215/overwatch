@@ -67303,3 +67303,10 @@
 2026-09-24 19:16:12,730 INFO === Run started ===
 2026-09-24 19:16:36,839 INFO No new products (1450 tracked)
 2026-09-24 19:16:36,847 INFO === Run finished ===
+2026-09-24 19:17:13,578 INFO === Run started ===
+2026-09-24 19:17:37,146 INFO NEW/RESTOCKED products detected: 2
+2026-09-24 19:17:37,146 INFO   NEW: Deonatulle Antipersp | $9.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5752&limit=100
+2026-09-24 19:17:37,146 INFO   NEW: Ensky Chiikawa mitam | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31612&limit=100
+2026-09-24 19:17:38,985 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-24 19:17:39,075 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-24 19:17:39,083 INFO === Run finished ===
