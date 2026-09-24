@@ -4368,6 +4368,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12917&limit=100",
       "stock": "n/a"
     },
+    "12920": {
+      "name": "MK Speed Race Car Bu",
+      "price": "$8.50",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12920&limit=100",
+      "stock": "n/a"
+    },
     "12921": {
       "name": "MK Building Block Ca",
       "price": "$8.50",
@@ -9074,6 +9080,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T21:34:36",
-  "last_count": 1512
+  "last_run": "2026-09-24T21:35:41",
+  "last_count": 1513
 }
