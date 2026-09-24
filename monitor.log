@@ -67552,3 +67552,9 @@
 2026-09-24 20:15:40,520 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 20:15:40,826 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 20:15:40,835 INFO === Run finished ===
+2026-09-24 20:16:13,660 INFO === Run started ===
+2026-09-24 20:16:35,982 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 20:16:35,982 INFO   NEW: Ensky TV Anime Jujut | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31613&limit=100
+2026-09-24 20:16:37,263 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 20:16:37,543 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 20:16:37,552 INFO === Run finished ===

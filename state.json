@@ -7716,6 +7716,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31272&limit=100",
       "stock": "n/a"
     },
+    "31613": {
+      "name": "Ensky TV Anime Jujut",
+      "price": "$0.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31613&limit=100",
+      "stock": "n/a"
+    },
     "30830": {
       "name": "Ensky My Hero Academ",
       "price": "$1.95",
@@ -8870,6 +8876,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T20:15:40",
-  "last_count": 1478
+  "last_run": "2026-09-24T20:16:37",
+  "last_count": 1479
 }
