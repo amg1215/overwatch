@@ -5634,6 +5634,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23345&limit=100",
       "stock": "n/a"
     },
+    "12928": {
+      "name": "MK Garage Kit 212223",
+      "price": "$32.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12928&limit=100",
+      "stock": "n/a"
+    },
     "31129": {
       "name": "KONAMI Arcade Games",
       "price": "$21.59",
@@ -9026,6 +9032,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T21:14:41",
-  "last_count": 1504
+  "last_run": "2026-09-24T21:15:42",
+  "last_count": 1505
 }

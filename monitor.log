@@ -67777,3 +67777,9 @@
 2026-09-24 21:14:41,326 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 21:14:41,629 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 21:14:41,636 INFO === Run finished ===
+2026-09-24 21:15:16,328 INFO === Run started ===
+2026-09-24 21:15:40,951 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 21:15:40,951 INFO   NEW: MK Garage Kit 212223 | $32.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12928&limit=100
+2026-09-24 21:15:42,199 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 21:15:42,475 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 21:15:42,485 INFO === Run finished ===
