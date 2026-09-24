@@ -3156,6 +3156,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4601&limit=100",
       "stock": "n/a"
     },
+    "4739": {
+      "name": "Kumano The Aminorum",
+      "price": "$4.54",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4739&limit=100",
+      "stock": "n/a"
+    },
     "4728": {
       "name": "Kumano Salon Link Os",
       "price": "$6.82",
@@ -8654,6 +8660,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T18:50:40",
-  "last_count": 1442
+  "last_run": "2026-09-24T18:51:38",
+  "last_count": 1443
 }

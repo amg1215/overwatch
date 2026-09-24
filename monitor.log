@@ -67203,3 +67203,9 @@
 2026-09-24 18:50:17,548 INFO === Run started ===
 2026-09-24 18:50:40,413 INFO No new products (1442 tracked)
 2026-09-24 18:50:40,421 INFO === Run finished ===
+2026-09-24 18:51:14,647 INFO === Run started ===
+2026-09-24 18:51:37,687 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 18:51:37,687 INFO   NEW: Kumano The Aminorum | $4.54 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4739&limit=100
+2026-09-24 18:51:38,771 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 18:51:38,970 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 18:51:38,978 INFO === Run finished ===
