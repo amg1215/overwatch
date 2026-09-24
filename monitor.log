@@ -66880,3 +66880,9 @@
 2026-09-24 17:10:45,155 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 17:10:45,342 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 17:10:45,351 INFO === Run finished ===
+2026-09-24 17:11:16,332 INFO === Run started ===
+2026-09-24 17:11:41,611 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 17:11:41,611 INFO   NEW: Kao Biore Foam Hand | $3.75 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12044&limit=100
+2026-09-24 17:11:42,761 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 17:11:43,256 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 17:11:43,264 INFO === Run finished ===

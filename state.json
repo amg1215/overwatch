@@ -3372,6 +3372,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10537&limit=100",
       "stock": "n/a"
     },
+    "12044": {
+      "name": "Kao Biore Foam Hand",
+      "price": "$3.75",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12044&limit=100",
+      "stock": "n/a"
+    },
     "2782": {
       "name": "Kao Biore Foam Hand",
       "price": "$3.75",
@@ -8624,6 +8630,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T17:10:45",
-  "last_count": 1437
+  "last_run": "2026-09-24T17:11:43",
+  "last_count": 1438
 }
