@@ -67888,3 +67888,9 @@
 2026-09-24 21:41:37,629 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 21:41:37,836 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 21:41:37,843 INFO === Run finished ===
+2026-09-24 21:42:11,239 INFO === Run started ===
+2026-09-24 21:42:33,464 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 21:42:33,464 INFO   NEW: AGF Blendy Cafe Lato | $2.88 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8798&limit=100
+2026-09-24 21:42:35,636 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 21:42:35,790 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 21:42:35,795 INFO === Run finished ===
