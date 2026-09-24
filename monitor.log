@@ -67028,3 +67028,10 @@
 2026-09-24 17:52:33,486 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 17:52:33,553 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 17:52:33,560 INFO === Run finished ===
+2026-09-24 17:53:13,574 INFO === Run started ===
+2026-09-24 17:53:36,500 INFO NEW/RESTOCKED products detected: 2
+2026-09-24 17:53:36,501 INFO   NEW: Kao Children's Tooth | $1.95 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9461&limit=100
+2026-09-24 17:53:36,501 INFO   NEW: Kao Sterilization Di | $1.64 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16388&limit=100
+2026-09-24 17:53:37,482 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-24 17:53:37,533 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-24 17:53:37,542 INFO === Run finished ===

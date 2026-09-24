@@ -60,6 +60,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3775&limit=100",
       "stock": "n/a"
     },
+    "9461": {
+      "name": "Kao Children's Tooth",
+      "price": "$1.95",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9461&limit=100",
+      "stock": "n/a"
+    },
     "9661": {
       "name": "Kao Children's Tooth",
       "price": "$1.95",
@@ -490,6 +496,12 @@
       "name": "ECHO Stainless Steel",
       "price": "$1.18",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=6525&limit=100",
+      "stock": "n/a"
+    },
+    "16388": {
+      "name": "Kao Sterilization Di",
+      "price": "$1.64",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16388&limit=100",
       "stock": "n/a"
     },
     "12479": {
@@ -8672,6 +8684,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T17:52:33",
-  "last_count": 1445
+  "last_run": "2026-09-24T17:53:37",
+  "last_count": 1447
 }
