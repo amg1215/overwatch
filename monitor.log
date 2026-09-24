@@ -66937,3 +66937,10 @@
 2026-09-24 17:27:13,703 INFO === Run started ===
 2026-09-24 17:27:37,424 INFO No new products (1440 tracked)
 2026-09-24 17:27:37,462 INFO === Run finished ===
+2026-09-24 17:28:12,771 INFO === Run started ===
+2026-09-24 17:28:43,333 INFO NEW/RESTOCKED products detected: 2
+2026-09-24 17:28:43,333 INFO   NEW: Utena Hair Styling S | $5.22 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18443&limit=100
+2026-09-24 17:28:43,333 INFO   NEW: Utena Hair Styling S | $5.22 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18444&limit=100
+2026-09-24 17:28:44,332 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-24 17:28:44,402 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-24 17:28:44,411 INFO === Run finished ===
