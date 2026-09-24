@@ -67490,3 +67490,9 @@
 2026-09-24 20:00:56,499 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-24 20:00:56,797 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-24 20:00:56,805 INFO === Run finished ===
+2026-09-24 20:01:14,683 INFO === Run started ===
+2026-09-24 20:01:37,071 INFO NEW/RESTOCKED products detected: 1
+2026-09-24 20:01:37,071 INFO   NEW: Max Limited Rody × S | $6.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31609&limit=100
+2026-09-24 20:01:39,390 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-24 20:01:39,618 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-24 20:01:39,626 INFO === Run finished ===
