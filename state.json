@@ -3732,6 +3732,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4840&limit=100",
       "stock": "n/a"
     },
+    "24022": {
+      "name": "Darya Palty Hair Dye",
+      "price": "$5.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24022&limit=100",
+      "stock": "n/a"
+    },
     "22167": {
       "name": "Dariya Salon de Pro",
       "price": "$5.99",
@@ -8546,6 +8552,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-24T16:42:40",
-  "last_count": 1424
+  "last_run": "2026-09-24T16:43:37",
+  "last_count": 1425
 }
