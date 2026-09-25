@@ -5214,12 +5214,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30399&limit=100",
       "stock": "n/a"
     },
-    "31111": {
-      "name": "BANDAI SPIRITS JoJo'",
-      "price": "$27.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31111&limit=100",
-      "stock": "n/a"
-    },
     "51944": {
       "name": "Banpresto Katekyo Hi",
       "price": "$27.59",
@@ -5292,12 +5286,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51715&limit=100",
       "stock": "n/a"
     },
-    "51713": {
-      "name": "BANDAI SPIRITS BLEAC",
-      "price": "$27.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51713&limit=100",
-      "stock": "n/a"
-    },
     "51943": {
       "name": "Banpresto Dragon Bal",
       "price": "$27.59",
@@ -5320,12 +5308,6 @@
       "name": "Sega Classroom of th",
       "price": "$21.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30713&limit=100",
-      "stock": "n/a"
-    },
-    "30471": {
-      "name": "Sega Jujutsu Kaisen",
-      "price": "$27.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30471&limit=100",
       "stock": "n/a"
     },
     "51724": {
@@ -9062,6 +9044,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-25T17:10:47",
-  "last_count": 1510
+  "last_run": "2026-09-25T17:11:40",
+  "last_count": 1507
 }
