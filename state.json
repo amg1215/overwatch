@@ -1890,6 +1890,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22601&limit=100",
       "stock": "n/a"
     },
+    "11258": {
+      "name": "Rosette Sea Mud Acne",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11258&limit=100",
+      "stock": "n/a"
+    },
     "12473": {
       "name": "Rosette Exfoliating",
       "price": "$4.19",
@@ -9212,6 +9218,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-25T20:59:37",
-  "last_count": 1535
+  "last_run": "2026-09-25T21:00:54",
+  "last_count": 1536
 }

@@ -69972,3 +69972,9 @@
 2026-09-25 20:59:11,961 INFO === Run started ===
 2026-09-25 20:59:37,532 INFO No new products (1535 tracked)
 2026-09-25 20:59:37,541 INFO === Run finished ===
+2026-09-25 21:00:24,678 INFO === Run started ===
+2026-09-25 21:00:49,929 INFO NEW/RESTOCKED products detected: 1
+2026-09-25 21:00:49,930 INFO   NEW: Rosette Sea Mud Acne | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11258&limit=100
+2026-09-25 21:00:53,782 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-25 21:00:54,080 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-25 21:00:54,088 INFO === Run finished ===
