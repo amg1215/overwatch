@@ -4158,6 +4158,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14796&limit=100",
       "stock": "n/a"
     },
+    "26697": {
+      "name": "KAO Clear Clean NEXD",
+      "price": "$3.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26697&limit=100",
+      "stock": "n/a"
+    },
+    "31539": {
+      "name": "KAO Clear Clean NEXD",
+      "price": "$3.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31539&limit=100",
+      "stock": "n/a"
+    },
     "9311": {
       "name": "Lion Clinica Advanta",
       "price": "$2.99",
@@ -9224,6 +9236,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-25T21:08:42",
-  "last_count": 1537
+  "last_run": "2026-09-25T21:09:37",
+  "last_count": 1539
 }
