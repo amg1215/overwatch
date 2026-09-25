@@ -69805,3 +69805,9 @@
 2026-09-25 20:17:39,717 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-25 20:17:39,854 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-25 20:17:39,863 INFO === Run finished ===
+2026-09-25 20:18:12,742 INFO === Run started ===
+2026-09-25 20:18:37,860 INFO NEW/RESTOCKED products detected: 1
+2026-09-25 20:18:37,860 INFO   NEW: Lay's Freshcut Crisp | $3.42 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31672&limit=100
+2026-09-25 20:18:39,197 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-25 20:18:39,408 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-25 20:18:39,417 INFO === Run finished ===

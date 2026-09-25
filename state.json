@@ -7380,6 +7380,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15082&limit=100",
       "stock": "n/a"
     },
+    "31672": {
+      "name": "Lay's Freshcut Crisp",
+      "price": "$3.42",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31672&limit=100",
+      "stock": "n/a"
+    },
     "31673": {
       "name": "Lay's Freshcut Crisp",
       "price": "$3.42",
@@ -9104,6 +9110,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-25T20:17:39",
-  "last_count": 1517
+  "last_run": "2026-09-25T20:18:39",
+  "last_count": 1518
 }
