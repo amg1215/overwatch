@@ -5142,6 +5142,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30818&limit=100",
       "stock": "n/a"
     },
+    "30907": {
+      "name": "Banpresto Dandadan V",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30907&limit=100",
+      "stock": "n/a"
+    },
     "29836": {
       "name": "Banpresto One Piece",
       "price": "$21.59",
@@ -5224,6 +5230,12 @@
       "name": "Banpresto Puella Mag",
       "price": "$23.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30711&limit=100",
+      "stock": "n/a"
+    },
+    "31110": {
+      "name": "BANDAI SPIRITS JoJo'",
+      "price": "$27.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31110&limit=100",
       "stock": "n/a"
     },
     "51944": {
@@ -7788,6 +7800,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22025&limit=100",
       "stock": "n/a"
     },
+    "22026": {
+      "name": "Pei Tien Crayon Shin",
+      "price": "$1.35",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22026&limit=100",
+      "stock": "n/a"
+    },
     "22024": {
       "name": "Pei Tien 99+ENERGY P",
       "price": "$1.30",
@@ -7804,6 +7822,12 @@
       "name": "Green Fairy Wasabi G",
       "price": "$3.29",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25784&limit=100",
+      "stock": "n/a"
+    },
+    "25783": {
+      "name": "Green Fairy Garlic G",
+      "price": "$3.29",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25783&limit=100",
       "stock": "n/a"
     },
     "317": {
@@ -9164,6 +9188,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-25T20:34:13",
-  "last_count": 1527
+  "last_run": "2026-09-25T20:35:44",
+  "last_count": 1531
 }

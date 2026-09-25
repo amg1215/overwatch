@@ -69878,3 +69878,12 @@
 2026-09-25 20:34:13,610 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-25 20:34:13,682 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-25 20:34:13,691 INFO === Run finished ===
+2026-09-25 20:35:14,962 INFO === Run started ===
+2026-09-25 20:35:42,784 INFO NEW/RESTOCKED products detected: 4
+2026-09-25 20:35:42,784 INFO   NEW: Banpresto Dandadan V | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30907&limit=100
+2026-09-25 20:35:42,784 INFO   NEW: BANDAI SPIRITS JoJo' | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31110&limit=100
+2026-09-25 20:35:42,784 INFO   NEW: Pei Tien Crayon Shin | $1.35 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22026&limit=100
+2026-09-25 20:35:42,784 INFO   NEW: Green Fairy Garlic G | $3.29 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25783&limit=100
+2026-09-25 20:35:44,354 INFO Email sent: Ebisu: 4 new/restocked items!
+2026-09-25 20:35:44,535 INFO ntfy push sent: Ebisu: 4 new/restocked items!
+2026-09-25 20:35:44,544 INFO === Run finished ===
