@@ -1464,6 +1464,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9420&limit=100",
       "stock": "n/a"
     },
+    "4943": {
+      "name": "Kao Foot Sheet Laven",
+      "price": "$5.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4943&limit=100",
+      "stock": "n/a"
+    },
     "4953": {
       "name": "Kao Steam-based Foot",
       "price": "$5.49",
@@ -9122,6 +9128,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-25T20:26:33",
-  "last_count": 1520
+  "last_run": "2026-09-25T20:27:37",
+  "last_count": 1521
 }

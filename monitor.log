@@ -69838,3 +69838,9 @@
 2026-09-25 20:26:11,456 INFO === Run started ===
 2026-09-25 20:26:33,836 INFO No new products (1520 tracked)
 2026-09-25 20:26:33,842 INFO === Run finished ===
+2026-09-25 20:27:11,857 INFO === Run started ===
+2026-09-25 20:27:33,850 INFO NEW/RESTOCKED products detected: 1
+2026-09-25 20:27:33,850 INFO   NEW: Kao Foot Sheet Laven | $5.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4943&limit=100
+2026-09-25 20:27:36,862 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-25 20:27:37,036 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-25 20:27:37,041 INFO === Run finished ===
