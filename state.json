@@ -7332,6 +7332,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15082&limit=100",
       "stock": "n/a"
     },
+    "31670": {
+      "name": "Lay's Potato Chips w",
+      "price": "$2.09",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31670&limit=100",
+      "stock": "n/a"
+    },
     "10349": {
       "name": "Calbee Shrimp Flavor",
       "price": "$1.49",
@@ -9026,6 +9032,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-25T20:02:39",
-  "last_count": 1504
+  "last_run": "2026-09-25T20:03:45",
+  "last_count": 1505
 }
