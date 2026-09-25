@@ -5208,12 +5208,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30911&limit=100",
       "stock": "n/a"
     },
-    "30914": {
-      "name": "Banpresto Jujutsu Ka",
-      "price": "$27.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30914&limit=100",
-      "stock": "n/a"
-    },
     "30912": {
       "name": "Banpresto Frieren Be",
       "price": "$23.99",
@@ -5332,12 +5326,6 @@
       "name": "Banpresto Dragon Bal",
       "price": "$21.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=52000&limit=100",
-      "stock": "n/a"
-    },
-    "50442": {
-      "name": "Sega Demon Slayer Ki",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50442&limit=100",
       "stock": "n/a"
     },
     "31002": {
@@ -5656,12 +5644,6 @@
       "name": "AGATSUMA Sanrio Char",
       "price": "$16.19",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31276&limit=100",
-      "stock": "n/a"
-    },
-    "30611": {
-      "name": "Banpresto The Apothe",
-      "price": "$23.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30611&limit=100",
       "stock": "n/a"
     },
     "30917": {
@@ -9104,6 +9086,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-25T15:26:37",
-  "last_count": 1517
+  "last_run": "2026-09-25T15:27:39",
+  "last_count": 1514
 }
