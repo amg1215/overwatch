@@ -2718,6 +2718,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18891&limit=100",
       "stock": "n/a"
     },
+    "26873": {
+      "name": "Shiseido ANESSA Brig",
+      "price": "$18.00",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26873&limit=100",
+      "stock": "n/a"
+    },
     "9723": {
       "name": "Sana Pate Smooth Col",
       "price": "$8.44",
@@ -9014,6 +9020,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-25T19:55:38",
-  "last_count": 1502
+  "last_run": "2026-09-25T19:56:49",
+  "last_count": 1503
 }

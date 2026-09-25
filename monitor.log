@@ -69702,3 +69702,9 @@
 2026-09-25 19:55:15,644 INFO === Run started ===
 2026-09-25 19:55:38,946 INFO No new products (1502 tracked)
 2026-09-25 19:55:38,952 INFO === Run finished ===
+2026-09-25 19:56:15,491 INFO === Run started ===
+2026-09-25 19:56:47,327 INFO NEW/RESTOCKED products detected: 1
+2026-09-25 19:56:47,327 INFO   NEW: Shiseido ANESSA Brig | $18.00 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26873&limit=100
+2026-09-25 19:56:48,958 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-25 19:56:49,252 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-25 19:56:49,261 INFO === Run finished ===
