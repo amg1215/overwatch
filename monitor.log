@@ -69929,3 +69929,9 @@
 2026-09-25 20:48:12,833 INFO === Run started ===
 2026-09-25 20:48:39,004 INFO No new products (1531 tracked)
 2026-09-25 20:48:39,012 INFO === Run finished ===
+2026-09-25 20:49:17,453 INFO === Run started ===
+2026-09-25 20:50:01,983 INFO NEW/RESTOCKED products detected: 1
+2026-09-25 20:50:01,983 INFO   NEW: Banpresto Dandadan V | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30908&limit=100
+2026-09-25 20:50:03,659 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-25 20:50:03,893 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-25 20:50:03,903 INFO === Run finished ===

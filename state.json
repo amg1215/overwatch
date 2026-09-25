@@ -5142,6 +5142,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30818&limit=100",
       "stock": "n/a"
     },
+    "30908": {
+      "name": "Banpresto Dandadan V",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30908&limit=100",
+      "stock": "n/a"
+    },
     "30907": {
       "name": "Banpresto Dandadan V",
       "price": "$21.59",
@@ -9188,6 +9194,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-25T20:48:39",
-  "last_count": 1531
+  "last_run": "2026-09-25T20:50:03",
+  "last_count": 1532
 }
