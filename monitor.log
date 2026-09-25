@@ -68653,3 +68653,9 @@
 2026-09-25 13:59:15,161 INFO === Run started ===
 2026-09-25 13:59:40,140 INFO No new products (1515 tracked)
 2026-09-25 13:59:40,148 INFO === Run finished ===
+2026-09-25 14:00:22,506 INFO === Run started ===
+2026-09-25 14:00:45,969 INFO NEW/RESTOCKED products detected: 1
+2026-09-25 14:00:45,969 INFO   NEW: MK Speed Race Car Bu | $8.50 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12919&limit=100
+2026-09-25 14:00:48,261 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-25 14:00:48,489 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-25 14:00:48,497 INFO === Run finished ===
