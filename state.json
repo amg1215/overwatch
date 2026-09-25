@@ -1536,6 +1536,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5606&limit=100",
       "stock": "n/a"
     },
+    "12275": {
+      "name": "Kao Biore Men's Faci",
+      "price": "$3.35",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12275&limit=100",
+      "stock": "n/a"
+    },
     "12276": {
       "name": "Kao Biore Men's Faci",
       "price": "$3.35",
@@ -9116,6 +9122,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-25T20:24:37",
-  "last_count": 1519
+  "last_run": "2026-09-25T20:25:42",
+  "last_count": 1520
 }
