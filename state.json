@@ -7770,6 +7770,18 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51827&limit=100",
       "stock": "n/a"
     },
+    "22024": {
+      "name": "Pei Tien 99+ENERGY P",
+      "price": "$1.30",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22024&limit=100",
+      "stock": "n/a"
+    },
+    "25786": {
+      "name": "Green Fairy Wasabi G",
+      "price": "$5.10",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25786&limit=100",
+      "stock": "n/a"
+    },
     "317": {
       "name": "Sanko Snow Rice Cake",
       "price": "$2.00",
@@ -9128,6 +9140,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-25T20:28:37",
-  "last_count": 1521
+  "last_run": "2026-09-25T20:29:39",
+  "last_count": 1523
 }
