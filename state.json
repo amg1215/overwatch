@@ -7326,6 +7326,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31080&limit=100",
       "stock": "n/a"
     },
+    "31668": {
+      "name": "Lianhwa Cadina Potat",
+      "price": "$1.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31668&limit=100",
+      "stock": "n/a"
+    },
     "26647": {
       "name": "Hwa Yuan Potato Chip",
       "price": "$1.53",
@@ -9038,6 +9044,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-25T20:04:37",
-  "last_count": 1506
+  "last_run": "2026-09-25T20:05:39",
+  "last_count": 1507
 }
