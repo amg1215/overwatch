@@ -69956,3 +69956,10 @@
 2026-09-25 20:55:13,556 INFO === Run started ===
 2026-09-25 20:55:36,995 INFO No new products (1533 tracked)
 2026-09-25 20:55:37,000 INFO === Run finished ===
+2026-09-25 20:56:14,086 INFO === Run started ===
+2026-09-25 20:56:39,201 INFO NEW/RESTOCKED products detected: 2
+2026-09-25 20:56:39,201 INFO   NEW: Penguin Daruma Choco | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31615&limit=100
+2026-09-25 20:56:39,201 INFO   NEW: Penguin Fukufuku yak | $8.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31616&limit=100
+2026-09-25 20:56:40,181 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-25 20:56:40,251 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-25 20:56:40,260 INFO === Run finished ===
