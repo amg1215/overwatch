@@ -6000,18 +6000,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11472&limit=100",
       "stock": "n/a"
     },
-    "19962": {
-      "name": "Kasugai Muscat Gummy",
-      "price": "$1.83",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19962&limit=100",
-      "stock": "n/a"
-    },
-    "11469": {
-      "name": "Kasugai Mango Gummy",
-      "price": "$1.83",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11469&limit=100",
-      "stock": "n/a"
-    },
     "19960": {
       "name": "Kasugai Peach Gummy",
       "price": "$1.83",
@@ -6610,12 +6598,6 @@
       "name": "Seiki Almond Tofu Mo",
       "price": "$2.69",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19589&limit=100",
-      "stock": "n/a"
-    },
-    "601": {
-      "name": "Seiki Glutinous Rice",
-      "price": "$2.69",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=601&limit=100",
       "stock": "n/a"
     },
     "600": {
@@ -9080,6 +9062,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-25T17:03:58",
-  "last_count": 1513
+  "last_run": "2026-09-25T17:04:38",
+  "last_count": 1510
 }
