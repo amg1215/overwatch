@@ -69872,3 +69872,9 @@
 2026-09-25 20:32:38,970 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-25 20:32:39,096 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-25 20:32:39,105 INFO === Run finished ===
+2026-09-25 20:33:48,090 INFO === Run started ===
+2026-09-25 20:34:12,345 INFO NEW/RESTOCKED products detected: 1
+2026-09-25 20:34:12,345 INFO   NEW: Sega My Teen Romanti | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30714&limit=100
+2026-09-25 20:34:13,610 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-25 20:34:13,682 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-25 20:34:13,691 INFO === Run finished ===
