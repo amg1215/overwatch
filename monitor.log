@@ -69785,3 +69785,10 @@
 2026-09-25 20:14:13,154 INFO === Run started ===
 2026-09-25 20:14:38,238 INFO No new products (1512 tracked)
 2026-09-25 20:14:38,246 INFO === Run finished ===
+2026-09-25 20:15:23,047 INFO === Run started ===
+2026-09-25 20:15:46,635 INFO NEW/RESTOCKED products detected: 2
+2026-09-25 20:15:46,635 INFO   NEW: Lovers of Hokkaido C | $2.15 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31674&limit=100
+2026-09-25 20:15:46,635 INFO   NEW: Lianhwa Cadina Poppe | $1.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31667&limit=100
+2026-09-25 20:15:48,533 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-25 20:15:48,723 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-25 20:15:48,731 INFO === Run finished ===
