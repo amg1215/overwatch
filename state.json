@@ -6552,6 +6552,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4742&limit=100",
       "stock": "n/a"
     },
+    "22902": {
+      "name": "Penguin Osaka Banana",
+      "price": "$5.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22902&limit=100",
+      "stock": "n/a"
+    },
     "12354": {
       "name": "Ash Cake Milk Flavor",
       "price": "$3.32",
@@ -9266,6 +9272,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-25T21:51:35",
-  "last_count": 1544
+  "last_run": "2026-09-25T21:52:36",
+  "last_count": 1545
 }
