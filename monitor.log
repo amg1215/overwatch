@@ -70042,3 +70042,9 @@
 2026-09-25 21:18:38,651 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-25 21:18:38,764 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-25 21:18:38,773 INFO === Run finished ===
+2026-09-25 21:19:11,680 INFO === Run started ===
+2026-09-25 21:19:34,215 INFO NEW/RESTOCKED products detected: 1
+2026-09-25 21:19:34,215 INFO   NEW: Banpresto My Hero Ac | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30608&limit=100
+2026-09-25 21:19:35,157 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-25 21:19:35,223 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-25 21:19:35,230 INFO === Run finished ===

@@ -5280,6 +5280,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51944&limit=100",
       "stock": "n/a"
     },
+    "30608": {
+      "name": "Banpresto My Hero Ac",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30608&limit=100",
+      "stock": "n/a"
+    },
     "31112": {
       "name": "BANDAI SPIRITS Mobil",
       "price": "$23.99",
@@ -9236,6 +9242,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-25T21:18:38",
-  "last_count": 1539
+  "last_run": "2026-09-25T21:19:35",
+  "last_count": 1540
 }
