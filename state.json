@@ -576,6 +576,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=21299&limit=100",
       "stock": "n/a"
     },
+    "22645": {
+      "name": "iPlanning SLO Hello",
+      "price": "$5.03",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22645&limit=100",
+      "stock": "n/a"
+    },
     "3635": {
       "name": "John's Blend Fabric",
       "price": "$10.19",
@@ -9218,6 +9224,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-25T21:07:45",
-  "last_count": 1536
+  "last_run": "2026-09-25T21:08:42",
+  "last_count": 1537
 }

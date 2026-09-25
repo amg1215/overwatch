@@ -69999,3 +69999,9 @@
 2026-09-25 21:07:18,013 INFO === Run started ===
 2026-09-25 21:07:45,381 INFO No new products (1536 tracked)
 2026-09-25 21:07:45,389 INFO === Run finished ===
+2026-09-25 21:08:13,827 INFO === Run started ===
+2026-09-25 21:08:40,553 INFO NEW/RESTOCKED products detected: 1
+2026-09-25 21:08:40,553 INFO   NEW: iPlanning SLO Hello | $5.03 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22645&limit=100
+2026-09-25 21:08:42,142 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-25 21:08:42,403 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-25 21:08:42,414 INFO === Run finished ===
