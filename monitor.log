@@ -70108,3 +70108,9 @@
 2026-09-25 21:35:16,223 INFO === Run started ===
 2026-09-25 21:35:39,515 INFO No new products (1544 tracked)
 2026-09-25 21:35:39,520 INFO === Run finished ===
+2026-09-25 21:36:11,850 INFO === Run started ===
+2026-09-25 21:36:36,670 INFO NEW/RESTOCKED products detected: 1
+2026-09-25 21:36:36,670 INFO   NEW: BCL Momopuri Makeup | $5.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10990&limit=100
+2026-09-25 21:36:37,610 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-25 21:36:37,663 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-25 21:36:37,673 INFO === Run finished ===

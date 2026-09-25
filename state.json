@@ -1764,6 +1764,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10055&limit=100",
       "stock": "n/a"
     },
+    "10990": {
+      "name": "BCL Momopuri Makeup",
+      "price": "$5.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10990&limit=100",
+      "stock": "n/a"
+    },
     "30895": {
       "name": "Attenir Skin Clear C",
       "price": "$16.19",
@@ -9266,6 +9272,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-25T21:35:39",
-  "last_count": 1544
+  "last_run": "2026-09-25T21:36:37",
+  "last_count": 1545
 }
