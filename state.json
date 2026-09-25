@@ -5232,6 +5232,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30711&limit=100",
       "stock": "n/a"
     },
+    "30905": {
+      "name": "Banpresto Marriage T",
+      "price": "$23.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30905&limit=100",
+      "stock": "n/a"
+    },
     "31110": {
       "name": "BANDAI SPIRITS JoJo'",
       "price": "$27.59",
@@ -5296,12 +5302,6 @@
       "name": "Banpresto Gakuen IDO",
       "price": "$23.99",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=52030&limit=100",
-      "stock": "n/a"
-    },
-    "50682": {
-      "name": "Banpresto Demon Slay",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50682&limit=100",
       "stock": "n/a"
     },
     "51715": {
@@ -9188,6 +9188,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-25T20:39:46",
+  "last_run": "2026-09-25T20:40:44",
   "last_count": 1531
 }
