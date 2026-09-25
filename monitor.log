@@ -70081,3 +70081,9 @@
 2026-09-25 21:28:40,547 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-25 21:28:40,954 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-25 21:28:40,963 INFO === Run finished ===
+2026-09-25 21:29:12,849 INFO === Run started ===
+2026-09-25 21:29:38,644 INFO NEW/RESTOCKED products detected: 1
+2026-09-25 21:29:38,644 INFO   NEW: Mandom GATSBY Men's | $6.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10427&limit=100
+2026-09-25 21:29:40,163 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-25 21:29:40,385 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-25 21:29:40,394 INFO === Run finished ===
