@@ -69792,3 +69792,10 @@
 2026-09-25 20:15:48,533 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-25 20:15:48,723 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-25 20:15:48,731 INFO === Run finished ===
+2026-09-25 20:16:14,225 INFO === Run started ===
+2026-09-25 20:16:45,866 INFO NEW/RESTOCKED products detected: 2
+2026-09-25 20:16:45,866 INFO   NEW: FuRyu Chitose Is in | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30906&limit=100
+2026-09-25 20:16:45,866 INFO   NEW: CHUNG HSIANG O'day M | $2.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22556&limit=100
+2026-09-25 20:16:47,685 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-25 20:16:47,886 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-25 20:16:47,895 INFO === Run finished ===
