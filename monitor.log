@@ -69747,3 +69747,10 @@
 2026-09-25 20:05:39,330 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-25 20:05:39,580 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-25 20:05:39,589 INFO === Run finished ===
+2026-09-25 20:06:14,788 INFO === Run started ===
+2026-09-25 20:06:38,765 INFO NEW/RESTOCKED products detected: 2
+2026-09-25 20:06:38,765 INFO   NEW: Banpresto Puella Mag | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30711&limit=100
+2026-09-25 20:06:38,765 INFO   NEW: Lay's Freshcut Crisp | $3.42 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31673&limit=100
+2026-09-25 20:06:42,828 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-25 20:06:43,006 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-25 20:06:43,013 INFO === Run finished ===
