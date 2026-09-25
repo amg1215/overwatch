@@ -5964,6 +5964,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=12996&limit=100",
       "stock": "n/a"
     },
+    "25791": {
+      "name": "Yuanguo Yuanwei Fren",
+      "price": "$1.90",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25791&limit=100",
+      "stock": "n/a"
+    },
     "30045": {
       "name": "EIWA Mickey & Minnie",
       "price": "$0.11",
@@ -9146,6 +9152,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-25T20:30:46",
-  "last_count": 1524
+  "last_run": "2026-09-25T20:31:38",
+  "last_count": 1525
 }

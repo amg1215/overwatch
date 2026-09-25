@@ -69860,3 +69860,9 @@
 2026-09-25 20:30:46,012 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-25 20:30:46,227 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-25 20:30:46,234 INFO === Run finished ===
+2026-09-25 20:31:11,276 INFO === Run started ===
+2026-09-25 20:31:37,123 INFO NEW/RESTOCKED products detected: 1
+2026-09-25 20:31:37,124 INFO   NEW: Yuanguo Yuanwei Fren | $1.90 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=25791&limit=100
+2026-09-25 20:31:38,225 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-25 20:31:38,276 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-25 20:31:38,285 INFO === Run finished ===
