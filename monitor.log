@@ -69199,3 +69199,11 @@
 2026-09-25 17:04:11,822 INFO === Run started ===
 2026-09-25 17:04:38,486 INFO No new products (1510 tracked)
 2026-09-25 17:04:38,495 INFO === Run finished ===
+2026-09-25 17:05:16,393 INFO === Run started ===
+2026-09-25 17:05:40,359 INFO NEW/RESTOCKED products detected: 3
+2026-09-25 17:05:40,359 INFO   NEW: Kasugai Muscat Gummy | $1.83 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19962&limit=100
+2026-09-25 17:05:40,359 INFO   NEW: Kasugai Mango Gummy | $1.83 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=11469&limit=100
+2026-09-25 17:05:40,359 INFO   NEW: Seiki Glutinous Rice | $2.69 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=601&limit=100
+2026-09-25 17:05:42,637 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-25 17:05:42,874 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-25 17:05:42,882 INFO === Run finished ===
