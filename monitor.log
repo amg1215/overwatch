@@ -70036,3 +70036,9 @@
 2026-09-25 21:17:14,236 INFO === Run started ===
 2026-09-25 21:17:39,675 INFO No new products (1538 tracked)
 2026-09-25 21:17:39,683 INFO === Run finished ===
+2026-09-25 21:18:13,074 INFO === Run started ===
+2026-09-25 21:18:37,676 INFO NEW/RESTOCKED products detected: 1
+2026-09-25 21:18:37,676 INFO   NEW: Banpresto Tokyo Ghou | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30719&limit=100
+2026-09-25 21:18:38,651 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-25 21:18:38,764 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-25 21:18:38,773 INFO === Run finished ===
