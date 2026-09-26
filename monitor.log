@@ -71071,3 +71071,9 @@
 2026-09-26 14:48:13,969 INFO === Run started ===
 2026-09-26 14:48:40,572 INFO No new products (1555 tracked)
 2026-09-26 14:48:40,580 INFO === Run finished ===
+2026-09-26 14:49:13,997 INFO === Run started ===
+2026-09-26 14:49:39,329 INFO NEW/RESTOCKED products detected: 1
+2026-09-26 14:49:39,329 INFO   NEW: BANDAI SPIRITS JoJo' | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31111&limit=100
+2026-09-26 14:49:40,900 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-26 14:49:41,382 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-26 14:49:41,391 INFO === Run finished ===
