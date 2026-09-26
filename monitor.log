@@ -71225,3 +71225,9 @@
 2026-09-26 15:29:51,446 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-26 15:29:51,936 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-26 15:29:51,945 INFO === Run finished ===
+2026-09-26 15:30:18,045 INFO === Run started ===
+2026-09-26 15:30:40,609 INFO NEW/RESTOCKED products detected: 1
+2026-09-26 15:30:40,609 INFO   NEW: Alien Stage Rabbit S | $13.75 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31703&limit=100
+2026-09-26 15:30:41,613 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-26 15:30:41,719 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-26 15:30:41,787 INFO === Run finished ===

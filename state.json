@@ -4902,6 +4902,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31705&limit=100",
       "stock": "n/a"
     },
+    "31703": {
+      "name": "Alien Stage Rabbit S",
+      "price": "$13.75",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31703&limit=100",
+      "stock": "n/a"
+    },
     "30231": {
       "name": "Funism Care Bears Se",
       "price": "$4.10",
@@ -9404,6 +9410,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-26T15:29:51",
-  "last_count": 1567
+  "last_run": "2026-09-26T15:30:41",
+  "last_count": 1568
 }
