@@ -70822,3 +70822,9 @@
 2026-09-26 13:37:35,660 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-26 13:37:35,747 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-26 13:37:35,756 INFO === Run finished ===
+2026-09-26 13:38:11,285 INFO === Run started ===
+2026-09-26 13:38:34,890 INFO NEW/RESTOCKED products detected: 1
+2026-09-26 13:38:34,891 INFO   NEW: Kimura Rose Soda 240 | $2.52 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4010&limit=100
+2026-09-26 13:38:35,915 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-26 13:38:35,986 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-26 13:38:35,995 INFO === Run finished ===
