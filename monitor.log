@@ -71302,3 +71302,10 @@
 2026-09-26 15:48:40,234 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-26 15:48:40,414 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-26 15:48:40,424 INFO === Run finished ===
+2026-09-26 15:49:11,787 INFO === Run started ===
+2026-09-26 15:49:36,477 INFO NEW/RESTOCKED products detected: 2
+2026-09-26 15:49:36,477 INFO   NEW: Pokemon Breakfast Cu | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17077&limit=100
+2026-09-26 15:49:36,477 INFO   NEW: Pokemon Breakfast Mu | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17079&limit=100
+2026-09-26 15:49:37,778 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-26 15:49:38,071 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-26 15:49:38,082 INFO === Run finished ===
