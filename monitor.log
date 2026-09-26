@@ -71198,3 +71198,9 @@
 2026-09-26 15:23:11,441 INFO === Run started ===
 2026-09-26 15:23:35,272 INFO No new products (1564 tracked)
 2026-09-26 15:23:35,279 INFO === Run finished ===
+2026-09-26 15:24:13,983 INFO === Run started ===
+2026-09-26 15:24:36,758 INFO NEW/RESTOCKED products detected: 1
+2026-09-26 15:24:36,758 INFO   NEW: LOVELY EMMA Secret F | $6.52 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51016&limit=100
+2026-09-26 15:24:38,346 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-26 15:24:38,859 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-26 15:24:38,867 INFO === Run finished ===
