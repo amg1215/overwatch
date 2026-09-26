@@ -71466,3 +71466,10 @@
 2026-09-26 16:24:36,460 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-26 16:24:36,531 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-26 16:24:36,541 INFO === Run finished ===
+2026-09-26 16:25:13,982 INFO === Run started ===
+2026-09-26 16:25:39,234 INFO NEW/RESTOCKED products detected: 2
+2026-09-26 16:25:39,234 INFO   NEW: LOVELY EMMA Mini Ser | $5.05 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51017&limit=100
+2026-09-26 16:25:39,234 INFO   NEW: Guangbo Pingu Retrac | $0.60 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31446&limit=100
+2026-09-26 16:25:40,914 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-26 16:25:41,142 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-26 16:25:41,153 INFO === Run finished ===
