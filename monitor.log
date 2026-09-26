@@ -71344,3 +71344,9 @@
 2026-09-26 15:57:37,495 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-26 15:57:37,654 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-26 15:57:37,663 INFO === Run finished ===
+2026-09-26 15:58:16,533 INFO === Run started ===
+2026-09-26 15:58:38,839 INFO NEW/RESTOCKED products detected: 1
+2026-09-26 15:58:38,839 INFO   NEW: POPPI Plush Doll Cak | $9.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18632&limit=100
+2026-09-26 15:58:40,963 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-26 15:58:41,086 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-26 15:58:41,092 INFO === Run finished ===
