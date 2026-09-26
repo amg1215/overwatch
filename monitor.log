@@ -71389,3 +71389,11 @@
 2026-09-26 16:06:11,905 INFO === Run started ===
 2026-09-26 16:06:36,320 INFO No new products (1589 tracked)
 2026-09-26 16:06:36,328 INFO === Run finished ===
+2026-09-26 16:07:12,525 INFO === Run started ===
+2026-09-26 16:07:36,590 INFO NEW/RESTOCKED products detected: 3
+2026-09-26 16:07:36,591 INFO   NEW: Pokemon Snorlax Stac | $3.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2430&limit=100
+2026-09-26 16:07:36,591 INFO   NEW: Pokemon Stackable Cu | $3.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=2432&limit=100
+2026-09-26 16:07:36,591 INFO   NEW: Cinnamoroll Hanger H | $1.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19198&limit=100
+2026-09-26 16:07:38,137 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-26 16:07:38,346 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-26 16:07:38,425 INFO === Run finished ===
