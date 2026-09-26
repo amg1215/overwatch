@@ -71144,3 +71144,9 @@
 2026-09-26 15:08:12,280 INFO === Run started ===
 2026-09-26 15:08:37,490 INFO No new products (1561 tracked)
 2026-09-26 15:08:37,499 INFO === Run finished ===
+2026-09-26 15:09:15,281 INFO === Run started ===
+2026-09-26 15:09:38,914 INFO NEW/RESTOCKED products detected: 1
+2026-09-26 15:09:38,914 INFO   NEW: POPPI Plush Doll Rab | $6.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22210&limit=100
+2026-09-26 15:09:41,906 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-26 15:09:42,076 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-26 15:09:42,083 INFO === Run finished ===
