@@ -71533,3 +71533,9 @@
 2026-09-26 16:40:43,468 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-26 16:40:43,643 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-26 16:40:43,650 INFO === Run finished ===
+2026-09-26 16:41:13,198 INFO === Run started ===
+2026-09-26 16:41:38,022 INFO NEW/RESTOCKED products detected: 1
+2026-09-26 16:41:38,022 INFO   NEW: Guangbo SLO Retracta | $0.62 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31444&limit=100
+2026-09-26 16:41:40,047 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-26 16:41:40,317 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-26 16:41:40,326 INFO === Run finished ===
