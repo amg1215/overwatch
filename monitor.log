@@ -71110,3 +71110,9 @@
 2026-09-26 15:01:13,305 INFO === Run started ===
 2026-09-26 15:01:38,991 INFO No new products (1556 tracked)
 2026-09-26 15:01:38,999 INFO === Run finished ===
+2026-09-26 15:02:14,860 INFO === Run started ===
+2026-09-26 15:02:40,553 INFO NEW/RESTOCKED products detected: 1
+2026-09-26 15:02:40,553 INFO   NEW: Taito Desktop Cute H | $23.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31336&limit=100
+2026-09-26 15:02:43,501 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-26 15:02:43,762 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-26 15:02:43,772 INFO === Run finished ===

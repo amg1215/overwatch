@@ -5112,6 +5112,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20020&limit=100",
       "stock": "n/a"
     },
+    "31336": {
+      "name": "Taito Desktop Cute H",
+      "price": "$23.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31336&limit=100",
+      "stock": "n/a"
+    },
     "30115": {
       "name": "Taito To Love-Ru Dar",
       "price": "$23.39",
@@ -9338,6 +9344,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-26T15:01:38",
-  "last_count": 1556
+  "last_run": "2026-09-26T15:02:43",
+  "last_count": 1557
 }
