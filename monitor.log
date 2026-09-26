@@ -71116,3 +71116,10 @@
 2026-09-26 15:02:43,501 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-26 15:02:43,762 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-26 15:02:43,772 INFO === Run finished ===
+2026-09-26 15:03:11,941 INFO === Run started ===
+2026-09-26 15:03:36,228 INFO NEW/RESTOCKED products detected: 2
+2026-09-26 15:03:36,228 INFO   NEW: BANDAI SPIRITS My He | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31360&limit=100
+2026-09-26 15:03:36,228 INFO   NEW: Kokuyo Campus Eraser | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=4928&limit=100
+2026-09-26 15:03:39,100 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-26 15:03:39,256 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-26 15:03:39,265 INFO === Run finished ===
