@@ -71459,3 +71459,10 @@
 2026-09-26 16:23:10,811 INFO === Run started ===
 2026-09-26 16:23:34,799 INFO No new products (1598 tracked)
 2026-09-26 16:23:34,807 INFO === Run finished ===
+2026-09-26 16:24:11,246 INFO === Run started ===
+2026-09-26 16:24:35,374 INFO NEW/RESTOCKED products detected: 2
+2026-09-26 16:24:35,374 INFO   NEW: Guangbo Pingu Retrac | $0.67 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31447&limit=100
+2026-09-26 16:24:35,374 INFO   NEW: Guangbo SLO Retracta | $1.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31443&limit=100
+2026-09-26 16:24:36,460 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-26 16:24:36,531 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-26 16:24:36,541 INFO === Run finished ===
