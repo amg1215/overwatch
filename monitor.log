@@ -71219,3 +71219,9 @@
 2026-09-26 15:28:40,962 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-26 15:28:41,102 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-26 15:28:41,111 INFO === Run finished ===
+2026-09-26 15:29:23,720 INFO === Run started ===
+2026-09-26 15:29:49,768 INFO NEW/RESTOCKED products detected: 1
+2026-09-26 15:29:49,769 INFO   NEW: Alien Stage Chibi Fi | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31699&limit=100
+2026-09-26 15:29:51,446 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-26 15:29:51,936 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-26 15:29:51,945 INFO === Run finished ===
