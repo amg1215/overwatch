@@ -70918,3 +70918,9 @@
 2026-09-26 14:03:44,862 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-26 14:03:45,070 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-26 14:03:45,079 INFO === Run finished ===
+2026-09-26 14:04:12,385 INFO === Run started ===
+2026-09-26 14:04:34,312 INFO NEW/RESTOCKED products detected: 1
+2026-09-26 14:04:34,312 INFO   NEW: Banpresto Jujutsu Ka | $27.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30914&limit=100
+2026-09-26 14:04:36,956 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-26 14:04:37,256 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-26 14:04:37,281 INFO === Run finished ===
