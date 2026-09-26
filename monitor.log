@@ -71309,3 +71309,10 @@
 2026-09-26 15:49:37,778 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-26 15:49:38,071 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-26 15:49:38,082 INFO === Run finished ===
+2026-09-26 15:50:15,275 INFO === Run started ===
+2026-09-26 15:50:38,653 INFO NEW/RESTOCKED products detected: 2
+2026-09-26 15:50:38,653 INFO   NEW: Pokemon Mug Sprigati | $1.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17083&limit=100
+2026-09-26 15:50:38,653 INFO   NEW: Pokemon Mug Fuecoco | $1.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17084&limit=100
+2026-09-26 15:50:41,652 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-26 15:50:41,969 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-26 15:50:41,978 INFO === Run finished ===
