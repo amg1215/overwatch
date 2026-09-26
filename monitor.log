@@ -71617,3 +71617,9 @@
 2026-09-26 17:02:39,744 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-26 17:02:39,895 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-26 17:02:39,905 INFO === Run finished ===
+2026-09-26 17:03:11,608 INFO === Run started ===
+2026-09-26 17:03:36,866 INFO NEW/RESTOCKED products detected: 1
+2026-09-26 17:03:36,866 INFO   NEW: Kuromi Hanger Handle | $1.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19197&limit=100
+2026-09-26 17:03:39,380 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-26 17:03:39,552 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-26 17:03:39,562 INFO === Run finished ===
