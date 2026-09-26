@@ -71032,3 +71032,9 @@
 2026-09-26 14:36:15,186 INFO === Run started ===
 2026-09-26 14:36:39,348 INFO No new products (1554 tracked)
 2026-09-26 14:36:39,356 INFO === Run finished ===
+2026-09-26 14:37:12,085 INFO === Run started ===
+2026-09-26 14:37:35,559 INFO NEW/RESTOCKED products detected: 1
+2026-09-26 14:37:35,559 INFO   NEW: Taito Hatsune Miku D | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30720&limit=100
+2026-09-26 14:37:36,958 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-26 14:37:37,217 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-26 14:37:37,226 INFO === Run finished ===
