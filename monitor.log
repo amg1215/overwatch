@@ -71370,3 +71370,9 @@
 2026-09-26 16:02:37,872 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-26 16:02:37,944 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-26 16:02:37,954 INFO === Run finished ===
+2026-09-26 16:03:10,980 INFO === Run started ===
+2026-09-26 16:03:35,189 INFO NEW/RESTOCKED products detected: 1
+2026-09-26 16:03:35,189 INFO   NEW: Pokemon Gengar Stack | $3.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17074&limit=100
+2026-09-26 16:03:36,576 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-26 16:03:36,743 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-26 16:03:36,753 INFO === Run finished ===
