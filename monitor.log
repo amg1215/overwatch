@@ -71611,3 +71611,9 @@
 2026-09-26 17:01:12,434 INFO === Run started ===
 2026-09-26 17:01:38,983 INFO No new products (1615 tracked)
 2026-09-26 17:01:38,993 INFO === Run finished ===
+2026-09-26 17:02:11,942 INFO === Run started ===
+2026-09-26 17:02:37,785 INFO NEW/RESTOCKED products detected: 1
+2026-09-26 17:02:37,785 INFO   NEW: Sanrio Characters St | $1.52 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19206&limit=100
+2026-09-26 17:02:39,744 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-26 17:02:39,895 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-26 17:02:39,905 INFO === Run finished ===
