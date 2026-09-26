@@ -71132,3 +71132,9 @@
 2026-09-26 15:05:39,214 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-26 15:05:39,554 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-26 15:05:39,561 INFO === Run finished ===
+2026-09-26 15:06:13,365 INFO === Run started ===
+2026-09-26 15:06:39,301 INFO NEW/RESTOCKED products detected: 1
+2026-09-26 15:06:39,301 INFO   NEW: POPPI Plush Doll Ang | $6.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22231&limit=100
+2026-09-26 15:06:40,644 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-26 15:06:40,950 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-26 15:06:40,960 INFO === Run finished ===
