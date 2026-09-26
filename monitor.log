@@ -71440,3 +71440,10 @@
 2026-09-26 16:19:11,141 INFO === Run started ===
 2026-09-26 16:19:34,678 INFO No new products (1595 tracked)
 2026-09-26 16:19:34,685 INFO === Run finished ===
+2026-09-26 16:20:13,577 INFO === Run started ===
+2026-09-26 16:20:36,049 INFO NEW/RESTOCKED products detected: 2
+2026-09-26 16:20:36,050 INFO   NEW: Guangbo SLO Mini Not | $1.14 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31437&limit=100
+2026-09-26 16:20:36,050 INFO   NEW: Guangbo SLO B5 Kraft | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31438&limit=100
+2026-09-26 16:20:37,884 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-26 16:20:37,952 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-26 16:20:37,959 INFO === Run finished ===
