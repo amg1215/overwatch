@@ -71295,3 +71295,10 @@
 2026-09-26 15:47:12,621 INFO === Run started ===
 2026-09-26 15:47:35,979 INFO No new products (1572 tracked)
 2026-09-26 15:47:35,987 INFO === Run finished ===
+2026-09-26 15:48:13,547 INFO === Run started ===
+2026-09-26 15:48:38,694 INFO NEW/RESTOCKED products detected: 2
+2026-09-26 15:48:38,695 INFO   NEW: Pokemon Breakfast Mu | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17078&limit=100
+2026-09-26 15:48:38,695 INFO   NEW: Pokemon Mug Green S9 | $2.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17082&limit=100
+2026-09-26 15:48:40,234 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-26 15:48:40,414 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-26 15:48:40,424 INFO === Run finished ===
