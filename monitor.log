@@ -70843,3 +70843,9 @@
 2026-09-26 13:42:38,669 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-26 13:42:38,749 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-26 13:42:38,758 INFO === Run finished ===
+2026-09-26 13:43:11,052 INFO === Run started ===
+2026-09-26 13:43:40,397 INFO NEW/RESTOCKED products detected: 1
+2026-09-26 13:43:40,397 INFO   NEW: Mary&May Tranexamic | $3.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51613&limit=100
+2026-09-26 13:43:41,496 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-26 13:43:41,624 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-26 13:43:41,634 INFO === Run finished ===
