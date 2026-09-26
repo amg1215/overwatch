@@ -71258,3 +71258,10 @@
 2026-09-26 15:37:11,352 INFO === Run started ===
 2026-09-26 15:37:35,844 INFO No new products (1569 tracked)
 2026-09-26 15:37:35,853 INFO === Run finished ===
+2026-09-26 15:38:12,775 INFO === Run started ===
+2026-09-26 15:38:38,130 INFO NEW/RESTOCKED products detected: 2
+2026-09-26 15:38:38,130 INFO   NEW: Guangbo SLO M5 Plann | $2.67 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31439&limit=100
+2026-09-26 15:38:38,130 INFO   NEW: Guangbo SLO Stapler | $2.32 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=19872&limit=100
+2026-09-26 15:38:41,434 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-26 15:38:41,634 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-26 15:38:41,643 INFO === Run finished ===
