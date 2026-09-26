@@ -5268,6 +5268,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30110&limit=100",
       "stock": "n/a"
     },
+    "30904": {
+      "name": "Banpresto NARUTO Shi",
+      "price": "$21.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30904&limit=100",
+      "stock": "n/a"
+    },
     "30615": {
       "name": "Banpresto One Piece",
       "price": "$21.59",
@@ -9308,6 +9314,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-26T14:13:36",
-  "last_count": 1551
+  "last_run": "2026-09-26T14:14:38",
+  "last_count": 1552
 }
