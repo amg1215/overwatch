@@ -70816,3 +70816,9 @@
 2026-09-26 13:35:49,309 INFO === Run started ===
 2026-09-26 13:36:13,254 INFO No new products (1545 tracked)
 2026-09-26 13:36:13,263 INFO === Run finished ===
+2026-09-26 13:37:10,637 INFO === Run started ===
+2026-09-26 13:37:34,348 INFO NEW/RESTOCKED products detected: 1
+2026-09-26 13:37:34,348 INFO   NEW: Banpresto Keroro Gun | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30900&limit=100
+2026-09-26 13:37:35,660 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-26 13:37:35,747 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-26 13:37:35,756 INFO === Run finished ===
