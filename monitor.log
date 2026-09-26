@@ -71338,3 +71338,9 @@
 2026-09-26 15:56:12,881 INFO === Run started ===
 2026-09-26 15:56:36,275 INFO No new products (1580 tracked)
 2026-09-26 15:56:36,280 INFO === Run finished ===
+2026-09-26 15:57:10,915 INFO === Run started ===
+2026-09-26 15:57:34,341 INFO NEW/RESTOCKED products detected: 1
+2026-09-26 15:57:34,342 INFO   NEW: 36*23*27cm Type A | $8.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17040&limit=100
+2026-09-26 15:57:37,495 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-26 15:57:37,654 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-26 15:57:37,663 INFO === Run finished ===
