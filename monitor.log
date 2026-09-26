@@ -71566,3 +71566,11 @@
 2026-09-26 16:49:11,180 INFO === Run started ===
 2026-09-26 16:49:36,963 INFO No new products (1610 tracked)
 2026-09-26 16:49:36,971 INFO === Run finished ===
+2026-09-26 16:50:17,077 INFO === Run started ===
+2026-09-26 16:50:43,582 INFO NEW/RESTOCKED products detected: 3
+2026-09-26 16:50:43,582 INFO   NEW: My Melody Transparen | $1.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14590&limit=100
+2026-09-26 16:50:43,582 INFO   NEW: SLO Cinnamoroll Chop | $0.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20849&limit=100
+2026-09-26 16:50:43,582 INFO   NEW: Stainless Steel Spoo | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=14585&limit=100
+2026-09-26 16:50:44,622 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-26 16:50:44,693 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-26 16:50:44,702 INFO === Run finished ===
