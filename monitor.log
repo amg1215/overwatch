@@ -75914,3 +75914,9 @@
 2026-09-28 17:23:50,157 INFO === Run started ===
 2026-09-28 17:24:15,805 INFO No new products (1318 tracked)
 2026-09-28 17:24:15,812 INFO === Run finished ===
+2026-09-28 17:25:16,211 INFO === Run started ===
+2026-09-28 17:25:40,939 INFO NEW/RESTOCKED products detected: 1
+2026-09-28 17:25:40,939 INFO   NEW: Banpresto Cardcaptor | $23.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30612&limit=100
+2026-09-28 17:25:42,144 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-28 17:25:42,203 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-28 17:25:42,212 INFO === Run finished ===
