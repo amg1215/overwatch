@@ -3990,6 +3990,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31605&limit=100",
       "stock": "n/a"
     },
+    "31606": {
+      "name": "Max Limited HUNTER ×",
+      "price": "$6.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31606&limit=100",
+      "stock": "n/a"
+    },
     "31607": {
       "name": "Max Limited Jujutsu",
       "price": "$5.99",
@@ -4284,12 +4290,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31337&limit=100",
       "stock": "n/a"
     },
-    "30912": {
-      "name": "Banpresto Frieren Be",
-      "price": "$23.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30912&limit=100",
-      "stock": "n/a"
-    },
     "30399": {
       "name": "Banpresto Gakuen Ido",
       "price": "$23.99",
@@ -4504,12 +4504,6 @@
       "name": "FuRyu Even a Replica",
       "price": "$21.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51884&limit=100",
-      "stock": "n/a"
-    },
-    "51719": {
-      "name": "FuRyu Creative Figur",
-      "price": "$23.99",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51719&limit=100",
       "stock": "n/a"
     },
     "51885": {
@@ -7946,6 +7940,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-28T15:10:35",
-  "last_count": 1324
+  "last_run": "2026-09-28T15:11:44",
+  "last_count": 1323
 }
