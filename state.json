@@ -3450,12 +3450,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31269&limit=100",
       "stock": "n/a"
     },
-    "31602": {
-      "name": "RE-MENT Peanuts SNOO",
-      "price": "$10.79",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31602&limit=100",
-      "stock": "n/a"
-    },
     "15254": {
       "name": "SMISKI Glow In The D",
       "price": "$9.59",
@@ -3496,12 +3490,6 @@
       "name": "Kawada Chiikawa Char",
       "price": "$5.39",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30742&limit=100",
-      "stock": "n/a"
-    },
-    "30743": {
-      "name": "Kawada Tokyo Mini Na",
-      "price": "$5.39",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30743&limit=100",
       "stock": "n/a"
     },
     "30744": {
@@ -3978,12 +3966,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30916&limit=100",
       "stock": "n/a"
     },
-    "30915": {
-      "name": "Banpresto Mobile Sui",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30915&limit=100",
-      "stock": "n/a"
-    },
     "30716": {
       "name": "Banpresto BLEACH GLI",
       "price": "$23.99",
@@ -4366,24 +4348,6 @@
       "name": "Sega Fave Yumemirize",
       "price": "$21.59",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31125&limit=100",
-      "stock": "n/a"
-    },
-    "31126": {
-      "name": "Sega Fave Frieren Be",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31126&limit=100",
-      "stock": "n/a"
-    },
-    "30999": {
-      "name": "Sega Hatsune Miku ×",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30999&limit=100",
-      "stock": "n/a"
-    },
-    "52036": {
-      "name": "Sega Jujutsu Kaisen",
-      "price": "$21.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=52036&limit=100",
       "stock": "n/a"
     },
     "51942": {
@@ -7394,6 +7358,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-29T21:34:36",
-  "last_count": 1232
+  "last_run": "2026-09-29T21:35:38",
+  "last_count": 1226
 }
