@@ -80604,3 +80604,6 @@
 2026-09-30 15:36:43,733 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-30 15:36:43,844 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-30 15:36:43,851 INFO === Run finished ===
+2026-09-30 15:37:17,837 INFO === Run started ===
+2026-09-30 15:37:46,382 INFO No new products (1233 tracked)
+2026-09-30 15:37:46,392 INFO === Run finished ===
