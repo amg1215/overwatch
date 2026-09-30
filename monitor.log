@@ -80640,3 +80640,10 @@
 2026-09-30 15:46:17,015 INFO === Run started ===
 2026-09-30 15:46:45,281 INFO No new products (1235 tracked)
 2026-09-30 15:46:45,288 INFO === Run finished ===
+2026-09-30 15:47:13,476 INFO === Run started ===
+2026-09-30 15:47:42,879 INFO NEW/RESTOCKED products detected: 2
+2026-09-30 15:47:42,879 INFO   NEW: Chacott Matte Settin | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50774&limit=100
+2026-09-30 15:47:42,879 INFO   NEW: Chacott Moisturizing | $14.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50770&limit=100
+2026-09-30 15:47:44,450 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-30 15:47:44,670 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-30 15:47:44,677 INFO === Run finished ===
