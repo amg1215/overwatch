@@ -2010,6 +2010,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26873&limit=100",
       "stock": "n/a"
     },
+    "23213": {
+      "name": "CEZANNE Isolation Su",
+      "price": "$5.99",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23213&limit=100",
+      "stock": "n/a"
+    },
     "9723": {
       "name": "Sana Pate Smooth Col",
       "price": "$8.44",
@@ -7490,6 +7496,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-30T16:15:48",
-  "last_count": 1248
+  "last_run": "2026-09-30T16:16:57",
+  "last_count": 1249
 }
