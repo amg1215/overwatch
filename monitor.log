@@ -81275,3 +81275,11 @@
 2026-09-30 19:07:33,676 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-30 19:07:34,002 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-30 19:07:34,011 INFO === Run finished ===
+2026-09-30 19:08:13,457 INFO === Run started ===
+2026-09-30 19:08:32,849 INFO NEW/RESTOCKED products detected: 3
+2026-09-30 19:08:32,849 INFO   NEW: Kobayashi Pharmaceut | $3.82 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50752&limit=100
+2026-09-30 19:08:32,849 INFO   NEW: Kobayashi Toilet Cle | $2.09 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9954&limit=100
+2026-09-30 19:08:32,849 INFO   NEW: Kobayashi Toilet Wat | $3.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10304&limit=100
+2026-09-30 19:08:35,786 INFO Email sent: Ebisu: 3 new/restocked items!
+2026-09-30 19:08:35,987 INFO ntfy push sent: Ebisu: 3 new/restocked items!
+2026-09-30 19:08:35,993 INFO === Run finished ===

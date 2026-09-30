@@ -750,6 +750,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=1952&limit=100",
       "stock": "n/a"
     },
+    "50752": {
+      "name": "Kobayashi Pharmaceut",
+      "price": "$3.82",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50752&limit=100",
+      "stock": "n/a"
+    },
     "29869": {
       "name": "Kobayashi Toilet Fra",
       "price": "$3.59",
@@ -1332,10 +1338,22 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3069&limit=100",
       "stock": "n/a"
     },
+    "9954": {
+      "name": "Kobayashi Toilet Cle",
+      "price": "$2.09",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9954&limit=100",
+      "stock": "n/a"
+    },
     "3817": {
       "name": "Kobayashi Toilet Cle",
       "price": "$2.09",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=3817&limit=100",
+      "stock": "n/a"
+    },
+    "10304": {
+      "name": "Kobayashi Toilet Wat",
+      "price": "$3.20",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10304&limit=100",
       "stock": "n/a"
     },
     "58": {
@@ -7670,6 +7688,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-30T19:07:34",
-  "last_count": 1278
+  "last_run": "2026-09-30T19:08:35",
+  "last_count": 1281
 }
