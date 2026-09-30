@@ -80897,3 +80897,10 @@
 2026-09-30 17:03:45,987 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-30 17:03:46,223 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-30 17:03:46,230 INFO === Run finished ===
+2026-09-30 17:04:13,793 INFO === Run started ===
+2026-09-30 17:04:45,856 INFO NEW/RESTOCKED products detected: 2
+2026-09-30 17:04:45,856 INFO   NEW: Gourmandise Shark Ca | $17.39 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50761&limit=100
+2026-09-30 17:04:45,856 INFO   NEW: Gourmandise Shark Ca | $13.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50762&limit=100
+2026-09-30 17:04:48,066 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-30 17:04:48,497 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-30 17:04:48,505 INFO === Run finished ===
