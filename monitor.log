@@ -80851,3 +80851,9 @@
 2026-09-30 16:49:13,325 INFO === Run started ===
 2026-09-30 16:49:45,249 INFO No new products (1255 tracked)
 2026-09-30 16:49:45,256 INFO === Run finished ===
+2026-09-30 16:50:16,230 INFO === Run started ===
+2026-09-30 16:50:46,135 INFO NEW/RESTOCKED products detected: 1
+2026-09-30 16:50:46,135 INFO   NEW: Chacott Matte Finish | $10.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50771&limit=100
+2026-09-30 16:50:47,348 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-30 16:50:47,479 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-30 16:50:47,487 INFO === Run finished ===
