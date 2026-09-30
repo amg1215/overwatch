@@ -81433,3 +81433,9 @@
 2026-09-30 19:54:13,912 INFO === Run started ===
 2026-09-30 19:54:34,116 INFO No new products (1283 tracked)
 2026-09-30 19:54:34,123 INFO === Run finished ===
+2026-09-30 19:55:17,148 INFO === Run started ===
+2026-09-30 19:55:36,778 INFO NEW/RESTOCKED products detected: 1
+2026-09-30 19:55:36,779 INFO   NEW: Melodian Marufu Caps | $2.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50735&limit=100
+2026-09-30 19:55:38,781 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-30 19:55:38,884 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-30 19:55:38,892 INFO === Run finished ===

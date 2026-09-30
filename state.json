@@ -7194,6 +7194,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=637&limit=100",
       "stock": "n/a"
     },
+    "50735": {
+      "name": "Melodian Marufu Caps",
+      "price": "$2.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50735&limit=100",
+      "stock": "n/a"
+    },
     "8765": {
       "name": "Mitsui Meicha Peach",
       "price": "$4.70",
@@ -7700,6 +7706,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-30T19:54:34",
-  "last_count": 1283
+  "last_run": "2026-09-30T19:55:38",
+  "last_count": 1284
 }
