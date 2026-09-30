@@ -7494,12 +7494,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23173&limit=100",
       "stock": "n/a"
     },
-    "28877": {
-      "name": "Nissin UFO Ramen 93g",
-      "price": "$2.20",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28877&limit=100",
-      "stock": "n/a"
-    },
     "31003": {
       "name": "Nissin FOOD PRODUCTS",
       "price": "$2.39",
@@ -7712,6 +7706,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-30T20:11:33",
-  "last_count": 1285
+  "last_run": "2026-09-30T20:12:33",
+  "last_count": 1284
 }
