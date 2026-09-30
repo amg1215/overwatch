@@ -81039,3 +81039,10 @@
 2026-09-30 17:49:49,637 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-30 17:49:49,806 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-30 17:49:49,813 INFO === Run finished ===
+2026-09-30 17:50:16,312 INFO === Run started ===
+2026-09-30 17:50:51,805 INFO NEW/RESTOCKED products detected: 2
+2026-09-30 17:50:51,805 INFO   NEW: Bifido Mini Q Jelly | $1.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26628&limit=100
+2026-09-30 17:50:51,805 INFO   NEW: Bifido Mini Q Jelly | $1.89 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26630&limit=100
+2026-09-30 17:50:53,921 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-30 17:50:54,147 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-30 17:50:54,155 INFO === Run finished ===
