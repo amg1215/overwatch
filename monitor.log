@@ -81253,3 +81253,10 @@
 2026-09-30 19:03:16,379 INFO === Run started ===
 2026-09-30 19:03:35,366 INFO No new products (1274 tracked)
 2026-09-30 19:03:35,372 INFO === Run finished ===
+2026-09-30 19:04:12,605 INFO === Run started ===
+2026-09-30 19:04:32,892 INFO NEW/RESTOCKED products detected: 2
+2026-09-30 19:04:32,892 INFO   NEW: LEC Chiikawa Chiikaw | $15.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50754&limit=100
+2026-09-30 19:04:32,892 INFO   NEW: LEC Chiikawa Chiikaw | $15.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50755&limit=100
+2026-09-30 19:04:34,043 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-30 19:04:34,170 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-30 19:04:34,179 INFO === Run finished ===
