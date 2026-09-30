@@ -80806,3 +80806,9 @@
 2026-09-30 16:30:51,254 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-30 16:30:51,306 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-30 16:30:51,314 INFO === Run finished ===
+2026-09-30 16:31:16,486 INFO === Run started ===
+2026-09-30 16:32:39,219 INFO NEW/RESTOCKED products detected: 1
+2026-09-30 16:32:39,219 INFO   NEW: Canmake Melting Gel | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=7947&limit=100
+2026-09-30 16:32:40,730 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-30 16:32:40,938 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-30 16:32:40,942 INFO === Run finished ===
