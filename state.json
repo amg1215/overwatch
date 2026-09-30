@@ -2178,6 +2178,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9442&limit=100",
       "stock": "n/a"
     },
+    "50760": {
+      "name": "Shiseido Summer Limi",
+      "price": "$51.59",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50760&limit=100",
+      "stock": "n/a"
+    },
     "24253": {
       "name": "Cezanne Highlighter",
       "price": "$5.99",
@@ -7520,6 +7526,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-30T16:29:43",
-  "last_count": 1253
+  "last_run": "2026-09-30T16:30:51",
+  "last_count": 1254
 }

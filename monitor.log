@@ -80800,3 +80800,9 @@
 2026-09-30 16:29:13,113 INFO === Run started ===
 2026-09-30 16:29:43,032 INFO No new products (1253 tracked)
 2026-09-30 16:29:43,042 INFO === Run finished ===
+2026-09-30 16:30:19,706 INFO === Run started ===
+2026-09-30 16:30:50,103 INFO NEW/RESTOCKED products detected: 1
+2026-09-30 16:30:50,103 INFO   NEW: Shiseido Summer Limi | $51.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50760&limit=100
+2026-09-30 16:30:51,254 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-30 16:30:51,306 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-30 16:30:51,314 INFO === Run finished ===
