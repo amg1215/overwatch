@@ -3894,6 +3894,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50758&limit=100",
       "stock": "n/a"
     },
+    "50763": {
+      "name": "Terakoya Hello Kitty",
+      "price": "$10.79",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50763&limit=100",
+      "stock": "n/a"
+    },
     "26715": {
       "name": "Funism Adventurous P",
       "price": "$2.99",
@@ -7472,6 +7478,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-30T15:57:20",
-  "last_count": 1245
+  "last_run": "2026-09-30T15:58:50",
+  "last_count": 1246
 }

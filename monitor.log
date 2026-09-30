@@ -80692,3 +80692,9 @@
 2026-09-30 15:57:20,748 INFO Email sent: Ebisu: 3 new/restocked items!
 2026-09-30 15:57:20,955 INFO ntfy push sent: Ebisu: 3 new/restocked items!
 2026-09-30 15:57:20,960 INFO === Run finished ===
+2026-09-30 15:58:21,196 INFO === Run started ===
+2026-09-30 15:58:49,736 INFO NEW/RESTOCKED products detected: 1
+2026-09-30 15:58:49,736 INFO   NEW: Terakoya Hello Kitty | $10.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50763&limit=100
+2026-09-30 15:58:50,665 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-30 15:58:50,961 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-30 15:58:50,971 INFO === Run finished ===
