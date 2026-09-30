@@ -6438,6 +6438,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=17417&limit=100",
       "stock": "n/a"
     },
+    "10918": {
+      "name": "Asahi Rich Black Cof",
+      "price": "$1.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10918&limit=100",
+      "stock": "n/a"
+    },
     "18423": {
       "name": "Asahi Black Coffee A",
       "price": "$1.09",
@@ -7376,6 +7382,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-30T15:08:38",
-  "last_count": 1229
+  "last_run": "2026-09-30T15:10:43",
+  "last_count": 1230
 }
