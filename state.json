@@ -1626,12 +1626,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22113&limit=100",
       "stock": "n/a"
     },
-    "13492": {
-      "name": "Quality 1st Derma La",
-      "price": "$6.50",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=13492&limit=100",
-      "stock": "n/a"
-    },
     "30669": {
       "name": "BeeCruise Lovisia Po",
       "price": "$1.89",
@@ -5256,12 +5250,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10258&limit=100",
       "stock": "n/a"
     },
-    "50732": {
-      "name": "HARIBO Summer Limite",
-      "price": "$1.85",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50732&limit=100",
-      "stock": "n/a"
-    },
     "23166": {
       "name": "ORIHIRO Freezable Je",
       "price": "$1.31",
@@ -5302,12 +5290,6 @@
       "name": "ITOEN Lemon Jelly 30",
       "price": "$1.67",
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28925&limit=100",
-      "stock": "n/a"
-    },
-    "50744": {
-      "name": "Umios Suckable Jelly",
-      "price": "$1.45",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50744&limit=100",
       "stock": "n/a"
     },
     "30957": {
@@ -7200,12 +7182,6 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=637&limit=100",
       "stock": "n/a"
     },
-    "50735": {
-      "name": "Melodian Marufu Caps",
-      "price": "$2.59",
-      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50735&limit=100",
-      "stock": "n/a"
-    },
     "8765": {
       "name": "Mitsui Meicha Peach",
       "price": "$4.70",
@@ -7706,6 +7682,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-30T21:19:35",
-  "last_count": 1284
+  "last_run": "2026-09-30T21:20:35",
+  "last_count": 1280
 }
