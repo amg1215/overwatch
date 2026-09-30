@@ -348,6 +348,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=9600&limit=100",
       "stock": "n/a"
     },
+    "22071": {
+      "name": "SMISKI Elf Embroider",
+      "price": "$5.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22071&limit=100",
+      "stock": "n/a"
+    },
     "13428": {
       "name": "SLO Face Hairband He",
       "price": "$7.20",
@@ -7496,6 +7502,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-30T16:16:57",
-  "last_count": 1249
+  "last_run": "2026-09-30T16:17:47",
+  "last_count": 1250
 }
