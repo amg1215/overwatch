@@ -5472,6 +5472,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30736&limit=100",
       "stock": "n/a"
     },
+    "23766": {
+      "name": "Lotte Black Chocolat",
+      "price": "$1.39",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=23766&limit=100",
+      "stock": "n/a"
+    },
     "10237": {
       "name": "Lotte Chocolate Pie",
       "price": "$2.57",
@@ -7706,6 +7712,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-30T19:58:36",
-  "last_count": 1284
+  "last_run": "2026-09-30T19:59:46",
+  "last_count": 1285
 }
