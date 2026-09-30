@@ -708,6 +708,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5423&limit=100",
       "stock": "n/a"
     },
+    "50750": {
+      "name": "Kobayashi Pharmaceut",
+      "price": "$1.75",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50750&limit=100",
+      "stock": "n/a"
+    },
     "50751": {
       "name": "Kobayashi Pharmaceut",
       "price": "$1.75",
@@ -7370,6 +7376,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-30T15:06:03",
-  "last_count": 1228
+  "last_run": "2026-09-30T15:07:58",
+  "last_count": 1229
 }

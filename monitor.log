@@ -80508,3 +80508,9 @@
 2026-09-30 15:06:02,884 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-30 15:06:03,013 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-30 15:06:03,022 INFO === Run finished ===
+2026-09-30 15:07:25,802 INFO === Run started ===
+2026-09-30 15:07:56,176 INFO NEW/RESTOCKED products detected: 1
+2026-09-30 15:07:56,176 INFO   NEW: Kobayashi Pharmaceut | $1.75 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50750&limit=100
+2026-09-30 15:07:58,100 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-30 15:07:58,173 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-30 15:07:58,181 INFO === Run finished ===
