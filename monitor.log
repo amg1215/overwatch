@@ -80607,3 +80607,9 @@
 2026-09-30 15:37:17,837 INFO === Run started ===
 2026-09-30 15:37:46,382 INFO No new products (1233 tracked)
 2026-09-30 15:37:46,392 INFO === Run finished ===
+2026-09-30 15:38:15,706 INFO === Run started ===
+2026-09-30 15:38:42,669 INFO NEW/RESTOCKED products detected: 1
+2026-09-30 15:38:42,669 INFO   NEW: SUNTORY Aloe & Kiwi | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30184&limit=100
+2026-09-30 15:38:43,907 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-30 15:38:44,114 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-30 15:38:44,121 INFO === Run finished ===
