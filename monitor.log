@@ -80785,3 +80785,9 @@
 2026-09-30 16:26:13,341 INFO === Run started ===
 2026-09-30 16:26:50,339 INFO No new products (1251 tracked)
 2026-09-30 16:26:50,346 INFO === Run finished ===
+2026-09-30 16:27:14,025 INFO === Run started ===
+2026-09-30 16:27:44,667 INFO NEW/RESTOCKED products detected: 1
+2026-09-30 16:27:44,667 INFO   NEW: SHO-BI mofusand Rabb | $3.52 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22112&limit=100
+2026-09-30 16:27:45,740 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-30 16:27:46,015 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-30 16:27:46,024 INFO === Run finished ===
