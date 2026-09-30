@@ -80719,3 +80719,9 @@
 2026-09-30 16:06:13,719 INFO === Run started ===
 2026-09-30 16:06:47,834 INFO No new products (1246 tracked)
 2026-09-30 16:06:47,841 INFO === Run finished ===
+2026-09-30 16:08:22,180 INFO === Run started ===
+2026-09-30 16:08:51,473 INFO NEW/RESTOCKED products detected: 1
+2026-09-30 16:08:51,473 INFO   NEW: Canmake Two Color Pe | $7.79 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50272&limit=100
+2026-09-30 16:08:52,373 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-30 16:08:52,426 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-30 16:08:52,434 INFO === Run finished ===
