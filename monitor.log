@@ -81286,3 +81286,9 @@
 2026-09-30 19:09:11,154 INFO === Run started ===
 2026-09-30 19:09:31,166 INFO No new products (1281 tracked)
 2026-09-30 19:09:31,173 INFO === Run finished ===
+2026-09-30 19:10:17,289 INFO === Run started ===
+2026-09-30 19:10:42,217 INFO NEW/RESTOCKED products detected: 1
+2026-09-30 19:10:42,217 INFO   NEW: Banpresto Frieren Be | $21.59 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=51946&limit=100
+2026-09-30 19:10:43,646 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-30 19:10:43,854 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-30 19:10:43,863 INFO === Run finished ===
