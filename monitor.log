@@ -80647,3 +80647,10 @@
 2026-09-30 15:47:44,450 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-30 15:47:44,670 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-30 15:47:44,677 INFO === Run finished ===
+2026-09-30 15:48:13,483 INFO === Run started ===
+2026-09-30 15:48:42,328 INFO NEW/RESTOCKED products detected: 2
+2026-09-30 15:48:42,328 INFO   NEW: Chacott Soft Light C | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50764&limit=100
+2026-09-30 15:48:42,328 INFO   NEW: SUNTORY Black Tea 60 | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30185&limit=100
+2026-09-30 15:48:43,580 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-09-30 15:48:43,631 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-09-30 15:48:43,639 INFO === Run finished ===
