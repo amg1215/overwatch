@@ -5250,6 +5250,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=10258&limit=100",
       "stock": "n/a"
     },
+    "50732": {
+      "name": "HARIBO Summer Limite",
+      "price": "$1.85",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50732&limit=100",
+      "stock": "n/a"
+    },
     "23166": {
       "name": "ORIHIRO Freezable Je",
       "price": "$1.31",
@@ -7682,6 +7688,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-30T19:41:33",
-  "last_count": 1280
+  "last_run": "2026-09-30T19:42:33",
+  "last_count": 1281
 }

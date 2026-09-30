@@ -81385,3 +81385,9 @@
 2026-09-30 19:41:14,374 INFO === Run started ===
 2026-09-30 19:41:33,907 INFO No new products (1280 tracked)
 2026-09-30 19:41:33,913 INFO === Run finished ===
+2026-09-30 19:42:12,417 INFO === Run started ===
+2026-09-30 19:42:31,858 INFO NEW/RESTOCKED products detected: 1
+2026-09-30 19:42:31,858 INFO   NEW: HARIBO Summer Limite | $1.85 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50732&limit=100
+2026-09-30 19:42:33,272 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-30 19:42:33,427 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-30 19:42:33,435 INFO === Run finished ===
