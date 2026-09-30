@@ -80791,3 +80791,9 @@
 2026-09-30 16:27:45,740 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-30 16:27:46,015 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-30 16:27:46,024 INFO === Run finished ===
+2026-09-30 16:28:12,920 INFO === Run started ===
+2026-09-30 16:28:42,173 INFO NEW/RESTOCKED products detected: 1
+2026-09-30 16:28:42,173 INFO   NEW: SHO-BI Mofusand Faci | $3.52 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22113&limit=100
+2026-09-30 16:28:43,636 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-30 16:28:43,788 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-30 16:28:43,796 INFO === Run finished ===
