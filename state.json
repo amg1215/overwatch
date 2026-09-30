@@ -6144,6 +6144,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15078&limit=100",
       "stock": "n/a"
     },
+    "15075": {
+      "name": "Doritos Chips Golden",
+      "price": "$1.45",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15075&limit=100",
+      "stock": "n/a"
+    },
     "31339": {
       "name": "Calbee Kappa Ebisen",
       "price": "$1.49",
@@ -7640,6 +7646,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-30T17:52:47",
-  "last_count": 1273
+  "last_run": "2026-09-30T17:54:50",
+  "last_count": 1274
 }
