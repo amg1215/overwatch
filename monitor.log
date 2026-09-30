@@ -80864,3 +80864,9 @@
 2026-09-30 16:51:44,313 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-09-30 16:51:44,840 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-09-30 16:51:44,847 INFO === Run finished ===
+2026-09-30 16:52:48,041 INFO === Run started ===
+2026-09-30 16:53:17,494 INFO NEW/RESTOCKED products detected: 1
+2026-09-30 16:53:17,494 INFO   NEW: Chacott Moisturizing | $14.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50773&limit=100
+2026-09-30 16:53:18,638 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-30 16:53:18,772 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-30 16:53:18,781 INFO === Run finished ===
