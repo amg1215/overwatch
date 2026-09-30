@@ -6096,6 +6096,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31669&limit=100",
       "stock": "n/a"
     },
+    "15078": {
+      "name": "Lay's Potato Chips K",
+      "price": "$2.20",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=15078&limit=100",
+      "stock": "n/a"
+    },
     "31339": {
       "name": "Calbee Kappa Ebisen",
       "price": "$1.49",
@@ -7592,6 +7598,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-30T17:33:50",
-  "last_count": 1265
+  "last_run": "2026-09-30T17:34:49",
+  "last_count": 1266
 }
