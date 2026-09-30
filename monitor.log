@@ -80998,3 +80998,9 @@
 2026-09-30 17:37:53,314 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-09-30 17:37:53,516 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-09-30 17:37:53,525 INFO === Run finished ===
+2026-09-30 17:38:15,192 INFO === Run started ===
+2026-09-30 17:38:49,517 INFO NEW/RESTOCKED products detected: 1
+2026-09-30 17:38:49,517 INFO   NEW: Dariya Salon de Pro | $5.99 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=22169&limit=100
+2026-09-30 17:38:50,707 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-09-30 17:38:50,800 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-09-30 17:38:50,809 INFO === Run finished ===
