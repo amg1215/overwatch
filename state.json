@@ -5304,6 +5304,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=28925&limit=100",
       "stock": "n/a"
     },
+    "50744": {
+      "name": "Umios Suckable Jelly",
+      "price": "$1.45",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50744&limit=100",
+      "stock": "n/a"
+    },
     "30957": {
       "name": "Umios S Fruitier Lux",
       "price": "$1.79",
@@ -7694,6 +7700,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-09-30T19:48:40",
-  "last_count": 1282
+  "last_run": "2026-09-30T19:49:40",
+  "last_count": 1283
 }
