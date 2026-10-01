@@ -5856,6 +5856,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=18848&limit=100",
       "stock": "n/a"
     },
+    "30061": {
+      "name": "Meiji Mushroom & Bam",
+      "price": "$3.71",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30061&limit=100",
+      "stock": "n/a"
+    },
     "30967": {
       "name": "YBS Mint Chocolate P",
       "price": "$2.89",
@@ -7518,6 +7524,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30191&limit=100",
       "stock": "n/a"
     },
+    "30190": {
+      "name": "Sapporo Ichiban Pika",
+      "price": "$1.63",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30190&limit=100",
+      "stock": "n/a"
+    },
     "23773": {
       "name": "ZUBAAAN Soy Sauce Fl",
       "price": "$2.72",
@@ -7826,6 +7838,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-10-01T15:55:41",
-  "last_count": 1304
+  "last_run": "2026-10-01T15:56:38",
+  "last_count": 1306
 }

@@ -82900,3 +82900,10 @@
 2026-10-01 15:55:16,006 INFO === Run started ===
 2026-10-01 15:55:41,522 INFO No new products (1304 tracked)
 2026-10-01 15:55:41,529 INFO === Run finished ===
+2026-10-01 15:56:14,694 INFO === Run started ===
+2026-10-01 15:56:37,818 INFO NEW/RESTOCKED products detected: 2
+2026-10-01 15:56:37,819 INFO   NEW: Meiji Mushroom & Bam | $3.71 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30061&limit=100
+2026-10-01 15:56:37,819 INFO   NEW: Sapporo Ichiban Pika | $1.63 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=30190&limit=100
+2026-10-01 15:56:38,794 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-10-01 15:56:38,872 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-10-01 15:56:38,880 INFO === Run finished ===
