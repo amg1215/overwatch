@@ -82698,3 +82698,9 @@
 2026-10-01 15:02:20,876 INFO === Run started ===
 2026-10-01 15:02:39,609 INFO No new products (1289 tracked)
 2026-10-01 15:02:39,613 INFO === Run finished ===
+2026-10-01 15:03:15,173 INFO === Run started ===
+2026-10-01 15:03:36,401 INFO NEW/RESTOCKED products detected: 1
+2026-10-01 15:03:36,402 INFO   NEW: SHJ Matcha Sesame Th | $2.20 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=49913&limit=100
+2026-10-01 15:03:39,297 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-10-01 15:03:39,550 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-10-01 15:03:39,565 INFO === Run finished ===
