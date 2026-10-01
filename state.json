@@ -6120,6 +6120,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=31080&limit=100",
       "stock": "n/a"
     },
+    "49773": {
+      "name": "Koikeya STRONG Spicy",
+      "price": "$1.49",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=49773&limit=100",
+      "stock": "n/a"
+    },
     "31667": {
       "name": "Lianhwa Cadina Poppe",
       "price": "$1.59",
@@ -7790,6 +7796,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-10-01T15:47:33",
-  "last_count": 1298
+  "last_run": "2026-10-01T15:48:41",
+  "last_count": 1299
 }

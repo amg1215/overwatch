@@ -82860,3 +82860,9 @@
 2026-10-01 15:47:33,397 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-10-01 15:47:33,471 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-10-01 15:47:33,479 INFO === Run finished ===
+2026-10-01 15:48:18,862 INFO === Run started ===
+2026-10-01 15:48:39,775 INFO NEW/RESTOCKED products detected: 1
+2026-10-01 15:48:39,775 INFO   NEW: Koikeya STRONG Spicy | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=49773&limit=100
+2026-10-01 15:48:41,117 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-10-01 15:48:41,330 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-10-01 15:48:41,338 INFO === Run finished ===
