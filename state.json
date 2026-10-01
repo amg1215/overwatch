@@ -1182,6 +1182,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=5606&limit=100",
       "stock": "n/a"
     },
+    "24204": {
+      "name": "Nepia Tissue 16pcs",
+      "price": "$4.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24204&limit=100",
+      "stock": "n/a"
+    },
     "12275": {
       "name": "Kao Biore Men's Faci",
       "price": "$3.35",
@@ -7662,6 +7668,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8812&limit=100",
       "stock": "n/a"
     },
+    "50748": {
+      "name": "IPPUDO Pork Bone Lam",
+      "price": "$13.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50748&limit=100",
+      "stock": "n/a"
+    },
     "50749": {
       "name": "IPPUDO Spicy Hakata",
       "price": "$13.19",
@@ -7802,6 +7814,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-10-01T15:50:41",
-  "last_count": 1300
+  "last_run": "2026-10-01T15:51:37",
+  "last_count": 1302
 }

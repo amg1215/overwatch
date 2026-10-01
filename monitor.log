@@ -82875,3 +82875,10 @@
 2026-10-01 15:50:41,087 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-10-01 15:50:41,282 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-10-01 15:50:41,288 INFO === Run finished ===
+2026-10-01 15:51:12,463 INFO === Run started ===
+2026-10-01 15:51:36,630 INFO NEW/RESTOCKED products detected: 2
+2026-10-01 15:51:36,630 INFO   NEW: Nepia Tissue 16pcs | $4.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=24204&limit=100
+2026-10-01 15:51:36,630 INFO   NEW: IPPUDO Pork Bone Lam | $13.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50748&limit=100
+2026-10-01 15:51:37,608 INFO Email sent: Ebisu: 2 new/restocked items!
+2026-10-01 15:51:37,907 INFO ntfy push sent: Ebisu: 2 new/restocked items!
+2026-10-01 15:51:37,916 INFO === Run finished ===
