@@ -82827,3 +82827,9 @@
 2026-10-01 15:40:00,530 INFO Email sent: Ebisu: 1 new/restocked item!
 2026-10-01 15:40:00,943 INFO ntfy push sent: Ebisu: 1 new/restocked item!
 2026-10-01 15:40:00,951 INFO === Run finished ===
+2026-10-01 15:40:28,743 INFO === Run started ===
+2026-10-01 15:40:50,690 INFO NEW/RESTOCKED products detected: 1
+2026-10-01 15:40:50,690 INFO   NEW: Koikeya Corn Flakes | $1.49 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50738&limit=100
+2026-10-01 15:40:52,080 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-10-01 15:40:52,302 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-10-01 15:40:52,310 INFO === Run finished ===
