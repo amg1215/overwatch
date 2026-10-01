@@ -82882,3 +82882,9 @@
 2026-10-01 15:51:37,608 INFO Email sent: Ebisu: 2 new/restocked items!
 2026-10-01 15:51:37,907 INFO ntfy push sent: Ebisu: 2 new/restocked items!
 2026-10-01 15:51:37,916 INFO === Run finished ===
+2026-10-01 15:52:13,664 INFO === Run started ===
+2026-10-01 15:52:37,230 INFO NEW/RESTOCKED products detected: 1
+2026-10-01 15:52:37,231 INFO   NEW: Ryukakusan Throat Lo | $2.93 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50739&limit=100
+2026-10-01 15:52:38,439 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-10-01 15:52:38,663 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-10-01 15:52:38,786 INFO === Run finished ===
