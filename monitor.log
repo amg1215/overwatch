@@ -82809,3 +82809,9 @@
 2026-10-01 15:36:15,762 INFO === Run started ===
 2026-10-01 15:36:34,872 INFO No new products (1292 tracked)
 2026-10-01 15:36:34,877 INFO === Run finished ===
+2026-10-01 15:37:14,099 INFO === Run started ===
+2026-10-01 15:37:36,638 INFO NEW/RESTOCKED products detected: 1
+2026-10-01 15:37:36,638 INFO   NEW: IPPUDO Spicy Hakata | $13.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50749&limit=100
+2026-10-01 15:37:37,724 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-10-01 15:37:37,842 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-10-01 15:37:37,850 INFO === Run finished ===

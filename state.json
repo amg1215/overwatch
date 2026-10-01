@@ -7632,6 +7632,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=8812&limit=100",
       "stock": "n/a"
     },
+    "50749": {
+      "name": "IPPUDO Spicy Hakata",
+      "price": "$13.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50749&limit=100",
+      "stock": "n/a"
+    },
     "24194": {
       "name": "Yamamoto Udon Noodle",
       "price": "$1.79",
@@ -7754,6 +7760,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-10-01T15:36:34",
-  "last_count": 1292
+  "last_run": "2026-10-01T15:37:37",
+  "last_count": 1293
 }
