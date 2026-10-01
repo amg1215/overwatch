@@ -7032,6 +7032,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=16942&limit=100",
       "stock": "n/a"
     },
+    "50736": {
+      "name": "POM Freshly Squeezed",
+      "price": "$2.84",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50736&limit=100",
+      "stock": "n/a"
+    },
     "18796": {
       "name": "Kirin Milk Tea 185g",
       "price": "$1.35",
@@ -7844,6 +7850,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-10-01T16:13:37",
-  "last_count": 1307
+  "last_run": "2026-10-01T16:14:41",
+  "last_count": 1308
 }
