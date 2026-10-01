@@ -5214,6 +5214,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=243&limit=100",
       "stock": "n/a"
     },
+    "50743": {
+      "name": "Daily-made Confectio",
+      "price": "$2.19",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50743&limit=100",
+      "stock": "n/a"
+    },
     "24249": {
       "name": "Heart Devil Fruit 4D",
       "price": "$1.65",
@@ -7820,6 +7826,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-10-01T15:53:32",
-  "last_count": 1303
+  "last_run": "2026-10-01T15:54:38",
+  "last_count": 1304
 }

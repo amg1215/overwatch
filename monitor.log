@@ -82891,3 +82891,9 @@
 2026-10-01 15:53:11,272 INFO === Run started ===
 2026-10-01 15:53:32,905 INFO No new products (1303 tracked)
 2026-10-01 15:53:32,913 INFO === Run finished ===
+2026-10-01 15:54:15,331 INFO === Run started ===
+2026-10-01 15:54:37,432 INFO NEW/RESTOCKED products detected: 1
+2026-10-01 15:54:37,432 INFO   NEW: Daily-made Confectio | $2.19 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50743&limit=100
+2026-10-01 15:54:38,283 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-10-01 15:54:38,348 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-10-01 15:54:38,355 INFO === Run finished ===
