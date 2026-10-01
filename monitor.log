@@ -83000,3 +83000,9 @@
 2026-10-01 16:22:15,310 INFO === Run started ===
 2026-10-01 16:22:43,771 INFO No new products (1310 tracked)
 2026-10-01 16:22:43,778 INFO === Run finished ===
+2026-10-01 16:23:12,507 INFO === Run started ===
+2026-10-01 16:23:36,720 INFO NEW/RESTOCKED products detected: 1
+2026-10-01 16:23:36,721 INFO   NEW: KAGOME Wild Vegetabl | $1.86 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=50734&limit=100
+2026-10-01 16:23:38,008 INFO Email sent: Ebisu: 1 new/restocked item!
+2026-10-01 16:23:38,093 INFO ntfy push sent: Ebisu: 1 new/restocked item!
+2026-10-01 16:23:38,101 INFO === Run finished ===
