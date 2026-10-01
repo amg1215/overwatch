@@ -82556,3 +82556,13 @@
 2026-10-01 14:15:45,021 INFO Email sent: Ebisu: 5 new/restocked items!
 2026-10-01 14:15:45,141 INFO ntfy push sent: Ebisu: 5 new/restocked items!
 2026-10-01 14:15:45,148 INFO === Run finished ===
+2026-10-01 14:16:15,329 INFO === Run started ===
+2026-10-01 14:16:33,581 INFO NEW/RESTOCKED products detected: 5
+2026-10-01 14:16:33,581 INFO   NEW: VEDAN Earth power Gu | $0.82 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=26641&limit=100
+2026-10-01 14:16:33,581 INFO   NEW: Lychee Flavor Sparkl | $0.85 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=49916&limit=100
+2026-10-01 14:16:33,581 INFO   NEW: Red Sakura HK Apple | $1.42 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=20999&limit=100
+2026-10-01 14:16:33,581 INFO   NEW: Red Sakur HK Peach P | $1.42 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=49921&limit=100
+2026-10-01 14:16:33,581 INFO   NEW: Red Sakur KU Lychee | $1.42 | n/a | https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=49915&limit=100
+2026-10-01 14:16:35,201 INFO Email sent: Ebisu: 5 new/restocked items!
+2026-10-01 14:16:35,469 INFO ntfy push sent: Ebisu: 5 new/restocked items!
+2026-10-01 14:16:35,474 INFO === Run finished ===
