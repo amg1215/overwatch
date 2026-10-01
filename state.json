@@ -5544,6 +5544,12 @@
       "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=49913&limit=100",
       "stock": "n/a"
     },
+    "49912": {
+      "name": "SHJ Matcha Au Lait C",
+      "price": "$2.20",
+      "link": "https://www.ebisustore.com/index.php?route=product/product&path=148&product_id=49912&limit=100",
+      "stock": "n/a"
+    },
     "31674": {
       "name": "Lovers of Hokkaido C",
       "price": "$2.15",
@@ -7748,6 +7754,6 @@
     }
   },
   "error_alerted": false,
-  "last_run": "2026-10-01T15:33:35",
-  "last_count": 1291
+  "last_run": "2026-10-01T15:34:42",
+  "last_count": 1292
 }
